@@ -1,0 +1,2634 @@
+ha	a	ha	ONO				21.54	7.7
+ha	a	ha	NOM	m			2.94	0.54
+habanera	a-ba-nE-Ra		NOM	f	s		0.01	0
+habile	a-bil	ha-bi-le	ADJ		s		5.6	13.11
+habilement	a-bi-l°-m@	ha-bi-le-ment	ADV				0.58	5.2
+habiles	a-bil	ha-bi-les	ADJ		p	habile	0.84	4.05
+habileté	a-bi-l°-te	ha-bi-le-té	NOM	f	s		2.03	10.54
+habiletés	a-bi-l°-te	ha-bi-le-tés	NOM	f	p	habileté	0.02	0.34
+habilitation	a-bi-li-ta-sj§	ha-bi-li-ta-tion	NOM	f	s		0.19	0.07
+habilitations	a-bi-li-ta-sj§	ha-bi-li-ta-tions	NOM	f	p	habilitation	0.03	0
+habilite	a-bi-lit	ha-bi-li-te	VER			habiliter	0.04	0
+habilité	a-bi-li-te	ha-bi-li-té	VER	m	s	habiliter	0.45	0.54
+habilité	a-bi-li-te	ha-bi-li-té	NOM	f	s		0.51	0.14
+habilité	a-bi-li-te	ha-bi-li-té	ADJ	m	s		0.12	0.2
+habilitée	a-bi-li-te	ha-bi-li-tée	VER	f	s	habiliter	0.17	0.14
+habilitée	a-bi-li-te	ha-bi-li-tée	ADJ	f	s	habilité	0.15	0
+habilitées	a-bi-li-te	ha-bi-li-tées	VER	f	p	habiliter	0.01	0.14
+habilitées	a-bi-li-te	ha-bi-li-tées	ADJ	f	p	habilité	0.15	0
+habilités	a-bi-li-te	ha-bi-li-tés	VER	m	p	habiliter	0.11	0.2
+habilités	a-bi-li-te	ha-bi-li-tés	NOM	f	p	habilité	0.08	0
+habilités	a-bi-li-te	ha-bi-li-tés	ADJ	m	p	habilité	0.01	0
+habilla	a-bi-ja	ha-bil-la	VER			habiller	0.13	3.78
+habillage	a-bi-jaZ	ha-bil-la-ge	NOM	m	s		0.14	0.14
+habillai	a-bi-jE	ha-bil-lai	VER			habiller	0	0.95
+habillaient	a-bi-jE	ha-bil-laient	VER			habiller	0.14	0.88
+habillais	a-bi-jE	ha-bil-lais	VER			habiller	0.56	0.68
+habillait	a-bi-jE	ha-bil-lait	VER			habiller	0.86	6.08
+habillâmes	a-bi-jam	ha-bil-lâ-mes	VER			habiller	0	0.07
+habillant	a-bi-j@	ha-bil-lant	VER			habiller	0.1	0.95
+habillas	a-bi-ja	ha-bil-las	VER			habiller	0	0.07
+habillât	a-bi-ja	ha-bil-lât	VER			habiller	0	0.14
+habille	a-bij	ha-bil-le	VER			habiller	16.95	7.97
+habillé	a-bi-je	ha-bil-lé	VER	m	s	habiller	7.24	12.03
+habillé	a-bi-je	ha-bil-lé	ADJ	m	s		5.14	7.03
+habillée	a-bi-je	ha-bil-lée	VER	f	s	habiller	4.51	8.04
+habillée	a-bi-je	ha-bil-lée	ADJ	f	s	habillé	3.38	5.34
+habillées	a-bi-je	ha-bil-lées	ADJ	f	p	habillé	0.59	1.62
+habillées	a-bi-je	ha-bil-lées	VER	f	p	habiller	0.25	1.82
+habillement	a-bi-j°-m@	ha-bil-le-ment	NOM	m	s		0.55	2.5
+habillent	a-bij	ha-bil-lent	VER			habiller	0.77	1.35
+habiller	a-bi-je	ha-bil-ler	VER				17.1	15.27
+habillera	a-bi-j°-Ra	ha-bil-le-ra	VER			habiller	0.39	0.14
+habillerai	a-bi-j°-RE	ha-bil-le-rai	VER			habiller	0.29	0.14
+habilleraient	a-bi-j°-RE	ha-bil-le-raient	VER			habiller	0.01	0.07
+habillerais	a-bi-j°-RE	ha-bil-le-rais	VER			habiller	0.06	0.14
+habillerait	a-bi-j°-RE	ha-bil-le-rait	VER			habiller	0.14	0.34
+habilleras	a-bi-j°-Ra	ha-bil-le-ras	VER			habiller	0.03	0.2
+habillèrent	a-bi-jER	ha-bil-lè-rent	VER			habiller	0	0.27
+habillerez	a-bi-j°-Re	ha-bil-le-rez	VER			habiller	0.23	0
+habillerons	a-bi-j°-R§	ha-bil-le-rons	VER			habiller	0.12	0.07
+habilles	a-bil	ha-bil-les	VER			habiller	2.26	0.27
+habillés	a-bi-je	ha-bil-lés	VER	m	p	habiller	2.07	5.2
+habillés	a-bi-je	ha-bil-lés	ADJ	m	p	habillé	1.34	3.24
+habilleur	a-bi-j9R	ha-bil-leur	NOM	m	s		0.06	0.07
+habilleurs	a-bi-j9R	ha-bil-leurs	NOM	m	p	habilleur	0.02	0
+habilleuse	a-bi-j2z	ha-bil-leu-se	NOM	f	s	habilleur	0.62	0.2
+habilleuses	a-bi-j2z	ha-bil-leu-ses	NOM	f	p	habilleur	0.02	0.07
+habillez	a-bi-je	ha-bil-lez	VER			habiller	3.65	0.2
+habilliez	a-bi-je	ha-bil-liez	VER			habiller	0.04	0
+habillions	a-bij-j§	ha-bil-lions	VER			habiller	0.01	0.07
+habillons	a-bi-j§	ha-bil-lons	VER			habiller	0.34	0.2
+habit	a-bi	ha-bit	NOM	m	s		8.34	11.08
+habita	a-bi-ta	ha-bi-ta	VER			habiter	0.02	1.08
+habitabilité	a-bi-ta-bi-li-te	ha-bi-ta-bi-li-té	NOM	f	s		0	0.07
+habitable	a-bi-tabl	ha-bi-ta-ble	ADJ		s		0.34	1.69
+habitables	a-bi-tabl	ha-bi-ta-bles	ADJ		p	habitable	0.23	0.41
+habitacle	a-bi-takl	ha-bi-ta-cle	NOM	m	s		0.26	1.62
+habitacles	a-bi-takl	ha-bi-ta-cles	NOM	m	p	habitacle	0.01	0.07
+habitai	a-bi-tE	ha-bi-tai	VER			habiter	0	0.07
+habitaient	a-bi-tE	ha-bi-taient	VER			habiter	2.04	8.24
+habitais	a-bi-tE	ha-bi-tais	VER			habiter	3.27	4.39
+habitait	a-bi-tE	ha-bi-tait	VER			habiter	8.94	31.01
+habitant	a-bi-t@	ha-bi-tant	NOM	m	s		1.38	4.32
+habitant	a-bi-t@	ha-bi-tant	VER			habiter	0.49	1.82
+habitante	a-bi-t@t	ha-bi-tan-te	NOM	f	s	habitant	0.09	0.14
+habitants	a-bi-t@	ha-bi-tants	NOM	m	p	habitant	15.21	25
+habitassent	a-bi-tas	ha-bi-tas-sent	VER			habiter	0	0.07
+habitat	a-bi-ta	ha-bi-tat	NOM	m	s		1.31	0.88
+habitât	a-bi-ta	ha-bi-tât	VER			habiter	0	0.34
+habitation	a-bi-ta-sj§	ha-bi-ta-tion	NOM	f	s		0.82	3.58
+habitations	a-bi-ta-sj§	ha-bi-ta-tions	NOM	f	p	habitation	0.95	2.03
+habitats	a-bi-ta	ha-bi-tats	NOM	m	p	habitat	0.06	0.07
+habite	a-bit	ha-bi-te	VER			habiter	59.55	22.5
+habité	a-bi-te	ha-bi-té	VER	m	s	habiter	4.83	8.51
+habité	a-bi-te	ha-bi-té	ADJ	m	s		0.71	2.03
+habitée	a-bi-te	ha-bi-tée	VER	f	s	habiter	1.19	3.58
+habitée	a-bi-te	ha-bi-tée	ADJ	f	s	habité	0.23	0.95
+habitées	a-bi-te	ha-bi-tées	VER	f	p	habiter	0.05	0.54
+habitées	a-bi-te	ha-bi-tées	ADJ	f	p	habité	0.08	0.27
+habitent	a-bit	ha-bi-tent	VER			habiter	6.92	4.8
+habiter	a-bi-te	ha-bi-ter	VER				12.73	13.51
+habitera	a-bi-t°-Ra	ha-bi-te-ra	VER			habiter	0.98	0.34
+habiterai	a-bi-t°-RE	ha-bi-te-rai	VER			habiter	0.8	0.14
+habiteraient	a-bi-t°-RE	ha-bi-te-raient	VER			habiter	0.01	0.14
+habiterais	a-bi-t°-RE	ha-bi-te-rais	VER			habiter	0.42	0.14
+habiterait	a-bi-t°-RE	ha-bi-te-rait	VER			habiter	0.64	0.34
+habiteras	a-bi-t°-Ra	ha-bi-te-ras	VER			habiter	0.43	0.41
+habitèrent	a-bi-tER	ha-bi-tè-rent	VER			habiter	0	0.47
+habiterez	a-bi-t°-Re	ha-bi-te-rez	VER			habiter	0.41	0.07
+habiterions	a-bi-t°-Rj§	ha-bi-te-rions	VER			habiter	0.01	0.27
+habiterons	a-bi-t°-R§	ha-bi-te-rons	VER			habiter	0.24	0.14
+habiteront	a-bi-t°-R§	ha-bi-te-ront	VER			habiter	0.01	0.14
+habites	a-bit	ha-bi-tes	VER			habiter	11.71	1.96
+habités	a-bi-te	ha-bi-tés	VER	m	p	habiter	0.18	1.82
+habités	a-bi-te	ha-bi-tés	ADJ	m	p	habité	0.38	0.61
+habitez	a-bi-te	ha-bi-tez	VER			habiter	8.83	1.82
+habitiez	a-bi-tje	ha-bi-tiez	VER			habiter	1.5	0.14
+habitions	a-bi-tj§	ha-bi-tions	VER			habiter	0.39	2.16
+habitons	a-bi-t§	ha-bi-tons	VER			habiter	1.72	1.55
+habits	a-bi	ha-bits	NOM	m	p	habit	19.29	16.42
+habitua	a-bi-t8a	ha-bi-tua	VER			habituer	0.02	0.74
+habituai	a-bi-t8E	ha-bi-tuai	VER			habituer	0.1	0.07
+habituaient	a-bi-t8E	ha-bi-tuaient	VER			habituer	0	0.88
+habituais	a-bi-t8E	ha-bi-tuais	VER			habituer	0.03	0.74
+habituait	a-bi-t8E	ha-bi-tuait	VER			habituer	0.17	1.76
+habituant	a-bi-t8@	ha-bi-tuant	VER			habituer	0.01	0.74
+habituât	a-bi-t8a	ha-bi-tuât	VER			habituer	0	0.14
+habitude	a-bi-tyd	ha-bi-tu-de	NOM	f	s		89.71	128.51
+habitudes	a-bi-tyd	ha-bi-tu-des	NOM	f	p	habitude	8.52	25.95
+habitue	a-bi-ty	ha-bi-tue	VER			habituer	5.36	4.53
+habitué	a-bi-t8e	ha-bi-tué	VER	m	s	habituer	6.32	10.47
+habitué	a-bi-t8e	ha-bi-tué	NOM	m	s		1.05	4.39
+habitué	a-bi-t8e	ha-bi-tué	ADJ	m	s		1.12	2.7
+habituée	a-bi-t8e	ha-bi-tuée	VER	f	s	habituer	3.75	7.7
+habituée	a-bi-t8e	ha-bi-tuée	ADJ	f	s	habitué	0.82	0.95
+habituée	a-bi-t8e	ha-bi-tuée	NOM	f	s	habitué	0.28	0.68
+habituées	a-bi-t8e	ha-bi-tuées	VER	f	p	habituer	0.63	0.47
+habituées	a-bi-t8e	ha-bi-tuées	ADJ	f	p	habitué	0.01	0.61
+habituées	a-bi-t8e	ha-bi-tuées	NOM	f	p	habitué	0	0.41
+habituel	a-bi-t8El	ha-bi-tuel	ADJ	m	s		5.35	14.86
+habituelle	a-bi-t8El	ha-bi-tuel-le	ADJ	f	s	habituel	4.95	13.65
+habituellement	a-bi-t8E-l°-m@	ha-bi-tuel-le-ment	ADV				4.02	7.7
+habituelles	a-bi-t8El	ha-bi-tuel-les	ADJ	f	p	habituel	2	5.41
+habituels	a-bi-t8El	ha-bi-tuels	ADJ	m	p	habituel	3.36	6.01
+habituent	a-bi-ty	ha-bi-tuent	VER			habituer	0.47	0.61
+habituer	a-bi-t8e	ha-bi-tuer	VER				8.95	9.26
+habituera	a-bi-ty-Ra	ha-bi-tue-ra	VER			habituer	0.21	0.2
+habituerai	a-bi-ty-RE	ha-bi-tue-rai	VER			habituer	0.46	0.27
+habitueraient	a-bi-ty-RE	ha-bi-tue-raient	VER			habituer	0	0.14
+habituerais	a-bi-ty-RE	ha-bi-tue-rais	VER			habituer	0.08	0.14
+habituerait	a-bi-ty-RE	ha-bi-tue-rait	VER			habituer	0.04	0.47
+habitueras	a-bi-ty-Ra	ha-bi-tue-ras	VER			habituer	1.45	0.14
+habituèrent	a-bi-t8ER	ha-bi-tuè-rent	VER			habituer	0.11	0.34
+habituerez	a-bi-ty-Re	ha-bi-tue-rez	VER			habituer	0.33	0.14
+habituerons	a-bi-ty-R§	ha-bi-tue-rons	VER			habituer	0	0.07
+habitueront	a-bi-ty-R§	ha-bi-tue-ront	VER			habituer	0.07	0.07
+habitues	a-bi-ty	ha-bi-tues	VER			habituer	0.71	0.34
+habitués	a-bi-t8e	ha-bi-tués	VER	m	p	habituer	2.24	5.74
+habitués	a-bi-t8e	ha-bi-tués	NOM	m	p	habitué	1.12	5.2
+habitués	a-bi-t8e	ha-bi-tués	ADJ	m	p	habitué	0.47	0.81
+habituez	a-bi-ty-e	ha-bi-tuez	VER			habituer	0.37	0.27
+habituons	a-bi-t8§	ha-bi-tuons	VER			habituer	0.02	0
+habitus	a-bi-tys	ha-bi-tus	NOM	m			0	0.14
+hâblerie	a-bl°-Ri	hâ-ble-rie	NOM	f	s		0	0.07
+hâbleries	a-bl°-Ri	hâ-ble-ries	NOM	f	p	hâblerie	0	0.27
+hâbleur	a-bl9R	hâ-bleur	NOM	m	s		0.06	0.34
+hâbleur	a-bl9R	hâ-bleur	ADJ	m	s		0	0.2
+hâbleurs	a-bl9R	hâ-bleurs	NOM	m	p	hâbleur	0.14	0.2
+hâbleurs	a-bl9R	hâ-bleurs	ADJ	m	p	hâbleur	0	0.07
+hacha	a-Sa	ha-cha	VER			hacher	0.1	0.07
+hachage	a-SaZ	ha-cha-ge	NOM	m	s		0.01	0
+hachaient	a-SE	ha-chaient	VER			hacher	0	0.14
+hachait	a-SE	ha-chait	VER			hacher	0.02	0.74
+hachant	a-S@	ha-chant	VER			hacher	0.02	0.47
+hachard	a-SaR	ha-chard	NOM	m	s		0	0.07
+hache	aS	ha-che	NOM	f	s		8.73	11.76
+hache	aS	ha-che	VER			hacher	0.29	0.14
+haché	a-Se	ha-ché	ADJ	m	s		0.73	1.01
+haché	a-Se	ha-ché	VER	m	s	hacher	0.12	1.01
+hache-paille	aS-paj	hache-paille	NOM	m	p		0	0.14
+hachée	a-Se	ha-chée	ADJ	f	s	haché	0.66	2.7
+hachée	a-Se	ha-chée	VER	f	s	hacher	0.31	0.74
+hachées	a-Se	ha-chées	ADJ	f	p	haché	0	0.54
+hachées	a-Se	ha-chées	VER	f	p	hacher	0.01	0.41
+hachent	aS	ha-chent	VER			hacher	0.03	0.34
+hacher	a-Se	ha-cher	VER				0.35	0.74
+hacherai	a-S°-RE	ha-che-rai	VER			hacher	0.03	0
+hacherait	a-S°-RE	ha-che-rait	VER			hacher	0.02	0
+hachèrent	a-SER	ha-chè-rent	VER			hacher	0	0.07
+haches	aS	ha-ches	NOM	f	p	hache	1.5	1.89
+haches	aS	ha-ches	VER			hacher	0.14	0
+hachés	a-Se	ha-chés	VER	m	p	hacher	0.07	1.01
+hachés	a-Se	ha-chés	ADJ	m	p	haché	0.11	0.81
+hachette	a-SEt	ha-chet-te	NOM	f	s		0.2	0.74
+hachettes	a-SEt	ha-chet-tes	NOM	f	p	hachette	0.02	0
+hacheur	a-S9R	ha-cheur	NOM	m	s		0.01	0.14
+hacheurs	a-S9R	ha-cheurs	NOM	m	p	hacheur	0.1	0.14
+hachez	a-Se	ha-chez	VER			hacher	0.67	0.14
+hachis	a-Si	ha-chis	NOM	m	p		1.07	1.22
+hachisch	a-SiS	ha-chi-sch	NOM	m	s		0.01	0.07
+hachoir	a-SwaR	ha-choir	NOM	m	s		0.68	0.61
+hachoirs	a-SwaR	ha-choirs	NOM	m	p	hachoir	0.02	0.2
+hachuraient	a-Sy-RE	ha-chu-raient	VER			hachurer	0	0.14
+hachurait	a-Sy-RE	ha-chu-rait	VER			hachurer	0	0.07
+hachurant	a-Sy-R@	ha-chu-rant	VER			hachurer	0	0.07
+hachure	a-SyR	ha-chu-re	NOM	f	s		0	0.2
+hachure	a-SyR	ha-chu-re	VER			hachurer	0	0.07
+hachuré	a-Sy-Re	ha-chu-ré	VER	m	s	hachurer	0.03	0.34
+hachurée	a-Sy-Re	ha-chu-rée	VER	f	s	hachurer	0	0.14
+hachurées	a-Sy-Re	ha-chu-rées	VER	f	p	hachurer	0	0.14
+hachures	a-SyR	ha-chu-res	NOM	f	p	hachure	0	1.35
+hachurés	a-Sy-Re	ha-chu-rés	VER	m	p	hachurer	0	0.14
+hacienda	a-sjEn-da	ha-cien-da	NOM	f	s		0.9	0.2
+haciendas	a-sjEn-da	ha-cien-das	NOM	f	p	hacienda	0.03	0
+hack	ak	ha-ck	NOM	m	s		0.23	0
+hacker	a-k9R	ha-cker	NOM	m	s		0.66	0
+hackers	a-k9R	ha-ckers	NOM	m	p	hacker	0.33	0
+haddock	a-dOk	had-do-ck	NOM	m	s		0.23	0.54
+hadith	a-dit		NOM	m	s		0.01	0
+hadj	adZ		NOM	m	s		1.88	0
+hadji	ad-Zi	had-ji	NOM	m	p		0.47	0.27
+hagard	a-gaR	ha-gard	ADJ	m	s		0.24	6.96
+hagarde	a-gaRd	ha-gar-de	ADJ	f	s	hagard	0.03	3.51
+hagardes	a-gaRd	ha-gar-des	ADJ	f	p	hagard	0	0.41
+hagards	a-gaR	ha-gard-s	ADJ	m	p	hagard	0.19	2.3
+haggadah	a-ga-da	hag-ga-dah	NOM	f	s		0.02	0
+haggis	a-gis	hag-gis	NOM	m	p		0.27	0
+hagiographe	a-Zjo-gRaf	ha-gio-gra-phe	NOM	m	s		0	0.47
+hagiographie	a-Zjo-gRa-fi	ha-gio-gra-phie	NOM	f	s		0.01	0.2
+haha	a-a	ha-ha	ONO				0.59	1.22
+hai	E		ONO				1.28	0.07
+haï	a-i	haï	VER	m	s	haïr	0.86	2.03
+haï	a-i	haï	ADJ	m	s		0.23	0.34
+haie	E	haie	NOM	f	s		2.6	14.8
+haïe	a-i	haïe	VER	f	s	haïr	0.4	0.54
+haïe	a-i	haïe	ADJ	f	s	haï	0.12	0.34
+haies	E	haies	NOM	f	p	haie	0.76	11.28
+haïes	a-i	haïes	VER	f	p	haïr	0	0.2
+haïk	a-ik	haïk	NOM	m	s		0	0.41
+haïkaï	a-i-ka-i	haï-kaï	NOM	m	s		0	0.07
+haïks	a-ik	haïks	NOM	m	p	haïk	0	0.2
+haïku	a-i-ky	haï-ku	NOM	m	s		0.29	0.07
+haïkus	a-i-ky	haï-kus	NOM	m	p	haïku	0.01	0
+haillon	a-j§	hail-lon	NOM	m	s		0.01	0.47
+haillonneuse	a-jo-n2z	hail-lon-neu-se	ADJ	f	s	haillonneux	0	0.14
+haillonneux	a-jo-n2	hail-lon-neux	ADJ	m	p		0	0.07
+haillons	a-j§	hail-lons	NOM	m	p	haillon	1.77	3.31
+haine	En	hai-ne	NOM	f	s		31.49	49.39
+haines	En	hai-nes	NOM	f	p	haine	1.62	3.11
+haineuse	E-n2z	hai-neu-se	ADJ	f	s	haineux	0.07	1.76
+haineusement	E-n2-z°-m@	hai-neu-se-ment	ADV				0.01	0.68
+haineuses	E-n2z	hai-neu-ses	ADJ	f	p	haineux	0.07	0.34
+haineux	E-n2	hai-neux	ADJ	m			0.82	4.32
+haïr	a-iR	haïr	VER				5.91	7.09
+haïra	a-i-Ra	haï-ra	VER			haïr	0.52	0
+haïrai	a-i-RE	haï-rai	VER			haïr	0.39	0.07
+haïraient	a-i-RE	haï-raient	VER			haïr	0.04	0.07
+haïrais	a-i-RE	haï-rais	VER			haïr	0.05	0.74
+haïrait	a-i-RE	haï-rait	VER			haïr	0.1	0.14
+haïras	a-i-Ra	haï-ras	VER			haïr	0.32	0
+haire	ER	hai-re	NOM	f	s		0	0.14
+haires	ER	hai-res	NOM	f	p	haire	0	0.07
+haïrez	a-i-Re	haï-rez	VER			haïr	0.03	0
+haïriez	a-i-Rje	haï-riez	VER			haïr	0.01	0
+haïrons	a-i-R§	haï-rons	VER			haïr	0	0.07
+haïront	a-i-R§	haï-ront	VER			haïr	0.39	0
+hais	E	hais	VER			haïr	31.21	8.85
+haïs	a-i	haïs	VER	m	p	haïr	0.34	1.01
+haïs	a-i	haïs	ADJ	m	p	haï	0.13	0.14
+haïssable	a-i-sabl	haïs-sa-ble	ADJ		s		0.07	1.15
+haïssables	a-i-sabl	haïs-sa-bles	ADJ		p	haïssable	0.01	0.47
+haïssaient	a-i-sE	haïs-saient	VER			haïr	0.17	0.74
+haïssais	a-i-sE	haïs-sais	VER			haïr	1.2	2.09
+haïssait	a-i-sE	haïs-sait	VER			haïr	1.1	6.08
+haïssant	a-i-s@	haïs-sant	VER			haïr	0.05	0.27
+haïsse	a-is	haïs-se	VER			haïr	0.25	0.14
+haïssent	a-is	haïs-sent	VER			haïr	2.44	1.08
+haïsses	a-is	haïs-ses	VER			haïr	0.21	0
+haïssez	a-i-se	haïs-sez	VER			haïr	1.19	0.27
+haïssiez	a-i-sje	haïs-siez	VER			haïr	0.4	0.27
+haïssions	a-i-sj§	haïs-sions	VER			haïr	0	0.14
+haïssons	a-i-s§	haïs-sons	VER			haïr	0.29	0.2
+hait	E	hait	VER			haïr	7.53	3.58
+haït	a-i	haït	VER			haïr	0.03	0
+haïtien	a-i-sj5	haï-tien	ADJ	m	s		0.35	0.07
+haïtien	a-i-sj5	haï-tien	NOM	m	s		0.05	0.14
+haïtienne	a-i-sjEn	haï-tien-ne	NOM	f	s	haïtien	0	0.74
+haïtienne	a-i-sjEn	haï-tien-ne	ADJ	f	s	haïtien	0.32	0
+haïtiens	a-i-sj5	haï-tiens	NOM	m	p	haïtien	0.53	0.14
+haïtiens	a-i-sj5	haï-tiens	ADJ	m	p	haïtien	0.02	0.27
+haka	a-ka		NOM	m	s		0.01	0
+hakka	a-ka	hak-ka	NOM	m	s		0.01	0
+hala	a-la	ha-la	VER			haler	0	0.07
+halage	a-laZ	ha-la-ge	NOM	m	s		0.16	1.49
+halages	a-laZ	ha-la-ges	NOM	m	p	halage	0	0.07
+halaient	a-lE	ha-laient	VER			haler	0	0.34
+halait	a-lE	ha-lait	VER			haler	0	0.2
+hâlait	a-lE	hâ-lait	VER			hâler	0	0.07
+halal	a-lal	ha-lal	ADJ	f	s		0.24	0
+halant	a-l@	ha-lant	VER			haler	0	0.34
+hâlant	a-l@	hâ-lant	VER			hâler	0	0.07
+halcyon	al-sj§	hal-cyon	NOM	m	s		0.02	0
+hale	al	ha-le	NOM	m	s		0	0.07
+halé	a-le	ha-lé	VER	m	s	haler	0	0.2
+hâle	al	hâ-le	NOM	m	s		0.15	2.84
+hâlé	a-le	hâ-lé	ADJ	m	s		0.03	1.15
+hâlé	a-le	hâ-lé	VER	m	s	hâler	0.01	0.54
+halée	a-le	ha-lée	VER	f	s	haler	0	0.14
+hâlée	a-le	hâ-lée	ADJ	f	s	hâlé	0.02	0.68
+hâlée	a-le	hâ-lée	VER	f	s	hâler	0	0.14
+hâlées	a-le	hâ-lées	ADJ	f	p	hâlé	0	0.2
+hâlées	a-le	hâ-lées	VER	f	p	hâler	0	0.07
+haleine	a-lEn	ha-lei-ne	NOM	f	s		7.55	21.82
+haleines	a-lEn	ha-lei-nes	NOM	f	p	haleine	0.45	1.22
+halent	al	ha-lent	VER			haler	0.1	0.2
+haler	a-le	ha-ler	VER				0.02	0.54
+halèrent	a-lER	ha-lè-rent	VER			haler	0.02	0.07
+halés	a-le	ha-lés	VER	m	p	haler	0	0.14
+hâles	al	hâ-les	NOM	m	p	hâle	0	0.2
+hâlés	a-le	hâ-lés	ADJ	m	p	hâlé	0	0.54
+hâlés	a-le	hâ-lés	VER	m	p	hâler	0	0.2
+haleta	a-l°-ta	ha-le-ta	VER			haleter	0.02	0.95
+haletaient	a-l°-tE	ha-le-taient	VER			haleter	0	0.27
+haletais	a-l°-tE	ha-le-tais	VER			haleter	0.03	0.14
+haletait	a-l°-tE	ha-le-tait	VER			haleter	0	3.58
+haletant	a-l°-t@	ha-le-tant	VER			haleter	0.06	4.26
+haletant	a-l°-t@	ha-le-tant	ADJ	m	s		0.06	2.97
+haletante	a-l°-t@t	ha-le-tan-te	ADJ	f	s	haletant	0.4	4.66
+haletantes	a-l°-t@t	ha-le-tan-tes	ADJ	f	p	haletant	0	0.41
+haletants	a-l°-t@	ha-le-tants	ADJ	m	p	haletant	0.01	1.76
+haleté	a-l°-te	ha-le-té	VER	m	s	haleter	0.02	0.2
+halète	a-lEt	ha-lè-te	VER			haleter	0.34	0.88
+halètement	a-lE-t°-m@	ha-lè-te-ment	NOM	m	s		0	2.57
+halètements	a-lE-t°-m@	ha-lè-te-ments	NOM	m	p	halètement	0.45	1.15
+halètent	a-lEt	ha-lè-tent	VER			haleter	0.1	0.2
+haleter	a-l°-te	ha-le-ter	VER				0.2	1.28
+halètes	a-lEt	ha-lè-tes	VER			haleter	0.01	0
+haleur	a-l9R	ha-leur	NOM	m	s		0.01	0.07
+haleurs	a-l9R	ha-leurs	NOM	m	p	haleur	0.1	0.27
+halez	a-le	ha-lez	VER			haler	0.02	0.07
+half-track	al-ftRak	half-track	NOM	m	s		0.04	0.14
+half-tracks	al-ftRak	half-tracks	NOM	m	p	half-track	0.01	0
+halieutiques	a-lj2-tik	ha-lieu-ti-ques	ADJ	f	p	halieutique	0	0.07
+hall	ol	hall	NOM	m	s		9.73	25.81
+hallali	a-la-li	hal-la-li	NOM	m	s		0.14	1.35
+halle	al	hal-le	NOM	f	s		0.26	1.01
+hallebarde	a-l°-baRd	hal-le-bar-de	NOM	f	s		0.05	0.27
+hallebardes	a-l°-baRd	hal-le-bar-des	NOM	f	p	hallebarde	0.01	1.01
+hallebardier	a-l°-baR-dje	hal-le-bar-dier	NOM	m	s		0.02	0.2
+hallebardiers	a-l°-baR-dje	hal-le-bar-diers	NOM	m	p	hallebardier	0.01	0.47
+halles	al	hal-les	NOM	f	p	halle	0.57	8.31
+hallier	a-lje	hal-lier	NOM	m	s		0.01	0.81
+halliers	a-lje	hal-liers	NOM	m	p	hallier	0.01	0.95
+halloween	a-lo-win	hal-lo-ween	NOM	f	s		0.04	0
+halls	ol	halls	NOM	m	p	hall	0.17	0.95
+hallucinais	a-ly-si-nE	hal-lu-ci-nais	VER			halluciner	0.08	0.07
+hallucinant	a-ly-si-n@	hal-lu-ci-nant	ADJ	m	s		1.4	0.81
+hallucinant	a-ly-si-n@	hal-lu-ci-nant	VER			halluciner	0.07	0.14
+hallucinante	a-ly-si-n@t	hal-lu-ci-nan-te	ADJ	f	s	hallucinant	0.1	1.62
+hallucinantes	a-ly-si-n@t	hal-lu-ci-nan-tes	ADJ	f	p	hallucinant	0.02	0.14
+hallucinants	a-ly-si-n@	hal-lu-ci-nants	ADJ	m	p	hallucinant	0.04	0.34
+hallucination	a-ly-si-na-sj§	hal-lu-ci-na-tion	NOM	f	s		3.46	3.51
+hallucinations	a-ly-si-na-sj§	hal-lu-ci-na-tions	NOM	f	p	hallucination	4.43	2.09
+hallucinatoire	a-ly-si-na-twaR	hal-lu-ci-na-toi-re	ADJ		s		0.23	0.14
+hallucinatoires	a-ly-si-na-twaR	hal-lu-ci-na-toi-res	ADJ		p	hallucinatoire	0.16	0.07
+hallucine	a-ly-sin	hal-lu-ci-ne	VER			halluciner	1.87	0.2
+halluciné	a-ly-si-ne	hal-lu-ci-né	ADJ	m	s		0.12	0.68
+halluciné	a-ly-si-ne	hal-lu-ci-né	VER	m	s	halluciner	0.41	0.34
+halluciné	a-ly-si-ne	hal-lu-ci-né	NOM	m	s		0.01	0.47
+hallucinée	a-ly-si-ne	hal-lu-ci-née	ADJ	f	s	halluciné	0.11	0.47
+hallucinée	a-ly-si-ne	hal-lu-ci-née	NOM	f	s	halluciné	0.01	0.2
+hallucinées	a-ly-si-ne	hal-lu-ci-nées	ADJ	f	p	halluciné	0.01	0.07
+halluciner	a-ly-si-ne	hal-lu-ci-ner	VER				0.95	0.14
+hallucinés	a-ly-si-ne	hal-lu-ci-nés	NOM	m	p	halluciné	0.01	0.27
+hallucinés	a-ly-si-ne	hal-lu-ci-nés	ADJ	m	p	halluciné	0	0.14
+hallucinés	a-ly-si-ne	hal-lu-ci-nés	VER	m	p	halluciner	0	0.07
+hallucinez	a-ly-si-ne	hal-lu-ci-nez	VER			halluciner	0.05	0
+hallucinogène	a-ly-si-no-ZEn	hal-lu-ci-no-gè-ne	ADJ		s		0.18	0
+hallucinogène	a-ly-si-no-ZEn	hal-lu-ci-no-gè-ne	NOM	m	s		0.11	0
+hallucinogènes	a-ly-si-no-ZEn	hal-lu-ci-no-gè-nes	ADJ		p	hallucinogène	0.44	0.14
+hallucinogènes	a-ly-si-no-ZEn	hal-lu-ci-no-gè-nes	NOM	m	p	hallucinogène	0.21	0
+hallucinons	a-ly-si-n§	hal-lu-ci-nons	VER			halluciner	0.01	0
+halo	a-lo	ha-lo	NOM	m	s		1.3	7.5
+halogène	a-lo-ZEn	ha-lo-gè-ne	NOM	m	s		0.04	0
+halogène	a-lo-ZEn	ha-lo-gè-ne	ADJ	m	s		0.01	0
+halogènes	a-lo-ZEn	ha-lo-gè-nes	NOM	m	p	halogène	0.08	0
+halogènes	a-lo-ZEn	ha-lo-gè-nes	ADJ	m	p	halogène	0.01	0
+halogénure	a-lO-Ze-nyR		NOM	m	s		0.01	0
+halon	a-l§	ha-lon	NOM	m	s		0.08	0
+halons	a-l§	ha-lons	NOM	m	p	halon	0	0.07
+halopéridol	a-lo-pe-Ri-dOl	ha-lo-pé-ri-dol	NOM	m	s		0.12	0
+halos	a-lo	ha-los	NOM	m	p	halo	0.05	0.88
+halothane	a-lo-tan	ha-lo-tha-ne	NOM	m	s		0.5	0
+halte	alt	hal-te	ONO				14.27	3.85
+halte	alt	hal-te	NOM	f	s		3.73	10.88
+halte	alt	hal-te	VER			halter	0.04	0.2
+halte-garderie	al-tgaR-d2-Ri		NOM	f	s		0.02	0
+halter	al-te		VER				0.03	0
+haltère	al-tER	hal-tè-re	NOM	m	s		0.06	0.07
+haltères	al-tER	hal-tè-res	NOM	m	p	haltère	0.89	1.28
+haltérophile	al-te-Ro-fil	hal-té-ro-phi-le	NOM		s		0.06	0.2
+haltérophiles	al-te-Ro-fil	hal-té-ro-phi-les	NOM		p	haltérophile	0.04	0.07
+haltérophilie	al-te-Ro-fi-li	hal-té-ro-phi-lie	NOM	f	s		0.18	0.14
+haltes	alt	hal-tes	NOM	f	p	halte	0.03	1.89
+halva	al-va	hal-va	NOM	m	s		0.01	0.07
+hamac	a-mak	ha-mac	NOM	m	s		1.63	3.11
+hamacs	a-mak	ha-macs	NOM	m	p	hamac	0.22	0.68
+hamada	a-ma-da	ha-ma-da	NOM	f	s		0.17	0.07
+hamadryade	a-ma-dRi-jad		NOM	f	s		0.01	0
+hamadryas	a-ma-dRi-jas		NOM	m			0.01	0
+hamamélis	a-ma-me-lis	ha-ma-mé-lis	NOM	m			0.01	0
+hambourgeois	@-buR-Zwa	ham-bour-geois	ADJ	m	s		0.02	0.2
+hambourgeois	@-buR-Zwa	ham-bour-geois	NOM	m	p		0	0.14
+hambourgeoises	@-buR-Zwaz	ham-bour-geoi-ses	NOM	f	p	hambourgeois	0	0.07
+hamburger	@-buR-g9R	ham-bur-ger	NOM	m	s		4.1	0.41
+hamburgers	@-buR-g9R	ham-bur-gers	NOM	m	p	hamburger	3.38	0.27
+hameau	a-mo	ha-meau	NOM	m	s		0.79	7.91
+hameaux	a-mo	ha-meaux	NOM	m	p	hameau	0.03	2.7
+hameçon	a-m°-s§	ha-me-çon	NOM	m	s		2.61	2.5
+hameçonne	a-m°-sOn	ha-me-çon-ne	VER			hameçonner	0	0.07
+hameçons	a-m°-s§	ha-me-çons	NOM	m	p	hameçon	0.47	0.74
+hammam	a-mam	ham-mam	NOM	m	s		0.58	1.49
+hammams	a-mam	ham-mam-s	NOM	m	p	hammam	0.14	0.07
+hammerless	a-mER-lEs	ham-mer-less	NOM	m	p		0.27	0.07
+hampe	@p	ham-pe	NOM	f	s		0.52	1.82
+hampes	@p	ham-pes	NOM	f	p	hampe	0	1.28
+hamster	am-stER	ham-ster	NOM	m	s		2.18	0.68
+hamsters	am-stER	ham-sters	NOM	m	p	hamster	0.33	0.54
+han	@	han	ADJ	m	s		1.96	1.49
+han	@	han	NOM	m			1.06	1.42
+hanap	a-nap	ha-nap	NOM	m	s		0.01	0.2
+hanaps	a-nap	ha-naps	NOM	m	p	hanap	0	0.14
+hanche	@S	han-che	NOM	f	s		3.42	9.59
+hanchée	@-Se	han-chée	VER	f	s	hancher	0	0.07
+hanches	@S	han-ches	NOM	f	p	hanche	5.48	22.77
+hand-ball	@d-bOl	hand-ball	NOM	m	s		0.08	0
+handball	@d-bal	hand-ball	NOM	m	s		0.52	0
+handicap	@-di-kap	han-di-cap	NOM	m	s		3.4	2.3
+handicapait	@-di-ka-pE	han-di-ca-pait	VER			handicaper	0.02	0
+handicapant	@-di-ka-p@		ADJ	m	s		0.15	0
+handicape	@-di-kap	han-di-ca-pe	VER			handicaper	0.2	0.07
+handicapé	@-di-ka-pe	han-di-ca-pé	NOM	m	s		1.08	0.47
+handicapé	@-di-ka-pe	han-di-ca-pé	VER	m	s	handicaper	1.12	0.41
+handicapé	@-di-ka-pe	han-di-ca-pé	ADJ	m	s		0.44	0.2
+handicapée	@-di-ka-pe	han-di-ca-pée	VER	f	s	handicaper	0.66	0.14
+handicapée	@-di-ka-pe	han-di-ca-pée	NOM	f	s	handicapé	0.35	0.27
+handicapées	@-di-ka-pe	han-di-ca-pées	VER	f	p	handicaper	0.03	0
+handicapées	@-di-ka-pe	han-di-ca-pées	NOM	f	p	handicapé	0.01	0
+handicaper	@-di-ka-pe	han-di-ca-per	VER				0.05	0.07
+handicapera	@-di-ka-p°-Ra	han-di-ca-pe-ra	VER			handicaper	0.02	0
+handicapés	@-di-ka-pe	han-di-ca-pés	NOM	m	p	handicapé	3.46	0.41
+handicapés	@-di-ka-pe	han-di-ca-pés	ADJ	m	p	handicapé	0.28	0.34
+handicapés	@-di-ka-pe	han-di-ca-pés	VER	m	p	handicaper	0.21	0.07
+handicapeur	@-di-ka-p9R		NOM	m	s		0.06	0
+handicaps	@-di-kap	han-di-caps	NOM	m	p	handicap	0.3	0.41
+hangar	@-gaR	han-gar	NOM	m	s		5.44	12.97
+hangars	@-gaR	han-gars	NOM	m	p	hangar	0.2	5.88
+hanneton	a-n°-t§	han-ne-ton	NOM	m	s		0.05	2.7
+hannetons	a-n°-t§	han-ne-tons	NOM	m	p	hanneton	0.45	2.64
+hanoukka	a-nu-ka	ha-nouk-ka	NOM	f	s		0.31	0
+hanovrien	a-nO-vRi-5	ha-no-vrien	ADJ	m	s		0	0.07
+hanovriens	a-nO-vRi-5	ha-no-vriens	NOM	m	p	hanovrien	0.14	0
+hanséatique	@-se-a-tik	han-séa-ti-que	ADJ	f	s		0.1	0
+hanta	@-ta	han-ta	VER			hanter	0.06	0.27
+hantaient	@-tE	han-taient	VER			hanter	0.02	0.74
+hantais	@-tE	han-tais	VER			hanter	0.18	0
+hantait	@-tE	han-tait	VER			hanter	0.42	2.36
+hantant	@-t@	han-tant	VER			hanter	0.01	0.14
+hantavirus	@-ta-vi-Rys		NOM	m			0.03	0
+hante	@t	han-te	VER			hanter	2.7	2.91
+hanté	@-te	han-té	VER	m	s	hanter	1.91	3.04
+hanté	@-te	han-té	ADJ	m	s		0.67	0.41
+hantée	@-te	han-tée	VER	f	s	hanter	1.15	0.81
+hantée	@-te	han-tée	ADJ	f	s	hanté	1.1	0.61
+hantées	@-te	han-tées	VER	f	p	hanter	0.08	0.47
+hantées	@-te	han-tées	ADJ	f	p	hanté	0.17	0.27
+hantent	@t	han-tent	VER			hanter	1.28	0.95
+hanter	@-te	han-ter	VER				1.92	2.23
+hantera	@-t°-Ra	han-te-ra	VER			hanter	0.19	0.07
+hanterai	@-t°-RE	han-te-rai	VER			hanter	0.04	0
+hanterait	@-t°-RE	han-te-rait	VER			hanter	0.08	0.07
+hanteront	@-t°-R§	han-te-ront	VER			hanter	0.15	0
+hantes	@t	han-tes	VER			hanter	0.39	0
+hantés	@-te	han-tés	VER	m	p	hanter	0.47	1.08
+hantés	@-te	han-tés	ADJ	m	p	hanté	0.05	0.27
+hanteur	@-t9R	han-teur	ADJ	m	s		0	0.07
+hantez	@-te	han-tez	VER			hanter	0.33	0.07
+hantise	@-tiz	han-ti-se	NOM	f	s		0.07	4.46
+hantises	@-tiz	han-ti-ses	NOM	f	p	hantise	0.12	0.61
+happa	a-pa	hap-pa	VER			happer	0	0.34
+happai	a-pE	hap-pai	VER			happer	0	0.07
+happaient	a-pE	hap-paient	VER			happer	0	0.27
+happait	a-pE	hap-pait	VER			happer	0	0.54
+happant	a-p@	hap-pant	VER			happer	0	0.34
+happe	ap	hap-pe	VER			happer	0.16	1.01
+happe	ap	hap-pe	NOM	f	s		0	0.14
+happé	a-pe	hap-pé	VER	m	s	happer	0.11	2.23
+happée	a-pe	hap-pée	VER	f	s	happer	0.32	1.15
+happées	a-pe	hap-pées	VER	f	p	happer	0.01	0.41
+happement	a-p°-m@	hap-pe-ment	NOM	m	s		0	0.2
+happening	a-p°-niG	hap-pe-ning	NOM	m	s		0.39	0.41
+happenings	a-p°-niG	hap-pe-ning-s	NOM	m	p	happening	0.02	0.14
+happent	ap	hap-pent	VER			happer	0.11	0.34
+happer	a-pe	hap-per	VER				0.24	0.88
+happerait	a-p°-RE	hap-pe-rait	VER			happer	0	0.07
+happés	a-pe	hap-pés	VER	m	p	happer	0.04	0.61
+happeurs	a-p9R	hap-peurs	NOM	m	p	happeur	0	0.07
+happy end	a-pi-End	hap-py end	NOM	m	s		0.45	0.27
+happy ends	a-pi-End	hap-py end-s	NOM	m	p	happy end	0.05	0
+happy few	a-pi-fju	hap-py few	NOM	m	p		0	0.14
+haptoglobine	ap-to-glO-bin		NOM	f	s		0.01	0
+haque	ak		NOM	f	s		0.41	1.62
+haquenée	a-k°-ne	ha-que-née	NOM	f	s		0	0.07
+haquet	a-kE	ha-quet	NOM	m	s		0	0.14
+haquets	a-kE	ha-quets	NOM	m	p	haquet	0	0.07
+hara-kiri	a-Ra-ki-Ri	hara-kiri	NOM	m	s		0.29	0.41
+harangua	a-R@-ga	ha-ran-gua	VER			haranguer	0	0.27
+haranguaient	a-R@-gE	ha-ran-guaient	VER			haranguer	0	0.14
+haranguait	a-R@-gE	ha-ran-guait	VER			haranguer	0	0.34
+haranguant	a-R@-g@	ha-ran-guant	VER			haranguer	0	0.41
+harangue	a-R@g	ha-ran-gue	NOM	f	s		0.01	0.81
+harangue	a-R@g	ha-ran-gue	VER			haranguer	0	0.07
+harangué	a-R@-ge	ha-ran-gué	VER	m	s	haranguer	0	0.2
+haranguée	a-R@-ge	ha-ran-guée	VER	f	s	haranguer	0.01	0.07
+haranguer	a-R@-ge	ha-ran-guer	VER				0.06	0.2
+haranguerais	a-R@-g°-RE	ha-ran-gue-rais	VER			haranguer	0	0.07
+harangues	a-R@g	ha-ran-gues	NOM	f	p	harangue	0	0.41
+harangués	a-R@-ge	ha-ran-gués	VER	m	p	haranguer	0	0.14
+haranguez	a-R@-ge	ha-ran-guez	VER			haranguer	0.01	0
+harari	a-Ra-Ri	ha-ra-ri	NOM	m	p		0.02	0
+haras	a-Ra	ha-ras	NOM	m	p		0.19	1.01
+harassaient	a-Ra-sE	ha-ras-saient	VER			harasser	0.01	0.14
+harassant	a-Ra-s@	ha-ras-sant	ADJ	m	s		0.03	0.2
+harassant	a-Ra-s@	ha-ras-sant	VER			harasser	0	0.07
+harassante	a-Ra-s@t	ha-ras-san-te	ADJ	f	s	harassant	0.15	0.47
+harassantes	a-Ra-s@t	ha-ras-san-tes	ADJ	f	p	harassant	0	0.47
+harassants	a-Ra-s@	ha-ras-sants	ADJ	m	p	harassant	0	0.27
+harasse	a-Ras	ha-ras-se	VER			harasser	0	0.07
+harassé	a-Ra-se	ha-ras-sé	ADJ	m	s		0.01	1.15
+harassé	a-Ra-se	ha-ras-sé	VER	m	s	harasser	0.01	0.27
+harassée	a-Ra-se	ha-ras-sée	ADJ	f	s	harassé	0.01	0.41
+harassée	a-Ra-se	ha-ras-sée	VER	f	s	harasser	0.01	0.14
+harassées	a-Ra-se	ha-ras-sées	ADJ	f	p	harassé	0	0.14
+harassées	a-Ra-se	ha-ras-sées	VER	f	p	harasser	0	0.07
+harassement	a-Ra-s°-m@	ha-ras-se-ment	NOM	m	s		0.27	0.2
+harassent	a-Ras	ha-ras-sent	VER			harasser	0.11	0.07
+harasser	a-Ra-se	ha-ras-ser	VER				0	0.07
+harassés	a-Ra-se	ha-ras-sés	ADJ	m	p	harassé	0.1	0.81
+harassés	a-Ra-se	ha-ras-sés	VER	m	p	harasser	0.02	0.41
+harcela	aR-s°-la	har-ce-la	VER			harceler	0	0.14
+harcelai	aR-s°-lE	har-ce-lai	VER			harceler	0	0.07
+harcelaient	aR-s°-lE	har-ce-laient	VER			harceler	0.3	0.74
+harcelais	aR-s°-lE	har-ce-lais	VER			harceler	0.11	0.2
+harcelait	aR-s°-lE	har-ce-lait	VER			harceler	0.62	0.88
+harcelant	aR-s°-l@	har-ce-lant	VER			harceler	0.13	0.61
+harcelant	aR-s°-l@	har-ce-lant	ADJ	m	s		0.02	0.14
+harcelante	aR-s°-l@t	har-ce-lan-te	ADJ	f	s	harcelant	0	0.27
+harcelantes	aR-s°-l@t	har-ce-lan-tes	ADJ	f	p	harcelant	0.01	0.14
+harcelants	aR-s°-l@	har-ce-lants	ADJ	m	p	harcelant	0	0.07
+harcelé	aR-s°-le	har-ce-lé	VER	m	s	harceler	1.16	1.62
+harcèle	aR-sEl	har-cè-le	VER			harceler	2.88	0.68
+harcelée	aR-s°-le	har-ce-lée	VER	f	s	harceler	0.67	0.34
+harcelées	aR-s°-le	har-ce-lées	VER	f	p	harceler	0.04	0.07
+harcèlement	aR-sE-l°-m@	har-cè-le-ment	NOM	m	s		3.65	1.35
+harcèlements	aR-sE-l°-m@	har-cè-le-ments	NOM	m	p	harcèlement	0.05	0.14
+harcèlent	aR-sEl	har-cè-lent	VER			harceler	0.41	0.27
+harceler	aR-s°-le	har-ce-ler	VER				3	1.82
+harcèlera	aR-sE-l°-Ra	har-cè-le-ra	VER			harceler	0.17	0
+harcèlerai	aR-sE-l°-RE	har-cè-le-rai	VER			harceler	0.11	0
+harcèleraient	aR-sE-l°-RE	har-cè-le-raient	VER			harceler	0	0.14
+harcelèrent	aR-s°-lER	har-ce-lè-rent	VER			harceler	0	0.07
+harcèlerez	aR-sE-l°-Re	har-cè-le-rez	VER			harceler	0.01	0
+harcèlerons	aR-sE-l°-R§	har-cè-le-rons	VER			harceler	0.14	0
+harcèleront	aR-sE-l°-R§	har-cè-le-ront	VER			harceler	0.02	0
+harcelés	aR-s°-le	har-ce-lés	VER	m	p	harceler	0.37	0.61
+harceleur	aR-s°-l9R	har-ce-leur	ADJ	m	s		0.03	0.14
+harceleur	aR-s°-l9R	har-ce-leur	NOM	m	s		0.16	0
+harceleuse	aR-s°-l2z	har-ce-leu-se	NOM	f	s	harceleur	0.01	0.07
+harcelez	aR-s°-le	har-ce-lez	VER			harceler	0.92	0
+harceliez	aR-s°-lje	har-ce-liez	VER			harceler	0.06	0
+hard	aRd	hard	ADJ				2.72	1.08
+hard	aRd	hard	NOM	m	s		0.48	0.47
+hard edge	aR-dEdZ	hard ed-ge	NOM	m	s		0.01	0
+hard-top	aR-dtOp		NOM	m	s		0.01	0
+harde	aRd	har-de	NOM	f	s		0	3.85
+hardent	aRd	har-dent	VER			harder	0.01	0
+harder	aR-de	har-der	VER				0.17	0.07
+hardes	aRd	har-des	NOM	f	p	harde	0.15	5.14
+hardi	aR-di	har-di	ADJ	m	s		1.3	6.49
+hardi	aR-di	har-di	ONO				0.01	0.61
+hardie	aR-di	har-die	ADJ	f	s	hardi	0.63	1.35
+hardies	aR-di	har-dies	ADJ	f	p	hardi	0.11	0.88
+hardiesse	aR-djEs	har-dies-se	NOM	f	s		0.46	2.03
+hardiesses	aR-di-jEs	har-dies-ses	NOM	f	p	hardiesse	0	0.61
+hardiment	aR-di-m@	har-di-ment	ADV				1.2	1.62
+hardis	aR-di	har-dis	ADJ	m	p	hardi	0.19	1.96
+hare	aR		ONO				0.49	0.07
+harem	a-REm	ha-rem	NOM	m	s		1.6	15.74
+harems	a-REm	ha-rem-s	NOM	m	p	harem	0.17	0.2
+hareng	a-R@	ha-reng	NOM	m	s		1.9	2.91
+harengère	a-R@-ZER	ha-ren-gè-re	NOM	f	s		0.1	0.14
+harengs	a-R@	ha-reng-s	NOM	m	p	hareng	0.89	3.18
+harenguet	a-R@-gE		NOM	m	s		0.01	0
+harenguier	a-R@-gje	ha-ren-guier	NOM	m	s		0.1	0
+haret	a-RE	ha-ret	ADJ	m	s		0	0.07
+harfang	aR-f@	har-fang	NOM	m	s		0	0.07
+hargne	aRN	har-gne	NOM	f	s		0.42	4.26
+hargnes	aRN	har-gnes	NOM	f	p	hargne	0	0.27
+hargneuse	aR-N2z	har-gneu-se	ADJ	f	s	hargneux	0.14	3.11
+hargneusement	aR-N2-z°-m@	har-gneu-se-ment	ADV				0	1.42
+hargneuses	aR-N2z	har-gneu-ses	ADJ	f	p	hargneux	0.01	0.81
+hargneux	aR-N2	har-gneux	ADJ	m			0.98	5.54
+haricot	a-Ri-ko	ha-ri-cot	NOM	m	s		1.4	1.22
+haricots	a-Ri-ko	ha-ri-cots	NOM	m	p	haricot	7.45	12.23
+haridelle	a-Ri-dEl	ha-ri-del-le	NOM	f	s		0.01	0.41
+haridelles	a-Ri-dEl	ha-ri-del-les	NOM	f	p	haridelle	0	0.2
+harissa	a-Ri-sa	ha-ris-sa	NOM	f	s		0	0.2
+harki	aR-ki	har-ki	NOM	m	s		0	0.14
+harkis	aR-ki	har-kis	NOM	m	p	harki	0	0.27
+harmattan	aR-ma-t@	har-mat-tan	NOM	m	s		0.02	0.07
+harmonica	aR-mo-ni-ka	har-mo-ni-ca	NOM	m	s		1.38	1.69
+harmonicas	aR-mo-ni-ka	har-mo-ni-cas	NOM	m	p	harmonica	0.03	0.07
+harmoniciste	aR-mo-ni-sist	har-mo-ni-cis-te	NOM		s		0.02	0
+harmonie	aR-mo-ni	har-mo-nie	NOM	f	s		6.36	15.61
+harmonies	aR-mo-ni	har-mo-nies	NOM	f	p	harmonie	0.44	0.61
+harmonieuse	aR-mo-nj2z	har-mo-nieu-se	ADJ	f	s	harmonieux	0.27	2.43
+harmonieusement	aR-mo-nj2-z°-m@	har-mo-nieu-se-ment	ADV				0.06	1.28
+harmonieuses	aR-mo-nj2z	har-mo-nieu-ses	ADJ	f	p	harmonieux	0.05	0.61
+harmonieux	aR-mo-nj2	har-mo-nieux	ADJ	m			0.84	4.05
+harmonique	aR-mo-nik	har-mo-ni-que	ADJ		s		0.36	0.47
+harmonique	aR-mo-nik	har-mo-ni-que	NOM	m	s		0.03	0
+harmoniquement	aR-mO-ni-k°-m@		ADV				0.01	0
+harmoniques	aR-mo-nik	har-mo-ni-ques	NOM	m	p	harmonique	0.18	0.41
+harmoniques	aR-mo-nik	har-mo-ni-ques	ADJ		p	harmonique	0.07	0.14
+harmonisaient	aR-mo-ni-zE	har-mo-ni-saient	VER			harmoniser	0	0.07
+harmonisait	aR-mo-ni-zE	har-mo-ni-sait	VER			harmoniser	0.05	0.54
+harmonisant	aR-mo-ni-z@	har-mo-ni-sant	VER			harmoniser	0.01	0.14
+harmonisateurs	aR-mo-ni-za-t9R	har-mo-ni-sa-teurs	ADJ	m	p	harmonisateur	0	0.07
+harmonisateurs	aR-mo-ni-za-t9R	har-mo-ni-sa-teurs	NOM	m	p	harmonisateur	0	0.07
+harmonisation	aR-mo-ni-za-sj§	har-mo-ni-sa-tion	NOM	f	s		0.05	0.07
+harmonisatrices	aR-mo-ni-za-tRis	har-mo-ni-sa-tri-ces	ADJ	f	p	harmonisateur	0	0.14
+harmonise	aR-mo-niz	har-mo-ni-se	VER			harmoniser	0.04	0.2
+harmonisé	aR-mo-ni-ze	har-mo-ni-sé	VER	m	s	harmoniser	0.01	0
+harmonisent	aR-mo-niz	har-mo-ni-sent	VER			harmoniser	0.01	0.07
+harmoniser	aR-mo-ni-ze	har-mo-ni-ser	VER				0.22	0.27
+harmonisera	aR-mo-ni-z°-Ra	har-mo-ni-se-ra	VER			harmoniser	0.01	0
+harmonisèrent	aR-mo-ni-zER	har-mo-ni-sè-rent	VER			harmoniser	0	0.07
+harmonisés	aR-mo-ni-ze	har-mo-ni-sés	VER	m	p	harmoniser	0	0.07
+harmonisez	aR-mo-ni-ze	har-mo-ni-sez	VER			harmoniser	0.01	0
+harmonium	aR-mo-njOm	har-mo-nium	NOM	m	s		0.05	3.45
+harmoniums	aR-mo-njOm	har-mo-nium-s	NOM	m	p	harmonium	0	0.07
+harnacha	aR-na-Sa	har-na-cha	VER			harnacher	0	0.07
+harnachaient	aR-na-SE	har-na-chaient	VER			harnacher	0	0.07
+harnachais	aR-na-SE	har-na-chais	VER			harnacher	0	0.07
+harnachait	aR-na-SE	har-na-chait	VER			harnacher	0	0.27
+harnaché	aR-na-Se	har-na-ché	VER	m	s	harnacher	0.14	0.47
+harnaché	aR-na-Se	har-na-ché	ADJ	m	s		0	0.27
+harnachée	aR-na-Se	har-na-chée	VER	f	s	harnacher	0	0.07
+harnachée	aR-na-Se	har-na-chée	ADJ	f	s	harnaché	0	0.07
+harnachées	aR-na-Se	har-na-chées	VER	f	p	harnacher	0	0.14
+harnachées	aR-na-Se	har-na-chées	ADJ	f	p	harnaché	0	0.14
+harnachement	aR-na-S°-m@	har-na-che-ment	NOM	m	s		0.06	1.28
+harnachements	aR-na-S°-m@	har-na-che-ments	NOM	m	p	harnachement	0	0.27
+harnacher	aR-na-Se	har-na-cher	VER				0.04	0.07
+harnachèrent	aR-na-SER	har-na-chè-rent	VER			harnacher	0	0.07
+harnachés	aR-na-Se	har-na-chés	ADJ	m	p	harnaché	0.02	0.41
+harnachés	aR-na-Se	har-na-chés	VER	m	p	harnacher	0.01	0.27
+harnachiez	aR-na-Sje	har-na-chiez	VER			harnacher	0	0.07
+harnais	aR-nE	har-nais	NOM	m			1.29	3.92
+harnois	aR-nwa	har-nois	NOM	m	p		0.01	0.2
+haro	a-Ro	ha-ro	NOM	m	s		0.03	1.35
+harpagon	aR-pa-g§		NOM	m	s		0.01	0
+harpe	aRp	har-pe	NOM	f	s		0.94	4.86
+harper	aR-pe	har-per	VER				7.25	0
+harpes	aRp	har-pes	NOM	f	p	harpe	0.2	0.47
+harpie	aR-pi	har-pie	NOM	f	s		0.64	1.22
+harpies	aR-pi	har-pies	NOM	f	p	harpie	0.09	0.2
+harpin	aR-p5	har-pin	NOM	m	s		0	0.07
+harpions	aR-pj§	har-pions	VER			harper	0	0.14
+harpiste	aR-pist	har-pis-te	NOM		s		0.08	0.27
+harpon	aR-p§	har-pon	NOM	m	s		0.75	1.76
+harponna	aR-po-na	har-pon-na	VER			harponner	0	0.07
+harponnage	aR-po-naZ	har-pon-na-ge	NOM	m	s		0.17	0.07
+harponne	aR-pOn	har-pon-ne	VER			harponner	0.02	0.2
+harponné	aR-po-ne	har-pon-né	VER	m	s	harponner	0.04	0.2
+harponnée	aR-po-ne	har-pon-née	VER	f	s	harponner	0.02	0.2
+harponnent	aR-pOn	har-pon-nent	VER			harponner	0	0.07
+harponner	aR-po-ne	har-pon-ner	VER				0.23	0.47
+harponnera	aR-pO-n°-Ra	har-pon-ne-ra	VER			harponner	0.01	0
+harponnés	aR-po-ne	har-pon-nés	VER	m	p	harponner	0.01	0
+harponneur	aR-po-n9R	har-pon-neur	NOM	m	s		0.03	0.14
+harponneurs	aR-po-n9R	har-pon-neurs	NOM	m	p	harponneur	0.01	0.07
+harpons	aR-p§	har-pons	NOM	m	p	harpon	0.43	0.27
+harpyes	aR-pi	har-pyes	NOM	f	p	harpye	0	0.07
+hart	aR	hart	NOM	f	s		0.07	0.27
+harts	aR	harts	NOM	f	p	hart	0	0.14
+haruspices	a-Rys-pis	ha-rus-pi-ces	NOM	m	p	haruspice	0.01	0.14
+has been	a-bi-j5n	has been	NOM	m			0.18	0.2
+hasard	a-zaR	ha-sard	NOM	m	s		46.98	118.99
+hasarda	a-zaR-da	ha-sar-da	VER			hasarder	0.01	1.35
+hasardai	a-zaR-dE	ha-sar-dai	VER			hasarder	0	0.54
+hasardaient	a-zaR-dE	ha-sar-daient	VER			hasarder	0	0.2
+hasardais	a-zaR-dE	ha-sar-dais	VER			hasarder	0	0.14
+hasardait	a-zaR-dE	ha-sar-dait	VER			hasarder	0	0.68
+hasardant	a-zaR-d@	ha-sar-dant	VER			hasarder	0	0.41
+hasarde	a-zaRd	ha-sar-de	VER			hasarder	0.29	1.62
+hasardé	a-zaR-de	ha-sar-dé	VER	m	s	hasarder	0	0.27
+hasardée	a-zaR-de	ha-sar-dée	VER	f	s	hasarder	0.01	0.2
+hasardée	a-zaR-de	ha-sar-dée	ADJ	f	s	hasardé	0.1	0.07
+hasardent	a-zaRd	ha-sar-dent	VER			hasarder	0.01	0.2
+hasarder	a-zaR-de	ha-sar-der	VER				0.74	0.68
+hasardera	a-zaR-d°-Ra	ha-sar-de-ra	VER			hasarder	0	0.07
+hasarderais	a-zaR-d°-RE	ha-sar-de-rais	VER			hasarder	0.03	0
+hasardeuse	a-zaR-d2z	ha-sar-deu-se	ADJ	f	s	hasardeux	0.35	1.08
+hasardeusement	a-zaR-d2-z°-m@	ha-sar-deu-se-ment	ADV				0	0.07
+hasardeuses	a-zaR-d2z	ha-sar-deu-ses	ADJ	f	p	hasardeux	0.03	0.47
+hasardeux	a-zaR-d2	ha-sar-deux	ADJ	m			0.28	1.22
+hasards	a-zaR	ha-sard-s	NOM	m	p	hasard	1.09	5.2
+hasch	aS	ha-sch	NOM	m	s		2.16	0.47
+haschich	a-SiS	ha-schi-ch	NOM	m	s		0.39	0.47
+haschisch	a-SiS	ha-schi-sch	NOM	m	s		0.11	0.41
+hase	az	ha-se	NOM	f	s		0.02	0.14
+haseki	as-ki	ha-se-ki	NOM	f	s		0	0.07
+hasekis	as-ki	ha-se-kis	NOM	f	p	haseki	0	0.14
+hases	az	ha-ses	NOM	f	p	hase	0	0.14
+hassidim	a-si-dim	has-si-dim	NOM	m	p		0.22	0
+hassidique	a-si-dik	has-si-di-que	ADJ		s		0.09	0
+hassidisme	a-si-dizm	has-si-dis-me	NOM	m	s		0	0.07
+hâta	a-ta	hâ-ta	VER			hâter	0.1	4.05
+hâtai	a-tE	hâ-tai	VER			hâter	0.01	1.28
+hâtaient	a-tE	hâ-taient	VER			hâter	0.02	1.69
+hâtais	a-tE	hâ-tais	VER			hâter	0.01	0.47
+hâtait	a-tE	hâ-tait	VER			hâter	0.14	2.09
+hâtâmes	a-tam	hâ-tâ-mes	VER			hâter	0	0.14
+hâtant	a-t@	hâ-tant	VER			hâter	0.01	2.64
+hâtât	a-ta	hâ-tât	VER			hâter	0	0.07
+hâte	at	hâ-te	NOM	f	s		18.83	44.8
+hâte	at	hâ-te	VER			hâter	2.1	2.84
+hâté	a-te	hâ-té	VER	m	s	hâter	0.26	1.01
+hâtée	a-te	hâ-tée	VER	f	s	hâter	0.01	0.2
+hâtent	at	hâ-tent	VER			hâter	0.32	0.34
+hâter	a-te	hâ-ter	VER				1.32	5.54
+hâtera	a-t°-Ra	hâ-te-ra	VER			hâter	0.01	0.2
+hâteraient	a-t°-RE	hâ-te-raient	VER			hâter	0	0.07
+hâterait	a-t°-RE	hâ-te-rait	VER			hâter	0	0.27
+hâtèrent	a-tER	hâ-tè-rent	VER			hâter	0	0.61
+hâtes	at	hâ-tes	NOM	f	p	hâte	0	0.41
+hâtes	at	hâ-tes	VER			hâter	0.01	0
+hâtés	a-te	hâ-tés	VER	m	p	hâter	0	0.14
+hâtez	a-te	hâ-tez	VER			hâter	0.93	0.14
+hâtif	a-tif	hâ-tif	ADJ	m	s		0.65	1.76
+hâtifs	a-tif	hâ-tif-s	ADJ	m	p	hâtif	0.02	1.15
+hâtions	a-tj§	hâ-tions	VER			hâter	0	0.14
+hâtive	a-tiv	hâ-ti-ve	ADJ	f	s	hâtif	0.61	1.76
+hâtivement	a-ti-v°-m@	hâ-ti-ve-ment	ADV				0.12	5.54
+hâtives	a-tiv	hâ-ti-ves	ADJ	f	p	hâtif	1.15	0.95
+hâtons	a-t§	hâ-tons	VER			hâter	0.37	0.14
+hauban	o-b@	hau-ban	NOM	m	s		0.02	0.2
+haubanée	o-ba-ne	hau-ba-née	VER	f	s	haubaner	0	0.07
+haubanés	o-ba-ne	hau-ba-nés	VER	m	p	haubaner	0	0.2
+haubans	o-b@	hau-bans	NOM	m	p	hauban	0.35	0.81
+haubert	o-bER	hau-bert	NOM	m	s		0.01	0.54
+haussa	o-sa	haus-sa	VER			hausser	0	34.46
+haussai	o-sE	haus-sai	VER			hausser	0.27	2.09
+haussaient	o-sE	haus-saient	VER			hausser	0.1	1.01
+haussais	o-sE	haus-sais	VER			hausser	0	0.41
+haussait	o-sE	haus-sait	VER			hausser	0.01	4.86
+haussant	o-s@	haus-sant	VER			hausser	0.03	8.38
+haussât	o-sa	haus-sât	VER			hausser	0	0.14
+hausse	os	haus-se	VER			hausser	0.26	8.72
+hausse	os	haus-se	NOM	f	s		3.31	2.09
+haussé	o-se	haus-sé	VER	m	s	hausser	0.1	5
+haussée	o-se	haus-sée	VER	f	s	hausser	0.01	0.27
+haussées	o-se	haus-sées	VER	f	p	hausser	0	0.07
+haussement	o-s°-m@	haus-se-ment	NOM	m	s		0.06	5.07
+haussements	o-s°-m@	haus-se-ments	NOM	m	p	haussement	0	0.61
+haussent	os	haus-sent	VER			hausser	0.1	0.61
+hausser	o-se	haus-ser	VER				0.43	4.86
+hausserait	o-s°-RE	haus-se-rait	VER			hausser	0.01	0.14
+haussèrent	o-sER	haus-sè-rent	VER			hausser	0	0.27
+hausses	os	haus-ses	VER			hausser	0.23	0.2
+hausses	os	haus-ses	NOM	f	p	hausse	0.06	0.27
+haussés	o-se	haus-sés	VER	m	p	hausser	0	0.27
+haussez	o-se	haus-sez	VER			hausser	0.2	0.07
+haussier	o-sje	haus-sier	ADJ	m	s		0.01	0
+haussière	o-sjER	haus-siè-re	NOM	f	s		0.03	0.07
+haussière	o-sjER	haus-siè-re	ADJ	f	s	haussier	0.01	0
+haussières	o-sjER	haus-siè-res	NOM	f	p	haussière	0	0.07
+haussons	o-s§	haus-sons	VER			hausser	0	0.14
+haut	o	haut	NOM	m	s		75.22	121.01
+haut	o	haut	ADV				41.32	90.27
+haut	o	haut	ADJ	m	s		23.41	41.96
+haut-commandement	o-kO-m@n-d°-m@		NOM	m	s		0	1.22
+haut-commissaire	o-ko-mi-sER	haut-commissaire	NOM	m	s		0.03	7.57
+haut-commissariat	o-ko-mi-sa-Rja	haut-commissariat	NOM	m	s		0.02	0.81
+haut-de-chausse	o-d°-Sos	haut-de-chausse	NOM	f	s		0.14	0.07
+haut-de-chausses	o-d°-Sos	haut-de-chausses	NOM	m			0	0.2
+haut-de-forme	o-d°-fORm	haut-de-forme	NOM	m	s		0.3	1.42
+haut-fond	o-f§	haut-fond	NOM	m	s		0.02	0.61
+haut-le-coeur	o-l°-k9R	haut-le-coeur	NOM	m			0.04	1.01
+haut-le-corps	o-l°-kOR	haut-le-corps	NOM	m			0	1.76
+haut-parleur	o-paR-l9R	haut-parleur	NOM	m	s		2.61	3.99
+haut-parleurs	o-paR-l9R	haut-parleurs	NOM	m	p	haut-parleur	1.04	3.38
+haut-relief	o-R°-ljEf	haut-relief	NOM	m	s		0	0.2
+hautain	o-t5	hau-tain	ADJ	m	s		0.51	4.12
+hautain	o-t5	hau-tain	NOM	m	s		0.12	0.2
+hautaine	o-tEn	hau-tai-ne	ADJ	f	s	hautain	0.27	5.07
+hautainement	o-tE-n°-m@	hau-tai-ne-ment	ADV				0	0.07
+hautaines	o-tEn	hau-tai-nes	ADJ	f	p	hautain	0.03	0.81
+hautains	o-t5	hau-tains	ADJ	m	p	hautain	0.03	0.88
+hautains	o-t5	hau-tains	NOM	m	p	hautain	0	0.14
+hautbois	o-bwa	haut-bois	NOM	m			0.38	1.62
+haute	ot	hau-te	ADJ	f	s	haut	32.44	88.11
+haute	ot	hau-te	NOM	f	s		1.85	2.84
+haute-fidélité	ot-fi-de-li-te	haute-fidélité	NOM	f	s		0.03	0.07
+hautement	o-t°-m@	hau-te-ment	ADV				4.83	4.73
+hautes	ot	hau-tes	ADJ	f	p	haut	6.72	37.43
+hautesse	o-tEs	hau-tes-se	NOM	f	s		0	1.42
+hauteur	o-t9R	hau-teur	NOM	f	s		18.19	66.15
+hauteurs	o-t9R	hau-teurs	NOM	f	p	hauteur	1.8	11.55
+hautin	o-t5		NOM	m	s		0.1	0
+hautins	o-t5	hau-tins	NOM	m	p	hautin	0.01	0
+hauts	o	hauts	ADJ	m	p	haut	5.48	29.26
+hauts	o	hauts	NOM	m	p	haut	2.63	4.05
+hauts-commissaires	o-ko-mi-sER	hauts-commissaires	NOM	m	p	haut-commissaire	0	0.41
+hauts-de-chausses	o-d°-Sos	hauts-de-chausses	NOM	m	p	haut-de-chausse	0.01	0
+hauts-de-forme	o-d°-fORm	hauts-de-forme	NOM	m	p	haut-de-forme	0.14	0.2
+hauts-fonds	o-f§	hauts-fonds	NOM	m	p	haut-fond	0.06	0.47
+hauts-fourneaux	o-fuR-no	hauts-fourneaux	NOM	m	p	haut-fourneau	0.01	0.27
+hauturière	o-ty-RjER	hau-tu-riè-re	ADJ	f	s	hauturier	0	0.14
+havanais	a-va-nE	ha-va-nais	NOM	m			0	0.07
+havanaise	a-va-nEz		NOM	f	s		0.01	0
+havane	a-van	ha-va-ne	ADJ		s		0.01	0.68
+havane	a-van	ha-va-ne	NOM	m	s		0.17	0.47
+havanes	a-van	ha-va-nes	NOM	m	p	havane	0.33	0.47
+have	av	ha-ve	VER			haver	10.67	0.68
+hâve	av	hâ-ve	ADJ		s		0.01	0.61
+haveneau	a-v°-no	ha-ve-neau	NOM	m	s		0	0.07
+haveneaux	a-v°-no	ha-ve-neaux	NOM	m	p	haveneau	0	0.07
+haver	a-ve	ha-ver	VER				0.07	0
+haves	av	ha-ves	VER			haver	0	0.07
+hâves	av	hâ-ves	ADJ		p	hâve	0	0.68
+havrais	a-vRE	ha-vrais	ADJ	m	s		0	0.07
+havre	avR	ha-vre	NOM	m	s		0.85	3.04
+havres	avR	ha-vres	NOM	m	p	havre	0.04	0.07
+havresac	a-vR°-sak	ha-vre-sac	NOM	m	s		0.12	1.49
+havresacs	a-vR°-sak	ha-vre-sacs	NOM	m	p	havresac	0	0.68
+hawaïen	a-wa-j5	ha-waïen	ADJ	m	s		0	0.07
+hawaïenne	a-wa-jEn	ha-waïen-ne	ADJ	f	s	hawaïen	0	0.14
+hawaiienne	a-wa-jEn	ha-waiien-ne	ADJ	f	s	hawaiien	0	0.07
+hawaiiennes	a-wa-jEn	ha-waiien-nes	ADJ	f	p	hawaiien	0	0.07
+hayon	E-j§	hayon	NOM	m	s		0.06	0.07
+hayons	E-j§	hayons	NOM	m	p	hayon	0	0.07
+hé	e	hé	ONO				288.29	30
+heaume	om	heau-me	NOM	m	s		0.51	0.88
+heaumes	om	heau-mes	NOM	m	p	heaume	0.04	0.14
+hebdo	Eb-do	heb-do	NOM	m	s		0.18	1.08
+hebdomadaire	Eb-do-ma-dER	heb-do-ma-dai-re	ADJ		s		1.3	3.51
+hebdomadaire	Eb-do-ma-dER	heb-do-ma-dai-re	NOM	m	s		0.16	3.24
+hebdomadairement	Eb-do-ma-dE-R°-m@	heb-do-ma-dai-re-ment	ADV				0	0.2
+hebdomadaires	Eb-do-ma-dER	heb-do-ma-dai-res	NOM	m	p	hebdomadaire	0.02	1.22
+hebdomadaires	Eb-do-ma-dER	heb-do-ma-dai-res	ADJ		p	hebdomadaire	0.34	0.68
+hebdos	Eb-do	heb-dos	NOM	m	p	hebdo	0.03	0.41
+hébéphrénique	e-be-fRe-nik		ADJ	f	s		0.02	0
+héberge	e-bERZ	hé-ber-ge	VER			héberger	0.87	0.27
+héberge	e-bERZ	hé-ber-ge	NOM	f	s		0.01	0
+hébergé	e-bER-Ze	hé-ber-gé	VER	m	s	héberger	0.78	1.15
+hébergea	e-bER-Za	hé-ber-gea	VER			héberger	0	0.2
+hébergeai	e-bER-ZE	hé-ber-geai	VER			héberger	0	0.07
+hébergeaient	e-bER-ZE	hé-ber-geaient	VER			héberger	0.11	0.27
+hébergeais	e-bER-ZE	hé-ber-geais	VER			héberger	0.01	0.14
+hébergeait	e-bER-ZE	hé-ber-geait	VER			héberger	0.02	0.41
+hébergeant	e-bER-Z@	hé-ber-geant	VER			héberger	0.12	0.2
+hébergée	e-bER-Ze	hé-ber-gée	VER	f	s	héberger	0.24	0.27
+hébergées	e-bER-Ze	hé-ber-gées	VER	f	p	héberger	0.01	0.07
+hébergement	e-bER-Z°-m@	hé-ber-ge-ment	NOM	m	s		0.68	0.68
+hébergent	e-bERZ	hé-ber-gent	VER			héberger	0.04	0.07
+hébergeons	e-bER-Z§	hé-ber-geons	VER			héberger	0.12	0
+héberger	e-bER-Ze	hé-ber-ger	VER				2.8	2.7
+hébergera	e-bER-Z°-Ra	hé-ber-ge-ra	VER			héberger	0.19	0.07
+hébergerait	e-bER-Z°-RE	hé-ber-ge-rait	VER			héberger	0	0.14
+hébergeras	e-bER-Z°-Ra	hé-ber-ge-ras	VER			héberger	0	0.07
+hébergés	e-bER-Ze	hé-ber-gés	VER	m	p	héberger	0.24	0.34
+hébergez	e-bER-Ze	hé-ber-gez	VER			héberger	0.19	0
+hébergiez	e-bER-Zje	hé-ber-giez	VER			héberger	0.02	0
+hébergions	e-bER-Zj§	hé-ber-gions	VER			héberger	0	0.07
+hébertisme	e-bER-tizm	hé-ber-tis-me	NOM	m	s		0	0.27
+hébéta	e-be-ta	hé-bé-ta	VER			hébéter	0	0.07
+hébétait	e-be-tE	hé-bé-tait	VER			hébéter	0	0.07
+hébété	e-be-te	hé-bé-té	ADJ	m	s		0.29	2.84
+hébété	e-be-te	hé-bé-té	NOM	m	s		0.12	1.01
+hébété	e-be-te	hé-bé-té	VER	m	s	hébéter	0.28	0.54
+hébétée	e-be-te	hé-bé-tée	ADJ	f	s	hébété	0.23	0.95
+hébétée	e-be-te	hé-bé-tée	VER	f	s	hébéter	0.04	0.81
+hébétée	e-be-te	hé-bé-tée	NOM	f	s	hébété	0.01	0.68
+hébétées	e-be-te	hé-bé-tées	ADJ	f	p	hébété	0	0.2
+hébétées	e-be-te	hé-bé-tées	VER	f	p	hébéter	0	0.14
+hébétement	e-bE-t°-m@	hé-bé-te-ment	NOM	m	s		0	0.07
+hébètent	e-bEt	hé-bè-tent	VER			hébéter	0	0.07
+hébétés	e-be-te	hé-bé-tés	ADJ	m	p	hébété	0.01	0.74
+hébétés	e-be-te	hé-bé-tés	NOM	m	p	hébété	0	0.41
+hébétés	e-be-te	hé-bé-tés	VER	m	p	hébéter	0.03	0.34
+hébétude	e-be-tyd	hé-bé-tu-de	NOM	f	s		0.14	4.05
+hébraïque	e-bRa-ik	hé-braï-que	ADJ		s		0.09	0.88
+hébraïquement	e-bRa-i-k°-m@	hé-braï-que-ment	ADV				0	0.07
+hébraïques	e-bRa-ik	hé-braï-ques	ADJ		p	hébraïque	0.02	0.2
+hébraïsant	e-bRa-i-z@	hé-braï-sant	ADJ	m	s		0	0.07
+hébreu	e-bR2	hé-breu	NOM	m	s		1.67	2.97
+hébreu	e-bR2	hé-breu	ADJ	m	s		1.23	0.81
+hébreux	e-bR2	hé-breux	ADJ	m	p	hébreu	0.2	0.54
+hébreux	e-bR2	hé-breux	NOM	m	p		0.4	0.07
+hécatombe	e-ka-t§b	hé-ca-tom-be	NOM	f	s		0.2	1.28
+hécatombes	e-ka-t§b	hé-ca-tom-bes	NOM	f	p	hécatombe	0	0.41
+hectare	Ek-taR	hec-ta-re	NOM	m	s		0.27	0.14
+hectares	Ek-taR	hec-ta-res	NOM	m	p	hectare	2.68	6.22
+hecto	Ek-to	hec-to	NOM	m	s		0	0.07
+hectolitres	Ek-to-litR	hec-to-li-tres	NOM	m	p	hectolitre	0.01	0.2
+hectomètres	Ek-to-mEtR	hec-to-mè-tres	NOM	m	p	hectomètre	0	0.07
+hédonisme	e-do-nizm	hé-do-nis-me	NOM	m	s		0.05	0.2
+hédoniste	e-do-nist	hé-do-nis-te	ADJ		s		0.21	0.07
+hédoniste	e-do-nist	hé-do-nis-te	NOM		s		0.04	0.14
+hédonistes	e-do-nist	hé-do-nis-tes	ADJ	m	p	hédoniste	0	0.07
+hégélianisme	e-Ze-lja-nizm	hé-gé-lia-nis-me	NOM	m	s		0	0.07
+hégélien	e-Ze-lj5	hé-gé-lien	ADJ	m	s		0	0.07
+hégélienne	e-Ze-ljEn	hé-gé-lien-ne	ADJ	f	s	hégélien	0.16	0
+hégéliens	e-Ze-lj5	hé-gé-liens	ADJ	m	p	hégélien	0	0.07
+hégémonie	e-Ze-mo-ni	hé-gé-mo-nie	NOM	f	s		0.04	1.42
+hégire	e-ZiR	hé-gi-re	NOM	f	s		0.38	0.27
+hein	5	hein	ONO				437.2	88.45
+héla	e-la	hé-la	VER			héler	0.01	1.69
+hélai	e-lE	hé-lai	VER			héler	0	0.14
+hélaient	e-lE	hé-laient	VER			héler	0	0.47
+hélait	e-lE	hé-lait	VER			héler	0.01	0.14
+hélant	e-l@	hé-lant	VER			héler	0	0.47
+hélas	e-las	hé-las	ONO				24.21	34.73
+hélas	e-las	hé-las	VER			héler	0.05	0.74
+hèle	El	hè-le	VER			héler	0.05	0.81
+hélé	e-le	hé-lé	VER	m	s	héler	0.11	0.68
+héler	e-le	hé-ler	VER				0.11	1.08
+hélèrent	e-lER	hé-lè-rent	VER			héler	0	0.2
+hélés	e-le	hé-lés	VER	m	p	héler	0	0.07
+hélez	e-le	hé-lez	VER			héler	0.01	0
+hélianthes	e-lj@t	hé-lian-thes	NOM	m	p	hélianthe	0	0.34
+hélice	e-lis	hé-li-ce	NOM	f	s		1.9	2.36
+hélices	e-lis	hé-li-ces	NOM	f	p	hélice	0.93	1.49
+hélico	e-li-ko		ADV				0.01	0
+hélicoïdal	e-li-ko-i-dal	hé-li-coï-dal	ADJ	m	s		0	0.07
+hélicoïdale	e-li-ko-i-dal		ADJ	f	s	hélicoïdal	0.01	0
+hélicoptère	e-li-kOp-tER	hé-li-co-ptè-re	NOM	m	s		10.98	2.43
+hélicoptères	e-li-kOp-tER	hé-li-co-ptè-res	NOM	m	p	hélicoptère	2.98	1.28
+hélio	e-ljo	hé-lio	NOM	f	s		0	0.07
+héliographe	e-ljO-gRaf		NOM	m	s		0.01	0
+héliogravure	e-ljo-gRa-vyR	hé-lio-gra-vu-re	NOM	f	s		0	0.07
+héliophanie	e-ljo-fa-ni	hé-lio-pha-nie	NOM	f	s		0	0.07
+héliotrope	e-ljo-tROp	hé-lio-tro-pe	NOM	m	s		0.04	0.27
+héliotropes	e-ljo-tROp	hé-lio-tro-pes	NOM	m	p	héliotrope	0.03	0.14
+héliport	e-li-pOR	hé-li-port	NOM	m	s		0.12	0.14
+héliporté	e-li-pOR-te	hé-li-por-té	VER	m	s	héliporter	0.05	0
+héliporté	e-li-pOR-te	hé-li-por-té	ADJ	m	s		0.01	0
+héliportée	e-li-pOR-te	hé-li-por-tée	ADJ	f	s	héliporté	0.05	0
+héliportée	e-li-pOR-te	hé-li-por-tée	VER	f	s	héliporter	0.01	0
+héliporter	e-li-pOR-te	hé-li-por-ter	VER				0.01	0.07
+héliportés	e-li-pOR-te	hé-li-por-tés	ADJ	m	p	héliporté	0	0.14
+héliportés	e-li-pOR-te	hé-li-por-tés	VER	m	p	héliporter	0.01	0
+hélitreuiller	e-li-tR9-je	hé-li-treuil-ler	VER				0.01	0
+hélium	e-ljOm	hé-lium	NOM	m	s		0.99	0.47
+hélix	e-liks	hé-lix	NOM	m			0.07	0.07
+hellène	E-lEn	hel-lè-ne	ADJ		s		0.02	0.2
+hellène	E-lEn	hel-lè-ne	NOM		s		0	0.2
+hellènes	E-lEn	hel-lè-nes	NOM		p	hellène	0.01	0.47
+hellènes	E-lEn	hel-lè-nes	ADJ		p	hellène	0	0.14
+hellénique	E-le-nik	hel-lé-ni-que	ADJ		s		0.03	0.54
+helléniques	E-le-nik	hel-lé-ni-ques	ADJ	f	p	hellénique	0	0.27
+hellénisé	E-le-ni-ze	hel-lé-ni-sé	VER	m	s	helléniser	0	0.07
+helléniser	E-le-ni-ze	hel-lé-ni-ser	VER				0	0.2
+hellénisme	E-le-nizm	hel-lé-nis-me	NOM	m	s		0	0.34
+helléniste	E-le-nist	hel-lé-nis-te	NOM		s		0.01	0.14
+hellénistes	E-le-nist	hel-lé-nis-tes	NOM		p	helléniste	0	0.14
+hellénistique	E-le-nis-tik	hel-lé-nis-ti-que	ADJ		s		0.02	0.07
+hellénistiques	E-le-nis-tik	hel-lé-nis-ti-ques	ADJ	m	p	hellénistique	0	0.07
+hello	E-lo	hel-lo	ONO				10.82	1.49
+helminthe	El-m5t	hel-min-the	NOM	m	s		0	0.07
+helvelles	El-vEl	hel-vel-les	NOM	f	p	helvelle	0	0.07
+helvète	El-vEt	hel-vè-te	ADJ	m	s		0	0.14
+helvètes	El-vEt	hel-vè-tes	NOM		p	helvète	0	0.2
+helvètes	El-vEt	hel-vè-tes	ADJ		p	helvète	0	0.07
+helvétien	El-ve-sj5	hel-vé-tien	ADJ	m	s		0	0.07
+helvétique	El-ve-tik	hel-vé-ti-que	ADJ	f	s		0	0.68
+helvétiques	El-ve-tik	hel-vé-ti-ques	ADJ	m	p	helvétique	0	0.14
+hem	Em	hem	ONO				0.1	0.2
+hématie	e-ma-si	hé-ma-tie	NOM	f	s		0	0.07
+hématies	e-ma-si	hé-ma-ties	NOM	f	p	hématie	0.12	0
+hématine	e-ma-tin		NOM	f	s		0.05	0
+hématite	e-ma-tit	hé-ma-ti-te	NOM	f	s		0	0.07
+hématocèle	e-ma-to-sEl	hé-ma-to-cè-le	NOM	f	s		0	0.07
+hématocrite	e-ma-to-kRit		NOM	m	s		0.6	0
+hématologie	e-ma-to-lo-Zi	hé-ma-to-lo-gie	NOM	f	s		0.1	0.07
+hématologique	e-ma-tO-lO-Zik		ADJ	f	s		0.01	0
+hématologue	e-ma-to-lOg	hé-ma-to-lo-gue	NOM		s		0.14	0.07
+hématome	e-ma-tom	hé-ma-to-me	NOM	m	s		1.08	0.41
+hématomes	e-ma-tom	hé-ma-to-mes	NOM	m	p	hématome	0.45	0.2
+hématopoïèse	e-ma-to-po-jEz	hé-ma-to-poïè-se	NOM	f	s		0	0.07
+hématose	e-ma-toz	hé-ma-to-se	NOM	f	s		0	0.07
+hématurie	e-ma-ty-Ri		NOM	f	s		0.02	0
+hémi	e-mi	hé-mi	ADV				0	0.07
+hémicycle	e-mi-sikl	hé-mi-cy-cle	NOM	m	s		0.03	0.34
+hémièdres	e-mjEdR	hé-mi-èdres	ADJ	f	p	hémièdre	0	0.07
+hémiplégie	e-mi-ple-Zi	hé-mi-plé-gie	NOM	f	s		0.2	0.41
+hémiplégique	e-mi-ple-Zik	hé-mi-plé-gi-que	NOM		s		0	0.27
+hémiplégique	e-mi-ple-Zik	hé-mi-plé-gi-que	ADJ		s		0.01	0.07
+hémiptère	e-mip-tER	hé-mi-ptè-re	NOM	m	s		0	0.07
+hémisphère	e-mis-fER	hé-mi-sphè-re	NOM	m	s		0.96	0.88
+hémisphères	e-mis-fER	hé-mi-sphè-res	NOM	m	p	hémisphère	0.41	0.88
+hémisphérique	e-mis-fe-Rik	hé-mi-sphé-ri-que	ADJ		s		0.01	0.34
+hémisphériques	e-mis-fe-Rik	hé-mi-sphé-ri-ques	ADJ	m	p	hémisphérique	0	0.07
+hémistiche	e-mis-tiS	hé-mis-ti-che	NOM	m	s		0	0.07
+hémistiches	e-mis-tiS	hé-mis-ti-ches	NOM	m	p	hémistiche	0.01	0.14
+hemlock	Em-lOk	hem-lo-ck	NOM	m	s		0.23	0
+hémoculture	e-mo-kyl-tyR	hé-mo-cul-tu-re	NOM	f	s		0.09	0
+hémocultures	e-mo-kyl-tyR	hé-mo-cul-tu-res	NOM	f	p	hémoculture	0.09	0
+hémodialyse	e-mo-dja-liz	hé-mo-dia-ly-se	NOM	f	s		0.04	0
+hémodynamique	e-mo-di-na-mik		NOM	f	s		0.05	0
+hémodynamique	e-mo-di-na-mik		ADJ	m	s		0.03	0
+hémoglobine	e-mo-glo-bin	hé-mo-glo-bi-ne	NOM	f	s		1.14	0.27
+hémoglobines	e-mo-glo-bin	hé-mo-glo-bi-nes	NOM	f	p	hémoglobine	0.01	0.07
+hémogramme	e-mo-gRam	hé-mo-gram-me	NOM	m	s		0.12	0
+hémolyse	e-mo-liz	hé-mo-ly-se	NOM	f	s		0.07	0
+hémolytique	e-mo-li-tik	hé-mo-ly-ti-que	ADJ	f	s		0.12	0
+hémophile	e-mo-fil	hé-mo-phi-le	NOM	m	s		0.02	0.14
+hémophile	e-mo-fil	hé-mo-phi-le	ADJ	m	s		0.07	0.07
+hémophiles	e-mo-fil	hé-mo-phi-les	NOM	m	p	hémophile	0.01	0.07
+hémophiles	e-mo-fil	hé-mo-phi-les	ADJ	m	p	hémophile	0.03	0
+hémophilie	e-mo-fi-li	hé-mo-phi-lie	NOM	f	s		0.14	0.07
+hémoptysie	e-mop-ti-zi	hé-mo-pty-sie	NOM	f	s		0	0.34
+hémoptysies	e-mop-ti-zi	hé-mo-pty-sies	NOM	f	p	hémoptysie	0.01	0.34
+hémorragie	e-mo-Ra-Zi	hé-mor-ra-gie	NOM	f	s		8.39	2.43
+hémorragies	e-mo-Ra-Zi	hé-mor-ra-gies	NOM	f	p	hémorragie	0.96	0.68
+hémorragique	e-mo-Ra-Zik	hé-mor-ra-gi-que	ADJ		s		0.25	0
+hémorroïdaire	e-mO-RO-i-dER		ADJ		s		0.01	0
+hémorroïdale	e-mo-Ro-i-dal		ADJ	f	s	hémorroïdal	0.01	0
+hémorroïde	e-mo-Ro-id	hé-mor-roï-de	NOM	f	s		0.23	0
+hémorroïdes	e-mo-Ro-id	hé-mor-roï-des	NOM	f	p	hémorroïde	1.46	0.41
+hémostase	e-mOs-taz		NOM	f	s		0.13	0
+hémostatique	e-mos-ta-tik	hé-mo-sta-ti-que	ADJ		s		0.14	0.07
+henné	e-ne	hen-né	NOM	m	s		1.15	0.95
+hennin	e-n5	hen-nin	NOM	m	s		0	0.34
+hennir	e-niR	hen-nir	VER				0.03	0
+hennirent	e-niR	hen-ni-rent	VER			hennir	0	0.14
+hennissaient	e-ni-sE	hen-nis-saient	VER			hennir	0	0.27
+hennissait	e-ni-sE	hen-nis-sait	VER			hennir	0	0.07
+hennissant	e-ni-s@	hen-nis-sant	ADJ	m	s		0.01	0.27
+hennissant	e-ni-s@	hen-nis-sant	VER			hennir	0	0.27
+hennissantes	e-ni-s@t	hen-nis-san-tes	ADJ	f	p	hennissant	0	0.07
+hennissement	e-ni-s°-m@	hen-nis-se-ment	NOM	m	s		0.14	1.76
+hennissements	e-ni-s°-m@	hen-nis-se-ments	NOM	m	p	hennissement	0.3	1.15
+hennissent	e-nis	hen-nis-sent	VER			hennir	0.02	0.07
+hennit	e-ni	hen-nit	VER			hennir	0.02	0.74
+henry	@-Ri		NOM	m	s		0.15	0
+hep	Ep	hep	ONO				1.94	1.96
+héparine	e-pa-Rin		NOM	f	s		0.28	0
+hépatique	e-pa-tik	hé-pa-ti-que	ADJ		s		0.32	0.27
+hépatique	e-pa-tik	hé-pa-ti-que	NOM		s		0.01	0
+hépatiques	e-pa-tik	hé-pa-ti-ques	ADJ		p	hépatique	0.18	0.14
+hépatiques	e-pa-tik	hé-pa-ti-ques	NOM		p	hépatique	0	0.07
+hépatite	e-pa-tit	hé-pa-ti-te	NOM	f	s		2.04	0.74
+hépatites	e-pa-tit	hé-pa-ti-tes	NOM	f	p	hépatite	0.08	0
+hépatomégalie	e-pa-tO-me-ga-li		NOM	f	s		0.01	0
+heptagone	Ep-ta-gon	hep-ta-go-ne	NOM	m	s		0	0.14
+heptaméron	Ep-ta-me-R§		NOM	m	s		0	0.07
+heptane	Ep-tan		NOM	m	s		0.04	0
+héraclitéen	e-Ra-kli-te-5	hé-ra-cli-téen	ADJ	m	s		0	0.14
+héraclitéenne	e-Ra-kli-te-En	hé-ra-cli-téen-ne	ADJ	f	s	héraclitéen	0	0.07
+héraclitienne	e-Ra-kli-sjEn	hé-ra-cli-tien-ne	ADJ	f	s	héraclitien	0	0.07
+héraldique	e-Ral-dik	hé-ral-di-que	ADJ		s		0	0.81
+héraldique	e-Ral-dik	hé-ral-di-que	NOM	f	s		0	0.14
+héraldiques	e-Ral-dik	hé-ral-di-ques	ADJ		p	héraldique	0	0.41
+héraut	e-Ro	hé-raut	NOM	m	s		0.35	0.2
+hérauts	e-Ro	hé-rauts	NOM	m	p	héraut	0.01	0.61
+herba	ER-ba	her-ba	VER			herber	0.02	0.07
+herbage	ER-baZ	her-ba-ge	NOM	m	s		0.04	0.74
+herbagers	ER-ba-Ze	her-ba-gers	NOM	m	p	herbager	0	0.07
+herbages	ER-baZ	her-ba-ges	NOM	m	p	herbage	0.06	0.61
+herbe	ERb	her-be	NOM	f	s		27.64	86.08
+herber	ER-be		VER				0.2	0
+herbes	ERb	her-bes	NOM	f	p	herbe	7.17	32.43
+herbette	ER-bEt	her-bet-te	NOM	f	s		0	0.07
+herbettes	ER-bEt	her-bet-tes	NOM	f	p	herbette	0	0.07
+herbeuse	ER-b2z	her-beu-se	ADJ	f	s	herbeux	0	0.2
+herbeuses	ER-b2z	her-beu-ses	ADJ	f	p	herbeux	0.01	0.07
+herbeux	ER-b2	her-beux	ADJ	m			0.01	0.74
+herbicide	ER-bi-sid	her-bi-ci-de	NOM	m	s		0.32	0
+herbicide	ER-bi-sid	her-bi-ci-de	ADJ	m	s		0.01	0
+herbier	ER-bje	her-bier	NOM	m	s		0.16	0.81
+herbiers	ER-bje	her-biers	NOM	m	p	herbier	0	0.47
+herbivore	ER-bi-vOR	her-bi-vo-re	NOM	m	s		0.14	0.14
+herbivore	ER-bi-vOR	her-bi-vo-re	ADJ		s		0.04	0.07
+herbivores	ER-bi-vOR	her-bi-vo-res	NOM	m	p	herbivore	0.06	0.14
+herbivores	ER-bi-vOR	her-bi-vo-res	ADJ		p	herbivore	0.06	0.07
+herborisais	ER-bo-Ri-zE	her-bo-ri-sais	VER			herboriser	0	0.07
+herborisait	ER-bo-Ri-zE	her-bo-ri-sait	VER			herboriser	0	0.14
+herboriser	ER-bo-Ri-ze	her-bo-ri-ser	VER				0	0.34
+herboriste	ER-bo-Rist	her-bo-ris-te	NOM		s		0.64	0.68
+herboristerie	ER-bo-Ris-t°-Ri	her-bo-ris-te-rie	NOM	f	s		0.04	0.07
+herboristeries	ER-bo-Ris-t°-Ri	her-bo-ris-te-ries	NOM	f	p	herboristerie	0.04	0.07
+herboristes	ER-bo-Rist	her-bo-ris-tes	NOM		p	herboriste	0.1	0.2
+herbu	ER-by	her-bu	ADJ	m	s		0	0.81
+herbue	ER-by	her-bue	ADJ	f	s	herbu	0.01	0.54
+herbues	ER-by	her-bues	ADJ	f	p	herbu	0	0.41
+herbus	ER-by	her-bus	ADJ	m	p	herbu	0	0.07
+hercher	ER-Se	her-cher	VER				0.03	0
+hercule	ER-kyl	her-cu-le	NOM	m	s		0.19	0.41
+herculéen	ER-ky-le-5	her-cu-léen	ADJ	m	s		0.02	0.34
+herculéenne	ER-ky-le-En	her-cu-léen-ne	ADJ	f	s	herculéen	0.01	0.07
+herculéennes	ER-ky-le-En	her-cu-léen-nes	ADJ	f	p	herculéen	0	0.07
+herculéens	ER-ky-le-5	her-cu-léens	ADJ	m	p	herculéen	0	0.27
+hercules	ER-kyl	her-cu-les	NOM	m	p	hercule	0.58	0.27
+hercynien	ER-si-nj5	her-cy-nien	ADJ	m	s		0	0.07
+hercyniennes	ER-si-njEn	her-cy-nien-nes	ADJ	f	p	hercynien	0	0.07
+hère	ER	hè-re	NOM	m	s		0.04	0.41
+héréditaire	e-Re-di-tER	hé-ré-di-tai-re	ADJ		s		2.21	3.85
+héréditairement	e-Re-di-tE-R°-m@	hé-ré-di-tai-re-ment	ADV				0	0.2
+héréditaires	e-Re-di-tER	hé-ré-di-tai-res	ADJ		p	héréditaire	0.38	0.74
+hérédité	e-Re-di-te	hé-ré-di-té	NOM	f	s		0.71	3.99
+hérédo	e-Re-do	hé-ré-do	ADV				0	0.07
+hères	ER	hè-res	NOM	m	p	hère	0.13	0.34
+hérésiarque	e-Re-zjaRk	hé-ré-siar-que	NOM		s		0	0.07
+hérésiarques	e-Re-zjaRk	hé-ré-siar-ques	NOM		p	hérésiarque	0	0.14
+hérésie	e-Re-zi	hé-ré-sie	NOM	f	s		1.52	7.16
+hérésies	e-Re-zi	hé-ré-sies	NOM	f	p	hérésie	0.2	0.74
+hérétique	e-Re-tik	hé-ré-ti-que	ADJ		s		0.54	4.66
+hérétique	e-Re-tik	hé-ré-ti-que	NOM		s		2.08	2.77
+hérétiques	e-Re-tik	hé-ré-ti-ques	NOM		p	hérétique	1.08	15.88
+hérétiques	e-Re-tik	hé-ré-ti-ques	ADJ		p	hérétique	0.25	2.43
+hérissa	e-Ri-sa	hé-ris-sa	VER			hérisser	0.1	0.14
+hérissaient	e-Ri-sE	hé-ris-saient	VER			hérisser	0	0.74
+hérissait	e-Ri-sE	hé-ris-sait	VER			hérisser	0.01	1.08
+hérissant	e-Ri-s@	hé-ris-sant	VER			hérisser	0	0.27
+hérissât	e-Ri-sa	hé-ris-sât	VER			hérisser	0	0.07
+hérisse	e-Ris	hé-ris-se	VER			hérisser	0.11	0.81
+hérissé	e-Ri-se	hé-ris-sé	VER	m	s	hérisser	0.14	3.38
+hérissé	e-Ri-se	hé-ris-sé	ADJ	m	s		0.03	1.15
+hérissée	e-Ri-se	hé-ris-sée	VER	f	s	hérisser	0.14	2.57
+hérissée	e-Ri-se	hé-ris-sée	ADJ	f	s	hérissé	0.21	1.28
+hérissées	e-Ri-se	hé-ris-sées	ADJ	f	p	hérissé	0.14	1.22
+hérissées	e-Ri-se	hé-ris-sées	VER	f	p	hérisser	0	1.22
+hérissement	e-Ri-s°-m@	hé-ris-se-ment	NOM	m	s		0	0.14
+hérissements	e-Ri-s°-m@	hé-ris-se-ments	NOM	m	p	hérissement	0	0.2
+hérissent	e-Ris	hé-ris-sent	VER			hérisser	0.03	0.41
+hérisser	e-Ri-se	hé-ris-ser	VER				0.03	0.41
+hérisseraient	e-Ri-s°-RE	hé-ris-se-raient	VER			hérisser	0	0.14
+hérissèrent	e-Ri-sER	hé-ris-sè-rent	VER			hérisser	0	0.14
+hérisses	e-Ris	hé-ris-ses	VER			hérisser	0.01	0.07
+hérissés	e-Ri-se	hé-ris-sés	VER	m	p	hérisser	0.05	2.5
+hérissés	e-Ri-se	hé-ris-sés	ADJ	m	p	hérissé	0.04	1.22
+hérisson	e-Ri-s§	hé-ris-son	NOM	m	s		0.69	1.76
+hérissons	e-Ri-s§	hé-ris-sons	NOM	m	p	hérisson	0.06	0.81
+hérissons	e-Ri-s§	hé-ris-sons	VER			hérisser	0	0.07
+hérita	e-Ri-ta	hé-ri-ta	VER			hériter	0.18	0.34
+héritage	e-Ri-taZ	hé-ri-ta-ge	NOM	m	s		12.18	11.15
+héritages	e-Ri-taZ	hé-ri-ta-ges	NOM	m	p	héritage	0.19	0.88
+héritai	e-Ri-tE	hé-ri-tai	VER			hériter	0	0.2
+héritaient	e-Ri-tE	hé-ri-taient	VER			hériter	0	0.14
+héritais	e-Ri-tE	hé-ri-tais	VER			hériter	0.11	0.14
+héritait	e-Ri-tE	hé-ri-tait	VER			hériter	0.03	0.2
+hérite	e-Rit	hé-ri-te	VER			hériter	1.52	0.61
+hérité	e-Ri-te	hé-ri-té	VER	m	s	hériter	6	6.89
+héritée	e-Ri-te	hé-ri-tée	VER	f	s	hériter	0.1	1.42
+héritées	e-Ri-te	hé-ri-tées	VER	f	p	hériter	0.01	0.27
+héritent	e-Rit	hé-ri-tent	VER			hériter	0.21	0
+hériter	e-Ri-te	hé-ri-ter	VER				1.86	1.35
+héritera	e-Ri-t°-Ra	hé-ri-te-ra	VER			hériter	0.38	0.14
+hériterai	e-Ri-t°-RE	hé-ri-te-rai	VER			hériter	0.05	0.07
+hériteraient	e-Ri-t°-RE	hé-ri-te-raient	VER			hériter	0.02	0
+hériterait	e-Ri-t°-RE	hé-ri-te-rait	VER			hériter	0.07	0.14
+hériteras	e-Ri-t°-Ra	hé-ri-te-ras	VER			hériter	0.22	0
+hériterez	e-Ri-t°-Re	hé-ri-te-rez	VER			hériter	0.2	0.07
+hériteront	e-Ri-t°-R§	hé-ri-te-ront	VER			hériter	0.11	0
+hérites	e-Rit	hé-ri-tes	VER			hériter	0.34	0.14
+hérités	e-Ri-te	hé-ri-tés	VER	m	p	hériter	0.15	0.61
+héritez	e-Ri-te	hé-ri-tez	VER			hériter	0.25	0.14
+héritier	e-Ri-tje	hé-ri-tier	NOM	m	s		7.76	7.16
+héritière	e-Ri-tjER	hé-ri-tiè-re	NOM	f	s	héritier	1.62	2.7
+héritières	e-Ri-tjER	hé-ri-tiè-res	NOM	f	p	héritier	0.05	0.41
+héritiers	e-Ri-tje	hé-ri-tiers	NOM	m	p	héritier	1.39	3.18
+héritons	e-Ri-t§	hé-ri-tons	VER			hériter	0.11	0
+hermaphrodisme	ER-ma-fRo-dizm	her-ma-ph-ro-dis-me	NOM	m	s		0	0.07
+hermaphrodite	ER-ma-fRo-dit	her-ma-ph-ro-di-te	ADJ		s		0.11	0.14
+hermaphrodite	ER-ma-fRo-dit	her-ma-ph-ro-di-te	NOM		s		0.06	0.14
+hermaphrodites	ER-ma-fRo-dit	her-ma-ph-ro-di-tes	ADJ		p	hermaphrodite	0.26	0.07
+hermaphrodites	ER-ma-fRo-dit	her-ma-ph-ro-di-tes	NOM		p	hermaphrodite	0.08	0.14
+hermaphroditisme	ER-ma-fRo-di-tizm	her-ma-ph-ro-di-tis-me	NOM	m	s		0	0.07
+herméneutique	ER-me-n2-tik	her-mé-neu-ti-que	ADJ	f	s		0.01	0
+hermès	ER-mEz	her-mès	NOM	m			0.73	0
+hermétique	ER-me-tik	her-mé-ti-que	ADJ		s		0.82	1.96
+hermétiquement	ER-me-ti-k°-m@	her-mé-ti-que-ment	ADV				0.61	1.55
+hermétiques	ER-me-tik	her-mé-ti-ques	ADJ		p	hermétique	0.16	1.15
+hermétisme	ER-me-tizm	her-mé-tis-me	NOM	m	s		0.14	0.2
+hermétistes	ER-me-tist	her-mé-tis-tes	NOM		p	hermétiste	0	0.14
+hermine	ER-min	her-mi-ne	NOM	f	s		0.28	1.62
+herminé	ER-mi-ne	her-mi-né	ADJ	m	s		0	0.07
+hermines	ER-min	her-mi-nes	NOM	f	p	hermine	0	0.07
+herminette	ER-mi-nEt	her-mi-net-te	NOM	f	s		0.01	0.07
+herminettes	ER-mi-nEt	her-mi-net-tes	NOM	f	p	herminette	0	0.07
+herniaire	ER-njER	her-niai-re	ADJ		s		0.06	0.27
+herniaires	ER-ni-jER	her-niai-res	ADJ	m	p	herniaire	0	0.14
+hernie	ER-ni	her-nie	NOM	f	s		2.85	0.61
+hernies	ER-ni	her-nies	NOM	f	p	hernie	0.06	0.41
+hernieux	ER-nj2	her-nieux	ADJ	m	p		0	0.07
+héro	e-Ro	hé-ro	NOM	f	s		4.38	1.35
+héroïde	e-Ro-id	hé-roï-de	NOM	f	s		0	0.07
+héroïne	e-Ro-in	hé-roï-ne	NOM	f	s	héros	10.32	7.23
+héroïnes	e-Ro-in	hé-roï-nes	NOM	f	p	héros	0.1	1.89
+héroïnomane	e-Ro-i-no-man	hé-roï-no-ma-ne	NOM		s		0.02	0
+héroïque	e-Ro-ik	hé-roï-que	ADJ		s		3.31	7.57
+héroïquement	e-Ro-i-k°-m@	hé-roï-que-ment	ADV				0.14	0.74
+héroïques	e-Ro-ik	hé-roï-ques	ADJ		p	héroïque	1.42	3.72
+héroïsme	e-Ro-izm	hé-roïs-me	NOM	m	s		1.06	5.95
+héron	e-R§	hé-ron	NOM	m	s		0.27	1.08
+hérons	e-R§	hé-rons	NOM	m	p	héron	0.37	1.28
+héros	e-Ro	hé-ros	NOM	m			66.17	43.65
+herpès	ER-pEs	her-pès	NOM	m			0.86	0.2
+herpétique	ER-pe-tik		ADJ	f	s		0.03	0
+herpétologie	ER-pe-tO-lO-Zi		NOM	f	s		0.04	0
+herpétologiste	ER-pe-tO-lO-Zist		NOM		s		0.01	0
+hersait	ER-sE	her-sait	VER			herser	0	0.07
+herse	ERs	her-se	NOM	f	s		0.26	1.69
+hersé	ER-se	her-sé	VER	m	s	herser	0	0.07
+herser	ER-se	her-ser	VER				0	0.14
+herses	ERs	her-ses	NOM	f	p	herse	0.01	0.88
+hersés	ER-se	her-sés	VER	m	p	herser	0	0.07
+hertz	ERts	hertz	NOM	m			0.09	0
+hertzienne	ER-tsjEn		ADJ	f	s	hertzien	0.03	0
+hertziennes	ER-tsjEn	hert-zien-nes	ADJ	f	p	hertzien	0.06	0.07
+hertziens	ER-tzj5	hert-ziens	ADJ	m	p	hertzien	0.01	0
+hésita	e-zi-ta	hé-si-ta	VER			hésiter	0.3	36.15
+hésitai	e-zi-tE	hé-si-tai	VER			hésiter	0.01	4.26
+hésitaient	e-zi-tE	hé-si-taient	VER			hésiter	0.01	3.11
+hésitais	e-zi-tE	hé-si-tais	VER			hésiter	0.33	3.38
+hésitait	e-zi-tE	hé-si-tait	VER			hésiter	1.01	15.07
+hésitant	e-zi-t@	hé-si-tant	VER			hésiter	0.23	6.22
+hésitant	e-zi-t@	hé-si-tant	ADJ	m	s		0.11	3.92
+hésitante	e-zi-t@t	hé-si-tan-te	ADJ	f	s	hésitant	0.32	5.88
+hésitantes	e-zi-t@t	hé-si-tan-tes	ADJ	f	p	hésitant	0.04	0.61
+hésitants	e-zi-t@	hé-si-tants	ADJ	m	p	hésitant	0.09	1.69
+hésitât	e-zi-ta	hé-si-tât	VER			hésiter	0	0.2
+hésitation	e-zi-ta-sj§	hé-si-ta-tion	NOM	f	s		2.27	19.8
+hésitations	e-zi-ta-sj§	hé-si-ta-tions	NOM	f	p	hésitation	0.63	5.34
+hésite	e-zit	hé-si-te	VER			hésiter	8.21	18.58
+hésité	e-zi-te	hé-si-té	VER	m	s	hésiter	3.83	11.01
+hésitent	e-zit	hé-si-tent	VER			hésiter	0.47	2.3
+hésiter	e-zi-te	hé-si-ter	VER				4.57	16.28
+hésitera	e-zi-t°-Ra	hé-si-te-ra	VER			hésiter	0.2	0.34
+hésiterai	e-zi-t°-RE	hé-si-te-rai	VER			hésiter	0.92	0.2
+hésiteraient	e-zi-t°-RE	hé-si-te-raient	VER			hésiter	0.22	0.41
+hésiterais	e-zi-t°-RE	hé-si-te-rais	VER			hésiter	0.72	0.61
+hésiterait	e-zi-t°-RE	hé-si-te-rait	VER			hésiter	0.51	0.47
+hésiteras	e-zi-t°-Ra	hé-si-te-ras	VER			hésiter	0.16	0
+hésitèrent	e-zi-tER	hé-si-tè-rent	VER			hésiter	0	0.95
+hésiterez	e-zi-t°-Re	hé-si-te-rez	VER			hésiter	0.04	0.07
+hésiteriez	e-zi-t°-Rje	hé-si-te-riez	VER			hésiter	0.1	0
+hésiterions	e-zi-t°-Rj§	hé-si-te-rions	VER			hésiter	0	0.07
+hésiterons	e-zi-t°-R§	hé-si-te-rons	VER			hésiter	0.05	0.07
+hésiteront	e-zi-t°-R§	hé-si-te-ront	VER			hésiter	0.34	0
+hésites	e-zit	hé-si-tes	VER			hésiter	1.09	0.47
+hésitez	e-zi-te	hé-si-tez	VER			hésiter	6.28	1.89
+hésitiez	e-zi-tje	hé-si-tiez	VER			hésiter	0.05	0
+hésitions	e-zi-tj§	hé-si-tions	VER			hésiter	0	0.2
+hésitons	e-zi-t§	hé-si-tons	VER			hésiter	0.42	0.14
+hessois	E-swa	hes-sois	ADJ	m			0	0.07
+hessois	E-swa	hes-sois	NOM	m			0	0.07
+hessoise	E-swaz	hes-soi-se	ADJ	f	s	hessois	0	0.07
+hétaïre	e-ta-iR	hé-taï-re	NOM	f	s		0	0.14
+hétaïres	e-ta-iR	hé-taï-res	NOM	f	p	hétaïre	0	0.14
+hétéro	e-te-Ro	hé-té-ro	ADJ		s		3.16	0.61
+hétéro	e-te-Ro	hé-té-ro	NOM		s		1.64	0.34
+hétérochromie	e-te-Ro-kRO-mi		NOM	f	s		0.03	0
+hétéroclite	e-te-Ro-klit	hé-té-ro-cli-te	ADJ		s		0.02	2.57
+hétéroclites	e-te-Ro-klit	hé-té-ro-cli-tes	ADJ		p	hétéroclite	0.16	2.16
+hétérodoxes	e-te-Ro-dOks	hé-té-ro-doxes	NOM		p	hétérodoxe	0.01	0.14
+hétérodoxes	e-te-Ro-dOks	hé-té-ro-doxes	ADJ	m	p	hétérodoxe	0	0.07
+hétérodoxie	e-te-Ro-dOk-si	hé-té-ro-doxie	NOM	f	s		0	0.07
+hétérogène	e-te-Ro-ZEn	hé-té-ro-gè-ne	ADJ	m	s		0.14	0.07
+hétérogénéité	e-te-Ro-Ze-ne-i-te	hé-té-ro-gé-néi-té	NOM	f	s		0	0.14
+hétérogènes	e-te-Ro-ZEn	hé-té-ro-gè-nes	ADJ		p	hétérogène	0	0.27
+hétéroptère	e-te-ROp-tER	hé-té-ro-ptè-re	NOM	m	s		0	0.07
+hétéros	e-te-Ro	hé-té-ros	NOM		p	hétéro	1.87	0
+hétéros	e-te-Ro	hé-té-ros	ADJ		p	hétéro	0.76	0.14
+hétérosexualité	e-te-Ro-sek-s8a-li-te	hé-té-ro-sexua-li-té	NOM	f	s		0.08	0.81
+hétérosexuel	e-te-Ro-sek-s8El	hé-té-ro-sexuel	ADJ	m	s		0.6	1.49
+hétérosexuelle	e-te-Ro-sek-s8El	hé-té-ro-sexuel-le	ADJ	f	s	hétérosexuel	0.13	0.88
+hétérosexuelles	e-te-Ro-sek-s8El	hé-té-ro-sexuel-les	ADJ	f	p	hétérosexuel	0.07	0.07
+hétérosexuels	e-te-Ro-sek-s8El	hé-té-ro-sexuels	ADJ	m	p	hétérosexuel	0.17	1.15
+hétérozygote	e-te-Ro-zi-gOt		ADJ		s		0.01	0
+hétérozygotes	e-te-Ro-zi-gOt	hé-té-ro-zy-go-tes	ADJ		p	hétérozygote	0	0.07
+hetman	Et-m@	het-man	NOM	m	s		0.34	0.07
+hêtraie	E-tRE	hê-traie	NOM	f	s		0	0.54
+hêtraies	E-tRE	hê-traies	NOM	f	p	hêtraie	0	0.14
+hêtre	EtR	hê-tre	NOM	m	s		0.18	3.38
+hêtres	EtR	hê-tres	NOM	m	p	hêtre	0.47	6.82
+heu	2	heu	ONO				35.17	6.69
+heur	9R	heur	NOM	m	s		0.05	0.41
+heure	9R	heu-re	NOM	f	s		415.4	439.86
+heures	9R	heu-res	NOM	f	p	heure	294.39	484.19
+heureuse	2-R2z	heu-reu-se	ADJ	f	s	heureux	88.71	58.11
+heureuse	2-R2z	heu-reu-se	NOM	f	s	heureux	0.13	0
+heureusement	2-R2-z°-m@	heu-reu-se-ment	ADV				39.78	51.35
+heureuses	2-R2z	heu-reu-ses	ADJ	f	p	heureux	3.94	6.49
+heureuses	2-R2z	heu-reu-ses	NOM	f	p	heureux	0.27	0.47
+heureux	2-R2	heu-reux	ADJ	m			155.8	125.41
+heureux	2-R2	heu-reux	NOM	m			8.71	5.2
+heuristique	2-Ris-tik		ADJ	f	s		0.03	0
+heuristique	2-Ris-tik		NOM	f	s		0.01	0
+heurs	9R	heurs	NOM	m	p	heur	0.01	0.2
+heurt	9R	heurt	NOM	m	s		0.29	2.84
+heurta	9R-ta	heur-ta	VER			heurter	0.17	5.14
+heurtai	9R-tE	heur-tai	VER			heurter	0.01	0.68
+heurtaient	9R-tE	heur-taient	VER			heurter	0.06	2.36
+heurtais	9R-tE	heur-tais	VER			heurter	0.05	0.41
+heurtait	9R-tE	heur-tait	VER			heurter	0.04	4.32
+heurtant	9R-t@	heur-tant	VER			heurter	0.22	4.19
+heurtât	9R-ta	heur-tât	VER			heurter	0	0.14
+heurte	9Rt	heur-te	VER			heurter	1.15	4.66
+heurté	9R-te	heur-té	VER	m	s	heurter	4.92	3.85
+heurté	9R-te	heur-té	ADJ	m	s		0.01	0.54
+heurtée	9R-te	heur-tée	VER	f	s	heurter	0.61	0.68
+heurtée	9R-te	heur-tée	ADJ	f	s	heurté	0	0.95
+heurtées	9R-te	heur-tées	ADJ	f	p	heurté	0	0.27
+heurtées	9R-te	heur-tées	VER	f	p	heurter	0.05	0.07
+heurtent	9Rt	heur-tent	VER			heurter	0.29	1.96
+heurter	9R-te	heur-ter	VER				1.81	7.5
+heurtera	9R-t°-Ra	heur-te-ra	VER			heurter	0.04	0.2
+heurterai	9R-t°-RE	heur-te-rai	VER			heurter	0	0.07
+heurteraient	9R-t°-RE	heur-te-raient	VER			heurter	0	0.07
+heurterait	9R-t°-RE	heur-te-rait	VER			heurter	0.04	0.2
+heurtèrent	9R-tER	heur-tè-rent	VER			heurter	0.01	0.95
+heurterions	9R-t°-Rj§	heur-te-rions	VER			heurter	0	0.07
+heurtés	9R-te	heur-tés	VER	m	p	heurter	0.22	0.88
+heurtés	9R-te	heur-tés	ADJ	m	p	heurté	0.04	0.14
+heurtez	9R-te	heur-tez	VER			heurter	0.07	0.14
+heurtions	9R-tj§	heur-tions	VER			heurter	0	0.41
+heurtoir	9R-twaR	heur-toir	NOM	m	s		0.03	0.47
+heurtoirs	9R-twaR	heur-toirs	NOM	m	p	heurtoir	0	0.14
+heurtons	9R-t§	heur-tons	VER			heurter	0	0.14
+heurts	9R	heurts	NOM	m	p	heurt	0.2	3.31
+hévéa	e-ve-a	hé-véa	NOM	m	s		0.01	0.14
+hévéas	e-ve-a	hé-véas	NOM	m	p	hévéa	0.22	0.07
+hexagonal	Eg-za-go-nal	hexa-go-nal	ADJ	m	s		0.01	0.61
+hexagonale	Eg-za-go-nal	hexa-go-na-le	ADJ	f	s	hexagonal	0.01	0.68
+hexagonales	Eg-za-go-nal	hexa-go-na-les	ADJ	f	p	hexagonal	0.01	0.47
+hexagonaux	Eg-za-go-no	hexa-go-naux	ADJ	m	p	hexagonal	0	0.2
+hexagone	Eg-za-gon	hexa-go-ne	NOM	m	s		0.23	0.47
+hexagones	Eg-za-gon	hexa-go-nes	NOM	m	p	hexagone	0	0.14
+hexamètres	Eg-za-mEtR	hexa-mè-tres	NOM	m	p	hexamètre	0.02	0.14
+hi	i	hi	ONO				3.81	5.41
+hi-fi	i-fi	hi-fi	NOM	f	s		0.87	0.81
+hi-han	i-@	hi-han	ONO				0.2	0.14
+hi-han	i-@	hi-han	NOM	m	s		0.04	0.07
+hiatale	ja-tal		ADJ	f	s	hiatal	0.29	0
+hiatus	ja-tys	hia-tus	NOM	m			0.04	1.01
+hibernaient	i-bER-nE	hi-ber-naient	VER			hiberner	0.02	0
+hibernait	i-bER-nE	hi-ber-nait	VER			hiberner	0.03	0.07
+hibernation	i-bER-na-sj§	hi-ber-na-tion	NOM	f	s		0.82	0.27
+hiberne	i-bERn	hi-ber-ne	VER			hiberner	0.16	0.07
+hiberné	i-bER-ne	hi-ber-né	VER	m	s	hiberner	0.17	0.14
+hibernent	i-bERn	hi-ber-nent	VER			hiberner	0.05	0
+hiberner	i-bER-ne	hi-ber-ner	VER				0.21	0.07
+hibiscus	i-bis-kys	hi-bis-cus	NOM	m			0.13	1.08
+hibou	i-bu	hi-bou	NOM	m	s		4.08	2.36
+hiboux	i-bu	hi-boux	NOM	m	p	hibou	0.94	0.61
+hic	ik	hic	NOM	m			2.21	2.91
+hic et nunc	i-kEt-nunk	hic et nunc	ADV				0	0.41
+hickory	i-ko-Ri	hi-cko-ry	NOM	m	s		0.14	0.07
+hidalgo	i-dal-go	hi-dal-go	NOM	m	s		0.06	0.27
+hidalgos	i-dal-go	hi-dal-gos	NOM	m	p	hidalgo	0.02	0.34
+hideur	i-d9R	hi-deur	NOM	f	s		0	0.61
+hideurs	i-d9R	hi-deurs	NOM	f	p	hideur	0	0.2
+hideuse	i-d2z	hi-deu-se	ADJ	f	s	hideux	0.99	2.7
+hideusement	i-d2-z°-m@	hi-deu-se-ment	ADV				0.03	0.34
+hideuses	i-d2z	hi-deu-ses	ADJ	f	p	hideux	0.39	1.28
+hideux	i-d2	hi-deux	ADJ	m			1.93	5.27
+hier	jER	hier	ADV				223.77	92.64
+hiérarchie	je-RaR-Si	hié-rar-chie	NOM	f	s		2.56	8.65
+hiérarchies	je-RaR-Si	hié-rar-chies	NOM	f	p	hiérarchie	0.03	1.22
+hiérarchique	je-RaR-Sik	hié-rar-chi-que	ADJ		s		0.57	1.28
+hiérarchiquement	je-RaR-Si-k°-m@	hié-rar-chi-que-ment	ADV				0.01	0.2
+hiérarchiques	je-RaR-Sik	hié-rar-chi-ques	ADJ		p	hiérarchique	0.02	0.2
+hiérarchisait	je-RaR-Si-zE	hié-rar-chi-sait	VER			hiérarchiser	0	0.07
+hiérarchisation	je-RaR-Si-za-sj§	hié-rar-chi-sa-tion	NOM	f	s		0	0.07
+hiérarchise	je-RaR-Siz	hié-rar-chi-se	VER			hiérarchiser	0.01	0
+hiérarchisé	je-RaR-Si-ze	hié-rar-chi-sé	ADJ	m	s		0	0.07
+hiérarchisée	je-RaR-Si-ze	hié-rar-chi-sée	ADJ	f	s	hiérarchisé	0	0.2
+hiérarchisés	je-RaR-Si-ze	hié-rar-chi-sés	VER	m	p	hiérarchiser	0	0.07
+hiérarchisés	je-RaR-Si-ze	hié-rar-chi-sés	ADJ	m	p	hiérarchisé	0	0.07
+hiératique	je-Ra-tik	hié-ra-ti-que	ADJ		s		0.01	1.22
+hiératiquement	je-Ra-ti-k°-m@	hié-ra-ti-que-ment	ADV				0	0.07
+hiératiques	je-Ra-tik	hié-ra-ti-ques	ADJ		p	hiératique	0.01	0.47
+hiératisme	je-Ra-tizm	hié-ra-tis-me	NOM	m	s		0	0.54
+hiéroglyphe	je-Ro-glif	hié-ro-gly-phe	NOM	m	s		0.2	0.2
+hiéroglyphes	je-Ro-glif	hié-ro-gly-phes	NOM	m	p	hiéroglyphe	1.05	1.28
+hiéroglyphique	je-Ro-gli-fik	hié-ro-gly-phi-que	ADJ		s		0.01	0
+hiéroglyphiques	je-Ro-gli-fik	hié-ro-gly-phi-ques	ADJ	m	p	hiéroglyphique	0.02	0
+hiéronymites	je-Ro-ni-mit	hié-ro-ny-mi-tes	NOM	m	p	hiéronymite	0	0.07
+hiérophante	je-Ro-f@t	hié-ro-phan-te	NOM	m	s		0	0.2
+high life	aj-lajf	high li-fe	NOM	m	s		0.04	0.41
+high tech	aj-tEk	high te-ch	ADJ		s	high-tech	0.04	0.07
+high-life	aj-lajf	high-life	NOM	m	s		0.27	0.14
+high-tech	aj-tEk	high-tech	ADJ				0.29	0.07
+high-tech	aj-tEk	high-tech	NOM	m	p		0.13	0
+highlander	aj-l@-d9R	high-lan-der	NOM	m	s		0.14	0
+highlanders	aj-l@-d9R	high-lan-ders	NOM	m	p	highlander	0.16	0.14
+higoumène	i-gu-mEn	hi-gou-mè-ne	NOM	m	s		0	0.07
+hilaire	i-lER		ADJ	f	s		0.02	0
+hilarant	i-la-R@	hi-la-rant	ADJ	m	s		1.94	0.2
+hilarante	i-la-R@t	hi-la-ran-te	ADJ	f	s	hilarant	0.25	0
+hilarantes	i-la-R@t	hi-la-ran-tes	ADJ	f	p	hilarant	0.09	0.14
+hilarants	i-la-R@	hi-la-rants	ADJ	m	p	hilarant	0.1	0.14
+hilare	i-laR	hi-la-re	ADJ		s		0.14	6.15
+hilares	i-laR	hi-la-res	ADJ		p	hilare	0	2.57
+hilarité	i-la-Ri-te	hi-la-ri-té	NOM	f	s		0.32	4.05
+hilarités	i-la-Ri-te	hi-la-ri-tés	NOM	f	p	hilarité	0	0.07
+hile	il		NOM	m	s		0.24	0
+hiloire	i-lwaR	hi-loi-re	NOM	f	s		0	0.07
+hilotes	i-lOt	hi-lo-tes	NOM	m	p	hilote	0	0.07
+himalaya	i-ma-la-ja		NOM	m	s		0.01	0.14
+himalayenne	i-ma-la-jEn	hi-ma-layen-ne	ADJ	f	s	himalayen	0.2	0
+himalayenne	i-ma-la-jEn	hi-ma-layen-ne	NOM	f	s		0	0.07
+himalayens	i-ma-la-j5	hi-ma-layens	ADJ	m	p	himalayen	0	0.07
+hindi	in-di	hin-di	NOM	m	s		0.14	0.07
+hindou	5-du	hin-dou	NOM	m	s		0.93	0.47
+hindou	5-du	hin-dou	ADJ	m	s		0.39	0.81
+hindoue	5-du	hin-doue	ADJ	f	s	hindou	0.47	0.68
+hindoue	5-du	hin-doue	NOM	f	s	hindou	0.12	0
+hindoues	5-du	hin-doues	ADJ	f	p	hindou	0.17	0.27
+hindoues	5-du	hin-doues	NOM	f	p	hindou	0.01	0
+hindouisme	5-du-izm	hin-douis-me	NOM	m	s		0.28	0
+hindous	5-du	hin-dous	NOM	m	p	hindou	0.73	0.74
+hindous	5-du	hin-dous	ADJ	m	p	hindou	0.24	0.27
+hindoustani	5-dus-ta-ni		NOM	m	s		0.03	0
+hip	ip	hip	ONO				4.43	1.22
+hip-hop	i-pOp	hip-hop	NOM	m	s		1.74	0
+hippie	i-pi	hip-pie	NOM		s		1.33	0.14
+hippie	i-pi	hip-pie	ADJ		s		0.87	0.07
+hippies	i-pi	hip-pies	NOM		p	hippie	2.36	0.14
+hippies	i-pi	hip-pies	ADJ		p	hippie	0.37	0.14
+hippique	i-pik	hip-pi-que	ADJ		s		0.49	1.42
+hippiques	i-pik	hip-pi-ques	ADJ		p	hippique	0.11	1.49
+hippisme	i-pism		NOM	m	s		0.02	0
+hippo	i-po		NOM	m	s		0.41	45.61
+hippocampe	i-po-k@p	hip-po-cam-pe	NOM	m	s		0.58	0.27
+hippocampes	i-po-k@p	hip-po-cam-pes	NOM	m	p	hippocampe	0.05	0.14
+hippocratique	i-po-kRa-tik	hip-po-cra-ti-que	ADJ	m	s		0	0.14
+hippodrome	i-po-dRom	hip-po-dro-me	NOM	m	s		0.52	0.81
+hippodromes	i-po-dRom	hip-po-dro-mes	NOM	m	p	hippodrome	0.01	0.54
+hippogriffe	i-po-gRif	hip-po-grif-fe	NOM	m	s		0.19	0.14
+hippomobile	i-po-mo-bil		ADJ	m	s		0.1	0
+hippophagique	i-po-fa-Zik	hip-po-pha-gi-que	ADJ		s		0	0.07
+hippophagiques	i-po-fa-Zik	hip-po-pha-gi-ques	ADJ	f	p	hippophagique	0	0.07
+hippopotame	i-po-po-tam	hip-po-po-ta-me	NOM	m	s		1.45	0.54
+hippopotames	i-po-po-tam	hip-po-po-ta-mes	NOM	m	p	hippopotame	1.07	0.47
+hippopotamesque	i-po-po-ta-mEsk	hip-po-po-ta-mes-que	ADJ	f	s		0	0.07
+hippy	i-pi	hip-py	ADJ		s		0.11	0.34
+hippy	i-pi	hip-py	NOM	m	s		0.25	0.14
+hirondelle	i-R§-dEl	hi-ron-del-le	NOM	f	s	hirondeau	1.87	3.24
+hirondelles	i-R§-dEl	hi-ron-del-les	NOM	f	p	hirondelle	0.69	6.42
+hirsute	iR-syt	hir-su-te	ADJ		s		1.44	3.78
+hirsutes	iR-syt	hir-su-tes	ADJ		p	hirsute	0.09	1.82
+hirsutisme	iR-sy-tizm	hir-su-tis-me	NOM	m	s		0.02	0
+hirudine	i-Ry-din		NOM	f	s		0.01	0
+hispanique	is-pa-nik	his-pa-ni-que	ADJ		s		0.47	0.14
+hispanique	is-pa-nik	his-pa-ni-que	NOM		s		0.17	0
+hispaniques	is-pa-nik	his-pa-ni-ques	ADJ		p	hispanique	0.03	0.14
+hispaniques	is-pa-nik	his-pa-ni-ques	NOM		p	hispanique	0.1	0
+hispanisante	is-pa-ni-z@t	his-pa-ni-san-te	ADJ	f	s	hispanisant	0	0.07
+hispanisants	is-pa-ni-z@	his-pa-ni-sants	ADJ	m	p	hispanisant	0	0.07
+hispano	is-pa-no	his-pa-no	ADV				0.06	0.54
+hispano-américain	is-pa-no-a-me-Ri-k5	hispano-américain	ADJ	m	s		0	0.07
+hispano-américain	is-pa-no-a-me-Ri-k5	hispano-américain	NOM	m	s		0.01	0
+hispano-américaine	is-pa-no-a-me-Ri-kEn	hispano-américaine	ADJ	f	s	hispano-américain	0.03	0.2
+hispano-cubain	is-pa-no-ky-b5	hispano-cubain	ADJ	m	s		0	0.07
+hispano-mauresque	is-pa-no-mo-REsk	hispano-mauresque	ADJ	m	s		0	0.07
+hispanophone	is-pa-no-fOn		NOM		s		0.02	0
+hissa	i-sa	his-sa	VER			hisser	0.13	2.3
+hissai	i-sE	his-sai	VER			hisser	0.14	0.27
+hissaient	i-sE	his-saient	VER			hisser	0.02	0.47
+hissais	i-sE	his-sais	VER			hisser	0.02	0.14
+hissait	i-sE	his-sait	VER			hisser	0.16	2.09
+hissâmes	i-sam	his-sâ-mes	VER			hisser	0.01	0.14
+hissant	i-s@	his-sant	VER			hisser	0.01	1.62
+hisse	is	his-se	VER			hisser	2.75	2.64
+hisse	is	his-se	ONO				0.88	0.07
+hissé	i-se	his-sé	VER	m	s	hisser	1.21	2.64
+hissée	i-se	his-sée	VER	f	s	hisser	0.05	1.28
+hissées	i-se	his-sées	VER	f	p	hisser	0.1	0.14
+hissent	is	his-sent	VER			hisser	0.12	0.34
+hisser	i-se	his-ser	VER				1.37	6.22
+hissera	i-s°-Ra	his-se-ra	VER			hisser	0.13	0.14
+hisserai	i-s°-RE	his-se-rai	VER			hisser	0	0.14
+hissèrent	i-sER	his-sè-rent	VER			hisser	0	0.81
+hissés	i-se	his-sés	VER	m	p	hisser	0.07	0.81
+hissez	i-se	his-sez	VER			hisser	1.76	0
+hissons	i-s§	his-sons	VER			hisser	0.04	0.2
+histamine	is-ta-min	his-ta-mi-ne	NOM	f	s		0.15	0
+histaminique	is-ta-mi-nik		ADJ		s		0.03	0
+hister	is-tER	his-ter	NOM	m	s		0.02	0
+histocompatibilité	is-to-k§-pa-ti-bi-li-te	his-to-com-pa-ti-bi-li-té	NOM	f	s		0.14	0
+histocompatibles	is-to-k§-pa-tibl	his-to-com-pa-ti-bles	ADJ		p	histocompatible	0	0.07
+histoire	is-twaR	his-toi-re	NOM	f	s		295.32	292.23
+histoires	is-twaR	his-toi-res	NOM	f	p	histoire	64.6	67.3
+histologie	is-to-lo-Zi	his-to-lo-gie	NOM	f	s		0.11	0
+histologique	is-to-lo-Zik	his-to-lo-gi-que	ADJ		s		0.06	0.07
+histopathologie	is-to-pa-tO-lO-Zi		NOM	f	s		0.03	0
+histoplasmose	is-to-plas-moz		NOM	f	s		0.01	0
+historia	is-to-Rja	his-to-ria	VER			historier	0	0.2
+historicité	is-to-Ri-si-te	his-to-ri-ci-té	NOM	f	s		0	0.14
+historico-culturelle	is-to-Ri-ko-kyl-ty-REl	historico-culturelle	ADJ	f	s	historico-culturel	0	0.07
+historiée	is-to-Rje	his-to-riée	VER	f	s	historier	0	0.07
+historiée	is-to-Rje	his-to-riée	ADJ	f	s	historié	0	0.07
+historien	is-to-Rj5	his-to-rien	NOM	m	s		1.49	3.11
+historienne	is-to-RjEn	his-to-rien-ne	NOM	f	s	historien	0.21	0.34
+historiens	is-to-Rj5	his-to-riens	NOM	m	p	historien	0.63	2.84
+historiés	is-to-Rje	his-to-riés	ADJ	m	p	historié	0	0.14
+historiés	is-to-Rje	his-to-riés	VER	m	p	historier	0	0.07
+historiette	is-to-RjEt	his-to-riet-te	NOM	f	s		0	0.14
+historiettes	is-to-RjEt	his-to-riet-tes	NOM	f	p	historiette	0	0.2
+historiographe	is-tO-Rjo-gRaf		NOM		s		0.01	0
+historiographie	is-to-Rjo-gRa-fi	his-to-rio-gra-phie	NOM	f	s		0.11	0
+historique	is-to-Rik	his-to-ri-que	ADJ		s		8.83	11.69
+historique	is-to-Rik	his-to-ri-que	NOM	m	s		1.73	0.74
+historiquement	is-to-Ri-k°-m@	his-to-ri-que-ment	ADV				0.99	0.47
+historiques	is-to-Rik	his-to-ri-ques	ADJ		p	historique	2.48	6.55
+historiques	is-to-Rik	his-to-ri-ques	NOM	m	p	historique	0.27	0.07
+histrion	is-tRi-j§	his-trion	NOM	m	s		0.23	0.27
+histrions	is-tRi-j§	his-trions	NOM	m	p	histrion	0.1	0.14
+hit	it	hit	NOM	m	s		1.37	0.41
+hit-parade	it-pa-Rad	hit-parade	NOM	m	s		0.69	0.68
+hit-parades	it-pa-Rad	hit-parades	NOM	m	p	hit-parade	0.04	0
+hitchcockien	it-SkO-kj5	hit-ch-co-ckien	ADJ	m	s		0.03	0.14
+hitlérien	it-le-Rj5	hit-lé-rien	ADJ	m	s		0.26	1.08
+hitlérien	it-le-Rj5	hit-lé-rien	NOM	m	s		0	0.14
+hitlérienne	it-le-RjEn	hit-lé-rien-ne	ADJ	f	s	hitlérien	0.14	2.16
+hitlérienne	it-le-RjEn	hit-lé-rien-ne	NOM	f	s	hitlérien	0	0.14
+hitlériennes	it-le-RjEn	hit-lé-rien-nes	ADJ	f	p	hitlérien	0.29	0.68
+hitlériennes	it-le-RjEn	hit-lé-rien-nes	NOM	f	p	hitlérien	0.1	0
+hitlériens	it-le-Rj5	hit-lé-riens	NOM	m	p	hitlérien	0	0.88
+hitlériens	it-le-Rj5	hit-lé-riens	ADJ	m	p	hitlérien	0	0.68
+hitlérisme	it-le-Rizm	hit-lé-ris-me	NOM	m	s		0.01	0.68
+hits	it	hits	NOM	m	p	hit	0.22	0.07
+hittite	i-tit	hit-ti-te	ADJ	m	s		0.04	0.2
+hittite	i-tit	hit-ti-te	NOM	m	s		0	0.07
+hittites	i-tit	hit-ti-tes	ADJ		p	hittite	0	0.2
+hiv	a-Si-ve	hiv	ADJ		s		0	1.62
+hiver	i-vER	hi-ver	NOM	m	s		37.44	96.28
+hivernage	i-vER-naZ	hi-ver-na-ge	NOM	m	s		0	0.95
+hivernaient	i-vER-nE	hi-ver-naient	VER			hiverner	0	0.07
+hivernait	i-vER-nE	hi-ver-nait	VER			hiverner	0	0.14
+hivernal	i-vER-nal	hi-ver-nal	ADJ	m	s		0.08	0.74
+hivernale	i-vER-nal	hi-ver-na-le	ADJ	f	s	hivernal	0.04	0.88
+hivernales	i-vER-nal	hi-ver-na-les	ADJ	f	p	hivernal	0.05	0.14
+hivernant	i-vER-n@	hi-ver-nant	ADJ	m	s		0	0.07
+hivernante	i-vER-n@t	hi-ver-nan-te	ADJ	f	s	hivernant	0	0.07
+hivernantes	i-vER-n@t	hi-ver-nan-tes	ADJ	f	p	hivernant	0	0.07
+hivernants	i-vER-n@	hi-ver-nants	NOM	m	p	hivernant	0	0.07
+hivernaux	i-vER-no	hi-ver-naux	ADJ	m	p	hivernal	0	0.07
+hiverne	i-vERn	hi-ver-ne	VER			hiverner	0	0.14
+hiverné	i-vER-ne	hi-ver-né	VER	m	s	hiverner	0	0.07
+hiverner	i-vER-ne	hi-ver-ner	VER				0.02	0.34
+hivernons	i-vER-n§	hi-ver-nons	VER			hiverner	0	0.07
+hivers	i-vER	hi-vers	NOM	m	p	hiver	1.52	3.24
+ho	o	ho	ONO				20.06	4.73
+hobbies	O-biz	hob-bies	NOM	m	p	hobby	0.61	0.2
+hobby	O-bi	hob-by	NOM	m	s		2.5	0
+hobereau	O-b°-Ro	ho-be-reau	NOM	m	s		0.02	1.01
+hobereaux	O-b°-Ro	ho-be-reaux	NOM	m	p	hobereau	0.01	0.81
+hocha	o-Sa	ho-cha	VER			hocher	0.16	14.12
+hochai	o-SE	ho-chai	VER			hocher	0	0.41
+hochaient	o-SE	ho-chaient	VER			hocher	0	1.15
+hochais	o-SE	ho-chais	VER			hocher	0	0.27
+hochait	o-SE	ho-chait	VER			hocher	0.02	5.27
+hochant	o-S@	ho-chant	VER			hocher	0.27	8.38
+hoche	OS	ho-che	VER			hocher	0.41	6.35
+hoché	o-Se	ho-ché	VER	m	s	hocher	0.27	2.23
+hochement	O-S°-m@	ho-che-ment	NOM	m	s		0.08	3.78
+hochements	O-S°-m@	ho-che-ments	NOM	m	p	hochement	0.02	1.89
+hochent	OS	ho-chent	VER			hocher	0.01	0.47
+hochepot	OS-po	ho-che-pot	NOM	m	s		0	0.14
+hocher	o-Se	ho-cher	VER				0.18	1.42
+hocheraient	O-S°-RE	ho-che-raient	VER			hocher	0	0.07
+hochèrent	o-SER	ho-chè-rent	VER			hocher	0	0.68
+hocheront	O-S°-R§	ho-che-ront	VER			hocher	0	0.07
+hoches	OS	ho-ches	VER			hocher	0.34	0
+hochet	o-SE	ho-chet	NOM	m	s		0.43	1.01
+hochets	o-SE	ho-chets	NOM	m	p	hochet	0.45	1.22
+hocheurs	o-S9R	ho-cheurs	NOM	m	p	hocheur	0	0.07
+hochez	o-Se	ho-chez	VER			hocher	0.14	0.14
+hochions	o-Sj§	ho-chions	VER			hocher	0	0.14
+hockey	O-kE	ho-ckey	NOM	m	s		6.38	0.14
+hockeyeur	O-kE-j9R	ho-ckeyeur	NOM	m	s		0.43	0.07
+hockeyeurs	O-kE-j9R	ho-ckeyeurs	NOM	m	p	hockeyeur	0.07	0.07
+hodgkinien	Od-Zki-nj5	hodg-ki-nien	ADJ	m	s		0.01	0
+hodja	Od-Za		NOM	m	s		0.19	0
+hoirie	wa-Ri	hoi-rie	NOM	f	s		0	0.27
+hoiries	wa-Ri	hoi-ries	NOM	f	p	hoirie	0	0.07
+holà	o-la	ho-là	ONO				4.87	1.62
+holà	o-la	ho-là	NOM	m			0.71	1.15
+hold up	Ol-d9p	hold up	NOM	m		hold-up	0.2	0
+hold-up	Ol-d9p	hold-up	NOM	m			7.59	3.38
+holding	Ol-diG	hol-ding	NOM		s		0.67	0.14
+holdings	Ol-diG	hol-ding-s	NOM		p	holding	0.06	0.14
+holistique	o-lis-tik	ho-lis-ti-que	ADJ		s		0.14	0
+holistiques	o-lis-tik	ho-lis-ti-ques	ADJ	m	p	holistique	0.01	0
+hollandais	o-l@-dE	hol-lan-dais	NOM	m	p		2.9	2.97
+hollandais	o-l@-dE	hol-lan-dais	ADJ	m			2.58	3.04
+hollandaise	o-l@-dEz	hol-lan-dai-se	ADJ	f	s	hollandais	1.01	2.09
+hollandaise	o-l@-dEz	hol-lan-dai-se	NOM	f	s		0.18	0.14
+hollandaises	o-l@-dEz	hol-lan-dai-ses	ADJ	f	p	hollandais	0.28	0.34
+hollandaises	o-l@-dEz	hol-lan-dai-ses	NOM	f	p	hollandais	0.04	0.14
+hollande	o-l@d	hol-lan-de	NOM	f	s		0.02	0.07
+hollywoodien	O-li-wu-dj5	hol-ly-woo-dien	ADJ	m	s		0	0.34
+hollywoodienne	O-li-wu-djEn	hol-ly-woo-dien-ne	ADJ	f	s	hollywoodien	0	0.34
+hollywoodiennes	O-li-wu-djEn	hol-ly-woo-dien-nes	ADJ	f	p	hollywoodien	0	0.07
+hollywoodiens	O-li-wu-dj5	hol-ly-woo-diens	ADJ	m	p	hollywoodien	0	0.54
+holocauste	o-lo-kost	ho-lo-caus-te	NOM	m	s		1.61	0.95
+holocaustes	o-lo-kost	ho-lo-caus-tes	NOM	m	p	holocauste	0	0.2
+holoèdres	o-lo-EdR	ho-lo-èdres	ADJ	f	p	holoèdre	0	0.07
+hologramme	o-lo-gRam	ho-lo-gram-me	NOM	m	s		1.45	0
+hologrammes	o-lo-gRam	ho-lo-gram-mes	NOM	m	p	hologramme	0.48	0
+holographe	o-lo-gRaf	ho-lo-gra-phe	ADJ		s		0.02	0
+holographes	o-lo-gRaf	ho-lo-gra-phes	ADJ		p	holographe	0.02	0
+holographie	o-lo-gRa-fi	ho-lo-gra-phie	NOM	f	s		0.06	0.07
+holographique	o-lo-gRa-fik	ho-lo-gra-phi-que	ADJ		s		0.47	0
+holographiques	o-lo-gRa-fik	ho-lo-gra-phi-ques	ADJ		p	holographique	0.09	0
+holothuries	o-lo-ty-Ri	ho-lo-thu-ries	NOM	f	p	holothurie	0	0.07
+holster	Ol-st9R	hol-ster	NOM	m	s		0.07	0.27
+hom	Om		ONO				0.54	0
+homard	o-maR	ho-mard	NOM	m	s		3.79	3.51
+homardiers	o-maR-dje	ho-mar-diers	NOM	m	p	homardier	0.01	0
+homards	o-maR	ho-mard-s	NOM	m	p	homard	1.18	1.82
+hombre	§bR	hom-bre	NOM	m	s		1.6	0.61
+home	om	ho-me	NOM	m	s		3.75	1.96
+home-trainer	om-tREj-n9R	home-trainer	NOM	m	s		0.01	0
+homeland	o-mE-l@d	ho-me-land	NOM	m	s		0.14	0
+homélie	o-me-li	ho-mé-lie	NOM	f	s		0.31	0.47
+homélies	o-me-li	ho-mé-lies	NOM	f	p	homélie	0.02	0.34
+homéopathe	o-me-o-pat	ho-méo-pa-the	ADJ	m	s		0.15	0
+homéopathe	o-me-o-pat	ho-méo-pa-the	NOM		s		0.07	0.07
+homéopathie	o-me-o-pa-ti	ho-méo-pa-thie	NOM	f	s		0.58	0.14
+homéopathique	o-me-o-pa-tik	ho-méo-pa-thi-que	ADJ		s		0.17	0.07
+homéopathiques	o-me-o-pa-tik	ho-méo-pa-thi-ques	ADJ	f	p	homéopathique	0	0.07
+homéostatique	O-me-Os-ta-tik		ADJ		s		0.01	0
+homéothermie	O-me-O-tER-mi		NOM	f	s		0.01	0
+homérique	o-me-Rik	ho-mé-ri-que	ADJ		s		0.04	0.54
+homériques	o-me-Rik	ho-mé-ri-ques	ADJ	f	p	homérique	0.01	0.41
+homes	om	ho-mes	NOM	m	p	home	0.24	0.2
+homicide	o-mi-sid	ho-mi-ci-de	NOM	m	s		10.3	0.47
+homicide	o-mi-sid	ho-mi-ci-de	ADJ		s		1.77	0.74
+homicides	o-mi-sid	ho-mi-ci-des	NOM	m	p	homicide	1.77	0
+homicides	o-mi-sid	ho-mi-ci-des	ADJ		p	homicide	0.22	0.14
+hominien	o-mi-nj5	ho-mi-nien	NOM	m	s		0	0.07
+hominiens	o-mi-nj5	ho-mi-niens	NOM	m	p	hominien	0	0.07
+hominisation	o-mi-ni-za-sj§	ho-mi-ni-sa-tion	NOM	f	s		0	0.07
+hommage	o-maZ	hom-ma-ge	NOM	m	s		11.11	13.31
+hommages	o-maZ	hom-ma-ges	NOM	m	p	hommage	5.34	3.38
+hommasse	o-mas	hom-mas-se	ADJ		s		0.05	0.47
+hommasses	o-mas	hom-mas-ses	ADJ	f	p	hommasse	0	0.14
+homme	Om	hom-me	NOM	m	s		781.11	852.23
+homme-chien	Om-Sj5		NOM	m	s		0.09	0.14
+homme-clé	Om-kle	homme-clé	NOM	m	s		0.04	0
+homme-femme	Om-fam		NOM	m	s		0.36	0.07
+homme-grenouille	Om-gR°-nuj	homme-grenouille	NOM	m	s		0.2	0.07
+homme-loup	Om-lu		NOM	m	s		0.05	0
+homme-machine	Om-ma-Sin		NOM	m	s		0.04	0
+homme-oiseau	O-mwa-zo		NOM	m	s		0.05	0
+homme-orchestre	O-mOR-kEstR	homme-orchestre	NOM	m	s		0.03	0.07
+homme-poisson	Om-pwa-s§		NOM	m	s		0.06	0
+homme-robot	Om-Ro-bo	homme-robot	NOM	m	s		0.07	0
+homme-sandwich	Om-s@-dwitS	homme-sandwich	NOM	m	s		0	0.41
+homme-serpent	Om-sER-p@		NOM	m	s		0.02	0.27
+hommes	Om	hom-mes	NOM	m	p	homme	342.44	546.62
+hommes-grenouilles	Om-gR°-nuj	hommes-grenouilles	NOM	m	p	homme-grenouille	0.16	0.14
+homo	o-mo	ho-mo	ADJ		s		7.18	0.41
+homo	o-mo	ho-mo	NOM		s		2.19	0.74
+homo erectus	o-mo-e-Rek-tys	ho-mo e-rec-tus	NOM	m			0.04	0
+homo habilis	o-mo-a-bi-lis	ho-mo ha-bi-lis	NOM	m			0	0.07
+homogène	o-mo-ZEn	ho-mo-gè-ne	ADJ		s		0.4	2.43
+homogénéisateur	O-mO-Ze-ne-i-za-t9R		NOM	m	s		0.14	0
+homogénéisation	o-mo-Ze-ne-i-za-sj§	ho-mo-gé-néi-sa-tion	NOM	f	s		0.03	0.07
+homogénéisé	o-mo-Ze-ne-i-ze	ho-mo-gé-néi-sé	VER	m	s	homogénéiser	0.01	0.07
+homogénéisé	o-mo-Ze-ne-i-ze	ho-mo-gé-néi-sé	ADJ	m	s		0.02	0
+homogénéisée	o-mo-Ze-ne-i-ze	ho-mo-gé-néi-sée	ADJ	f	s	homogénéisé	0.03	0.07
+homogénéité	o-mo-Ze-ne-i-te	ho-mo-gé-néi-té	NOM	f	s		0.04	0.34
+homogènes	o-mo-ZEn	ho-mo-gè-nes	ADJ		p	homogène	0.04	0.34
+homologable	o-mo-lo-gabl	ho-mo-lo-ga-ble	ADJ		s		0	0.07
+homologation	o-mo-lo-ga-sj§	ho-mo-lo-ga-tion	NOM	f	s		0.1	0.2
+homologue	o-mo-lOg	ho-mo-lo-gue	NOM		s		0.2	0.07
+homologue	o-mo-lOg	ho-mo-lo-gue	ADJ		s		0.01	0
+homologué	o-mo-lo-ge	ho-mo-lo-gué	ADJ	m	s		0.01	0.14
+homologué	o-mo-lo-ge	ho-mo-lo-gué	VER	m	s	homologuer	0	0.14
+homologuée	o-mo-lo-ge	ho-mo-lo-guée	ADJ	f	s	homologué	0	0.07
+homologuée	o-mo-lo-ge	ho-mo-lo-guée	VER	f	s	homologuer	0.01	0
+homologuer	o-mo-lo-ge	ho-mo-lo-guer	VER				0.12	0.2
+homologues	o-mo-lOg	ho-mo-lo-gues	NOM		p	homologue	0.11	0.2
+homologues	o-mo-lOg	ho-mo-lo-gues	ADJ	f	p	homologue	0.01	0
+homologués	o-mo-lo-ge	ho-mo-lo-gués	VER	m	p	homologuer	0.01	0.07
+homologués	o-mo-lo-ge	ho-mo-lo-gués	ADJ	m	p	homologué	0	0.07
+homoncule	o-m§-kyl	ho-mon-cu-le	NOM	m	s		0.02	0.07
+homonyme	o-mo-nim	ho-mo-ny-me	NOM		s		0.21	0.47
+homonyme	o-mo-nim	ho-mo-ny-me	ADJ		s		0.03	0.27
+homonymes	o-mo-nim	ho-mo-ny-mes	NOM		p	homonyme	0.04	0
+homonymie	o-mo-ni-mi	ho-mo-ny-mie	NOM	f	s		0	0.27
+homonymique	o-mo-ni-mik	ho-mo-ny-mi-que	ADJ		s		0	0.07
+homophile	o-mo-fil	ho-mo-phi-le	NOM	m	s		0.01	0.14
+homophilie	o-mo-fi-li	ho-mo-phi-lie	NOM	f	s		0	0.07
+homophobe	o-mo-fOb	ho-mo-pho-be	ADJ		s		0.57	0.07
+homophobes	o-mo-fOb	ho-mo-pho-bes	ADJ	f	p	homophobe	0.16	0
+homophone	O-mO-fOn		NOM	m	s		0.01	0
+homophonie	o-mo-fo-ni	ho-mo-pho-nie	NOM	f	s		0	0.07
+homos	o-mo	ho-mos	NOM		p	homo	2.31	0.2
+homos	o-mo	ho-mos	ADJ		p	homo	0.97	0
+homosexualité	o-mo-sek-s8a-li-te	ho-mo-sexua-li-té	NOM	f	s		4.81	2.57
+homosexuel	o-mo-sek-s8El	ho-mo-sexuel	ADJ	m	s		3.77	1.76
+homosexuel	o-mo-sek-s8El	ho-mo-sexuel	NOM	m	s		1.11	1.89
+homosexuelle	o-mo-sek-s8El	ho-mo-sexuel-le	ADJ	f	s	homosexuel	0.63	0.34
+homosexuelle	o-mo-sek-s8El	ho-mo-sexuel-le	NOM	f	s		0.27	0.07
+homosexuelles	o-mo-sek-s8El	ho-mo-sexuel-les	ADJ	f	p	homosexuel	0.66	0.34
+homosexuelles	o-mo-sek-s8El	ho-mo-sexuel-les	NOM	f	p	homosexuelle	0.01	0
+homosexuels	o-mo-sek-s8El	ho-mo-sexuels	NOM	m	p	homosexuel	2.51	2.43
+homosexuels	o-mo-sek-s8El	ho-mo-sexuels	ADJ	m	p	homosexuel	0.75	0.68
+homozygote	o-mo-zi-gOt		ADJ		s		0.01	0
+homuncule	O-m§-kyl		NOM	m	s		0.14	0
+hon	§	hon	ONO				0.57	1.01
+hondurien	§-dy-Rj5		ADJ	m	s		0.01	0
+hondurien	§-dy-Rj5		NOM	m	s		0.01	0
+hong kong	§g-k§g	hong kong	NOM		s		0.03	0
+hongkongais	§g-k§-gE	hong-kon-gais	NOM	m			0.14	0
+hongre	§gR	hon-gre	NOM	m	s		0.01	0.41
+hongre	§gR	hon-gre	ADJ	m	s		0.17	0.14
+hongres	§gR	hon-gres	ADJ	m	p	hongre	0.01	0.07
+hongres	§gR	hon-gres	NOM	m	p	hongre	0	0.07
+hongrois	§g-Rwa	hon-grois	NOM	m			1.73	2.36
+hongrois	§g-Rwa	hon-grois	ADJ	m			1.01	2.77
+hongroise	§g-Rwaz	hon-groi-se	ADJ	f	s	hongrois	0.74	0.81
+hongroise	§g-Rwaz	hon-groi-se	NOM	f	s		0.97	0.47
+hongroises	§g-Rwaz	hon-groi-ses	ADJ	f	p	hongrois	0.04	0.34
+hongroises	§g-Rwaz	hon-groi-ses	NOM	f	p	hongroise	0.1	0
+honnête	o-nEt	hon-nê-te	ADJ		s		43.6	20.2
+honnêtement	o-nE-t°-m@	hon-nê-te-ment	ADV				12.06	4.73
+honnêtes	o-nEt	hon-nê-tes	ADJ		p	honnête	10.29	8.04
+honnêteté	o-nEt-te	hon-nê-te-té	NOM	f	s		7.2	6.42
+honneur	o-n9R	hon-neur	NOM	m	s		126.78	87.64
+honneurs	o-n9R	hon-neurs	NOM	m	p	honneur	3.92	9.73
+honni	o-ni	hon-ni	ADJ	m	s		0.55	0.41
+honni	o-ni	hon-ni	VER	m	s	honnir	0.14	0.2
+honnie	o-ni	hon-nie	VER	f	s	honnir	0.03	0.2
+honnie	o-ni	hon-nie	ADJ	f	s	honni	0.02	0.14
+honnir	o-niR	hon-nir	VER				0	0.07
+honnis	o-ni	hon-nis	VER	m	p	honnir	0.01	0.14
+honnis	o-ni	hon-nis	ADJ	m	p	honni	0	0.07
+honnissait	o-ni-sE	hon-nis-sait	VER			honnir	0	0.2
+honnissant	o-ni-s@	hon-nis-sant	VER			honnir	0	0.07
+honnissent	o-nis	hon-nis-sent	VER			honnir	0	0.07
+honnit	o-ni	hon-nit	VER			honnir	0.01	0.07
+honora	o-no-Ra	ho-no-ra	VER			honorer	0.03	0.27
+honorabilité	o-no-Ra-bi-li-te	ho-no-ra-bi-li-té	NOM	f	s		0.2	1.15
+honorable	o-no-Rabl	ho-no-ra-ble	ADJ		s		9.31	8.24
+honorablement	o-no-Ra-bl°-m@	ho-no-ra-ble-ment	ADV				0.41	1.55
+honorables	o-no-Rabl	ho-no-ra-bles	ADJ		p	honorable	2.13	2.57
+honorai	o-no-RE	ho-no-rai	VER			honorer	0	0.07
+honoraient	o-no-RE	ho-no-raient	VER			honorer	0.01	0.47
+honoraire	o-no-RER	ho-no-rai-re	ADJ		s		0.77	0.68
+honoraires	o-no-RER	ho-no-rai-res	NOM	m	p	honoraire	3.06	1.49
+honoraires	o-no-RER	ho-no-rai-res	ADJ	m	p	honoraire	0.13	0.14
+honorais	o-no-RE	ho-no-rais	VER			honorer	0.01	0.07
+honorait	o-no-RE	ho-no-rait	VER			honorer	0.08	1.49
+honorant	o-no-R@	ho-no-rant	VER			honorer	0.03	0.2
+honorât	o-no-Ra	ho-no-rât	VER			honorer	0	0.07
+honore	o-nOR	ho-no-re	VER			honorer	4.41	1.62
+honoré	o-no-Re	ho-no-ré	VER	m	s	honorer	5.09	1.89
+honoré	o-no-Re	ho-no-ré	ADJ	m	s		2.02	0.95
+honorée	o-no-Re	ho-no-rée	VER	f	s	honorer	0.92	0.54
+honorée	o-no-Re	ho-no-rée	ADJ	f	s	honoré	0.36	0.27
+honorées	o-no-Re	ho-no-rées	VER	f	p	honorer	0.13	0.27
+honorent	o-nOR	ho-no-rent	VER			honorer	0.8	0.54
+honorer	o-no-Re	ho-no-rer	VER				6.13	5.07
+honorera	o-nO-R°-Ra	ho-no-re-ra	VER			honorer	0.14	0
+honorerai	o-nO-R°-RE	ho-no-re-rai	VER			honorer	0.34	0
+honorerait	o-nO-R°-RE	ho-no-re-rait	VER			honorer	0.05	0.14
+honoreras	o-nO-R°-Ra	ho-no-re-ras	VER			honorer	0.23	0
+honorèrent	o-no-RER	ho-no-rè-rent	VER			honorer	0	0.07
+honorerez	o-nO-R°-Re	ho-no-re-rez	VER			honorer	0.23	0
+honorerons	o-nO-R°-R§	ho-no-re-rons	VER			honorer	0.15	0
+honoreront	o-nO-R°-R§	ho-no-re-ront	VER			honorer	0.03	0
+honores	o-nOR	ho-no-res	VER			honorer	0.65	0
+honorés	o-no-Re	ho-no-rés	VER	m	p	honorer	1.1	0.34
+honorés	o-no-Re	ho-no-rés	ADJ	m	p	honoré	0.19	0.54
+honorez	o-no-Re	ho-no-rez	VER			honorer	1.54	0.07
+honoriez	o-no-Rje	ho-no-riez	VER			honorer	0.02	0.07
+honorifique	o-no-Ri-fik	ho-no-ri-fi-que	ADJ		s		0.61	0.54
+honorifiques	o-no-Ri-fik	ho-no-ri-fi-ques	ADJ		p	honorifique	0.03	0.14
+honoris causa	o-no-Ris-ko-za	ho-no-ris cau-sa	ADV				0.16	0.27
+honorons	o-no-R§	ho-no-rons	VER			honorer	0.52	0
+honte	§t	hon-te	NOM	f	s		103.26	82.64
+hontes	§t	hon-tes	NOM	f	p	honte	0.14	0.81
+honteuse	§-t2z	hon-teu-se	ADJ	f	s	honteux	1.91	6.89
+honteusement	§-t2-z°-m@	hon-teu-se-ment	ADV				0.58	2.43
+honteuses	§-t2z	hon-teu-ses	ADJ	f	p	honteux	0.45	2.36
+honteux	§-t2	hon-teux	ADJ	m			7.17	13.04
+hooligan	u-li-gan	hoo-li-gan	NOM	m	s		0.1	0.07
+hooligans	u-li-g@	hoo-li-gans	NOM	m	p	hooligan	0.62	0.07
+hop	Op	hop	ONO				26.52	14.19
+hopak	O-pak		NOM	m	s		0.01	0
+hopi	o-pi	ho-pi	ADJ	f	s		0.01	0.07
+hopi	o-pi	ho-pi	NOM		s		0.01	0
+hopis	o-pi	ho-pis	ADJ	m	p	hopi	0	0.07
+hôpital	o-pi-tal	hô-pi-tal	NOM	m	s		126.08	50.41
+hôpitaux	o-pi-to	hô-pi-taux	NOM	m	p	hôpital	7.07	4.53
+hoplite	o-plit	ho-pli-te	NOM	m	s		0	0.07
+hoquet	o-kE	ho-quet	NOM	m	s		1.57	4.32
+hoqueta	O-k°-ta	ho-que-ta	VER			hoqueter	0	1.55
+hoquetai	O-k°-tE	ho-que-tai	VER			hoqueter	0	0.14
+hoquetais	O-k°-tE	ho-que-tais	VER			hoqueter	0	0.14
+hoquetait	O-k°-tE	ho-que-tait	VER			hoqueter	0	1.15
+hoquetant	O-k°-t@	ho-que-tant	VER			hoqueter	0.01	1.35
+hoqueté	O-k°-te	ho-que-té	VER	m	s	hoqueter	0	0.27
+hoqueter	O-k°-te	ho-que-ter	VER				0.01	0.41
+hoquetons	O-k°-t§	ho-que-tons	VER			hoqueter	0	0.07
+hoquets	o-kE	ho-quets	NOM	m	p	hoquet	0.16	3.58
+hoquette	o-kEt	ho-quet-te	VER			hoqueter	0.01	0.47
+horaire	o-RER	ho-rai-re	NOM	m	s		2.64	3.58
+horaire	o-RER	ho-rai-re	ADJ		s		2.35	1.08
+horaires	o-RER	ho-rai-res	NOM	m	p	horaire	6.3	4.32
+horaires	o-RER	ho-rai-res	ADJ		p	horaire	0.48	1.15
+horde	ORd	hor-de	NOM	f	s		2.33	3.78
+hordes	ORd	hor-des	NOM	f	p	horde	0.62	3.24
+horion	o-Rj§	ho-rion	NOM	m	s		0	0.14
+horions	o-Rj§	ho-rions	NOM	m	p	horion	0	0.74
+horizon	o-Ri-z§	ho-ri-zon	NOM	m	s		7.8	61.08
+horizons	o-Ri-z§	ho-ri-zons	NOM	m	p	horizon	1.24	5.07
+horizontal	o-Ri-z§-tal	ho-ri-zon-tal	ADJ	m	s		0.88	2.84
+horizontale	o-Ri-z§-tal	ho-ri-zon-ta-le	ADJ	f	s	horizontal	0.39	3.85
+horizontale	o-Ri-z§-tal	ho-ri-zon-ta-le	NOM	f	s		0.87	2.77
+horizontalement	o-Ri-z§-ta-l°-m@	ho-ri-zon-ta-le-ment	ADV				0.15	1.96
+horizontales	o-Ri-z§-tal	ho-ri-zon-ta-les	ADJ	f	p	horizontal	0.18	2.09
+horizontales	o-Ri-z§-tal	ho-ri-zon-ta-les	NOM	f	p	horizontale	0.5	0.27
+horizontalité	o-Ri-z§-ta-li-te	ho-ri-zon-ta-li-té	NOM	f	s		0	0.2
+horizontaux	o-Ri-z§-to	ho-ri-zon-taux	ADJ	m	p	horizontal	0.03	1.69
+horloge	OR-lOZ	hor-lo-ge	NOM	f	s		9.37	13.99
+horloger	OR-lo-Ze	hor-lo-ger	NOM	m	s		0.34	2.23
+horloger	OR-lo-Ze	hor-lo-ger	ADJ	m	s		0.25	0.2
+horlogère	OR-lo-ZER	hor-lo-gè-re	NOM	f	s	horloger	0	2.64
+horlogère	OR-lo-ZER	hor-lo-gè-re	ADJ	f	s	horloger	0	0.2
+horlogerie	OR-lO-Z°-Ri	hor-lo-ge-rie	NOM	f	s		0.29	1.08
+horlogers	OR-lo-Ze	hor-lo-gers	NOM	m	p	horloger	0.05	0.54
+horlogers	OR-lo-Ze	hor-lo-gers	ADJ	m	p	horloger	0.01	0.07
+horloges	OR-lOZ	hor-lo-ges	NOM	f	p	horloge	1.11	2.5
+hormis	OR-mi	hor-mis	PRE				3.23	5.74
+hormonal	OR-mo-nal	hor-mo-nal	ADJ	m	s		0.51	0.14
+hormonale	OR-mo-nal	hor-mo-na-le	ADJ	f	s	hormonal	0.19	0.2
+hormonales	OR-mo-nal	hor-mo-na-les	ADJ	f	p	hormonal	0.04	0
+hormonaux	OR-mo-no		ADJ	m	p	hormonal	0.03	0
+hormone	OR-mOn	hor-mo-ne	NOM	f	s		0.57	0.2
+hormones	OR-mOn	hor-mo-nes	NOM	f	p	hormone	4.12	0.47
+hormonés	OR-mo-ne	hor-mo-nés	VER	m	p	hormoner	0	0.07
+hornblende	OR-nbl5nd		NOM	f	s		0.01	0
+horoscope	o-Ros-kOp	ho-ro-sco-pe	NOM	m	s		2.47	1.28
+horoscopes	o-Ros-kOp	ho-ro-sco-pes	NOM	m	p	horoscope	0.43	0.68
+horreur	o-R9R	hor-reur	NOM	f	s		39.79	61.35
+horreurs	o-R9R	hor-reurs	NOM	f	p	horreur	6.4	8.11
+horrible	o-Ribl	hor-ri-ble	ADJ		s		57.16	20.74
+horriblement	o-Ri-bl°-m@	hor-ri-ble-ment	ADV				3.23	4.53
+horribles	o-Ribl	hor-ri-bles	ADJ		p	horrible	10.07	4.73
+horrifia	o-Ri-fja	hor-ri-fia	VER			horrifier	0	0.14
+horrifiaient	o-Ri-fjE	hor-ri-fiaient	VER			horrifier	0	0.07
+horrifiait	o-Ri-fjE	hor-ri-fiait	VER			horrifier	0.02	0.2
+horrifiant	o-Ri-fj@	hor-ri-fiant	ADJ	m	s		0.19	1.08
+horrifiant	o-Ri-fj@	hor-ri-fiant	VER			horrifier	0	0.07
+horrifiante	o-Ri-fj@t	hor-ri-fian-te	ADJ	f	s	horrifiant	0.04	0.07
+horrifiants	o-Ri-fj@	hor-ri-fiants	ADJ	m	p	horrifiant	0.01	0.34
+horrifie	o-Ri-fi	hor-ri-fie	VER			horrifier	0.14	0.14
+horrifié	o-Ri-fje	hor-ri-fié	VER	m	s	horrifier	0.61	1.35
+horrifié	o-Ri-fje	hor-ri-fié	ADJ	m	s		0.05	0.88
+horrifiée	o-Ri-fje	hor-ri-fiée	VER	f	s	horrifier	0.42	0.54
+horrifiée	o-Ri-fje	hor-ri-fiée	ADJ	f	s	horrifié	0.02	0.88
+horrifiées	o-Ri-fje	hor-ri-fiées	VER	f	p	horrifier	0.02	0.07
+horrifiées	o-Ri-fje	hor-ri-fiées	ADJ	f	p	horrifié	0	0.07
+horrifier	o-Ri-fje	hor-ri-fier	VER				0.01	0.27
+horrifièrent	o-Ri-fjER	hor-ri-fiè-rent	VER			horrifier	0	0.07
+horrifiés	o-Ri-fje	hor-ri-fiés	ADJ	m	p	horrifié	0.21	0.34
+horrifiés	o-Ri-fje	hor-ri-fiés	VER	m	p	horrifier	0.14	0.14
+horrifique	o-Ri-fik	hor-ri-fi-que	ADJ	f	s		0.04	0.14
+horripilaient	o-Ri-pi-lE	hor-ri-pi-laient	VER			horripiler	0	0.07
+horripilais	o-Ri-pi-lE	hor-ri-pi-lais	VER			horripiler	0	0.07
+horripilait	o-Ri-pi-lE	hor-ri-pi-lait	VER			horripiler	0	0.34
+horripilant	o-Ri-pi-l@	hor-ri-pi-lant	ADJ	m	s		0.19	0.2
+horripilant	o-Ri-pi-l@	hor-ri-pi-lant	VER			horripiler	0	0.07
+horripilante	o-Ri-pi-l@t	hor-ri-pi-lan-te	ADJ	f	s	horripilant	0.07	0.2
+horripilantes	o-Ri-pi-l@t	hor-ri-pi-lan-tes	ADJ	f	p	horripilant	0.03	0.07
+horripilants	o-Ri-pi-l@	hor-ri-pi-lants	ADJ	m	p	horripilant	0	0.2
+horripilation	o-Ri-pi-la-sj§	hor-ri-pi-la-tion	NOM	f	s		0.01	0.14
+horripilations	o-Ri-pi-la-sj§	hor-ri-pi-la-tions	NOM	f	p	horripilation	0	0.07
+horripile	o-Ri-pil	hor-ri-pi-le	VER			horripiler	0.21	0.41
+horripilé	o-Ri-pi-le	hor-ri-pi-lé	VER	m	s	horripiler	0	0.14
+horripilée	o-Ri-pi-le	hor-ri-pi-lée	VER	f	s	horripiler	0.01	0.2
+horripilent	o-Ri-pil	hor-ri-pi-lent	VER			horripiler	0.01	0.07
+horripiler	o-Ri-pi-le	hor-ri-pi-ler	VER				0.01	0.07
+horripilés	o-Ri-pi-le	hor-ri-pi-lés	VER	m	p	horripiler	0	0.07
+hors	OR	hors	PRE				71.94	92.43
+hors-bord	OR-bOR	hors-bord	NOM	m	p		0.45	0.61
+hors-bord	OR-bOR	hors-bord	ADJ				0.04	0.27
+hors-cote	OR-kOt	hors-cote	ADJ				0.01	0
+hors-d'oeuvre	OR-d9vR	hors-d'oeuvre	NOM	m			0.56	1.96
+hors-jeu	OR-Z2	hors-jeu	ADJ				1.13	0.2
+hors-jeu	OR-Z2	hors-jeu	NOM	m			0.2	0.2
+hors-la-loi	OR-la-lwa	hors-la-loi	NOM	m	p		3.21	1.49
+hors-piste	OR-pist	hors-piste	NOM	m	p		0.45	0
+hors-série	OR-se-Ri		ADJ	f	s		0.01	0.2
+horse-guard	OR-sgwaRd	horse-guard	NOM	m	s		0	0.07
+horse-guards	OR-sgwaRds	horse-guards	NOM	m	p	horse-guard	0.02	0.07
+hortensia	OR-t@-sja	hor-ten-sia	NOM	m	s		0.3	0.34
+hortensias	OR-t@-sja	hor-ten-sias	NOM	m	p	hortensia	0.36	1.69
+horticoles	OR-ti-kOl	hor-ti-co-les	ADJ	m	p	horticole	0	0.07
+horticulteur	OR-ti-kyl-t9R	hor-ti-cul-teur	NOM	m	s		0.06	0.34
+horticulteurs	OR-ti-kyl-t9R	hor-ti-cul-teurs	NOM	m	p	horticulteur	0.01	0.2
+horticultrice	OR-ti-kyl-tRis		NOM	f	s		0.01	0
+horticulture	OR-ti-kyl-tyR	hor-ti-cul-tu-re	NOM	f	s		0.23	0.27
+hortillonnage	OR-ti-jo-naZ	hor-til-lon-na-ge	NOM	m	s		0	0.07
+hosanna	o-za-na	ho-san-na	NOM	m	s		0.23	0.41
+hosannah	o-za-na	ho-san-nah	NOM	m	s		0	0.27
+hosannas	o-za-na	ho-san-nas	NOM	m	p	hosanna	0.3	0.14
+hospice	Os-pis	hos-pi-ce	NOM	m	s		3.06	6.28
+hospices	Os-pis	hos-pi-ces	NOM	m	p	hospice	0.05	0.68
+hospitalier	Os-pi-ta-lje	hos-pi-ta-lier	ADJ	m	s		1.38	1.22
+hospitalier	Os-pi-ta-lje	hos-pi-ta-lier	NOM	m	s		0	0.07
+hospitalière	Os-pi-ta-ljER	hos-pi-ta-liè-re	ADJ	f	s	hospitalier	0.21	0.61
+hospitalières	Os-pi-ta-ljER	hos-pi-ta-liè-res	ADJ	f	p	hospitalier	0.02	0.34
+hospitaliers	Os-pi-ta-lje	hos-pi-ta-liers	ADJ	m	p	hospitalier	0.26	0.74
+hospitaliers	Os-pi-ta-lje	hos-pi-ta-liers	NOM	m	p	hospitalier	0.02	0.68
+hospitalisation	Os-pi-ta-li-za-sj§	hos-pi-ta-li-sa-tion	NOM	f	s		0.71	0.27
+hospitalisations	Os-pi-ta-li-za-sj§	hos-pi-ta-li-sa-tions	NOM	f	p	hospitalisation	0.14	0
+hospitalisé	Os-pi-ta-li-ze	hos-pi-ta-li-sé	VER	m	s	hospitaliser	1.95	1.01
+hospitalisée	Os-pi-ta-li-ze	hos-pi-ta-li-sée	VER	f	s	hospitaliser	1.42	0.61
+hospitalisées	Os-pi-ta-li-ze	hos-pi-ta-li-sées	VER	f	p	hospitaliser	0.03	0
+hospitaliser	Os-pi-ta-li-ze	hos-pi-ta-li-ser	VER				1.46	0.54
+hospitaliserons	Os-pi-ta-li-z°-R§	hos-pi-ta-li-se-rons	VER			hospitaliser	0.01	0
+hospitalisés	Os-pi-ta-li-ze	hos-pi-ta-li-sés	VER	m	p	hospitaliser	0.32	0.2
+hospitalité	Os-pi-ta-li-te	hos-pi-ta-li-té	NOM	f	s		6.72	3.85
+hospodar	Os-po-daR	hos-po-dar	NOM	m	s		0	0.27
+hospodars	Os-po-daR	hos-po-dars	NOM	m	p	hospodar	0	0.27
+hostau	Os-to	hos-tau	NOM	m	s		0	0.2
+hostellerie	O-tE-l°-Ri	hos-tel-le-rie	NOM	f	s		0.1	1.08
+hostelleries	O-tE-l°-Ri	hos-tel-le-ries	NOM	f	p	hostellerie	0	0.14
+hostie	Os-ti	hos-tie	NOM	f	s		1.74	3.45
+hosties	Os-ti	hos-ties	NOM	f	p	hostie	0.57	0.41
+hostile	Os-til	hos-ti-le	ADJ		s		6.32	15.47
+hostilement	Os-ti-l°-m@	hos-ti-le-ment	ADV				0	0.2
+hostiles	Os-til	hos-ti-les	ADJ		p	hostile	2.24	5.68
+hostilité	Os-ti-li-te	hos-ti-li-té	NOM	f	s		2.7	11.89
+hostilités	Os-ti-li-te	hos-ti-li-tés	NOM	f	p	hostilité	0.82	3.92
+hosto	Os-to	hos-to	NOM	m	s		5.69	5.41
+hostos	Os-to	hos-tos	NOM	m	p	hosto	0.05	0.41
+hot	Ot	hot	ADJ				1.67	0.2
+hot	Ot	hot	NOM	m	p		0.56	0.14
+hot dog	Ot-dOg	hot dog	NOM	m	s		1.31	0.14
+hot dogs	Ot-dOg	hot dog-s	NOM	m	p	hot dog	1.38	0
+hot-dog	Ot-dOg	hot-dog	NOM	m	s		3.12	0.07
+hot-dogs	Ot-dOg	hot-dogs	NOM	m	p	hot-dog	2.98	0.2
+hôte	ot	hô-te	NOM	m	s		13.43	10.81
+hôtel	o-tEl	hô-tel	NOM	m	s		107.73	143.78
+hôtel-dieu	o-tEl-dj2	hôtel-dieu	NOM	m	s		0.01	0.81
+hôtel-restaurant	o-tEl-REs-tO-R@		NOM	m	s		0	0.14
+hôtelier	o-t°-lje	hô-te-lier	NOM	m	s		0.43	1.08
+hôtelier	o-t°-lje	hô-te-lier	ADJ	m	s		0.23	0.61
+hôtelière	o-t°-ljER	hô-te-liè-re	ADJ	f	s	hôtelier	0.61	0.27
+hôtelière	o-t°-ljER	hô-te-liè-re	NOM	f	s	hôtelier	0	0.07
+hôtelières	o-t°-ljER	hô-te-liè-res	ADJ	f	p	hôtelier	0.01	0.07
+hôteliers	o-t°-lje	hô-te-liers	ADJ	m	p	hôtelier	0	0.34
+hôteliers	o-t°-lje	hô-te-liers	NOM	m	p	hôtelier	0.01	0.2
+hôtellerie	o-tE-l°-Ri	hô-tel-le-rie	NOM	f	s		0.57	1.76
+hôtelleries	o-tE-l°-Ri	hô-tel-le-ries	NOM	f	p	hôtellerie	0	0.07
+hôtels	o-tEl	hô-tels	NOM	m	p	hôtel	6.94	15.14
+hôtes	ot	hô-tes	NOM	m	p	hôte	6	9.39
+hôtesse	o-tEs	hô-tes-se	NOM	f	s		6.79	7.43
+hôtesses	o-tEs	hô-tes-ses	NOM	f	p	hôtesse	1.55	0.88
+hotline	Ot-lajn	hot-li-ne	NOM	f	s		0.52	0
+hotte	Ot	hot-te	NOM	f	s		1	2.43
+hottée	o-te	hot-tée	NOM	f	s		0	0.07
+hotter	O-te		VER				0.01	0
+hottes	Ot	hot-tes	NOM	f	p	hotte	0.24	0.14
+hotu	o-ty	ho-tu	NOM	m	s		0	0.41
+hotus	o-ty	ho-tus	NOM	m	p	hotu	0	0.41
+hou	u	hou	ONO				8.65	5.27
+houa	u-a	houa	VER			houer	0.07	0
+houari	wa-Ri	houa-ri	NOM	m	s		0	0.07
+houblon	u-bl§	hou-blon	NOM	m	s		0.31	0.54
+houblonnés	u-blo-ne	hou-blon-nés	VER	m	p	houblonner	0	0.07
+houblons	u-bl§	hou-blons	NOM	m	p	houblon	0	0.07
+houe	u	houe	NOM	f	s		0.37	0.34
+houhou	u-u	hou-hou	ONO				0.46	0.27
+houille	uj	houil-le	NOM	f	s		0	0.81
+houiller	u-je	houil-ler	ADJ	m	s		0	0.14
+houillère	u-jER	houil-lè-re	ADJ	f	s		0.01	0.07
+houillère	u-jER	houil-lè-re	NOM	f	s		0.05	0
+houillères	u-jER	houil-lè-res	NOM	f	p	houillère	0	0.41
+houilles	uj	houil-les	NOM	f	p	houille	0	0.07
+houlà	u-la	hou-là	ONO				0.13	0.61
+houle	ul	hou-le	NOM	f	s		0.44	8.85
+houler	u-le		VER				0	0.07
+houles	ul	hou-les	NOM	f	p	houle	0.02	1.22
+houlette	u-lEt	hou-let-te	NOM	f	s		0.82	0.81
+houleuse	u-l2z	hou-leu-se	ADJ	f	s	houleux	0.66	1.35
+houleuses	u-l2z	hou-leu-ses	ADJ	f	p	houleux	0.01	0.27
+houleux	u-l2	hou-leux	ADJ	m			0.11	0.54
+houligan	u-li-gan	hou-li-gan	NOM	m	s		0	0.07
+houliganisme	u-li-ga-nizm	hou-li-ga-nis-me	NOM	m	s		0	0.2
+houlque	ulk	houl-que	NOM	f	s		0	0.07
+houp	up	houp	ONO				0.07	0.14
+houppe	up	houp-pe	NOM	f	s		0.01	0.54
+houppelande	u-p°-l@d	houp-pe-lan-de	NOM	f	s		0.03	1.96
+houppelandes	u-p°-l@d	houp-pe-lan-des	NOM	f	p	houppelande	0	0.14
+houppes	up	houp-pes	NOM	f	p	houppe	0.01	0.14
+houppette	u-pEt	houp-pet-te	NOM	f	s		0.02	2.09
+houppettes	u-pEt	houp-pet-tes	NOM	f	p	houppette	0	0.34
+hourdis	uR-di	hour-dis	NOM	m			0	0.07
+hourds	uR	hourd-s	NOM	m	p	hourd	0	0.2
+houri	u-Ri	hou-ri	NOM	f	s		0.1	0.41
+houris	u-Ri	hou-ris	NOM	f	p	houri	0	0.2
+hourra	u-Ra	hour-ra	ONO				5.18	0.81
+hourra	u-Ra	hour-ra	NOM	m	s		2.11	0.74
+hourrah	u-Ra	hour-rah	NOM	m	s		0.77	0.34
+hourrahs	u-Ra	hour-rahs	NOM	m	p	hourrah	0	0.07
+hourras	u-Ra	hour-ras	NOM	m	p	hourra	0.27	0.68
+hourvari	uR-va-Ri	hour-va-ri	NOM	m	s		0.27	0.41
+hourvaris	uR-va-Ri	hour-va-ris	NOM	m	p	hourvari	0	0.14
+housards	u-zaR	hou-sard-s	NOM	m	p	housard	0	0.14
+house	awz	hou-se	NOM	f	s		4.74	0.27
+house music	aw-zmjy-zik	hou-se mu-sic	NOM	f	s		0.01	0
+house-boat	aw-sbOwt		NOM	m	s		0.02	0
+house-boats	aw-zbOwts	house-boats	NOM	m	p	house-boat	0.01	0.07
+houseau	u-zo	hou-seau	NOM	m	s		0	0.2
+houseaux	u-zo	hou-seaux	NOM	m	p	houseau	0.1	0.88
+houspilla	us-pi-ja	hous-pil-la	VER			houspiller	0	0.07
+houspillaient	us-pi-jE	hous-pil-laient	VER			houspiller	0	0.14
+houspillait	us-pi-jE	hous-pil-lait	VER			houspiller	0.01	0.47
+houspillâmes	us-pi-jam	hous-pil-lâ-mes	VER			houspiller	0	0.07
+houspillant	us-pi-j@	hous-pil-lant	VER			houspiller	0	0.34
+houspille	us-pij	hous-pil-le	VER			houspiller	0.16	0.27
+houspillé	us-pi-je	hous-pil-lé	VER	m	s	houspiller	0.02	0.14
+houspillée	us-pi-je	hous-pil-lée	VER	f	s	houspiller	0	0.2
+houspillées	us-pi-je	hous-pil-lées	VER	f	p	houspiller	0	0.07
+houspillent	us-pij	hous-pil-lent	VER			houspiller	0	0.07
+houspiller	us-pi-je	hous-pil-ler	VER				0.22	0.81
+houspillèrent	us-pi-jER	hous-pil-lè-rent	VER			houspiller	0	0.07
+houspillés	us-pi-je	hous-pil-lés	VER	m	p	houspiller	0	0.07
+housse	us	hous-se	NOM	f	s		0.35	3.11
+housses	us	hous-ses	NOM	f	p	housse	0.49	2.57
+houssés	u-se	hous-sés	VER	m	p	housser	0	0.07
+houx	u	houx	NOM	m			0.07	1.28
+hovercraft	O-v9R-kRaft		NOM	m	s		0.01	0
+hoyau	wa-jo	hoyau	NOM	m	s		0	0.14
+hua	8a	hua	VER			huer	0.09	0
+huaient	y-E	huaient	VER			huer	0.01	0
+huait	8E	huait	VER			huer	0.02	0.07
+huant	8@	huant	VER			huer	0.03	0.07
+huard	8aR	huard	NOM	m	s		0.52	0.07
+huards	8aR	huard-s	NOM	m	p	huard	0.08	0.2
+huart	8aR	huart	NOM	m	s		0	0.27
+hublot	y-blo	hu-blot	NOM	m	s		1.77	4.66
+hublots	y-blo	hu-blots	NOM	m	p	hublot	0.84	3.11
+huche	yS	hu-che	NOM	f	s		0.19	0.34
+huches	yS	hu-ches	NOM	f	p	huche	0	0.14
+huchet	y-SE	hu-chet	NOM	m	s		0	0.27
+hue	y	hue	ONO				2.63	1.08
+hue	y	hue	VER			huer	0.73	1.15
+hué	8e	hué	VER	m	s	huer	0.05	0.34
+huée	8e	huée	NOM	f	s		0	0.07
+huée	8e	huée	VER	f	s	huer	0.02	0
+huées	8e	huées	NOM	f	p	huée	0.64	1.42
+huées	8e	huées	VER	f	p	huer	0	0.07
+huer	8e	huer	VER				0.25	0.27
+huèrent	8ER	huè-rent	VER			huer	0	0.07
+huerta	wER-ta	huer-ta	NOM	f	s		0.53	0.95
+hués	8e	hués	VER	m	p	huer	0.02	0.14
+huez	y-e	huez	VER			huer	0.02	0.14
+hugh	yg	hugh	ONO				1.38	0.27
+hugolien	y-go-lj5	hu-go-lien	ADJ	m	s		0	0.07
+hugoliens	y-go-lj5	hu-go-liens	ADJ	m	p	hugolien	0	0.07
+huguenot	y-g°-no	hu-gue-not	NOM	m	s		0.11	0.2
+huguenot	y-g°-no	hu-gue-not	ADJ	m	s		0.03	0.07
+huguenote	y-g°-nOt	hu-gue-no-te	NOM	f	s	huguenot	0.1	0.07
+huguenote	y-g°-nOt	hu-gue-no-te	ADJ	f	s	huguenot	0	0.07
+huguenots	y-g°-no	hu-gue-nots	NOM	m	p	huguenot	0.12	0.2
+hui	8i	hui	NOM		s		2.36	0.47
+huilai	8i-lE	hui-lai	VER			huiler	0	0.07
+huilait	8i-lE	hui-lait	VER			huiler	0.1	0.07
+huile	8il	hui-le	NOM	f	s		20.23	36.22
+huile	8il	hui-le	VER			huiler	0.09	0.27
+huilé	8i-le	hui-lé	ADJ	m	s		0.21	1.15
+huilé	8i-le	hui-lé	VER	m	s	huiler	0.08	0.14
+huilée	8i-le	hui-lée	ADJ	f	s	huilé	0.21	1.08
+huilée	8i-le	hui-lée	VER	f	s	huiler	0.06	0.54
+huilées	8i-le	hui-lées	ADJ	f	p	huilé	0	0.2
+huilées	8i-le	hui-lées	VER	f	p	huiler	0.05	0.07
+huilent	8il	hui-lent	VER			huiler	0	0.07
+huiler	8i-le	hui-ler	VER				0.12	0.41
+huilerai	8i-l°-RE	hui-le-rai	VER			huiler	0.02	0
+huiles	8il	hui-les	NOM	f	p	huile	2.46	1.96
+huilés	8i-le	hui-lés	ADJ	m	p	huilé	0.15	0.81
+huilés	8i-le	hui-lés	VER	m	p	huiler	0.01	0.14
+huileuse	8i-l2z	hui-leu-se	ADJ	f	s	huileux	0.09	1.89
+huileuses	8i-l2z	hui-leu-ses	ADJ	f	p	huileux	0.01	0.54
+huileux	8i-l2	hui-leux	ADJ	m			0.27	1.82
+huilez	8i-le	hui-lez	VER			huiler	0.05	0
+huilier	8i-lje	hui-lier	NOM	m	s		0.1	0.07
+huilier	8i-lje	hui-lier	ADJ	m	s		0.01	0
+huiliers	8i-lje	hui-liers	ADJ	m	p	huilier	0	0.07
+huipil	8i-pil	hui-pil	NOM	m	s		0	0.47
+huipils	8i-pil	hui-pils	NOM	m	p	huipil	0	0.07
+huis	8i	huis	NOM	m			0.48	1.82
+huisserie	8i-s°-Ri	huis-se-rie	NOM	f	s		0.04	0.14
+huisseries	8i-s°-Ri	huis-se-ries	NOM	f	p	huisserie	0	0.2
+huissier	8i-sje	huis-sier	NOM	m	s		2.06	3.72
+huissiers	8i-sje	huis-siers	NOM	m	p	huissier	0.78	2.23
+huit	8it	huit	ADJ:num				58.47	102.5
+huit-reflets	8i-tR°-flE	huit-reflets	NOM	m			0	0.27
+huitaine	8i-tEn	hui-tai-ne	NOM	f	s		0.2	1.01
+huitième	8i-tjEm	hui-tiè-me	ADJ				0.75	2.43
+huitième	8i-tjEm	hui-tiè-me	NOM		s		0.88	1.96
+huitièmes	8i-tjEm	hui-tiè-mes	NOM		p	huitième	0.41	0.14
+huître	8itR	huî-tre	NOM	f	s		1.41	2.7
+huîtres	8itR	huî-tres	NOM	f	p	huître	2.59	4.93
+huîtrier	8i-tRi-e		NOM	m	s		0.01	0
+huîtrière	8i-tRi-jER	huî-triè-re	NOM	f	s		0	0.07
+huîtriers	8i-tRje	huî-triers	NOM	m	p	huîtrier	0	0.07
+hulotte	y-lOt	hu-lot-te	NOM	f	s		0.1	0.34
+hulottes	y-lOt	hu-lot-tes	NOM	f	p	hulotte	0	0.27
+hulula	y-ly-la	hu-lu-la	VER			hululer	0	0.2
+hululaient	y-ly-lE	hu-lu-laient	VER			hululer	0	0.14
+hululait	y-ly-lE	hu-lu-lait	VER			hululer	0	0.34
+hululant	y-ly-l@	hu-lu-lant	VER			hululer	0	0.27
+hulule	y-lyl	hu-lu-le	VER			hululer	0.14	0.14
+hululée	y-ly-le	hu-lu-lée	VER	f	s	hululer	0	0.07
+hululement	y-ly-l°-m@	hu-lu-le-ment	NOM	m	s		0	1.22
+hululements	y-ly-l°-m@	hu-lu-le-ments	NOM	m	p	hululement	0.27	0.61
+hululent	y-lyl	hu-lu-lent	VER			hululer	0.02	0.07
+hululer	y-ly-le	hu-lu-ler	VER				0.01	0.14
+hum	9m	hum	ONO				33.59	5.68
+huma	y-ma	hu-ma	VER			humer	0.03	1.49
+humai	y-mE	hu-mai	VER			humer	0	0.07
+humaient	y-mE	hu-maient	VER			humer	0	0.34
+humain	y-m5	hu-main	ADJ	m	s		50.53	35.81
+humain	y-m5	hu-main	NOM	m	s		10.56	7.09
+humain-robot	y-m5-Ro-bo	humain-robot	ADJ	m	s		0.03	0
+humaine	y-mEn	hu-mai-ne	ADJ	f	s	humain	32.37	47.43
+humaine	y-mEn	hu-mai-ne	NOM	f	s	humain	0.96	1.08
+humainement	y-mE-n°-m@	hu-mai-ne-ment	ADV				0.86	0.95
+humaines	y-mEn	hu-mai-nes	ADJ	f	p	humain	6.36	14.93
+humaines	y-mEn	hu-mai-nes	NOM	f	p	humain	0.34	0.14
+humains	y-m5	hu-mains	ADJ	m	p	humain	17.85	13.38
+humains	y-m5	hu-mains	NOM	m	p	humain	18.15	10
+humais	y-mE	hu-mais	VER			humer	0.01	0.07
+humait	y-mE	hu-mait	VER			humer	0	1.28
+humanisait	y-ma-ni-zE	hu-ma-ni-sait	VER			humaniser	0	0.27
+humanisant	y-ma-ni-z@	hu-ma-ni-sant	VER			humaniser	0.01	0.07
+humanisation	y-ma-ni-za-sj§	hu-ma-ni-sa-tion	NOM	f	s		0	0.14
+humanise	y-ma-niz	hu-ma-ni-se	VER			humaniser	0.03	0.07
+humanisé	y-ma-ni-ze	hu-ma-ni-sé	VER	m	s	humaniser	0	0.2
+humanisée	y-ma-ni-ze	hu-ma-ni-sée	VER	f	s	humaniser	0.14	0.07
+humanisées	y-ma-ni-ze	hu-ma-ni-sées	VER	f	p	humaniser	0	0.14
+humanisent	y-ma-niz	hu-ma-ni-sent	VER			humaniser	0	0.07
+humaniser	y-ma-ni-ze	hu-ma-ni-ser	VER				0.09	0.41
+humanisés	y-ma-ni-ze	hu-ma-ni-sés	VER	m	p	humaniser	0.01	0.07
+humanisme	y-ma-nizm	hu-ma-nis-me	NOM	m	s		0.41	2.3
+humaniste	y-ma-nist	hu-ma-nis-te	ADJ		s		0.72	0.54
+humaniste	y-ma-nist	hu-ma-nis-te	NOM		s		0.44	0.61
+humanistes	y-ma-nist	hu-ma-nis-tes	NOM		p	humaniste	0.01	0.47
+humanistes	y-ma-nist	hu-ma-nis-tes	ADJ	f	p	humaniste	0	0.14
+humanitaire	y-ma-ni-tER	hu-ma-ni-tai-re	ADJ		s		1.52	1.22
+humanitaire	y-ma-ni-tER	hu-ma-ni-tai-re	NOM	m	s		0.57	0
+humanitaires	y-ma-ni-tER	hu-ma-ni-tai-res	ADJ		p	humanitaire	0.5	0.34
+humanitarisme	y-ma-ni-ta-Rizm	hu-ma-ni-ta-ris-me	NOM	m	s		0.11	0.07
+humanité	y-ma-ni-te	hu-ma-ni-té	NOM	f	s		23.15	23.85
+humanités	y-ma-ni-te	hu-ma-ni-tés	NOM	f	p	humanité	0.16	0.47
+humano	y-ma-no	hu-ma-no	ADV				0.16	0
+humanoïde	y-ma-no-id	hu-ma-noï-de	ADJ		s		0.42	0
+humanoïde	y-ma-no-id	hu-ma-noï-de	NOM		s		0.1	0.14
+humanoïdes	y-ma-no-id	hu-ma-noï-des	NOM		p	humanoïde	0.11	0.27
+humanoïdes	y-ma-no-id	hu-ma-noï-des	ADJ		p	humanoïde	0.03	0
+humant	y-m@	hu-mant	VER			humer	0.11	1.69
+humble	1bl	hum-ble	ADJ		s		9.66	12.84
+humblement	1-bl°-m@	hum-ble-ment	ADV				2.26	3.65
+humbles	1bl	hum-bles	ADJ		p	humble	2.77	5.61
+humbug	9m-b9g	hum-bug	ADJ		s		0.01	0
+hume	ym	hu-me	VER			humer	0.13	1.76
+humé	y-me	hu-mé	VER	m	s	humer	0.02	0.47
+humecta	y-mEk-ta	hu-mec-ta	VER			humecter	0.14	0.27
+humectage	y-mEk-taZ		NOM	m	s		0.01	0
+humectai	y-mEk-tE	hu-mec-tai	VER			humecter	0	0.14
+humectaient	y-mEk-tE	hu-mec-taient	VER			humecter	0	0.07
+humectais	y-mEk-tE	hu-mec-tais	VER			humecter	0	0.07
+humectait	y-mEk-tE	hu-mec-tait	VER			humecter	0	0.41
+humectant	y-mEk-t@	hu-mec-tant	VER			humecter	0	0.34
+humectant	y-mEk-t@	hu-mec-tant	ADJ	m	s		0.05	0
+humecte	y-mEkt	hu-mec-te	VER			humecter	0	0.68
+humecté	y-mEk-te	hu-mec-té	VER	m	s	humecter	0	0.54
+humectée	y-mEk-te	hu-mec-tée	VER	f	s	humecter	0.03	0.41
+humectées	y-mEk-te	hu-mec-tées	VER	f	p	humecter	0.01	0.2
+humectent	y-mEkt	hu-mec-tent	VER			humecter	0	0.07
+humecter	y-mEk-te	hu-mec-ter	VER				0.16	1.01
+humectés	y-mEk-te	hu-mec-tés	VER	m	p	humecter	0.01	0.34
+humée	y-me	hu-mée	VER	f	s	humer	0	0.07
+hument	ym	hu-ment	VER			humer	0.11	0.14
+humer	y-me	hu-mer	VER				0.28	1.76
+humérale	y-me-Ral		ADJ	f	s	huméral	0.04	0
+humeras	y-m°-Ra	hu-me-ras	VER			humer	0	0.07
+humèrent	y-mER	hu-mè-rent	VER			humer	0	0.07
+humérus	y-me-Rys	hu-mé-rus	NOM	m			0.22	0.34
+humés	y-me	hu-més	VER	m	p	humer	0	0.07
+humeur	y-m9R	hu-meur	NOM	f	s		29.8	52.57
+humeurs	y-m9R	hu-meurs	NOM	f	p	humeur	1.46	5.47
+humez	y-me	hu-mez	VER			humer	0.04	0.07
+humide	y-mid	hu-mi-de	ADJ		s		8.24	38.24
+humidement	y-mi-d°-m@	hu-mi-de-ment	ADV				0	0.07
+humides	y-mid	hu-mi-des	ADJ		p	humide	2.98	15.07
+humidifia	y-mi-di-fja	hu-mi-di-fia	VER			humidifier	0	0.07
+humidifiant	y-mi-di-fj@	hu-mi-di-fiant	VER			humidifier	0.15	0.07
+humidificateur	y-mi-di-fi-ka-t9R	hu-mi-di-fi-ca-teur	NOM	m	s		0.2	0.07
+humidification	y-mi-di-fi-ka-sj§		NOM	f	s		0.03	0
+humidifié	y-mi-di-fje	hu-mi-di-fié	VER	m	s	humidifier	0.06	0.07
+humidifient	y-mi-di-fi	hu-mi-di-fient	VER			humidifier	0.04	0.07
+humidifier	y-mi-di-fje	hu-mi-di-fier	VER				0.06	0.14
+humidifiés	y-mi-di-fje	hu-mi-di-fiés	VER	m	p	humidifier	0	0.07
+humidité	y-mi-di-te	hu-mi-di-té	NOM	f	s		4.09	14.86
+humilia	y-mi-lja	hu-mi-lia	VER			humilier	0	0.07
+humiliaient	y-mi-ljE	hu-mi-liaient	VER			humilier	0	0.2
+humiliais	y-mi-ljE	hu-mi-liais	VER			humilier	0.02	0
+humiliait	y-mi-ljE	hu-mi-liait	VER			humilier	0.05	0.95
+humiliant	y-mi-lj@	hu-mi-liant	ADJ	m	s		3.35	1.89
+humiliant	y-mi-lj@	hu-mi-liant	VER			humilier	0.36	0.81
+humiliante	y-mi-lj@t	hu-mi-lian-te	ADJ	f	s	humiliant	0.73	0.88
+humiliantes	y-mi-lj@t	hu-mi-lian-tes	ADJ	f	p	humiliant	0.56	0.34
+humiliants	y-mi-lj@	hu-mi-liants	ADJ	m	p	humiliant	0.45	0.68
+humiliassent	y-mi-ljas	hu-mi-lias-sent	VER			humilier	0	0.07
+humiliation	y-mi-lja-sj§	hu-mi-lia-tion	NOM	f	s		6.72	10.68
+humiliations	y-mi-lja-sj§	hu-mi-lia-tions	NOM	f	p	humiliation	0.89	2.97
+humilie	y-mi-li	hu-mi-lie	VER			humilier	2.15	1.15
+humilié	y-mi-lje	hu-mi-lié	VER	m	s	humilier	3.65	3.18
+humilié	y-mi-lje	hu-mi-lié	ADJ	m	s		1.09	2.16
+humiliée	y-mi-lje	hu-mi-liée	VER	f	s	humilier	1.93	1.62
+humiliée	y-mi-lje	hu-mi-liée	ADJ	f	s	humilié	0.68	1.35
+humiliées	y-mi-lje	hu-mi-liées	ADJ	f	p	humilié	0.4	0.07
+humiliées	y-mi-lje	hu-mi-liées	VER	f	p	humilier	0.03	0.07
+humilient	y-mi-li	hu-mi-lient	VER			humilier	0.15	0.14
+humilier	y-mi-lje	hu-mi-lier	VER				5.68	4.32
+humiliera	y-mi-li-Ra	hu-mi-lie-ra	VER			humilier	0.05	0
+humilierai	y-mi-li-RE	hu-mi-lie-rai	VER			humilier	0.04	0
+humilieraient	y-mi-li-RE	hu-mi-lie-raient	VER			humilier	0	0.14
+humilierais	y-mi-li-RE	hu-mi-lie-rais	VER			humilier	0.01	0
+humilierait	y-mi-li-RE	hu-mi-lie-rait	VER			humilier	0.01	0.14
+humilies	y-mi-li	hu-mi-lies	VER			humilier	0.62	0.27
+humiliés	y-mi-lje	hu-mi-liés	VER	m	p	humilier	1.12	0.88
+humiliés	y-mi-lje	hu-mi-liés	ADJ	m	p	humilié	0.28	0.74
+humiliez	y-mi-lje	hu-mi-liez	VER			humilier	0.14	0.27
+humilité	y-mi-li-te	hu-mi-li-té	NOM	f	s		4.24	11.96
+humilités	y-mi-li-te	hu-mi-li-tés	NOM	f	p	humilité	0	0.14
+humions	y-mj§	hu-mions	VER			humer	0	0.07
+humons	y-m§	hu-mons	VER			humer	0	0.07
+humoral	y-mo-Ral	hu-mo-ral	ADJ	m	s		0	0.07
+humoriste	y-mo-Rist	hu-mo-ris-te	ADJ		s		0.33	0.14
+humoriste	y-mo-Rist	hu-mo-ris-te	NOM		s		0.09	0.34
+humoristes	y-mo-Rist	hu-mo-ris-tes	NOM		p	humoriste	0.02	0.41
+humoristes	y-mo-Rist	hu-mo-ris-tes	ADJ		p	humoriste	0	0.07
+humoristique	y-mo-Ris-tik	hu-mo-ris-ti-que	ADJ		s		0.2	0.61
+humoristiques	y-mo-Ris-tik	hu-mo-ris-ti-ques	ADJ		p	humoristique	0.1	0.61
+humour	y-muR	hu-mour	NOM	m	s		17.22	16.76
+humus	y-mys	hu-mus	NOM	m			0.32	5.74
+hun	1	hun	NOM	m	s		0.11	0.47
+hune	yn	hu-ne	NOM	f	s		0.06	0.34
+hunes	yn	hu-nes	NOM	f	p	hune	0	0.07
+hunier	y-nje	hu-nier	NOM	m	s		0.12	0.07
+huniers	y-nje	hu-niers	NOM	m	p	hunier	0.05	0.07
+huns	1	huns	NOM	m	p	hun	0.05	0.2
+hunter	9n-t9R		NOM	m	s		0.02	0
+huppe	yp	hup-pe	NOM	f	s		0.06	0.34
+huppé	y-pe	hup-pé	ADJ	m	s		0.17	0.68
+huppée	y-pe	hup-pée	ADJ	f	s	huppé	0.1	0.61
+huppées	y-pe	hup-pées	ADJ	f	p	huppé	0.05	0.27
+huppés	y-pe	hup-pés	ADJ	m	p	huppé	0.13	0.54
+hure	yR	hu-re	NOM	f	s		0.11	0.34
+hures	yR	hu-res	NOM	f	p	hure	0	2.03
+hurla	yR-la	hur-la	VER			hurler	0.46	13.78
+hurlai	yR-lE	hur-lai	VER			hurler	0	1.08
+hurlaient	yR-lE	hur-laient	VER			hurler	0.64	3.38
+hurlais	yR-lE	hur-lais	VER			hurler	0.69	0.88
+hurlait	yR-lE	hur-lait	VER			hurler	2.19	10.54
+hurlant	yR-l@	hur-lant	VER			hurler	2.08	12.36
+hurlant	yR-l@	hur-lant	ADJ	m	s		0.4	3.51
+hurlante	yR-l@t	hur-lan-te	ADJ	f	s	hurlant	0.14	2.03
+hurlantes	yR-l@t	hur-lan-tes	ADJ	f	p	hurlant	0.09	1.01
+hurlants	yR-l@	hur-lants	ADJ	m	p	hurlant	0.06	0.95
+hurlât	yR-la	hur-lât	VER			hurler	0	0.07
+hurle	yRl	hur-le	VER			hurler	8.34	18.24
+hurlé	yR-le	hur-lé	VER	m	s	hurler	3.06	6.15
+hurlée	yR-le	hur-lée	VER	f	s	hurler	0	0.14
+hurlées	yR-le	hur-lées	VER	f	p	hurler	0	0.34
+hurlement	yR-l°-m@	hur-le-ment	NOM	m	s		2.16	9.86
+hurlements	yR-l°-m@	hur-le-ments	NOM	m	p	hurlement	2.43	11.08
+hurlent	yRl	hur-lent	VER			hurler	2.52	2.36
+hurler	yR-le	hur-ler	VER				10.38	17.23
+hurlera	yR-l°-Ra	hur-le-ra	VER			hurler	0.09	0
+hurlerai	yR-l°-RE	hur-le-rai	VER			hurler	0.08	0.2
+hurleraient	yR-l°-RE	hur-le-raient	VER			hurler	0.01	0.14
+hurlerais	yR-l°-RE	hur-le-rais	VER			hurler	0.06	0.2
+hurlerait	yR-l°-RE	hur-le-rait	VER			hurler	0.04	0.2
+hurlèrent	yR-lER	hur-lè-rent	VER			hurler	0	1.01
+hurlerez	yR-l°-Re	hur-le-rez	VER			hurler	0.08	0
+hurleront	yR-l°-R§	hur-le-ront	VER			hurler	0.18	0.07
+hurles	yRl	hur-les	VER			hurler	0.69	0.07
+hurlés	yR-le	hur-lés	VER	m	p	hurler	0	0.07
+hurleur	yR-l9R	hur-leur	ADJ	m	s		0.09	0.27
+hurleur	yR-l9R	hur-leur	NOM	m	s		0.11	0.07
+hurleurs	yR-l9R	hur-leurs	NOM	m	p	hurleur	0.12	0.41
+hurleurs	yR-l9R	hur-leurs	ADJ	m	p	hurleur	0.04	0.2
+hurlez	yR-le	hur-lez	VER			hurler	1.47	0
+hurlions	yR-lj§	hur-lions	VER			hurler	0.14	0.14
+hurluberlu	yR-ly-bER-ly	hur-lu-ber-lu	NOM	m	s		0.2	0.14
+hurluberlus	yR-ly-bER-ly	hur-lu-ber-lus	NOM	m	p	hurluberlu	0.04	0.47
+huron	y-R§		ADJ	m	s		0.01	0
+huron	y-R§		NOM	m	s		0.01	0
+huronne	y-ROn	hu-ron-ne	ADJ	f	s	huron	0.03	0.07
+huronne	y-ROn	hu-ron-ne	NOM	f	s	huron	0.01	0
+hurrah	y-Ra	hur-rah	ONO				0.17	0.61
+hurrah	y-Ra	hur-rah	NOM	m	s		0.01	0
+hurrahs	y-Ra	hur-rahs	NOM	m	p	hurrah	0	0.07
+hurricane	9-Ri-kan	hur-ri-ca-ne	NOM	m	s		0.52	0.27
+hurricanes	9-Ri-kan	hur-ri-ca-nes	NOM	m	p	hurricane	0.05	0.07
+huskies	ys-ki	hus-kies	NOM	m	p		0.2	0
+husky	ys-ki	hus-ky	NOM	m	s		0.28	0
+hussard	y-saR	hus-sard	NOM	m	s		0.17	1.42
+hussarde	y-saRd	hus-sar-de	NOM	f	s	hussard	0.01	0.27
+hussards	y-saR	hus-sard-s	NOM	m	p	hussard	0.53	1.76
+husseinites	y-sE-nit	hus-sei-ni-tes	NOM		p	husseinite	0	0.14
+hussite	y-sit	hus-si-te	NOM	m	s		0	0.14
+hussites	y-sit	hus-si-tes	NOM	m	p	hussite	0	0.07
+hutte	yt	hut-te	NOM	f	s		3.25	4.93
+hutter	y-t9R	hut-ter	VER				0.77	0
+huttes	yt	hut-tes	NOM	f	p	hutte	0.65	2.91
+hyacinthe	ja-s5t	hya-cin-the	NOM	f	s		0.04	0.07
+hyades	jad	hya-des	NOM	f	p	hyade	0.1	0.07
+hybridation	i-bRi-da-sj§	hy-bri-da-tion	NOM	f	s		0.05	0
+hybride	i-bRid	hy-bri-de	ADJ		s		0.74	0.81
+hybride	i-bRid	hy-bri-de	NOM	m	s		1.2	0.27
+hybridé	i-bRi-de		VER	m	s	hybrider	0.01	0
+hybrides	i-bRid	hy-bri-des	NOM	m	p	hybride	0.77	0.14
+hybrides	i-bRid	hy-bri-des	ADJ		p	hybride	0.36	0.2
+hydatique	i-da-tik		ADJ		s		0.01	0
+hydne	idn	hyd-ne	NOM	m	s		0	0.07
+hydratant	i-dRa-t@	hy-dra-tant	ADJ	m	s		0.04	0.07
+hydratant	i-dRa-t@	hy-dra-tant	VER			hydrater	0.03	0
+hydratante	i-dRa-t@t	hy-dra-tan-te	ADJ	f	s	hydratant	0.26	0.2
+hydratantes	i-dRa-t@t	hy-dra-tan-tes	ADJ	f	p	hydratant	0.07	0
+hydratants	i-dRa-t@	hy-dra-tants	ADJ	m	p	hydratant	0.01	0
+hydratation	i-dRa-ta-sj§	hy-dra-ta-tion	NOM	f	s		0.13	0
+hydrate	i-dRat	hy-dra-te	NOM	m	s		0.18	0
+hydrate	i-dRat	hy-dra-te	VER			hydrater	0.06	0
+hydraté	i-dRa-te		VER	m	s	hydrater	0.17	0
+hydratée	i-dRa-te	hy-dra-tée	VER	f	s	hydrater	0.07	0
+hydrater	i-dRa-te	hy-dra-ter	VER				0.12	0
+hydrates	i-dRat	hy-dra-tes	NOM	m	p	hydrate	0.25	0
+hydratez	i-dRa-te	hy-dra-tez	VER			hydrater	0.15	0
+hydraulicien	i-dRo-li-sj5	hy-drau-li-cien	NOM	m	s		0.01	0
+hydraulique	i-dRo-lik	hy-drau-li-que	ADJ		s		1.15	1.01
+hydraulique	i-dRo-lik	hy-drau-li-que	NOM	f	s		0.2	0.07
+hydrauliques	i-dRo-lik	hy-drau-li-ques	ADJ		p	hydraulique	0.26	0.14
+hydrauliques	i-dRo-lik	hy-drau-li-ques	NOM	f	p	hydraulique	0.01	0
+hydravion	i-dRa-vj§	hy-dra-vion	NOM	m	s		0.43	0.27
+hydravions	i-dRa-vj§	hy-dra-vions	NOM	m	p	hydravion	0.04	0.34
+hydre	idR	hy-dre	NOM	f	s		0.17	0.34
+hydrique	i-dRik		ADJ		s		0.07	0
+hydro	i-dRo	hy-dro	ADV				0.17	0.07
+hydro-électrique	i-dRo-e-lEk-tRik	hy-droé-lec-tri-que	ADJ		s		0	0.07
+hydrocarbure	i-dRo-kaR-byR	hy-dro-car-bu-re	NOM	m	s		0.11	0.07
+hydrocarbures	i-dRo-kaR-byR	hy-dro-car-bu-res	NOM	m	p	hydrocarbure	0.39	0.27
+hydrocèle	i-dRo-sEl	hy-dro-cè-le	NOM	f	s		0	0.07
+hydrocéphale	i-dRo-se-fal	hy-dro-cé-pha-le	ADJ		s		0.12	0.07
+hydrocéphale	i-dRo-se-fal	hy-dro-cé-pha-le	NOM		s		0	0.14
+hydrocéphales	i-dRo-se-fal	hy-dro-cé-pha-les	ADJ	m	p	hydrocéphale	0.1	0.07
+hydrocéphalie	i-dRo-se-fa-li		NOM	f	s		0.01	0
+hydrochlorique	i-dRo-klO-Rik		ADJ	m	s		0.09	0
+hydrocortisone	i-dRo-kOR-ti-zOn		NOM	f	s		0.03	0
+hydrocution	i-dRo-ky-sj§	hy-dro-cu-tion	NOM	f	s		0	0.07
+hydrodynamique	i-dRo-di-na-mik		ADJ	f	s		0.01	0
+hydroélectrique	i-dRo-e-lEk-tRik	hy-droé-lec-tri-que	ADJ	f	s		0.36	0.14
+hydrofoil	i-dRo-fOjl		NOM	m	s		0.01	0
+hydrogène	i-dRo-ZEn	hy-dro-gè-ne	NOM	m	s		1.75	0.88
+hydrogéné	i-dRo-Ze-ne		ADJ	m	s		0.02	0
+hydrogénée	i-dRo-Ze-ne		ADJ	f	s	hydrogéné	0.02	0
+hydrogènes	i-dRo-ZEn	hy-dro-gè-nes	NOM	m	p	hydrogène	0.01	0
+hydrogénisation	i-dRo-Ze-ni-za-sj§	hy-dro-gé-ni-sa-tion	NOM	f	s		0	0.14
+hydroglisseur	i-dRo-gli-s9R	hy-dro-glis-seur	NOM	m	s		0.06	0
+hydrographe	i-dRo-gRaf	hy-dro-gra-phe	ADJ	m	s		0.14	0
+hydrographie	i-dRo-gRa-fi	hy-dro-gra-phie	NOM	f	s		0.01	0.07
+hydrographique	i-dRo-gRa-fik	hy-dro-gra-phi-que	ADJ	m	s		0.27	0.07
+hydrographiques	i-dRo-gRa-fik	hy-dro-gra-phi-ques	ADJ		p	hydrographique	0	0.07
+hydrolase	i-dRo-laz		NOM	f	s		0.1	0
+hydrologie	i-dRo-lo-Zi		NOM	f	s		0.02	0
+hydrolyse	i-dRo-liz	hy-dro-ly-se	NOM	f	s		0.03	0
+hydromel	i-dRo-mEl	hy-dro-mel	NOM	m	s		0.52	0.2
+hydromètres	i-dRo-mEtR	hy-dro-mè-tres	NOM	f	p	hydromètre	0	0.07
+hydrophile	i-dRo-fil	hy-dro-phi-le	ADJ	m	s		0.1	0.88
+hydrophile	i-dRo-fil	hy-dro-phi-le	NOM	m	s		0	0.07
+hydrophiles	i-dRo-fil	hy-dro-phi-les	ADJ	f	p	hydrophile	0	0.14
+hydrophobe	i-dRo-fOb		ADJ	f	s		0.01	0
+hydrophobie	i-dRo-fo-bi	hy-dro-pho-bie	NOM	f	s		0.04	0.07
+hydrophone	i-dRo-fOn	hy-dro-pho-ne	NOM	m	s		0.25	0
+hydrophyte	i-dRo-fit	hy-dro-phy-te	NOM	f	s		0.01	0
+hydropique	i-dRo-pik	hy-dro-pi-que	NOM		s		0	0.34
+hydropique	i-dRo-pik	hy-dro-pi-que	ADJ	f	s		0.14	0.14
+hydropisie	i-dRo-pi-zi	hy-dro-pi-sie	NOM	f	s		0.01	0.27
+hydropneumatique	i-dRop-n2-ma-tik	hy-dro-pneu-ma-ti-que	ADJ	m	s		0.01	0.14
+hydroponique	i-dRo-po-nik	hy-dro-po-ni-que	ADJ		s		0.2	0
+hydroponiques	i-dRo-po-nik	hy-dro-po-ni-ques	ADJ		p	hydroponique	0.09	0
+hydroptère	i-dROp-tER	hy-dro-ptè-re	NOM	m	s		0.02	0
+hydroquinone	i-dRo-ki-nOn	hy-dro-qui-no-ne	NOM	f	s		0	0.14
+hydrostatique	i-dRos-ta-tik		ADJ		s		0.04	0
+hydrostatique	i-dRos-ta-tik		NOM	f	s		0.01	0
+hydrothérapie	i-dRo-te-Ra-pi	hy-dro-thé-ra-pie	NOM	f	s		0.08	0.14
+hydrox	i-dROks	hy-drox	NOM	m			0.01	0
+hydroxyde	i-dROk-sid	hy-droxy-de	NOM	m	s		0.13	0
+hyène	jEn	hyè-ne	NOM	f	s		1.64	1.76
+hyènes	jEn	hyè-nes	NOM	f	p	hyène	0.73	0.68
+hygiaphone	i-Zja-fOn	hy-gia-pho-ne	NOM	m	s		0	0.2
+hygiène	i-ZjEn	hy-giè-ne	NOM	f	s		4.4	6.28
+hygiènes	i-ZjEn	hy-giè-nes	NOM	f	p	hygiène	0.01	0.07
+hygiénique	i-Zje-nik	hy-gié-ni-que	ADJ		s		1.48	2.84
+hygiéniquement	i-Zje-ni-k°-m@	hy-gié-ni-que-ment	ADV				0.01	0.07
+hygiéniques	i-Zje-nik	hy-gié-ni-ques	ADJ		p	hygiénique	0.26	1.28
+hygiéniste	i-Zje-nist	hy-gié-nis-te	NOM		s		0.19	0
+hygiénistes	i-Zje-nist	hy-gié-nis-tes	NOM		p	hygiéniste	0.01	0.14
+hygroma	i-gRO-ma		NOM	m	s		0.03	0
+hygromètre	i-gRo-mEtR	hy-gro-mè-tre	NOM	m	s		0	0.07
+hygromètres	i-gRo-mEtR	hy-gro-mè-tres	NOM	m	p	hygromètre	0.01	0.07
+hygrométrie	i-gRo-me-tRi	hy-gro-mé-trie	NOM	f	s		0.14	0.07
+hygrométrique	i-gRo-me-tRik	hy-gro-mé-tri-que	ADJ		s		0	0.07
+hygrométriques	i-gRo-me-tRik	hy-gro-mé-tri-ques	ADJ	f	p	hygrométrique	0	0.07
+hylémorphique	i-le-moR-fik	hy-lé-mor-phi-que	ADJ	f	s		0	0.07
+hymen	i-mEn	hy-men	NOM	m	s		2.05	0.34
+hyménée	i-me-ne		NOM	m	s		0.34	0
+hyménées	i-me-ne	hy-mé-nées	NOM	m	p	hyménée	0	0.07
+hyménoptère	i-me-nOp-tER	hy-mé-no-ptè-re	NOM	m	s		0	0.07
+hyménoptères	i-me-nOp-tER	hy-mé-no-ptè-res	NOM	m	p	hyménoptère	0.02	0.2
+hymne	imn	hym-ne	NOM		s		5.37	6.69
+hymnes	imn	hym-nes	NOM		p	hymne	0.88	2.03
+hyoïde	i-o-id	hyoï-de	ADJ	f	s		0.16	0
+hyoïde	i-o-id	hyoï-de	NOM	m	s		0.13	0
+hypallage	i-pa-laZ	hy-pal-la-ge	NOM	f	s		0	0.07
+hyper	i-pER	hy-per	ADV				6.66	0.95
+hyperacidité	i-pE-Ra-si-di-te		NOM	f	s		0.01	0
+hyperactif	i-pE-Rak-tif	hy-per-ac-tif	ADJ	m	s		0.13	0
+hyperactive	i-pE-Rak-tiv	hy-per-ac-ti-ve	ADJ	f	s	hyperactif	0.08	0
+hyperactivité	i-pE-Rak-ti-vi-te	hy-per-ac-ti-vi-té	NOM	f	s		0.17	0
+hyperbare	i-pER-baR	hy-per-ba-re	ADJ	m	s		0.07	0
+hyperbole	i-pER-bOl	hy-per-bo-le	NOM	f	s		0.09	0.2
+hyperboles	i-pER-bOl	hy-per-bo-les	NOM	f	p	hyperbole	0.04	0.14
+hyperbolique	i-pER-bo-lik	hy-per-bo-li-que	ADJ		s		0.01	0.2
+hyperboliquement	i-pER-bo-li-k°-m@	hy-per-bo-li-que-ment	ADV				0	0.07
+hyperborée	i-pER-bo-Re	hy-per-bo-rée	NOM	f	s		0	0.07
+hyperboréen	i-pER-bo-Re-5	hy-per-bo-réen	ADJ	m	s		0	0.14
+hyperboréenne	i-pER-bo-Re-En	hy-per-bo-réen-ne	ADJ	f	s	hyperboréen	0	0.27
+hyperboréens	i-pER-bo-Re-5	hy-per-bo-réens	ADJ	m	p	hyperboréen	0	0.14
+hypercalcémie	i-pER-kal-se-mi		NOM	f	s		0.07	0
+hypercholestérolémie	i-pER-kO-lEs-te-RO-le-mi		NOM	f	s		0.03	0
+hypercoagulabilité	i-pER-kO-a-gy-la-bi-li-te		NOM	f	s		0.03	0
+hyperémotive	i-pE-Re-mO-tiv		ADJ	f	s	hyperémotif	0.01	0
+hyperémotivité	i-pE-Re-mo-ti-vi-te	hy-per-é-mo-ti-vi-té	NOM	f	s		0	0.07
+hyperespace	i-pER-spas	hy-per-es-pa-ce	NOM	m	s		1.89	0
+hyperesthésie	i-pE-REs-te-zi	hy-per-es-thé-sie	NOM	f	s		0	0.07
+hyperglycémies	i-pER-gli-se-mi	hy-per-gly-cé-mies	NOM	f	p	hyperglycémie	0	0.07
+hyperkaliémie	i-pER-ka-li-e-mi		NOM	f	s		0.03	0
+hyperlipémie	i-pER-li-pe-mi		NOM	f	s		0.01	0
+hyperlipidémie	i-pER-li-pi-de-mi	hy-per-li-pi-dé-mie	NOM	f	s		0	0.07
+hypermarché	i-pER-maR-Se	hy-per-mar-ché	NOM	m	s		0.12	0.14
+hypermarchés	i-pER-maR-Se	hy-per-mar-chés	NOM	m	p	hypermarché	0.03	0.14
+hypermnésie	i-pER-mne-zi	hy-per-mné-sie	NOM	f	s		0	0.07
+hypernerveuse	i-pER-nER-v2z	hy-per-ner-veu-se	ADJ	f	s	hypernerveux	0	0.07
+hypernerveux	i-pER-nER-v2	hy-per-ner-veux	ADJ	m			0	0.2
+hyperplan	i-pER-pl@		NOM	m	s		0.01	0
+hyperplasie	i-pER-pla-zi	hy-per-pla-sie	NOM	f	s		0.04	0
+hyperréactivité	i-pE-Re-ak-ti-vi-te	hy-per-réac-ti-vi-té	NOM	f	s		0.01	0
+hyperréalisme	i-pER-Re-a-lizm	hy-per-réa-lis-me	NOM	m	s		0	0.07
+hyperréaliste	i-pER-Re-a-list	hy-per-réa-lis-te	ADJ		s		0	0.07
+hyperréaliste	i-pER-Re-a-list	hy-per-réa-lis-te	NOM		s		0	0.07
+hyperréalistes	i-pER-Re-a-list	hy-per-réa-lis-tes	ADJ		p	hyperréaliste	0	0.07
+hyperréalistes	i-pER-Re-a-list	hy-per-réa-lis-tes	NOM		p	hyperréaliste	0	0.07
+hypersensibilité	i-pER-s@-si-bi-li-te	hy-per-sen-si-bi-li-té	NOM	f	s		0.22	0.14
+hypersensible	i-pER-s@-sibl	hy-per-sen-si-ble	ADJ		s		0.27	0.07
+hypersensible	i-pER-s@-sibl	hy-per-sen-si-ble	NOM		s		0.26	0
+hypersensibles	i-pER-s@-sibl	hy-per-sen-si-bles	ADJ	m	p	hypersensible	0.04	0.27
+hypersensibles	i-pER-s@-sibl	hy-per-sen-si-bles	NOM		p	hypersensible	0.02	0
+hypersomnie	i-pER-sOm-ni		NOM	f	s		0.03	0
+hypersonique	i-pER-sO-nik		ADJ	m	s		0.01	0
+hypersustentateur	i-pER-sys-t@-ta-t9R		NOM	m	s		0.06	0
+hypersustentateur	i-pER-sys-t@-ta-t9R		ADJ	m	s		0.01	0
+hypertendu	i-pER-t@-dy	hy-per-ten-du	ADJ	m	s		0.04	0.07
+hypertendue	i-pER-t@-dy	hy-per-ten-due	ADJ	f	s	hypertendu	0.16	0
+hypertendus	i-pER-t@-dy	hy-per-ten-dus	NOM	m	p	hypertendu	0.01	0
+hypertension	i-pER-t@-sj§	hy-per-ten-sion	NOM	f	s		0.7	0.07
+hypertensions	i-pER-t@-sj§	hy-per-ten-sions	NOM	f	p	hypertension	0.01	0.14
+hyperthermie	i-pER-tER-mi	hy-per-ther-mie	NOM	f	s		0.15	0
+hyperthyroïdien	i-pER-ti-Ro-i-dj5	hy-per-thy-roï-dien	ADJ	m	s		0	0.07
+hypertonique	i-pER-to-nik	hy-per-to-ni-que	ADJ		s		0.06	0
+hypertrichose	i-pER-tRi-kOz		NOM	f	s		0.03	0
+hypertrophie	i-pER-tRo-fi	hy-per-tro-phie	NOM	f	s		0.56	0.27
+hypertrophie	i-pER-tRo-fi	hy-per-tro-phie	VER			hypertrophier	0.01	0.07
+hypertrophié	i-pER-tRo-fje	hy-per-tro-phié	ADJ	m	s		0.17	0.07
+hypertrophié	i-pER-tRo-fje	hy-per-tro-phié	VER	m	s	hypertrophier	0.14	0
+hypertrophiée	i-pER-tRo-fje	hy-per-tro-phiée	VER	f	s	hypertrophier	0.01	0.07
+hypertrophiée	i-pER-tRo-fje	hy-per-tro-phiée	ADJ	f	s	hypertrophié	0	0.07
+hypertrophiés	i-pER-tRo-fje	hy-per-tro-phiés	ADJ	m	p	hypertrophié	0.03	0.14
+hypertrophiés	i-pER-tRo-fje	hy-per-tro-phiés	VER	m	p	hypertrophier	0	0.07
+hypertrophique	i-pER-tRo-fik		ADJ	f	s		0.07	0
+hyperventilation	i-pER-v@-ti-la-sj§	hy-per-ven-ti-la-tion	NOM	f	s		0.23	0
+hypholomes	i-fo-lOm	hy-pho-lo-mes	NOM	m	p	hypholome	0	0.07
+hypnagogique	ip-na-gO-Zik		ADJ		s		0.04	0
+hypnagogiques	ip-na-go-Zik	hyp-na-go-gi-ques	ADJ	f	p	hypnagogique	0	0.07
+hypnogène	ip-no-ZEn	hyp-no-gè-ne	ADJ		s		0	0.54
+hypnogène	ip-no-ZEn	hyp-no-gè-ne	NOM	m	s		0	0.14
+hypnogènes	ip-no-ZEn	hyp-no-gè-nes	NOM	m	p	hypnogène	0	0.07
+hypnose	ip-noz	hyp-no-se	NOM	f	s		3.29	1.22
+hypnoses	ip-noz	hyp-no-ses	NOM	f	p	hypnose	0	0.07
+hypnotique	ip-no-tik	hyp-no-ti-que	ADJ		s		0.99	0.68
+hypnotique	ip-no-tik	hyp-no-ti-que	NOM	m	s		0.14	0
+hypnotiquement	ip-nO-ti-k°-m@		ADV				0	0.14
+hypnotiques	ip-no-tik	hyp-no-ti-ques	ADJ		p	hypnotique	0.17	0.07
+hypnotiques	ip-no-tik	hyp-no-ti-ques	NOM	m	p	hypnotique	0.01	0.07
+hypnotisa	ip-no-ti-za	hyp-no-ti-sa	VER			hypnotiser	0	0.07
+hypnotisaient	ip-no-ti-zE	hyp-no-ti-saient	VER			hypnotiser	0.14	0.07
+hypnotisais	ip-no-ti-zE	hyp-no-ti-sais	VER			hypnotiser	0	0.07
+hypnotisait	ip-no-ti-zE	hyp-no-ti-sait	VER			hypnotiser	0.03	0.14
+hypnotisant	ip-no-ti-z@	hyp-no-ti-sant	VER			hypnotiser	0.09	0.41
+hypnotise	ip-no-tiz	hyp-no-ti-se	VER			hypnotiser	0.47	0.54
+hypnotisé	ip-no-ti-ze	hyp-no-ti-sé	VER	m	s	hypnotiser	0.9	1.22
+hypnotisée	ip-no-ti-ze	hyp-no-ti-sée	VER	f	s	hypnotiser	0.71	0.47
+hypnotisées	ip-no-ti-ze	hyp-no-ti-sées	VER	f	p	hypnotiser	0.01	0.27
+hypnotisent	ip-no-tiz	hyp-no-ti-sent	VER			hypnotiser	0.04	0.14
+hypnotiser	ip-no-ti-ze	hyp-no-ti-ser	VER				1.05	0.27
+hypnotisés	ip-no-ti-ze	hyp-no-ti-sés	VER	m	p	hypnotiser	0.31	0.54
+hypnotiseur	ip-no-ti-z9R	hyp-no-ti-seur	NOM	m	s		0.6	0.07
+hypnotiseurs	ip-no-ti-z9R	hyp-no-ti-seurs	NOM	m	p	hypnotiseur	0.02	0.2
+hypnotiseuse	ip-no-ti-z2z		NOM	f	s	hypnotiseur	0.01	0
+hypnotisme	ip-no-tizm	hyp-no-tis-me	NOM	m	s		0.3	0.27
+hypo	i-po	hy-po	ADV				0.19	0.07
+hypoallergénique	i-po-a-lER-Ze-nik	hy-po-al-ler-gé-ni-que	ADJ	f	s		0.06	0.07
+hypoallergéniques	i-po-a-lER-Ze-nik	hy-po-al-ler-gé-ni-ques	ADJ	m	p	hypoallergénique	0.02	0
+hypocalcémie	i-po-kal-se-mi		NOM	f	s		0.03	0
+hypocapnie	i-po-kap-ni		NOM	f	s		0.01	0
+hypocauste	i-po-kost		NOM	m	s		0.01	0
+hypocaustes	i-po-kost	hy-po-caus-tes	NOM	m	p	hypocauste	0	0.07
+hypocentre	i-po-s@tR		NOM	m	s		0.01	0
+hypochlorite	i-po-klO-Rit		NOM	m	s		0.01	0
+hypochondriaque	i-po-k§-dRi-ak	hy-po-chon-dria-que	ADJ		s		0.12	0
+hypochondriaque	i-po-k§-dRi-ak	hy-po-chon-dria-que	NOM		s		0.02	0
+hypochondriaques	i-po-k§-dRi-ak	hy-po-chon-dria-ques	NOM		p	hypochondriaque	0.03	0
+hypocondre	i-po-k§dR	hy-po-con-dre	NOM	m	s		0	0.14
+hypocondriaque	i-po-k§-dRi-jak	hy-po-con-dria-que	ADJ	m	s		0.17	0.2
+hypocondriaque	i-po-k§-dRi-jak	hy-po-con-dria-que	NOM		s		0.1	0.07
+hypocondriaques	i-po-k§-dRi-jak	hy-po-con-dria-ques	ADJ		p	hypocondriaque	0	0.14
+hypocondriaques	i-po-k§-dRi-jak	hy-po-con-dria-ques	NOM		p	hypocondriaque	0.07	0.07
+hypocondrie	i-po-k§-dRi	hy-po-con-drie	NOM	f	s		0.04	0.27
+hypocras	i-po-kRas	hy-po-cras	NOM	m			0	0.2
+hypocrisie	i-po-kRi-zi	hy-po-cri-sie	NOM	f	s		4.06	5.47
+hypocrisies	i-po-kRi-zi	hy-po-cri-sies	NOM	f	p	hypocrisie	0.35	0.14
+hypocrite	i-po-kRit	hy-po-cri-te	ADJ		s		3.61	4.26
+hypocrite	i-po-kRit	hy-po-cri-te	NOM		s		3.66	1.96
+hypocritement	i-po-kRi-t°-m@	hy-po-cri-te-ment	ADV				0.14	1.69
+hypocrites	i-po-kRit	hy-po-cri-tes	ADJ		p	hypocrite	1.21	2.23
+hypocrites	i-po-kRit	hy-po-cri-tes	NOM		p	hypocrite	1.75	0.95
+hypoderme	i-po-dERm	hy-po-der-me	NOM	m	s		0	0.07
+hypodermique	i-po-dER-mik	hy-po-der-mi-que	ADJ		s		0.36	0.14
+hypodermiques	i-po-dER-mik	hy-po-der-mi-ques	ADJ	f	p	hypodermique	0.04	0
+hypogée	i-po-Ze	hy-po-gée	NOM	m	s		0	0.47
+hypogées	i-po-Ze	hy-po-gées	NOM	m	p	hypogée	0	0.34
+hypoglycémie	i-po-gli-se-mi	hy-po-gly-cé-mie	NOM	f	s		0.4	0.2
+hypoglycémique	i-po-gli-se-mik	hy-po-gly-cé-mi-que	ADJ	m	s		0.13	0.14
+hypoglycémiques	i-po-gli-se-mik	hy-po-gly-cé-mi-ques	ADJ	f	p	hypoglycémique	0.01	0.07
+hypogonadisme	i-po-gO-na-dism		NOM	m	s		0.03	0
+hypokhâgne	i-po-kaN	hy-po-khâ-gne	NOM	f	s		0	1.22
+hypokhâgnes	i-po-kaN	hy-po-khâ-gnes	NOM	f	p	hypokhâgne	0	0.07
+hypomaniaques	i-po-ma-njak	hy-po-ma-nia-ques	NOM		p	hypomaniaque	0.01	0
+hyponatrémie	i-po-na-tRe-mi		NOM	f	s		0.05	0
+hyponomeutes	i-po-no-m2t	hy-po-no-meu-tes	NOM	m	p	hyponomeute	0	0.07
+hypophysaire	i-po-fi-zER	hy-po-phy-sai-re	ADJ		s		0.01	0.07
+hypophyse	i-po-fiz	hy-po-phy-se	NOM	f	s		0.07	0.07
+hypophyses	i-po-fiz	hy-po-phy-ses	NOM	f	p	hypophyse	0	0.07
+hypoplasie	i-po-pla-zi		NOM	f	s		0.01	0
+hypospadias	i-pos-pa-djas	hy-po-spa-dias	NOM	m			0.01	0
+hypostase	i-pos-taz		NOM	f	s		0.01	0
+hypostases	i-pos-taz	hy-po-sta-ses	NOM	f	p	hypostase	0	0.07
+hyposulfite	i-po-zyl-fit	hy-po-sul-fi-te	NOM	m	s		0	0.2
+hypotaupe	i-po-top	hy-po-tau-pe	NOM	f	s		0	0.07
+hypotendu	i-po-t@-dy		NOM	m	s		0.03	0
+hypotendu	i-po-t@-dy		ADJ	m	s		0.01	0
+hypotendue	i-po-t@-dy		ADJ	f	s	hypotendu	0.01	0
+hypotensif	i-po-t@-sif		ADJ	m	s		0.01	0
+hypotension	i-po-t@-sj§	hy-po-ten-sion	NOM	f	s		0.28	0
+hypotensive	i-po-t@-siv		ADJ	f	s	hypotensif	0.01	0
+hypoténuse	i-po-te-nyz	hy-po-té-nu-se	NOM	f	s		0.09	0.07
+hypothalamus	i-po-ta-la-mys	hy-po-tha-la-mus	NOM	m			0.29	0.2
+hypothécaire	i-po-te-kER	hy-po-thé-cai-re	ADJ		s		0.05	0
+hypothécaires	i-po-te-kER	hy-po-thé-cai-res	ADJ	m	p	hypothécaire	0.04	0.07
+hypothéquait	i-po-te-kE	hy-po-thé-quait	VER			hypothéquer	0.01	0.14
+hypothéquant	i-po-te-k@	hy-po-thé-quant	VER			hypothéquer	0.01	0.07
+hypothèque	i-po-tEk	hy-po-thè-que	NOM	f	s		2.48	0.88
+hypothèque	i-po-tEk	hy-po-thè-que	VER			hypothéquer	0.44	0.07
+hypothéqué	i-po-te-ke	hy-po-thé-qué	VER	m	s	hypothéquer	0.23	0.14
+hypothéquée	i-po-te-ke	hy-po-thé-quée	VER	f	s	hypothéquer	0.04	0.41
+hypothèquent	i-po-tEk	hy-po-thè-quent	VER			hypothéquer	0	0.07
+hypothéquer	i-po-te-ke	hy-po-thé-quer	VER				0.57	0.34
+hypothéqueraient	i-po-te-k°-RE	hy-po-thé-que-raient	VER			hypothéquer	0	0.07
+hypothèques	i-po-tEk	hy-po-thè-ques	NOM	f	p	hypothèque	0.29	1.08
+hypothèques	i-po-tEk	hy-po-thè-ques	VER			hypothéquer	0.02	0
+hypothéquez	i-po-te-ke	hy-po-thé-quez	VER			hypothéquer	0.1	0.07
+hypothéquions	i-po-te-kj§	hy-po-thé-quions	VER			hypothéquer	0	0.07
+hypothermie	i-po-tER-mi	hy-po-ther-mie	NOM	f	s		0.8	0
+hypothermique	i-po-tER-mik	hy-po-ther-mi-que	ADJ	m	s		0.04	0
+hypothèse	i-po-tEz	hy-po-thè-se	NOM	f	s		7.47	12.91
+hypothèses	i-po-tEz	hy-po-thè-ses	NOM	f	p	hypothèse	1.5	3.92
+hypothétique	i-po-te-tik	hy-po-thé-ti-que	ADJ		s		0.65	1.62
+hypothétiquement	i-po-te-ti-k°-m@	hy-po-thé-ti-que-ment	ADV				0.23	0.07
+hypothétiques	i-po-te-tik	hy-po-thé-ti-ques	ADJ		p	hypothétique	0.07	0.61
+hypothyroïdie	i-po-ti-Ro-i-di	hy-po-thy-roï-die	NOM	f	s		0.04	0
+hypotonie	i-pO-tO-ni		NOM	f	s		0.01	0
+hypoxie	i-pOk-si	hy-poxie	NOM	f	s		0.13	0
+hypoxique	i-pOk-sik	hy-poxi-que	ADJ		s		0.16	0
+hysope	i-zOp	hy-so-pe	NOM	f	s		0.01	0.07
+hysopes	i-zOp	hy-so-pes	NOM	f	p	hysope	0	0.07
+hystérectomie	is-te-REk-to-mi	hys-té-rec-to-mie	NOM	f	s		0.26	0.07
+hystérie	is-te-Ri	hys-té-rie	NOM	f	s		3.48	3.31
+hystéries	is-te-Ri	hys-té-ries	NOM	f	p	hystérie	0	0.07
+hystérique	is-te-Rik	hys-té-ri-que	ADJ		s		5.6	3.45
+hystérique	is-te-Rik	hys-té-ri-que	NOM		s		1.25	1.01
+hystériquement	is-te-Ri-k°-m@	hys-té-ri-que-ment	ADV				0.03	0.27
+hystériques	is-te-Rik	hys-té-ri-ques	ADJ		p	hystérique	1.01	1.76
+hystériques	is-te-Rik	hys-té-ri-ques	NOM		p	hystérique	0.28	0.34
+hystéro	is-te-Ro	hys-té-ro	ADJ	f	s		0.02	0.34
+hystéro	is-te-Ro	hys-té-ro	NOM		s		0.01	0.2

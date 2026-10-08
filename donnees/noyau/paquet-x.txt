@@ -1,0 +1,23 @@
+x	iks	x	ADJ:num				7.48	4.46
+xavier	gza-vje	xa-vier	NOM	m	s		0.67	0.07
+xénogenèse	gze-no-Z°-nEz	xé-no-ge-nè-se	NOM	f	s		0.01	0
+xénogreffe	gze-no-gREf		NOM	f	s		0.01	0
+xénon	gze-n§	xé-non	NOM	m	s		0.34	0
+xénophilie	gze-no-fi-li	xé-no-phi-lie	NOM	f	s		0	0.14
+xénophobe	gze-no-fOb	xé-no-pho-be	ADJ		s		0.04	0
+xénophobe	gze-no-fOb	xé-no-pho-be	NOM		s		0.01	0
+xénophobes	gze-no-fOb	xé-no-pho-bes	ADJ		p	xénophobe	0.04	0.14
+xénophobes	gze-no-fOb	xé-no-pho-bes	NOM		p	xénophobe	0.03	0
+xénophobie	gze-no-fo-bi	xé-no-pho-bie	NOM	f	s		0.25	0.88
+xérès	kse-REs	xé-rès	NOM	m			0.41	0.54
+xérographie	kse-RO-gRa-fi		NOM	f	s		0.01	0
+xérographique	gze-Ro-gRa-fik	xé-ro-gra-phi-que	ADJ	m	s		0.01	0
+xiang	gzj@g	xiang	NOM	m	s		0.01	0
+xième	ik-sjEm		ADJ	m	s		0.28	0
+xiphidion	gzi-fi-dj§	xi-phi-dion	NOM	m	s		0	0.07
+xiphoïde	ksi-fo-id		ADJ	m	s		0.14	0
+xylène	ksi-lEn		NOM	m	s		0.03	0
+xylographie	ksi-lO-gRa-fi		NOM	f	s		0.2	0
+xylophone	gzi-lo-fOn	xy-lo-pho-ne	NOM	m	s		0.28	0.27
+xylophones	gzi-lo-fOn	xy-lo-pho-nes	NOM	m	p	xylophone	0	0.07
+xylophoniste	gzi-lo-fo-nist	xy-lo-pho-nis-te	NOM		s		0.04	0

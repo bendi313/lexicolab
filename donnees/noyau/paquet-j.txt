@@ -1,0 +1,1172 @@
+j	Z	j	NOM	m			64.31	2.91
+j	Z	j	PRO:per		s		3.16	0.88
+jà	Za	jà	ADV				1.02	0.41
+jabadao	Za-ba-da-o		NOM	m	s		0	0.2
+jabot	Za-bo	ja-bot	NOM	m	s		0.15	1.89
+jaboter	Za-bo-te	ja-bo-ter	VER				0	0.07
+jabots	Za-bo	ja-bots	NOM	m	p	jabot	0.01	0.27
+jacarandas	Za-ka-R@-da	ja-ca-ran-das	NOM	m	p	jacaranda	0	0.2
+jacassaient	Za-ka-sE	ja-cas-saient	VER			jacasser	0.01	0.47
+jacassais	Za-ka-sE	ja-cas-sais	VER			jacasser	0.01	0
+jacassait	Za-ka-sE	ja-cas-sait	VER			jacasser	0.04	0.2
+jacassant	Za-ka-s@	ja-cas-sant	VER			jacasser	0.03	0.41
+jacassant	Za-ka-s@	ja-cas-sant	ADJ	m	s		0	0.14
+jacassante	Za-ka-s@t	ja-cas-san-te	ADJ	f	s	jacassant	0	0.14
+jacassantes	Za-ka-s@t	ja-cas-san-tes	ADJ	f	p	jacassant	0	0.27
+jacassants	Za-ka-s@	ja-cas-sants	ADJ	m	p	jacassant	0	0.07
+jacasse	Za-kas	ja-cas-se	VER			jacasser	0.33	0.2
+jacasse	Za-kas	ja-cas-se	NOM	f	s		0.02	0.14
+jacassé	Za-ka-se	ja-cas-sé	VER	m	s	jacasser	0.03	0
+jacassement	Za-ka-s°-m@	ja-cas-se-ment	NOM	m	s		0.03	0.47
+jacassements	Za-ka-s°-m@	ja-cas-se-ments	NOM	m	p	jacassement	0.04	0.34
+jacassent	Za-kas	ja-cas-sent	VER			jacasser	0.13	0.07
+jacasser	Za-ka-se	ja-cas-ser	VER				0.91	0.61
+jacasseraient	Za-ka-s°-RE	ja-cas-se-raient	VER			jacasser	0	0.07
+jacasserie	Za-ka-s°-Ri	ja-cas-se-rie	NOM	f	s		0	0.07
+jacasseries	Za-ka-s°-Ri	ja-cas-se-ries	NOM	f	p	jacasserie	0.04	0.27
+jacasses	Za-kas	ja-cas-ses	NOM	f	p	jacasse	0	0.07
+jacasses	Za-kas	ja-cas-ses	VER			jacasser	0.05	0
+jacasseur	Za-ka-s9R		NOM	m	s		0.03	0
+jacasseurs	Za-ka-s9R	ja-cas-seurs	NOM	m	p	jacasseur	0	0.07
+jacasseuse	Za-ka-s2z	ja-cas-seu-se	NOM	f	s	jacasseur	0.01	0
+jacassez	Za-ka-se	ja-cas-sez	VER			jacasser	0.04	0
+jacassière	Za-ka-sjER	ja-cas-siè-re	NOM	f	s	jacassier	0	0.14
+jacassiers	Za-ka-sje	ja-cas-siers	NOM	m	p	jacassier	0	0.07
+jacassiez	Za-ka-sje	ja-cas-siez	VER			jacasser	0	0.07
+jachère	Za-SER	ja-chè-re	NOM	f	s		0.12	0.74
+jachères	Za-SER	ja-chè-res	NOM	f	p	jachère	0	0.14
+jacinthe	Za-s5t	ja-cin-the	NOM	f	s		0.01	0.54
+jacinthes	Za-s5t	ja-cin-thes	NOM	f	p	jacinthe	0.14	0.74
+jack	dZak	ja-ck	NOM	m	s		1.86	0.07
+jacket	Za-kEt	ja-cket	NOM	f	s		0.04	0.07
+jackets	Za-kE	ja-ckets	NOM	f	p	jacket	0.19	0.07
+jackpot	Zak-po	ja-ck-pot	NOM	m	s		1.96	0.27
+jacks	Zak	ja-cks	NOM	m	p	jack	0.4	0
+jacob	Za-kOb		NOM	m	s		0.09	0.2
+jacobées	Za-ko-be	ja-co-bées	NOM	f	p	jacobée	0	0.07
+jacobin	Za-ko-b5	ja-co-bin	ADJ	m	s		0.1	0
+jacobin	Za-ko-b5	ja-co-bin	NOM	m	s		0	0.07
+jacobine	Za-ko-bin	ja-co-bi-ne	ADJ	f	s	jacobin	0	0.14
+jacobins	Za-ko-b5	ja-co-bins	NOM	m	p	jacobin	0	0.27
+jacobins	Za-ko-b5	ja-co-bins	ADJ	m	p	jacobin	0.01	0
+jacobite	Za-ko-bit	ja-co-bi-te	ADJ	m	s		0.05	0.2
+jacobite	Za-ko-bit	ja-co-bi-te	NOM		s		0.04	0
+jacobites	Za-ko-bit	ja-co-bi-tes	NOM		p	jacobite	0.14	0.14
+jacobites	Za-ko-bit	ja-co-bi-tes	ADJ	f	p	jacobite	0.02	0
+jacot	Za-ko	ja-cot	NOM	m	s		0	0.41
+jacquard	Za-kaR	jac-quard	NOM	m	s		0.11	1.28
+jacqueline	Za-k°-lin		ADV				0	0.07
+jacqueline	Za-k°-lin		NOM	f	s		0.01	0
+jacquemart	Za-k°-maR	jac-que-mart	NOM	m	s		0	0.07
+jacquemarts	Za-k°-maR	jac-que-marts	NOM	m	p	jacquemart	0	0.14
+jacqueries	Za-k°-Ri	jac-que-ries	NOM	f	p	jacquerie	0	0.14
+jacques	Zak	jac-ques	NOM	m			3.12	4.73
+jacquet	Za-kE	jac-quet	NOM	m	s		0.25	2.57
+jacquier	Za-kje	jac-quier	NOM	m	s		0	0.68
+jacquot	Za-ko		NOM	m	s		0.01	0
+jactais	Zak-tE	jac-tais	VER			jacter	0	0.07
+jactait	Zak-tE	jac-tait	VER			jacter	0	1.01
+jactance	Zak-t@s	jac-tan-ce	NOM	f	s		0.4	3.85
+jactancier	Zak-t@-sje	jac-tan-cier	ADJ	m	s		0	0.07
+jactant	Zak-t@	jac-tant	VER			jacter	0	0.14
+jacte	Zakt	jac-te	VER			jacter	0.17	2.57
+jacté	Zak-te	jac-té	VER	m	s	jacter	0.02	1.01
+jactent	Zakt	jac-tent	VER			jacter	0	0.34
+jacter	Zak-te	jac-ter	VER				0.14	3.92
+jacteraient	Zak-t°-RE	jac-te-raient	VER			jacter	0	0.07
+jacterais	Zak-t°-RE	jac-te-rais	VER			jacter	0.01	0
+jactes	Zakt	jac-tes	VER			jacter	0.01	0.2
+jacteur	Zak-t9R		NOM	m	s		0	0.14
+jacteur	Zak-t9R		ADJ	m	s		0	0.07
+jactez	Zak-te	jac-tez	VER			jacter	0.01	0.14
+jactions	Zak-tj§	jac-tions	VER			jacter	0	0.07
+jaculatoire	Za-ky-la-twaR	ja-cu-la-toi-re	ADJ	f	s		0	0.07
+jacuzzi	Za-ky-zi	ja-cuz-zi	NOM	m	s		3.32	0.07
+jacuzzis	Za-ky-zi	ja-cuz-zis	NOM	m	p	jacuzzi	0.14	0.07
+jade	Zad	ja-de	NOM	m	s		0.63	3.38
+jade	Zad	ja-de	ADJ				0.03	1.28
+jades	Zad	ja-des	NOM	m	p	jade	0.03	0.14
+jadis	Za-dis	ja-dis	ADV				11.55	52.3
+jadis	Za-dis	ja-dis	ADJ				0.5	2.09
+jaffa	Za-fa	jaf-fa	VER			jaffer	0.79	0
+jaffas	Za-fa	jaf-fas	VER			jaffer	4.57	0
+jaffe	Zaf	jaf-fe	NOM	f	s		0.17	0.74
+jaffer	Za-fe	jaf-fer	VER				0.05	0.2
+jaguar	Za-gwaR	ja-guar	NOM	m	s		0.65	0.41
+jaguarondi	Za-gwa-R§-di	ja-gua-ron-di	NOM	m	s		0.01	0
+jaguars	Za-gwaR	ja-guars	NOM	m	p	jaguar	0.27	0.2
+jailli	Za-ji	jail-li	VER	m	s	jaillir	0.69	5.47
+jaillie	Za-ji	jail-lie	VER	f	s	jaillir	0.05	1.01
+jaillies	Za-ji	jail-lies	VER	f	p	jaillir	0	0.68
+jaillir	Za-jiR	jail-lir	VER				2.03	9.73
+jaillira	Za-ji-Ra	jail-li-ra	VER			jaillir	0.34	0.27
+jailliraient	Za-ji-RE	jail-li-raient	VER			jaillir	0	0.07
+jaillirait	Za-ji-RE	jail-li-rait	VER			jaillir	0.01	0.27
+jaillirent	Za-jiR	jail-li-rent	VER			jaillir	0.06	1.42
+jailliront	Za-ji-R§	jail-li-ront	VER			jaillir	0.03	0.07
+jaillis	Za-ji	jail-lis	VER	m	p	jaillir	0.15	1.28
+jaillissaient	Za-ji-sE	jail-lis-saient	VER			jaillir	0.07	2.57
+jaillissait	Za-ji-sE	jail-lis-sait	VER			jaillir	0.17	3.85
+jaillissant	Za-ji-s@	jail-lis-sant	VER			jaillir	0.17	2.03
+jaillissant	Za-ji-s@	jail-lis-sant	ADJ	m	s		0	0.74
+jaillissante	Za-ji-s@t	jail-lis-san-te	ADJ	f	s	jaillissant	0.01	0.74
+jaillissantes	Za-ji-s@t	jail-lis-san-tes	ADJ	f	p	jaillissant	0.01	0.14
+jaillissants	Za-ji-s@	jail-lis-sants	ADJ	m	p	jaillissant	0	0.07
+jaillisse	Za-jis	jail-lis-se	VER			jaillir	0.08	0.41
+jaillissement	Za-ji-s°-m@	jail-lis-se-ment	NOM	m	s		0.25	1.49
+jaillissements	Za-ji-s°-m@	jail-lis-se-ments	NOM	m	p	jaillissement	0	0.34
+jaillissent	Za-jis	jail-lis-sent	VER			jaillir	0.53	3.99
+jaillit	Za-ji	jail-lit	VER			jaillir	1.43	10.07
+jaillît	Za-ji	jail-lît	VER			jaillir	0	0.07
+jaïnistes	Za-i-nist	jaï-nis-tes	NOM		p	jaïniste	0	0.07
+jais	ZE	jais	NOM	m			0.43	6.82
+jaja	Za-Za	ja-ja	NOM	m	s		0.2	0.61
+jalmince	Zal-m5s	jal-min-ce	ADJ		s		0	0.95
+jalminces	Zal-m5s	jal-min-ces	ADJ		p	jalmince	0	0.27
+jalon	Za-l§	ja-lon	NOM	m	s		0.03	1.08
+jalonnaient	Za-lo-nE	ja-lon-naient	VER			jalonner	0.01	1.08
+jalonnais	Za-lo-nE	ja-lon-nais	VER			jalonner	0	0.07
+jalonnait	Za-lo-nE	ja-lon-nait	VER			jalonner	0	0.2
+jalonnant	Za-lo-n@	ja-lon-nant	VER			jalonner	0.02	0.27
+jalonne	Za-lOn	ja-lon-ne	VER			jalonner	0.01	0.07
+jalonné	Za-lo-ne	ja-lon-né	VER	m	s	jalonner	0.02	0.61
+jalonné	Za-lo-ne	ja-lon-né	ADJ	m	s		0	0.14
+jalonnée	Za-lo-ne	ja-lon-née	VER	f	s	jalonner	0.02	0.95
+jalonnée	Za-lo-ne	ja-lon-née	ADJ	f	s	jalonné	0	0.2
+jalonnent	Za-lOn	ja-lon-nent	VER			jalonner	0.04	1.28
+jalonner	Za-lo-ne	ja-lon-ner	VER				0	0.2
+jalonnés	Za-lo-ne	ja-lon-nés	VER	m	p	jalonner	0	0.27
+jalons	Za-l§	ja-lons	NOM	m	p	jalon	0.14	1.62
+jalousaient	Za-lu-zE	ja-lou-saient	VER			jalouser	0.02	0.2
+jalousais	Za-lu-zE	ja-lou-sais	VER			jalouser	0	0.27
+jalousait	Za-lu-zE	ja-lou-sait	VER			jalouser	0.01	0.54
+jalousant	Za-lu-z@	ja-lou-sant	VER			jalouser	0.03	0.07
+jalouse	Za-luz	ja-lou-se	ADJ	f	s	jaloux	14.2	7.84
+jalouse	Za-luz	ja-lou-se	NOM	f	s	jaloux	1.69	1.42
+jalousé	Za-lu-ze	ja-lou-sé	VER	m	s	jalouser	0.04	0.14
+jalousée	Za-lu-ze	ja-lou-sée	VER	f	s	jalouser	0	0.07
+jalousement	Za-lu-z°-m@	ja-lou-se-ment	ADV				0.95	2.5
+jalousent	Za-luz	ja-lou-sent	VER			jalouser	0.14	0.2
+jalouser	Za-lu-ze	ja-lou-ser	VER				0.01	0.2
+jalouserais	Za-lu-z°-RE	ja-lou-se-rais	VER			jalouser	0.02	0
+jalouses	Za-luz	ja-lou-ses	ADJ	f	p	jaloux	0.6	1.22
+jalouses	Za-luz	ja-lou-ses	NOM	f	p	jaloux	0.3	0.2
+jalousie	Za-lu-zi	ja-lou-sie	NOM	f	s		13.2	22.09
+jalousies	Za-lu-zi	ja-lou-sies	NOM	f	p	jalousie	0.47	3.11
+jaloux	Za-lu	ja-loux	ADJ	m			29.87	15.14
+jaloux	Za-lu	ja-loux	NOM	m			4.99	3.45
+jam	dZam		NOM	f	s		0.05	0.07
+jam-session	dZam-se-sj9n	jam-session	NOM	f	s		0.14	0
+jam-sessions	dZam-se-sj9n	jam-sessions	NOM	f	p	jam-session	0.01	0
+jamaïcain	Za-ma-i-k5	ja-maï-cain	ADJ	m	s		0.14	0.2
+jamaïcain	Za-ma-i-k5	ja-maï-cain	NOM	m	s		0.09	0
+jamaïcaine	Za-ma-i-kEn		ADJ	f	s	jamaïcain	0.1	0
+jamaïcaine	Za-ma-i-kEn		NOM	f	s	jamaïcain	0.01	0
+jamaïcains	Za-ma-i-k5	ja-maï-cains	NOM	m	p	jamaïcain	0.09	0
+jamaïcains	Za-ma-i-k5	ja-maï-cains	ADJ	m	p	jamaïcain	0.03	0
+jamaïquain	Za-ma-i-k5		ADJ	m	s		0.05	0
+jamaïquain	Za-ma-i-k5		NOM	m	s		0.01	0
+jamaïquains	Za-ma-i-k5	ja-maï-quains	ADJ	m	p	jamaïquain	0	0.07
+jamaïquains	Za-ma-i-k5	ja-maï-quains	NOM	m	p	jamaïquain	0.02	0
+jamais	Za-mE	ja-mais	ADV				1360.22	1122.97
+jamais-vu	Za-mE-vy		NOM	m			0	0.07
+jambage	Z@-baZ	jam-ba-ge	NOM	m	s		0.01	0.2
+jambages	Z@-baZ	jam-ba-ges	NOM	m	p	jambage	0.01	0.88
+jambart	Z@-baR	jam-bart	NOM	m	s		0	0.07
+jambe	Z@b	jam-be	NOM	f	s		46.31	49.93
+jambes	Z@b	jam-bes	NOM	f		jambe	67.51	171.01
+jambier	Z@-bje		NOM	m	s		0.01	0
+jambière	Z@-bjER		NOM	f	s		0.02	0
+jambières	Z@-bjER	jam-biè-res	NOM	f	p	jambière	0.23	0.61
+jambières	Z@-bjER	jam-biè-res	ADJ	f	p	jambier	0	0.14
+jambon	Z@-b§	jam-bon	NOM	m	s		8.94	11.01
+jambonneau	Z@-bo-no	jam-bon-neau	NOM	m	s		0	0.68
+jambonneaux	Z@-bo-no	jam-bon-neaux	NOM	m	p	jambonneau	0.04	0.34
+jambons	Z@-b§	jam-bons	NOM	m	p	jambon	0.48	2.23
+jamboree	Zam-bo-Ri	jam-bo-ree	NOM	m	s		0.09	0.07
+janissaire	Za-ni-sER	ja-nis-sai-re	NOM	m	s		0	0.68
+janissaires	Za-ni-sER	ja-nis-sai-res	NOM	m	p	janissaire	0	5.74
+jans	Z@	jans	NOM	m	p	jan	0.1	0.61
+jansénisme	Z@-se-nizm	jan-sé-nis-me	NOM	m	s		0	0.54
+janséniste	Z@-se-nist	jan-sé-nis-te	ADJ		s		0	0.88
+janséniste	Z@-se-nist	jan-sé-nis-te	NOM		s		0	0.47
+jansénistes	Z@-se-nist	jan-sé-nis-tes	NOM		p	janséniste	0	0.27
+jansénistes	Z@-se-nist	jan-sé-nis-tes	ADJ		p	janséniste	0	0.07
+jante	Z@t	jan-te	NOM	f	s		0.22	0.47
+jantes	Z@t	jan-tes	NOM	f	p	jante	0.99	0.2
+janvier	Z@-vje	jan-vier	NOM	m			8.34	30.61
+jap	Zap	jap	NOM		s		0.23	0.14
+japon	Za-p§	ja-pon	NOM	m	s		0.2	0.2
+japonais	Za-po-nE	ja-po-nais	NOM	m			10.99	11.49
+japonais	Za-po-nE	ja-po-nais	ADJ	m			7.71	9.19
+japonaise	Za-po-nEz	ja-po-nai-se	ADJ	f	s	japonais	3.2	3.99
+japonaise	Za-po-nEz	ja-po-nai-se	NOM	f	s	japonais	2.06	0.88
+japonaiserie	Za-po-nE-z°-Ri	ja-po-nai-se-rie	NOM	f	s		0	0.07
+japonaises	Za-po-nEz	ja-po-nai-ses	ADJ	f	p	japonais	1	1.49
+japonaises	Za-po-nEz	ja-po-nai-ses	NOM	f	p	japonais	0.19	0.27
+japonerie	Za-pO-n°-Ri	ja-po-ne-rie	NOM	f	s		0	0.07
+japoneries	Za-pO-n°-Ri	ja-po-ne-ries	NOM	f	p	japonerie	0	0.07
+japonisants	Za-po-ni-z@	ja-po-ni-sants	NOM	m	p	japonisant	0	0.07
+japoniser	Za-po-ni-ze	ja-po-ni-ser	VER				0.01	0
+japons	Za-p§	ja-pons	NOM	m	p	japon	0	0.07
+jappa	Za-pa	jap-pa	VER			japper	0	0.2
+jappaient	Za-pE	jap-paient	VER			japper	0	0.07
+jappait	Za-pE	jap-pait	VER			japper	0.02	0.34
+jappant	Za-p@	jap-pant	VER			japper	0.01	0.34
+jappe	Zap	jap-pe	VER			japper	0.34	0.61
+jappé	Za-pe	jap-pé	VER	m	s	japper	0	0.27
+jappement	Za-p°-m@	jap-pe-ment	NOM	m	s		0.04	0.88
+jappements	Za-p°-m@	jap-pe-ments	NOM	m	p	jappement	0.03	1.15
+jappent	Zap	jap-pent	VER			japper	0	0.14
+japper	Za-pe	jap-per	VER				0.11	0.61
+jappèrent	Za-pER	jap-pè-rent	VER			japper	0	0.07
+jappeur	Za-p9R	jap-peur	NOM	m	s		0.01	0.07
+japs	Zap	japs	NOM		p	jap	2.04	0.07
+jaquelin	Za-kE-l5	ja-que-lin	NOM	m	s		0	0.2
+jaquemart	Za-k°-maR		NOM	m	s		0.01	0
+jaquemarts	Za-k°-maR	ja-que-marts	NOM	m	p	jaquemart	0	0.07
+jaquet	Za-kE		NOM	m	s		0	0.14
+jaquette	Za-kEt	ja-quet-te	NOM	f	s		1.3	2.57
+jaquettes	Za-kEt	ja-quet-tes	NOM	f	p	jaquette	0.04	0.34
+jar	ZaR	jar	NOM	m	s		0.12	0.07
+jardin	ZaR-d5	jar-din	NOM	m	s		54.01	148.72
+jardinage	ZaR-di-naZ	jar-di-na-ge	NOM	m	s		1.65	2.03
+jardinait	ZaR-di-nE	jar-di-nait	VER			jardiner	0.01	0.14
+jardinant	ZaR-di-n@	jar-di-nant	VER			jardiner	0.02	0.07
+jardine	ZaR-din	jar-di-ne	VER			jardiner	0.62	0.07
+jardiné	ZaR-di-ne	jar-di-né	VER	m	s	jardiner	0.03	0
+jardinent	ZaR-din	jar-di-nent	VER			jardiner	0.01	0.07
+jardiner	ZaR-di-ne	jar-di-ner	VER				0.31	0.27
+jardinerai	ZaR-di-n°-RE	jar-di-ne-rai	VER			jardiner	0.01	0
+jardineras	ZaR-di-n°-Ra	jar-di-ne-ras	VER			jardiner	0	0.07
+jardinerie	ZaR-di-n°-Ri	jar-di-ne-rie	NOM	f	s		0.04	0.07
+jardinet	ZaR-di-nE	jar-di-net	NOM	m	s		0.18	3.65
+jardinets	ZaR-di-nE	jar-di-nets	NOM	m	p	jardinet	0	2.97
+jardinier	ZaR-di-nje	jar-di-nier	NOM	m	s		6.9	6.22
+jardinière	ZaR-di-njER	jar-di-niè-re	NOM	f	s		0.38	1.55
+jardinières	ZaR-di-njER	jar-di-niè-res	NOM	f	p	jardinière	0.01	0.27
+jardiniers	ZaR-di-nje	jar-di-niers	NOM	m	p	jardinier	0.39	4.05
+jardins	ZaR-d5	jar-dins	NOM	m	p	jardin	6.2	37.09
+jargon	ZaR-g§	jar-gon	NOM	m	s		1.9	4.26
+jargonnant	ZaR-go-n@	jar-gon-nant	VER			jargonner	0	0.14
+jargonne	ZaR-gOn	jar-gon-ne	VER			jargonner	0	0.14
+jargonné	ZaR-go-ne	jar-gon-né	VER	m	s	jargonner	0	0.07
+jargonnent	ZaR-gOn	jar-gon-nent	VER			jargonner	0	0.07
+jargonner	ZaR-go-ne	jar-gon-ner	VER				0	0.07
+jargons	ZaR-g§	jar-gons	NOM	m	p	jargon	0.01	0.07
+jarnicoton	ZaR-ni-ko-t§	jar-ni-co-ton	ONO				0	0.07
+jarre	ZaR	jar-re	NOM	f	s		1.17	1.49
+jarres	ZaR	jar-res	NOM	f	p	jarre	0.08	2.43
+jarret	Za-RE	jar-ret	NOM	m	s		1.16	1.28
+jarretelle	Za-R°-tEl	jar-re-tel-le	NOM	f	s		0.02	0.47
+jarretelles	Za-R°-tEl	jar-re-tel-les	NOM	f	p	jarretelle	0.12	1.35
+jarretière	Za-R°-tjER	jar-re-tiè-re	NOM	f	s		1.28	0.27
+jarretières	Za-R°-tjER	jar-re-tiè-res	NOM	f	p	jarretière	0.38	0.2
+jarrets	Za-RE	jar-rets	NOM	m	p	jarret	0.15	2.64
+jars	ZaR	jars	NOM	m			0.09	0.74
+jas	Za	jas	NOM	m			0.03	0.07
+jasaient	Za-zE	ja-saient	VER			jaser	0.01	0.07
+jasait	Za-zE	ja-sait	VER			jaser	0	0.2
+jase	Zaz	ja-se	VER			jaser	0.51	0.41
+jasé	Za-ze	ja-sé	VER	m	s	jaser	0.01	0.07
+jasent	Zaz	ja-sent	VER			jaser	0.47	0
+jaser	Za-ze	ja-ser	VER				1.56	0.81
+jaserait	Za-z°-RE	ja-se-rait	VER			jaser	0.16	0
+jases	Zaz	ja-ses	VER			jaser	0	0.07
+jaseur	Za-z9R	ja-seur	NOM	m	s		0	0.2
+jasmin	Zas-m5	jas-min	NOM	m	s		1.57	4.19
+jasmins	Zas-m5	jas-mins	NOM	m	p	jasmin	0	0.95
+jaspaient	Zas-pE	jas-paient	VER			jasper	0	0.07
+jaspe	Zasp	jas-pe	NOM	m	s		0	0.27
+jaspé	Zas-pe	jas-pé	VER	m	s	jasper	0	0.07
+jaspées	Zas-pe	jas-pées	VER	f	p	jasper	0	0.07
+jasper	Zas-pe	jas-per	VER				0.11	0
+jaspés	Zas-pe	jas-pés	VER	m	p	jasper	0	0.07
+jaspin	Zas-p5	jas-pin	NOM	m	s		0	0.07
+jaspinaient	Zas-pi-nE	jas-pi-naient	VER			jaspiner	0	0.07
+jaspinais	Zas-pi-nE	jas-pi-nais	VER			jaspiner	0	0.07
+jaspinait	Zas-pi-nE	jas-pi-nait	VER			jaspiner	0	0.14
+jaspine	Zas-pin	jas-pi-ne	VER			jaspiner	0	0.61
+jaspiné	Zas-pi-ne	jas-pi-né	VER	m	s	jaspiner	0	0.07
+jaspinent	Zas-pin	jas-pi-nent	VER			jaspiner	0	0.07
+jaspiner	Zas-pi-ne	jas-pi-ner	VER				0	0.07
+jatte	Zat	jat-te	NOM	f	s		0.18	0.41
+jattes	Zat	jat-tes	NOM	f	p	jatte	0	0.41
+jauge	ZoZ	jau-ge	NOM	f	s		1.25	0.47
+jauge	ZoZ	jau-ge	VER			jauger	0.14	0.88
+jaugé	Zo-Ze	jau-gé	VER	m	s	jauger	0	0.41
+jaugea	Zo-Za	jau-gea	VER			jauger	0	0.68
+jaugeait	Zo-ZE	jau-geait	VER			jauger	0.01	1.01
+jaugeant	Zo-Z@	jau-geant	VER			jauger	0	0.34
+jaugée	Zo-Ze	jau-gée	VER	f	s	jauger	0.01	0.27
+jaugent	ZoZ	jau-gent	VER			jauger	0.06	0.14
+jauger	Zo-Ze	jau-ger	VER				0.64	0.88
+jauges	ZoZ	jau-ges	NOM	f	p	jauge	0.18	0.07
+jauges	ZoZ	jau-ges	VER			jauger	0.02	0
+jaugés	Zo-Ze	jau-gés	VER	m	p	jauger	0.01	0.07
+jaugez	Zo-Ze	jau-gez	VER			jauger	0.28	0
+jaunasse	Zo-nas	jau-nas-se	ADJ		s		0	0.14
+jaunasses	Zo-nas	jau-nas-ses	ADJ	f	p	jaunasse	0	0.2
+jaunâtre	Zo-natR	jau-nâ-tre	ADJ		s		0.08	7.5
+jaunâtres	Zo-natR	jau-nâ-tres	ADJ		p	jaunâtre	0.02	2.43
+jaune	Zon	jau-ne	ADJ		s		15.48	75.81
+jaune	Zon	jau-ne	NOM		s		6.43	19.66
+jaune-vert	Zon-vER		ADJ		s		0.01	0.2
+jaunes	Zon	jau-nes	ADJ		p	jaune	5.62	34.05
+jaunes	Zon	jau-nes	NOM		p	jaune	1.44	2.91
+jaunets	Zo-nE	jau-nets	NOM	m	p	jaunet	0	0.2
+jauni	Zo-ni	jau-ni	ADJ	m	s		0	2.09
+jauni	Zo-ni	jau-ni	VER	m	s	jaunir	0.5	1.55
+jaunie	Zo-ni	jau-nie	ADJ	f	s	jauni	0.01	1.89
+jaunie	Zo-ni	jau-nie	VER	f	s	jaunir	0.02	1.62
+jaunies	Zo-ni	jau-nies	ADJ	f	p	jauni	0.26	1.96
+jaunies	Zo-ni	jau-nies	VER	f	p	jaunir	0.02	1.01
+jaunir	Zo-niR	jau-nir	VER				0.21	0.68
+jaunira	Zo-ni-Ra	jau-ni-ra	VER			jaunir	0	0.07
+jauniront	Zo-ni-R§	jau-ni-ront	VER			jaunir	0	0.07
+jaunis	Zo-ni	jau-nis	ADJ	m	p	jauni	0.02	2.43
+jaunis	Zo-ni	jau-nis	VER	m	p	jaunir	0.01	0.74
+jaunissaient	Zo-ni-sE	jau-nis-saient	VER			jaunir	0	0.47
+jaunissait	Zo-ni-sE	jau-nis-sait	VER			jaunir	0	1.08
+jaunissant	Zo-ni-s@	jau-nis-sant	ADJ	m	s		0.16	0
+jaunissant	Zo-ni-s@	jau-nis-sant	VER			jaunir	0	0.07
+jaunissante	Zo-ni-s@t	jau-nis-san-te	ADJ	f	s	jaunissant	0	0.14
+jaunissantes	Zo-ni-s@t	jau-nis-san-tes	ADJ	f	p	jaunissant	0	0.41
+jaunissants	Zo-ni-s@	jau-nis-sants	ADJ	m	p	jaunissant	0	0.14
+jaunisse	Zo-nis	jau-nis-se	NOM	f	s		0.51	0.34
+jaunisse	Zo-nis	jau-nis-se	VER			jaunir	0	0.14
+jaunissement	Zo-ni-s°-m@	jau-nis-se-ment	NOM	m	s		0.01	0.07
+jaunissent	Zo-nis	jau-nis-sent	VER			jaunir	0.02	0.27
+jaunisses	Zo-nis	jau-nis-ses	NOM	f	p	jaunisse	0	0.07
+jaunit	Zo-ni	jau-nit	VER			jaunir	0.14	0.54
+java	Za-va	ja-va	NOM	f	s		0.44	1.89
+javanais	Za-va-nE	ja-va-nais	NOM	m			0.04	0.27
+javanais	Za-va-nE	ja-va-nais	ADJ	m	s		0.06	0.2
+javanaise	Za-va-nEz		ADJ	f	s	javanais	0.01	0
+javanaises	Za-va-nEz	ja-va-nai-ses	ADJ	f	p	javanais	0	0.07
+javas	Za-va	ja-vas	NOM	f	p	java	0.02	0.41
+javel	Za-vEl	ja-vel	NOM	f	s		1.33	3.45
+javeline	Za-v°-lin	ja-ve-li-ne	NOM	f	s		0	0.07
+javelle	Za-vEl	ja-vel-le	NOM	f	s		0.01	0
+javelles	Za-vEl	ja-vel-les	NOM	f	p	javelle	0	0.34
+javellise	Za-vE-liz	ja-vel-li-se	VER			javelliser	0	0.07
+javellisé	Za-vE-li-ze	ja-vel-li-sé	VER	m	s	javelliser	0	0.07
+javellisée	Za-vE-li-ze	ja-vel-li-sée	VER	f	s	javelliser	0.01	0.14
+javellisées	Za-vE-li-ze	ja-vel-li-sées	VER	f	p	javelliser	0	0.07
+javelliser	Za-ve-li-ze		VER				0.01	0
+javelot	Za-v°-lo	ja-ve-lot	NOM	m	s		0.44	0.95
+javelots	Za-v°-lo	ja-ve-lots	NOM	m	p	javelot	0.27	0.41
+javotte	Za-vOt		NOM	f	s		0	0.07
+jazz	dZaz	jazz	NOM	m			7.38	8.11
+jazz-band	dZaz-b@d	jazz-band	NOM	m	s		0.02	0.2
+jazz-rock	dZa-zROk		NOM	m			0.14	0.07
+jazzman	dZaz-man	jazz-man	NOM	m	s		0.27	0.14
+jazzmen	dZaz-mEn	jazz-men	NOM	m	p	jazzman	0.07	0.07
+jazzy	dZa-zi	jaz-zy	ADJ	f			0.14	0
+je	Z°	je	PRO:per		s		25983.2	10862.77
+je	Z°	je	NOM	f	s		5.28	0
+je-m'en-fichiste	Z°-m@-fi-Sist	je-m'en-fichiste	ADJ	f	s		0.01	0
+je-m'en-foutisme	Z2-m@-fu-tizm	je-m'en-foutisme	NOM	m	s		0.01	0.14
+je-m'en-foutiste	Z2-m@-fu-tist	je-m'en-foutiste	ADJ		s		0.01	0
+je-m'en-foutistes	Z°-m@-fu-tist	je-m'en-foutistes	NOM		p	je-m'en-foutiste	0.03	0.07
+je-ne-sais-quoi	Z°-n°-se-kwa	je-ne-sais-quoi	NOM	m			0.34	0.47
+jean	dZin	jean	NOM	m	s		3.62	6.96
+jean-foutre	Z@-futR	jean-foutre	NOM	m			0.41	1.28
+jean-le-blanc	Z@-l°-bl@	jean-le-blanc	NOM	m			0	0.07
+jeanneton	Za-n°-t§		NOM	f	s		0.02	0.68
+jeannette	Za-nEt	jean-net-te	NOM	f	s		0.02	0.2
+jeannettes	Za-nEt	jean-net-tes	NOM	f	p	jeannette	0.25	0
+jeannot	Za-no		NOM	m	s		0	0.07
+jeans	dZins	jeans	NOM	m	p	jean	2.93	3.24
+jeep	dZip	jeep	NOM	f	s		4.18	2.16
+jeeps	dZip	jeeps	NOM	f	p	jeep	0.47	0.81
+jéjunale	Ze-Zy-nal		ADJ	f	s	jéjunal	0.01	0
+jéjunum	Ze-Zy-nOm		NOM	m	s		0.04	0
+jellaba	dZE-la-ba		NOM	f	s		0	0.14
+jenny	Ze-ni	jen-ny	NOM	f	s		0.12	9.32
+jérémiade	Ze-Re-mjad	jé-ré-mia-de	NOM	f	s		0.14	0.14
+jérémiades	Ze-Re-mjad	jé-ré-mia-des	NOM	f	p	jérémiade	0.79	1.76
+jerez	xe-REs	je-rez	NOM	m			0.67	0.68
+jerk	dZERk	jerk	NOM	m	s		0.11	0.54
+jéroboam	Ze-Ro-bo-am	jé-ro-boam	NOM	m	s		0.01	0
+jéroboams	Ze-Ro-bo-am	jé-ro-boam-s	NOM	m	p	jéroboam	0	0.07
+jerrican	Ze-Ri-kan	jer-ri-can	NOM	m	s		0.34	0.07
+jerricane	ZE-Ri-kan	jer-ri-ca-ne	NOM	m	s		0.19	0
+jerricanes	ZE-Ri-kan	jer-ri-ca-nes	NOM	m	p	jerricane	0	0.07
+jerricans	Ze-Ri-kan	jer-ri-cans	NOM	m	p	jerrican	0.04	0.14
+jerrycan	Ze-Ri-kan	jer-ry-can	NOM	m	s		0.25	0.27
+jerrycans	Ze-Ri-kan	jer-ry-cans	NOM	m	p	jerrycan	0.18	0.41
+jersey	ZER-zE	jer-sey	NOM	m	s		0.51	1.62
+jerseys	ZER-sE	jer-seys	NOM	m	p	jersey	0	0.07
+jésuite	Ze-z8it	jé-sui-te	NOM	m	s		0.61	2.09
+jésuites	Ze-z8it	jé-sui-tes	NOM	m	p	jésuite	0.92	2.97
+jésuitière	Ze-z8i-tjER		NOM	f	s		0	0.07
+jésuitique	Ze-z8i-tik	jé-sui-ti-que	ADJ		s		0.02	0.34
+jésuitiques	Ze-z8i-tik	jé-sui-ti-ques	ADJ	m	p	jésuitique	0	0.07
+jésus	Ze-zy	jé-sus	NOM	m	s		8.19	0.88
+jet	dZEt	jet	NOM	m	s		7.96	14.53
+jet society	dZEt-so-saj-ti	jet so-cie-ty	NOM	f	s		0	0.07
+jet-set	dZEt-sEt	jet-set	NOM	m	s		0.42	0.07
+jet-stream	dZEt-stRim	jet-stream	NOM	m	s		0.01	0
+jeta	Z°-ta	je-ta	VER			jeter	1.63	60.95
+jetable	Z°-tabl	je-ta-ble	ADJ		s		0.54	0.34
+jetables	Z°-tabl	je-ta-bles	ADJ		p	jetable	0.62	0.2
+jetai	Z°-tE	je-tai	VER			jeter	0.26	6.89
+jetaient	Z°-tE	je-taient	VER			jeter	0.96	9.26
+jetais	Z°-tE	je-tais	VER			jeter	1.24	3.04
+jetait	Z°-tE	je-tait	VER			jeter	0	33.85
+jetâmes	Z°-tam	je-tâ-mes	VER			jeter	0.01	0.2
+jetant	Z°-t@	je-tant	VER			jeter	1.53	22.3
+jetas	Z°-ta	je-tas	VER			jeter	0.02	0
+jetât	Z°-ta	je-tât	VER			jeter	0	0.27
+jeté	Z°-te	je-té	VER	m	s	jeter	33.21	45.07
+jeté	Z°-te	je-té	ADJ	m	s		0.67	4.05
+jeté	Z°-te	je-té	NOM	m	s		0.5	1.01
+jetée	Z°-te	je-tée	VER	f	s	jeter	9.01	13.38
+jetée	Z°-te	je-tée	NOM	f	s		3.26	6.49
+jetée	Z°-te	je-tée	ADJ	f	s	jeté	0.16	1.15
+jetées	Z°-te	je-tées	VER	f	p	jeter	1.11	3.38
+jetées	Z°-te	je-tées	ADJ	f	p	jeté	0.07	1.55
+jetées	Z°-te	je-tées	NOM	f	p	jetée	0.17	0.54
+jeter	Z°-te	je-ter	VER				59.28	61.89
+jeter	Z°-te	je-ter	NOM	m	s		2.62	1.62
+jetèrent	Z°-tER	je-tè-rent	VER			jeter	0.29	3.72
+jetés	Z°-te	je-tés	VER	m	p	jeter	3.73	8.72
+jetés	Z°-te	je-tés	ADJ	m	p	jeté	0.25	2.57
+jetés	Z°-te	je-tés	NOM	m	p	jeté	0.26	1.01
+jeteur	Z°-t9R	je-teur	NOM	m	s		0.04	0.14
+jeteurs	Z°-t9R	je-teurs	NOM	m	p	jeteur	0.17	0.14
+jeteuse	Z°-t2z	je-teu-se	NOM	f	s	jeteur	0	0.14
+jeteuses	Z°-t2z	je-teu-ses	NOM	f	p	jeteur	0	0.07
+jetez	Z°-te	je-tez	VER			jeter	17.07	1.69
+jetiez	Z°-tje	je-tiez	VER			jeter	0.29	0.27
+jetions	Z°-tj§	je-tions	VER			jeter	0.34	1.89
+jeton	Z°-t§	je-ton	NOM	m	s		2.88	4.32
+jetons	Z°-t§	je-tons	NOM	m	p	jeton	7.39	5.95
+jetons	Z°-t§	je-tons	VER			jeter	2.89	0.68
+jets	dZEt	jets	NOM	m	p	jet	2.53	6.42
+jette	ZEt	jet-te	VER			jeter	43.48	45.34
+jette	ZEt	jet-te	NOM		s		0.01	0
+jettent	ZEt	jet-tent	VER			jeter	3.44	6.89
+jettera	ZE-t°-Ra	jet-te-ra	VER			jeter	2.1	1.01
+jetterai	ZE-t°-RE	jet-te-rai	VER			jeter	2.38	0.61
+jetteraient	ZE-t°-RE	jet-te-raient	VER			jeter	0.16	0.95
+jetterais	ZE-t°-RE	jet-te-rais	VER			jeter	1.02	0.34
+jetterait	ZE-t°-RE	jet-te-rait	VER			jeter	0.39	2.5
+jetteras	ZE-t°-Ra	jet-te-ras	VER			jeter	0.31	0.14
+jetterez	ZE-t°-Re	jet-te-rez	VER			jeter	0.09	0.2
+jetteriez	ZE-t°-Rje	jet-te-riez	VER			jeter	0.19	0.07
+jetterions	ZE-t°-Rj§	jet-te-rions	VER			jeter	0	0.14
+jetterons	ZE-t°-R§	jet-te-rons	VER			jeter	0.41	0.07
+jetteront	ZE-t°-R§	jet-te-ront	VER			jeter	0.59	0.68
+jettes	ZEt	jet-tes	VER			jeter	4.77	0.47
+jeu	Z2	jeu	NOM	m	s		156.79	130.68
+jeu-concours	Z2-k§-kuR	jeu-concours	NOM	m			0.1	0.14
+jeudi	Z2-di	jeu-di	NOM	m	s		24.58	21.01
+jeudis	Z2-di	jeu-dis	NOM	m	p	jeudi	1.51	2.5
+jeûna	Z2-na	jeû-na	VER			jeûner	0.01	0.07
+jeûnaient	Z2-nE	jeû-naient	VER			jeûner	0	0.14
+jeûnait	Z2-nE	jeû-nait	VER			jeûner	0	0.07
+jeûnant	Z2-n@	jeû-nant	VER			jeûner	0.03	0.07
+jeune	Z9n	jeu-ne	ADJ		s		234.9	432.64
+jeune	Z9n	jeu-ne	NOM		s		18.16	17.77
+jeûne	Z2n	jeû-ne	NOM	m	s		1.62	3.72
+jeûne	Z2n	jeû-ne	VER			jeûner	0.43	0.07
+jeûné	Z2-ne	jeû-né	VER	m	s	jeûner	0.33	0.07
+jeune-homme	Z9-nOm		ADJ		s		0.1	0
+jeune-homme	Z9-nOm		NOM		s		0.03	0
+jeunement	Z9-n°-m@	jeu-ne-ment	ADV				0	0.27
+jeûnent	Z2n	jeû-nent	VER			jeûner	0.17	0.07
+jeûner	Z2-ne	jeû-ner	VER				1.1	0.61
+jeûnerai	Z2-n°-RE	jeû-ne-rai	VER			jeûner	0.02	0.07
+jeûnerait	Z2-n°-RE	jeû-ne-rait	VER			jeûner	0	0.07
+jeûneras	Z2-n°-Ra	jeû-ne-ras	VER			jeûner	0.01	0.07
+jeûnerons	Z2-n°-R§	jeû-ne-rons	VER			jeûner	0.01	0
+jeunes	Z9n	jeu-nes	ADJ		p	jeune	62.12	136.55
+jeunes	Z9n	jeu-nes	NOM		p	jeune	36.52	30.14
+jeûnes	Z2n	jeû-nes	NOM	m	p	jeûne	0.22	0.74
+jeûnes	Z2n	jeû-nes	VER			jeûner	0.32	0
+jeunesse	Z9-nEs	jeu-nes-se	NOM	f	s		27.21	83.24
+jeunesses	Z9-nEs	jeu-nes-ses	NOM	f	p	jeunesse	1.5	1.89
+jeunet	Z9-nE	jeu-net	NOM	m	s		0.11	0
+jeunet	Z9-nE	jeu-net	ADJ	m	s		0.02	0.07
+jeunets	Z9-nE	jeu-nets	ADJ	m	p	jeunet	0	0.07
+jeunette	Z9-nEt	jeu-net-te	NOM	f	s		0.12	0.61
+jeunette	Z9-nEt	jeu-net-te	ADJ	f	s	jeunet	0.11	0.47
+jeunettes	Z9-nEt	jeu-net-tes	NOM	f	p	jeunette	0.04	0.34
+jeunettes	Z9-nEt	jeu-net-tes	ADJ	f	p	jeunet	0	0.07
+jeûneurs	Z2-n9R	jeû-neurs	NOM	m	p	jeûneur	0	0.07
+jeûnez	Z2-ne	jeû-nez	VER			jeûner	0.16	0
+jeunot	Z9-no	jeu-not	NOM	m	s		0.94	1.22
+jeunot	Z9-no	jeu-not	ADJ	m	s		0.44	1.01
+jeunots	Z9-no	jeu-nots	NOM	m	p	jeunot	0.62	1.89
+jeunots	Z9-no	jeu-nots	ADJ	m	p	jeunot	0.02	0.34
+jeux	Z2	jeux	NOM	m	p	jeu	33.65	42.64
+jèze	ZEz	jè-ze	ADJ	m	s		0	0.07
+jèzes	ZEz	jè-zes	NOM		p	jèze	0	0.07
+jigger	dZi-g9R	jig-ger	NOM	m	s		0.04	0
+jihad	dZi-jad		NOM		s		0.28	0
+jingle	dZin-g9l	jin-gle	NOM	m	s		0.88	0.07
+jingles	dZin-g9ls	jin-gles	NOM	m	p	jingle	0.26	0
+jinjin	dZin-dZin	jin-jin	NOM	m	s		0	0.27
+jiu-jitsu	Zjy-Zit-sy	jiu-jitsu	NOM	m			0.35	0.14
+jivaro	Zi-va-Ro	ji-va-ro	ADJ	m	s		0	0.14
+joaillerie	Zo-a-j°-Ri	joail-le-rie	NOM	f	s		0.07	0.47
+joaillier	Zo-a-je	joail-lier	NOM	m	s		0.33	0.47
+joailliers	Zo-a-je	joail-liers	NOM	m	p	joaillier	0.06	0.2
+job	dZOb	job	NOM	m	s		27.24	2.43
+jobard	Zo-baR	jo-bard	NOM	m	s		0.41	0.14
+jobard	Zo-baR	jo-bard	ADJ	m	s		0.05	0.34
+jobardes	Zo-baRd	jo-bar-des	ADJ	f	p	jobard	0	0.07
+jobardise	Zo-baR-diz	jo-bar-di-se	NOM	f	s		0	0.2
+jobards	Zo-baR	jo-bard-s	NOM	m	p	jobard	0.06	0.34
+jobards	Zo-baR	jo-bard-s	ADJ	m	p	jobard	0	0.07
+jobs	dZOb	jobs	NOM	m	p	job	1.38	0.34
+jociste	Zo-sist	jo-cis-te	NOM		s		0	0.34
+jocistes	Zo-sist	jo-cis-tes	NOM		p	jociste	0	0.07
+jockey	Zo-kE	jo-ckey	NOM		s		1.37	6.82
+jockeys	Zo-kE	jo-ckeys	NOM		p	jockey	0.33	1.42
+jocko	ZO-ko		ADJ	m	s		0.17	0
+jocko	ZO-ko		NOM	m	s		0.09	0
+jocrisse	Zo-kRis	jo-cris-se	NOM	m	s		0	0.2
+jocrisses	Zo-kRis	jo-cris-ses	NOM	m	p	jocrisse	0.02	0.07
+jodhpurs	Zod-pyR	jodh-purs	NOM	m	p	jodhpur	0.04	0.07
+jodler	jOd-l9R		VER				0.23	0
+jogger	dZO-ge	jog-ger	NOM	m	s		0.25	0.07
+jogger	dZO-ge	jog-ger	VER				0.01	0
+joggers	dZO-g9R	jog-gers	NOM	m	p	jogger	0.09	0
+joggeur	dZO-g9R	jog-geur	NOM	m	s		0.07	0
+joggeurs	dZOg-Z9R	jog-geurs	NOM	m	p	joggeur	0.16	0
+joggeuse	dZO-g2z		NOM	f	s	joggeur	0.03	0
+jogging	dZO-giG	jog-ging	NOM	m	s		2.2	1.22
+joggings	dZO-giG	jog-ging-s	NOM	m	p	jogging	0.01	0.07
+johannisberg	ZO-a-nis-b9Rg		NOM	m	s		0	0.07
+joice	Zwas	joi-ce	ADJ		s		0.01	0.81
+joices	Zwas	joi-ces	ADJ		p	joice	0	0.14
+joie	Zwa	joie	NOM	f	s		71.07	134.12
+joies	Zwa	joies	NOM	f	p	joie	4.03	16.08
+joignable	Zwa-Nabl	joi-gna-ble	ADJ	m	s		0.6	0.07
+joignaient	Zwa-NE	joi-gnaient	VER			joindre	0.1	1.28
+joignais	Zwa-NE	joi-gnais	VER			joindre	0.07	0.2
+joignait	Zwa-NE	joi-gnait	VER			joindre	0.22	1.89
+joignant	Zwa-N@	joi-gnant	VER			joindre	0.45	2.03
+joigne	ZwaN	joi-gne	VER			joindre	0.72	0.2
+joignent	ZwaN	joi-gnent	VER			joindre	0.69	0.61
+joignes	ZwaN	joi-gnes	VER			joindre	0.19	0
+joignez	Zwa-Ne	joi-gnez	VER			joindre	2.71	0.2
+joigniez	Zwa-Ne	joi-gniez	VER			joindre	0.28	0
+joignîmes	Zwa-Nim	joi-gnî-mes	VER			joindre	0	0.07
+joignions	Zwa-N§	joi-gnions	VER			joindre	0.15	0.07
+joignirent	Zwa-NiR	joi-gni-rent	VER			joindre	0.01	0.68
+joignis	Zwa-Ni	joi-gnis	VER			joindre	0	0.27
+joignissent	Zwa-Nis	joi-gnis-sent	VER			joindre	0	0.07
+joignit	Zwa-Ni	joi-gnit	VER			joindre	0.07	2.77
+joignons	Zwa-N§	joi-gnons	VER			joindre	0.46	0.14
+joindra	Zw5-dRa	join-dra	VER			joindre	0.38	0.14
+joindrai	Zw5-dRE	join-drai	VER			joindre	0.11	0
+joindraient	Zw5-dRE	join-draient	VER			joindre	0.01	0.14
+joindrais	Zw5-dRE	join-drais	VER			joindre	0.09	0.07
+joindrait	Zw5-dRE	join-drait	VER			joindre	0.02	0.07
+joindras	Zw5-dRa	join-dras	VER			joindre	0.07	0
+joindre	Zw5dR	join-dre	VER				32.91	14.19
+joindrez	Zw5-dRe	join-drez	VER			joindre	0.26	0
+joindriez	Zw5-dRi-e	join-driez	VER			joindre	0.12	0
+joindrons	Zw5-dR§	join-drons	VER			joindre	0.01	0
+joindront	Zw5-dR§	join-dront	VER			joindre	0.37	0.07
+joins	Zw5	joins	VER			joindre	3	0.34
+joint	Zw5	joint	NOM	m	s		5.78	4.53
+joint	Zw5	joint	VER	m	s	joindre	2.51	4.86
+joint	Zw5	joint	ADJ	m	s		1.17	0.88
+joint-venture	dZOj-ntvEn-tS9R	joint-venture	NOM	f	s		0.16	0
+jointe	Zw5t	join-te	ADJ	f	s	joint	0.43	2.09
+jointe	Zw5t	join-te	VER			jointer	0.01	0
+jointée	Zw5-te	join-tée	ADJ	f	s	jointé	0	0.07
+jointes	Zw5t	join-tes	ADJ	f	p	joint	0.6	7.64
+jointés	Zw5-te	join-tés	VER	m	p	jointer	0	0.07
+jointif	Zw5-tif	join-tif	ADJ	m	s		0	0.14
+jointifs	Zw5-tif	join-tif-s	ADJ	m	p	jointif	0.01	0.07
+jointives	Zw5-tiv	join-ti-ves	ADJ	f	p	jointif	0.01	0.07
+jointoyaient	Zw5-twa-jE	join-toyaient	VER			jointoyer	0	0.07
+joints	Zw5	joints	ADJ	m	p	joint	0.6	4.39
+joints	Zw5	joints	NOM	m	p	joint	2.61	2.09
+joints	Zw5	joints	VER	m	p	joindre	0.39	2.36
+jointure	Zw5-tyR	join-tu-re	NOM	f	s		0.22	1.28
+jointures	Zw5-tyR	join-tu-res	NOM	f	p	jointure	0.29	2.77
+jojo	Zo-Zo	jo-jo	ADJ		s		1.37	1.08
+jojo	Zo-Zo	jo-jo	NOM	m	s		0.68	0.14
+jojoba	Zo-Zo-ba		NOM	m	s		0.03	0
+jojos	Zo-Zo	jo-jos	ADJ	m	p	jojo	0.03	0.07
+jojos	Zo-Zo	jo-jos	NOM	m	p	jojo	0	0.07
+jokari	Zo-ka-Ri		NOM	m	s		0	0.07
+joker	Zo-kER	jo-ker	NOM	m	s		3.44	0.14
+jokers	Zo-kER	jo-kers	NOM	m	p	joker	0.1	0
+joli	Zo-li	jo-li	ADJ	m	s		94.55	44.53
+joli-coeur	ZO-li-k9R		NOM	m	s		0	0.2
+joli-coeur	ZO-li-k9R		ADJ	m	s		0.01	0
+joli-joli	ZO-li-ZO-li		ADJ	m	s		0.26	0.41
+joli-joli	ZO-li-ZO-li		NOM	m	s		0	0.07
+jolibois	ZO-li-bwa		NOM	m			0	0.14
+jolie	Zo-li	jo-lie	ADJ	f	s	joli	101.54	51.76
+jolie	Zo-li	jo-lie	ADJ	m	p		0.01	0
+jolies	Zo-li	jo-lies	ADJ	f	p	joli	20.99	15.68
+joliesse	Zo-ljEs	jo-lies-se	NOM	f	s		0.02	0.41
+joliesses	Zo-ljEs	jo-lies-ses	NOM	f	p	joliesse	0.01	0.14
+joliet	ZO-ljE		ADJ	m	s		0.01	0
+joliette	Zo-ljEt	jo-liet-te	ADJ	f	s	joliet	0	0.14
+joliment	Zo-li-m@	jo-li-ment	ADV				2.19	5.41
+jolis	Zo-li	jo-lis	ADJ	m	p	joli	9.37	8.04
+jolis	Zo-li	jo-lis	NOM	m	p	joli	0.96	0.74
+jonc	Z§	jonc	NOM	m	s		0.19	1.89
+joncaille	Z§-kaj	jon-cail-le	NOM	f	s		0	0.41
+jonchaie	Z§-SE	jon-chaie	NOM	f	s		0	0.14
+jonchaient	Z§-SE	jon-chaient	VER			joncher	0.01	2.3
+jonchaies	Z§-SE	jon-chaies	NOM	f	p	jonchaie	0	0.07
+jonchait	Z§-SE	jon-chait	VER			joncher	0.01	0.07
+jonchant	Z§-S@	jon-chant	VER			joncher	0.01	0.95
+jonché	Z§-Se	jon-ché	VER	m	s	joncher	0.09	2.77
+jonché	Z§-Se	jon-ché	ADJ	m	s		0	0.07
+jonchée	Z§-Se	jon-chée	NOM	f	s		0.1	1.49
+jonchée	Z§-Se	jon-chée	VER	f	s	joncher	0.22	1.28
+jonchée	Z§-Se	jon-chée	ADJ	f	s	jonché	0	0.34
+jonchées	Z§-Se	jon-chées	VER	f	p	joncher	0.02	0.41
+jonchées	Z§-Se	jon-chées	NOM	f	p	jonchée	0	0.41
+jonchées	Z§-Se	jon-chées	ADJ	f	p	jonché	0	0.07
+jonchent	Z§S	jon-chent	VER			joncher	0.2	1.01
+joncher	Z§-Se	jon-cher	VER				0.11	0.07
+joncheraies	Z§-S°-RE	jon-che-raies	NOM	f	p	joncheraie	0	0.07
+jonchère	Z§-SER	jon-chè-re	NOM	f	s		0	0.14
+jonchés	Z§-Se	jon-chés	VER	m	p	joncher	0.01	0.54
+jonchés	Z§-Se	jon-chés	ADJ	m	p	jonché	0	0.07
+jonchet	Z§-SE	jon-chet	NOM	m	s		0	0.27
+jonchets	Z§-SE	jon-chets	NOM	m	p	jonchet	0	0.68
+joncs	Z§	joncs	NOM	m	p	jonc	0.05	5.2
+jonction	Z§k-sj§	jonc-tion	NOM	f	s		0.5	1.89
+jonctions	Z§k-sj§	jonc-tions	NOM	f	p	jonction	0.1	0.07
+jonglage	Z§-glaZ	jon-gla-ge	NOM	m	s		0.03	0
+jonglaient	Z§-glE	jon-glaient	VER			jongler	0	0.14
+jonglais	Z§-glE	jon-glais	VER			jongler	0.04	0.2
+jonglait	Z§-glE	jon-glait	VER			jongler	0.04	0.47
+jonglant	Z§-gl@	jon-glant	VER			jongler	0.05	0.61
+jongle	Z§gl	jon-gle	VER			jongler	0.54	0.41
+jonglé	Z§-gle	jon-glé	VER	m	s	jongler	0.16	0.14
+jonglent	Z§gl	jon-glent	VER			jongler	0.03	0.07
+jongler	Z§-gle	jon-gler	VER				0.83	1.82
+jonglera	Z§-gl°-Ra	jon-gle-ra	VER			jongler	0.03	0
+jonglerie	Z§-gl°-Ri	jon-gle-rie	NOM	f	s		0.02	0.14
+jongleries	Z§-gl°-Ri	jon-gle-ries	NOM	f	p	jonglerie	0	0.07
+jongles	Z§gl	jon-gles	VER			jongler	0.2	0
+jongleur	Z§-gl9R	jon-gleur	NOM	m	s		0.46	0.74
+jongleurs	Z§-gl9R	jon-gleurs	NOM	m	p	jongleur	0.12	1.22
+jongleuse	Z§-gl2z	jon-gleu-se	NOM	f	s	jongleur	0	0.14
+jongleuses	Z§-gl2z	jon-gleu-ses	NOM	f	p	jongleur	0	0.14
+jonglez	Z§-gle	jon-glez	VER			jongler	0.2	0
+jonkheer	jOn-kER		NOM	m	s		0.34	0
+jonque	Z§k	jon-que	NOM	f	s		0.33	0.74
+jonques	Z§k	jon-ques	NOM	f	p	jonque	0.02	0.68
+jonquille	Z§-kij	jon-quil-le	ADJ				0.02	0.54
+jonquille	Z§-kij	jon-quil-le	NOM	f	s		0.04	0.07
+jonquilles	Z§-kij	jon-quil-les	NOM	f	p	jonquille	0.35	0.74
+jordanienne	ZOR-da-njEn		ADJ	f	s	jordanien	0.01	0
+jordanienne	ZOR-da-njEn		ADJ	f	s		0.01	0
+jordanienne	ZOR-da-njEn		NOM	f	s		0.01	0
+jordaniens	ZOR-da-nj5	jor-da-niens	ADJ	m	p	jordanien	0	0.07
+jordaniens	ZOR-da-nj5	jor-da-niens	NOM	m	p	jordanien	0.03	0
+jordonner	ZOR-dO-ne		VER				0	0.07
+joseph	Zo-zEf	jo-se-ph	NOM	m	s		0.17	1.08
+joua	Zwa	joua	VER			jouer	0.8	5.61
+jouable	Zwabl	joua-ble	ADJ	m	s		0.46	0.07
+jouai	ZwE	jouai	VER			jouer	0.13	1.01
+jouaient	ZwE	jouaient	VER			jouer	3.86	20
+jouais	ZwE	jouais	VER			jouer	12.89	5.95
+jouait	ZwE	jouait	VER			jouer	21.59	49.93
+jouâmes	Zwam	jouâ-mes	VER			jouer	0.01	0.34
+jouant	Zw@	jouant	VER			jouer	5.66	19.19
+jouasse	Zwas	jouas-se	ADJ	m	s		0.02	1.01
+jouasses	Zwas	jouas-ses	ADJ		p	jouasse	0	0.2
+jouât	Zwa	jouât	VER			jouer	0	0.81
+joubarbe	Zu-baRb	jou-bar-be	NOM	f	s		0	0.07
+joue	Zu	joue	VER			jouer	122.88	40.47
+joue	Zu	joue	NOM	f	s		25.57	46.35
+joué	Zwe	joué	VER	m	s	jouer	69.83	33.58
+joué	Zwe	joué	ADJ	m	s		0.9	0.54
+jouée	Zwe	jouée	VER	f	s	jouer	2.01	2.91
+jouée	Zwe	jouée	ADJ	f	s	joué	0.27	0.54
+jouées	Zwe	jouées	VER	f	p	jouer	0.27	0.47
+jouées	Zwe	jouées	ADJ	f	p	joué	0.02	0.07
+jouées	Zwe	jouées	NOM	f	p	joué	0.01	0
+jouent	Zu	jouent	VER			jouer	16.41	14.59
+jouer	Zwe	jouer	VER				225.84	121.82
+jouera	Zu-Ra	joue-ra	VER			jouer	5.56	1.89
+jouerai	Zu-RE	joue-rai	VER			jouer	4.22	0.41
+joueraient	Zu-RE	joue-raient	VER			jouer	0.24	0.41
+jouerais	Zu-RE	joue-rais	VER			jouer	1.54	0.47
+jouerait	Zu-RE	joue-rait	VER			jouer	1.24	3.04
+joueras	Zu-Ra	joue-ras	VER			jouer	2.3	0.47
+jouèrent	ZwER	jouè-rent	VER			jouer	0.18	1.89
+jouerez	Zu-Re	joue-rez	VER			jouer	0.98	0.34
+joueriez	Zu-Rje	joue-riez	VER			jouer	0.22	0.07
+jouerions	Zu-Rj§	joue-rions	VER			jouer	0.01	0.07
+jouerons	Zu-R§	joue-rons	VER			jouer	0.54	0.41
+joueront	Zu-R§	joue-ront	VER			jouer	0.74	0.47
+joues	Zu	joues	NOM	f	p	joue	6.72	75.41
+joues	Zu	joues	VER			jouer	33.7	2.5
+joués	Zwe	joués	VER	m	p	jouer	0.45	0.54
+joués	Zwe	joués	ADJ	m	p	joué	0.02	0.07
+jouet	ZwE	jouet	NOM	m	s		11.82	7.03
+jouets	ZwE	jouets	NOM	m	p	jouet	13.68	13.99
+joueur	Zw9R	joueur	NOM	m	s		17.22	9.05
+joueur	Zw9R	joueur	ADJ	m	s		3.36	1.69
+joueurs	Zw9R	joueurs	NOM	m	p	joueur	9.95	9.53
+joueurs	Zw9R	joueurs	ADJ	m	p	joueur	0.82	1.08
+joueuse	Zw2z	joueu-se	NOM	f	s	joueur	1.15	0.74
+joueuse	Zw2z	joueu-se	ADJ	f	s	joueur	0.25	0.74
+joueuses	Zw2z	joueu-ses	NOM	f	p	joueur	0.14	0.54
+joueuses	Zw2z	joueu-ses	ADJ	f	p	joueur	0.01	0.54
+jouez	Zu-e	jouez	VER			jouer	24.66	3.18
+joufflu	Zu-fly	jouf-flu	ADJ	m	s		0.12	1.42
+joufflu	Zu-fly	jouf-flu	NOM	m	s		0.46	0.2
+joufflue	Zu-fly	jouf-flue	ADJ	f	s	joufflu	0.16	0.34
+joufflues	Zu-fly	jouf-flues	ADJ	f	p	joufflu	0.01	0.2
+joufflus	Zu-fly	jouf-flus	ADJ	m	p	joufflu	0.02	0.41
+joufflus	Zu-fly	jouf-flus	NOM	m	p	joufflu	0.01	0
+joug	Zu	joug	NOM	m	s		2.47	2.36
+jougs	Zu	joug-s	NOM	m	p	joug	0.01	0.14
+joui	Zwi	joui	VER	m	s	jouir	3.33	3.65
+jouiez	Zu-je	jouiez	VER			jouer	2.11	0.41
+jouions	Zu-j§	jouions	VER			jouer	1.44	1.42
+jouir	ZwiR	jouir	VER				10.42	15.68
+jouira	Zwi-Ra	joui-ra	VER			jouir	0.32	0.34
+jouirai	Zwi-RE	joui-rai	VER			jouir	0.02	0.07
+jouiraient	Zwi-RE	joui-raient	VER			jouir	0.01	0.07
+jouirait	Zwi-RE	joui-rait	VER			jouir	0	0.14
+jouiras	Zwi-Ra	joui-ras	VER			jouir	0.07	0.07
+jouirent	ZwiR	joui-rent	VER			jouir	0	0.14
+jouirions	Zwi-Rj§	joui-rions	VER			jouir	0	0.07
+jouirons	Zwi-R§	joui-rons	VER			jouir	0.02	0.07
+jouis	Zwi	jouis	VER	m	p	jouir	2.65	1.76
+jouissaient	Zwi-sE	jouis-saient	VER			jouir	0.14	1.28
+jouissais	Zwi-sE	jouis-sais	VER			jouir	0.21	1.49
+jouissait	Zwi-sE	jouis-sait	VER			jouir	0.33	5.61
+jouissance	Zwi-s@s	jouis-san-ce	NOM	f	s		1.82	12.36
+jouissances	Zwi-s@s	jouis-san-ces	NOM	f	p	jouissance	0.14	1.82
+jouissant	Zwi-s@	jouis-sant	VER			jouir	0.05	1.42
+jouissants	Zwi-s@	jouis-sants	ADJ	m	p	jouissant	0	0.07
+jouisse	Zwis	jouis-se	VER			jouir	0.33	0.54
+jouissent	Zwis	jouis-sent	VER			jouir	0.69	1.22
+jouisses	Zwis	jouis-ses	VER			jouir	0.34	0.07
+jouisseur	Zwi-s9R	jouis-seur	ADJ	m	s		0.01	0.41
+jouisseur	Zwi-s9R	jouis-seur	NOM	m	s		0	0.41
+jouisseurs	Zwi-s9R	jouis-seurs	NOM	m	p	jouisseur	0	0.34
+jouisseurs	Zwi-s9R	jouis-seurs	ADJ	m	p	jouisseur	0	0.14
+jouisseuse	Zwi-s2z	jouis-seu-se	ADJ	f	s	jouisseur	0	0.14
+jouisseuse	Zwi-s2z	jouis-seu-se	NOM	f	s	jouisseur	0.01	0.07
+jouissez	Zwi-se	jouis-sez	VER			jouir	0.28	0.41
+jouissif	Zwi-sif	jouis-sif	ADJ	m	s		0.14	0.74
+jouissifs	Zwi-sif	jouis-sif-s	ADJ	m	p	jouissif	0	0.14
+jouissions	Zwi-sj§	jouis-sions	VER			jouir	0.04	0.41
+jouissive	Zwi-siv	jouis-si-ve	ADJ	f	s	jouissif	0.01	0.14
+jouissives	Zwi-siv	jouis-si-ves	ADJ	f	p	jouissif	0	0.14
+jouissons	Zwi-s§	jouis-sons	VER			jouir	0.82	0.41
+jouit	Zwi	jouit	VER			jouir	1.99	4.32
+joujou	Zu-Zu	jou-jou	NOM	m	s		1.63	1.49
+joujoux	Zu-Zu	jou-joux	NOM	m	p		0.82	0.88
+joules	Zul	jou-les	NOM	m	p	joule	0.22	0.07
+jouons	Zw§	jouons	VER			jouer	7.81	2.57
+jour	ZuR	jour	NOM	m	s		635.22	826.35
+journal	ZuR-nal	jour-nal	NOM	m	s		72.5	124.32
+journaleuse	ZuR-na-l2z	jour-na-leu-se	NOM	f	s	journaleux	0	0.14
+journaleux	ZuR-na-l2	jour-na-leux	NOM	m			0.12	0.61
+journalier	ZuR-na-lje	jour-na-lier	ADJ	m	s		0.52	0.88
+journalier	ZuR-na-lje	jour-na-lier	NOM	m	s		0.22	0.14
+journalière	ZuR-na-ljER	jour-na-liè-re	ADJ	f	s	journalier	0.3	0.68
+journalières	ZuR-na-ljER	jour-na-liè-res	ADJ	f	p	journalier	0.03	0.41
+journalières	ZuR-na-ljER	jour-na-liè-res	NOM	f	p	journalière	0.1	0
+journaliers	ZuR-na-lje	jour-na-liers	NOM	m	p	journalier	0.03	0.74
+journaliers	ZuR-na-lje	jour-na-liers	ADJ	m	p	journalier	0.18	0.2
+journalisme	ZuR-na-lizm	jour-na-lis-me	NOM	m	s		3.25	3.51
+journaliste	ZuR-na-list	jour-na-lis-te	NOM		s		24.26	15.95
+journalistes	ZuR-na-list	jour-na-lis-tes	NOM		p	journaliste	11.03	14.39
+journalistique	ZuR-na-lis-tik	jour-na-lis-ti-que	ADJ		s		0.57	0.34
+journalistiques	ZuR-na-lis-tik	jour-na-lis-ti-ques	ADJ		p	journalistique	0.07	0.34
+journaux	ZuR-no	jour-naux	NOM	m	p	journal	38.3	73.38
+journée	ZuR-ne	jour-née	NOM	f	s		165.35	140.74
+journées	ZuR-ne	jour-nées	NOM	f	p	journée	9.54	38.65
+journellement	ZuR-nE-l°-m@	jour-nel-le-ment	ADV				0.15	0.88
+jours	ZuR	jours	NOM	m	p	jour	426.7	515.41
+joute	Zut	jou-te	NOM	f	s		0.97	1.08
+jouté	Zu-te	jou-té	VER	m	s	jouter	0.01	0
+jouter	Zu-te	jou-ter	VER				0.06	0
+joutes	Zut	jou-tes	NOM	f	p	joute	0.28	0.95
+jouteur	Zu-t9R	jou-teur	NOM	m	s		0	0.07
+jouteurs	Zu-t9R	jou-teurs	NOM	m	p	jouteur	0	0.07
+jouteuse	Zu-t2z	jou-teu-se	NOM	f	s	jouteur	0	0.07
+joutez	Zu-te	jou-tez	VER			jouter	0.03	0
+jouvence	Zu-v@s	jou-ven-ce	NOM	f	s		0.81	1.35
+jouvenceau	Zu-v@-so	jou-ven-ceau	NOM	m	s		0.08	0.27
+jouvenceaux	Zu-v@-so	jou-ven-ceaux	NOM	m	p	jouvenceau	0.02	0.14
+jouvencelle	Zu-v@-sEl	jou-ven-cel-le	NOM	f	s	jouvenceau	0.18	0.14
+jouvencelles	Zu-v@-sEl	jou-ven-cel-les	NOM	f	p	jouvenceau	0	0.2
+jouxtaient	Zuk-stE	joux-taient	VER			jouxter	0	0.2
+jouxtait	Zuk-stE	joux-tait	VER			jouxter	0.02	1.28
+jouxtant	Zuk-st@	joux-tant	VER			jouxter	0	0.68
+jouxte	Zukst	joux-te	PRE				0.05	0.07
+jouxte	Zukst	joux-te	VER			jouxter	0.05	0.07
+jovial	Zo-vjal	jo-vial	ADJ	m	s		0.48	4.46
+joviale	Zo-vjal	jo-via-le	ADJ	f	s	jovial	0.12	1.49
+jovialement	Zo-vja-l°-m@	jo-via-le-ment	ADV				0	0.54
+joviales	Zo-vjal	jo-via-les	ADJ	f	p	jovial	0	0.14
+jovialité	Zo-vja-li-te	jo-via-li-té	NOM	f	s		0.04	1.28
+joviaux	Zo-vjo	jo-viaux	ADJ	m	p	jovial	0.01	0.14
+joyau	Zwa-jo	joyau	NOM	m	s		2.67	1.96
+joyaux	Zwa-jo	joyaux	NOM	m	p	joyau	0.93	1.28
+joyciennes	Zwaj-sjEn	joy-cien-nes	ADJ	f	p	joycien	0	0.07
+joyeuse	Zwa-j2z	joyeu-se	ADJ	f	s	joyeux	6.07	14.86
+joyeusement	Zwa-j2-z°-m@	joyeu-se-ment	ADV				1.14	9.39
+joyeuses	Zwa-j2z	joyeu-ses	ADJ	f	p	joyeux	2.01	4.05
+joyeuseté	Zwa-j2-z°-te	joyeu-se-té	NOM	f	s		0	0.2
+joyeusetés	Zwa-j2-z°-te	joyeu-se-tés	NOM	f	p	joyeuseté	0.01	0.14
+joyeux	Zwa-j2	joyeux	ADJ	m			31.81	26.69
+joystick	ZOj-stik		NOM	m	s		0.11	0
+juan	xwan	juan	NOM	m	s		0.01	0.2
+jubé	Zy-be	ju-bé	NOM	m	s		0	0.2
+jubila	Zy-bi-la	ju-bi-la	VER			jubiler	0.01	0.34
+jubilai	Zy-bi-lE	ju-bi-lai	VER			jubiler	0	0.14
+jubilaient	Zy-bi-lE	ju-bi-laient	VER			jubiler	0	0.07
+jubilaire	Zy-bi-lER	ju-bi-lai-re	ADJ		s		0.4	0.07
+jubilais	Zy-bi-lE	ju-bi-lais	VER			jubiler	0.04	0.41
+jubilait	Zy-bi-lE	ju-bi-lait	VER			jubiler	0.05	1.76
+jubilant	Zy-bi-l@	ju-bi-lant	VER			jubiler	0.01	0.34
+jubilant	Zy-bi-l@	ju-bi-lant	ADJ	m	s		0.02	0.14
+jubilante	Zy-bi-l@t	ju-bi-lan-te	ADJ	f	s	jubilant	0	0.41
+jubilantes	Zy-bi-l@t	ju-bi-lan-tes	ADJ	f	p	jubilant	0	0.07
+jubilants	Zy-bi-l@	ju-bi-lants	ADJ	m	p	jubilant	0	0.27
+jubilation	Zy-bi-la-sj§	ju-bi-la-tion	NOM	f	s		0.32	6.42
+jubilations	Zy-bi-la-sj§	ju-bi-la-tions	NOM	f	p	jubilation	0	0.14
+jubilatoire	Zy-bi-la-twaR	ju-bi-la-toi-re	ADJ		s		0.02	0.14
+jubilatoires	Zy-bi-la-twaR	ju-bi-la-toi-res	ADJ	m	p	jubilatoire	0	0.07
+jubile	Zy-bil	ju-bi-le	VER			jubiler	0.38	0.88
+jubilé	Zy-bi-le	ju-bi-lé	NOM	m	s		0.33	0.41
+jubilé	Zy-bi-le	ju-bi-lé	VER	m	s	jubiler	0.1	0.2
+jubilé	Zy-bi-le	ju-bi-lé	ADJ	m	s		0.01	0
+jubilée	Zy-bi-le	ju-bi-lée	VER	f	s	jubiler	0.08	0
+jubilent	Zy-bil	ju-bi-lent	VER			jubiler	0.03	0.07
+jubiler	Zy-bi-le	ju-bi-ler	VER				0.4	0.61
+jubilera	Zy-bi-l°-Ra	ju-bi-le-ra	VER			jubiler	0	0.07
+jubileraient	Zy-bi-l°-RE	ju-bi-le-raient	VER			jubiler	0	0.07
+jubilèrent	Zy-bi-lER	ju-bi-lè-rent	VER			jubiler	0	0.07
+jubiles	Zy-bil	ju-bi-les	VER			jubiler	0.1	0.07
+jucha	Zy-Sa	ju-cha	VER			jucher	0	0.47
+juchai	Zy-SE	ju-chai	VER			jucher	0	0.07
+juchaient	Zy-SE	ju-chaient	VER			jucher	0	0.14
+juchais	Zy-SE	ju-chais	VER			jucher	0	0.14
+juchait	Zy-SE	ju-chait	VER			jucher	0	0.41
+juchant	Zy-S@	ju-chant	VER			jucher	0	0.14
+juche	ZyS	ju-che	VER			jucher	0	0.34
+juché	Zy-Se	ju-ché	VER	m	s	jucher	0.17	5
+juchée	Zy-Se	ju-chée	VER	f	s	jucher	0.04	0.74
+juchée	Zy-Se	ju-chée	ADJ	f	s		0.01	0.27
+juchée	Zy-Se	ju-chée	NOM	f	s		0	0.07
+juchées	Zy-Se	ju-chées	VER	f	p	jucher	0	0.74
+juchent	ZyS	ju-chent	VER			jucher	0	0.2
+jucher	Zy-Se	ju-cher	VER				0	0.54
+jucheront	Zy-S°-R§	ju-che-ront	VER			jucher	0	0.07
+juchés	Zy-Se	ju-chés	VER	m	p	jucher	0.03	1.55
+juchions	Zy-Sj§	ju-chions	VER			jucher	0	0.07
+judaïcité	Zy-da-i-si-te		NOM	f	s		0.01	0
+judaïque	Zy-da-ik	ju-daï-que	ADJ	f	s		0.06	0.07
+judaïques	Zy-da-ik	ju-daï-ques	ADJ	m	p	judaïque	0	0.07
+judaïsant	Zy-da-i-z@	ju-daï-sant	NOM	m	s		0	0.07
+judaïsées	Zy-da-i-ze	ju-daï-sées	VER	f	p	judaïser	0	0.07
+judaïser	Zy-da-i-ze	ju-daï-ser	VER				0	0.07
+judaïsme	Zy-da-izm	ju-daïs-me	NOM	m	s		0.51	1.15
+judaïté	Zy-da-i-te	ju-daï-té	NOM	f	s		0	0.07
+judas	Zy-da	ju-das	NOM	m			1.28	1.76
+judéen	Zy-de-5		ADJ	m	s		0.07	0
+judéen	Zy-de-5		NOM	m	s		0.01	0
+judéenne	Zy-de-En	ju-déen-ne	NOM	f	s		0.01	0.14
+judéité	Zy-de-i-te	ju-déi-té	NOM	f	s		0.02	0
+judéo	Zy-de-o	ju-déo	ADV				0.01	0.2
+judéo-chrétienne	Zy-de-o-kRe-tjEn	judéo-chrétienne	ADJ	f	s	judéo-chrétien	0.04	0.07
+judéo-chrétiennes	Zy-de-o-kRe-tjEn	judéo-chrétiennes	ADJ	f	p	judéo-chrétien	0.01	0.07
+judéo-chrétiens	Zy-de-o-kRe-tj5	judéo-chrétiens	ADJ	m	p	judéo-chrétien	0	0.07
+judéo-christianisme	Zy-de-o-kRis-tja-nism		NOM	m	s		0.01	0
+judiciaire	Zy-di-sjER	ju-di-ciai-re	ADJ		s		9.29	4.26
+judiciaires	Zy-di-sjER	ju-di-ciai-res	ADJ		p	judiciaire	1.51	1.35
+judicieuse	Zy-di-sj2z	ju-di-cieu-se	ADJ	f	s	judicieux	0.51	0.74
+judicieusement	Zy-di-sj2-z°-m@	ju-di-cieu-se-ment	ADV				0.17	0.61
+judicieuses	Zy-di-sj2z	ju-di-cieu-ses	ADJ	f	p	judicieux	0.13	0.07
+judicieux	Zy-di-sj2	ju-di-cieux	ADJ	m			1.72	1.35
+judo	Zy-do	ju-do	NOM	m	s		0.9	1.22
+judoka	Zy-do-ka	ju-do-ka	NOM		s		0.21	0.2
+juge	ZyZ	ju-ge	NOM	m	s		56.4	29.8
+juge	ZyZ	ju-ge	VER			juger	11.33	11.15
+jugé	Zy-Ze	ju-gé	VER	m	s	juger	9.18	11.62
+jugé	Zy-Ze	ju-gé	NOM	m	s		0.14	2.3
+jugé	Zy-Ze	ju-gé	ADJ	m	s		0.58	1.55
+jugea	Zy-Za	ju-gea	VER			juger	0.42	5.34
+jugeai	Zy-ZE	ju-geai	VER			juger	0.01	1.49
+jugeaient	Zy-ZE	ju-geaient	VER			juger	0.05	2.7
+jugeais	Zy-ZE	ju-geais	VER			juger	0.34	2.91
+jugeait	Zy-ZE	ju-geait	VER			juger	0.4	12.64
+jugeâmes	Zy-Zam	ju-geâ-mes	VER			juger	0	0.14
+jugeant	Zy-Z@	ju-geant	VER			juger	0.24	3.72
+jugeât	Zy-Za	ju-geât	VER			juger	0	0.54
+jugée	Zy-Ze	ju-gée	VER	f	s	juger	2.01	2.7
+jugées	Zy-Ze	ju-gées	VER	f	p	juger	0.11	0.95
+jugement	Zy-Z°-m@	ju-ge-ment	NOM	m	s		19.92	24.12
+jugements	Zy-Z°-m@	ju-ge-ments	NOM	m	p	jugement	1.51	5.14
+jugent	ZyZ	ju-gent	VER			juger	1.06	1.55
+jugeons	Zy-Z§	ju-geons	VER			juger	0.98	0.41
+jugeote	Zy-ZOt	ju-geo-te	NOM	f	s		1.07	1.01
+juger	Zy-Ze	ju-ger	VER				18.06	28.65
+jugera	Zy-Z°-Ra	ju-ge-ra	VER			juger	1.42	1.49
+jugerai	Zy-Z°-RE	ju-ge-rai	VER			juger	0.72	0
+jugeraient	Zy-Z°-RE	ju-ge-raient	VER			juger	0.05	0.07
+jugerais	Zy-Z°-RE	ju-ge-rais	VER			juger	0.09	0.07
+jugerait	Zy-Z°-RE	ju-ge-rait	VER			juger	0.08	0.81
+jugeras	Zy-Z°-Ra	ju-ge-ras	VER			juger	0.39	0.27
+jugèrent	Zy-ZER	ju-gè-rent	VER			juger	0.03	0.68
+jugerez	Zy-Z°-Re	ju-ge-rez	VER			juger	0.81	0.88
+jugeriez	Zy-Z2-Rje	ju-ge-riez	VER			juger	0.05	0.41
+jugerons	Zy-Z°-R§	ju-ge-rons	VER			juger	0.22	0.07
+jugeront	Zy-Z°-R§	ju-ge-ront	VER			juger	0.23	0.54
+juges	ZyZ	ju-ges	NOM	m	p	juge	10.06	14.66
+juges	ZyZ	ju-ges	VER			juger	1.56	0.81
+jugés	Zy-Ze	ju-gés	VER	m	p	juger	1.88	1.89
+jugés	Zy-Ze	ju-gés	ADJ	m	p	jugé	0.29	0.41
+jugés	Zy-Ze	ju-gés	NOM	m	p	jugé	0.05	0.2
+jugeur	Zy-Z9R		NOM	m	s		0.01	0
+jugez	Zy-Ze	ju-gez	VER			juger	4.25	1.62
+jugiez	Zy-Zje	ju-giez	VER			juger	0.13	0.34
+jugions	Zy-Zj§	ju-gions	VER			juger	0.02	0.54
+jugula	Zy-gy-la	ju-gu-la	VER			juguler	0	0.14
+jugulaire	Zy-gy-lER	ju-gu-lai-re	NOM	f	s		0.53	1.89
+jugulaire	Zy-gy-lER	ju-gu-lai-re	ADJ	f	s		0.37	0.2
+jugulaires	Zy-gy-lER	ju-gu-lai-res	NOM	f	p	jugulaire	0.07	0.07
+jugulaires	Zy-gy-lER	ju-gu-lai-res	ADJ	f	p	jugulaire	0.03	0
+jugulant	Zy-gy-l@	ju-gu-lant	VER			juguler	0	0.07
+jugule	Zy-gyl	ju-gu-le	VER			juguler	0.13	0
+jugulé	Zy-gy-le	ju-gu-lé	VER	m	s	juguler	0.05	0
+jugulée	Zy-gy-le	ju-gu-lée	VER	f	s	juguler	0	0.14
+juguler	Zy-gy-le	ju-gu-ler	VER				0.21	0.27
+juif	Z8if	juif	ADJ	m	s		17.23	19.86
+juif	Z8if	juif	NOM	m	s		14.59	19.39
+juifs	Z8if	juif-s	NOM	m	p	juif	29.03	30.88
+juifs	Z8if	juif-s	ADJ	m	p	juif	4.42	6.55
+juillet	Z8i-jE	juil-let	NOM	m			11.96	47.57
+juillets	Z8i-jE	juil-lets	NOM	m	p	juillet	0.01	0
+juin	Z85	juin	NOM	m			13.4	51.28
+juive	Z8iv	jui-ve	ADJ	f	s	juif	8.43	8.99
+juive	Z8iv	jui-ve	NOM	f	s	juif	1.45	4.8
+juiverie	Z8i-v°-Ri	jui-ve-rie	NOM	f	s		0.1	0.47
+juiveries	Z8i-v°-Ri	jui-ve-ries	NOM	f	p	juiverie	0	0.14
+juives	Z8iv	jui-ves	ADJ	f	p	juif	0.54	1.35
+juives	Z8iv	jui-ves	NOM	f	p	juif	0.25	0.68
+jujube	Zy-Zyb	ju-ju-be	NOM	m	s		0.02	0.54
+jujubes	Zy-Zyb	ju-ju-bes	NOM	m	p	jujube	0.04	0
+jujubiers	Zy-Zy-bje	ju-ju-biers	NOM	m	p	jujubier	0	0.27
+juke-box	dZuk-bOks	juke-box	NOM	m			1.58	1.69
+juke-boxes	dZuk-bOks	juke-boxes	NOM	m	p	juke-box	0.03	0.2
+julep	Zy-lEp	ju-lep	NOM	m	s		0.02	0.27
+juleps	Zy-lEp	ju-leps	NOM	m	p	julep	0	0.14
+jules	Zyl	ju-les	NOM	m			4.13	3.51
+julien	Zy-lj5	ju-lien	ADJ	m	s		0.47	1.76
+julienne	Zy-ljEn	ju-lien-ne	ADJ	f	s		0	1.01
+julienne	Zy-ljEn	ju-lien-ne	NOM	f	s		0.04	0.68
+juliennes	Zy-ljEn	ju-lien-nes	ADJ	f	p	julienne	0	0.14
+juliennes	Zy-ljEn	ju-lien-nes	NOM	f	p	julienne	0	0.07
+julot	Zy-lo	ju-lot	NOM	m	s		0.12	1.76
+julots	Zy-lo	ju-lots	NOM	m	p	julot	0	0.61
+jumbo	dZ9m-bo	jum-bo	NOM	m	s		0.52	0.2
+jumeau	Zy-mo	ju-meau	ADJ	m	s		1.34	2.09
+jumeau	Zy-mo	ju-meau	NOM	m	s		1.27	1.76
+jumeaux	Zy-mo	ju-meaux	NOM	m	p	jumeau	12.47	16.01
+jumelage	Zy-m°-laZ	ju-me-la-ge	NOM	m	s		0.01	0.07
+jumelé	Zy-m°-le	ju-me-lé	VER	m	s	jumeler	0	0.14
+jumelée	Zy-m°-le	ju-me-lée	VER	f	s	jumeler	0	0.07
+jumelée	Zy-m°-le	ju-me-lée	ADJ	f	s	jumelé	0	0.07
+jumelées	Zy-m°-le	ju-me-lées	ADJ	f	p	jumelé	0.01	0.27
+jumelées	Zy-m°-le	ju-me-lées	VER	f	p	jumeler	0.02	0.07
+jumeler	Zy-m°-le	ju-me-ler	VER				0	0.07
+jumelés	Zy-m°-le	ju-me-lés	ADJ	m	p	jumelé	0.02	0.2
+jumelés	Zy-m°-le	ju-me-lés	VER	m	p	jumeler	0.02	0.14
+jumelle	Zy-mEl	ju-mel-le	ADJ	f	s	jumeau	1.17	2.36
+jumelle	Zy-mEl	ju-mel-le	NOM	f	s		0.72	1.96
+jumelle	Zy-mEl	ju-mel-le	VER			jumeler	0.12	0
+jumellera	Zy-mE-l°-Ra	ju-mel-le-ra	VER			jumeler	0	0.07
+jumelles	Zy-mEl	ju-mel-les	NOM	f	p	jumelle	4.89	12.7
+jumelles	Zy-mEl	ju-mel-les	ADJ	f	p	jumeau	3.17	4.53
+jument	Zy-m@	ju-ment	NOM	f	s		5.71	8.51
+jumenterie	Zy-m@-t°-Ri		NOM	f	s		0	0.07
+juments	Zy-m@	ju-ments	NOM	f	p	jument	0.96	1.82
+jumper	dZ9m-p9R		NOM	m	s		2.26	0
+jumping	dZ9m-piG		NOM	m	s		0.21	0
+jungien	ju-Gj5	jun-gien	ADJ	m	s		0.03	0.07
+jungien	ju-Gj5	jun-gien	NOM	m	s		0.02	0
+jungiens	ju-Gj5	jun-giens	ADJ	m	p	jungien	0.01	0.07
+jungiens	ju-Gj5	jun-giens	NOM	m	p	jungien	0.01	0
+jungle	Z1gl	jun-gle	NOM	f	s		16.25	7.43
+jungles	Z1gl	jun-gles	NOM	f	p	jungle	0.22	0.95
+junior	Zy-njOR	ju-nior	ADJ		s		2.27	0.95
+junior	Zy-njOR	ju-nior	NOM		s		1.7	0.14
+juniors	Zy-njOR	ju-niors	NOM		p	junior	0.35	0.41
+juniors	Zy-njOR	ju-niors	ADJ		p	junior	0.08	0.27
+junker	Z9n-kER	jun-ker	NOM	m	s		0.02	0.41
+junkers	Z9n-kER	jun-kers	NOM	m	p	junker	0	0.14
+junkie	Z9n-ki	jun-kie	NOM	m	s		3.22	0.81
+junkies	Z9n-ki	jun-kies	NOM	m	p	junkie	1.93	0.61
+junky	Zyn-ki	jun-ky	NOM	m	s		0.15	0.07
+junte	Z1t	jun-te	NOM	f	s		0.17	0.14
+jupe	Zyp	ju-pe	NOM	f	s		10.12	34.05
+jupe-culotte	Zyp-ky-lOt	jupe-culotte	NOM	f	s		0.02	0.27
+jupée	Zy-pe	ju-pée	ADJ	f	s	jupé	0	0.07
+jupées	Zy-pe	ju-pées	ADJ	f	p	jupé	0	0.07
+jupes	Zyp	ju-pes	NOM	f	p	jupe	2.64	15.54
+jupes-culottes	Zyp-ky-lOt	jupes-culottes	NOM	m	p	jupe-culotte	0	0.07
+jupette	Zy-pEt	ju-pet-te	NOM	f	s		0.63	1.42
+jupettes	Zy-pEt	ju-pet-tes	NOM	f	p	jupette	0.04	0.14
+jupiers	Zy-pje	ju-piers	NOM	m	p	jupier	0	0.07
+jupitérien	Zy-pi-te-Rj5	ju-pi-té-rien	ADJ	m	s		0.02	0.14
+jupitérienne	Zy-pi-te-RjEn	ju-pi-té-rien-ne	ADJ	f	s	jupitérien	0	0.14
+jupitériens	Zy-pi-te-Rj5	ju-pi-té-riens	ADJ	m	p	jupitérien	0	0.07
+jupon	Zy-p§	ju-pon	NOM	m	s		1.35	2.77
+juponnée	Zy-po-ne	ju-pon-née	VER	f	s	juponner	0	0.14
+juponnés	Zy-po-ne	ju-pon-nés	VER	m	p	juponner	0	0.14
+jupons	Zy-p§	ju-pons	NOM	m	p	jupon	1.65	4.12
+jura	Zy-Ra	ju-ra	VER			jurer	0.2	5.54
+jurai	Zy-RE	ju-rai	VER			jurer	0.16	0.41
+juraient	Zy-RE	ju-raient	VER			jurer	0.17	1.62
+jurais	Zy-RE	ju-rais	VER			jurer	0.34	1.22
+jurait	Zy-RE	ju-rait	VER			jurer	1.06	4.46
+jurâmes	Zy-Ram	ju-râ-mes	VER			jurer	0	0.07
+jurançon	Zy-R@-s§	ju-ran-çon	NOM	m	s		0	0.07
+jurant	Zy-R@	ju-rant	VER			jurer	0.58	4.93
+jurassien	Zy-Ra-sj5	ju-ras-sien	ADJ	m	s		0	0.07
+jurassien	Zy-Ra-sj5	ju-ras-sien	NOM	m	s		0	0.07
+jurassiens	Zy-Ra-sj5	ju-ras-siens	ADJ	m	p	jurassien	0	0.07
+jurassiens	Zy-Ra-sj5	ju-ras-siens	NOM	m	p	jurassien	0	0.07
+jurassique	Zy-Ra-sik	ju-ras-si-que	ADJ	m	s		0.28	0
+jurassique	Zy-Ra-sik	ju-ras-si-que	NOM	m	s		0.02	0.07
+jurassiques	Zy-Ra-sik	ju-ras-si-ques	ADJ	f	p	jurassique	0.01	0
+jure	ZyR	ju-re	VER			jurer	104.04	31.62
+juré	Zy-Re	ju-ré	VER	m	s	jurer	17.59	16.69
+juré	Zy-Re	ju-ré	NOM	m	s		3.19	0.74
+juré	Zy-Re	ju-ré	ADJ	m	s		2.35	0.81
+jurée	Zy-Re	ju-rée	VER	f	s	jurer	0.45	0.14
+jurée	Zy-Re	ju-rée	ADJ	f	s	juré	0.09	0.2
+jurée	Zy-Re	ju-rée	NOM	f	s	juré	0.04	0.07
+jurées	Zy-Re	ju-rées	ADJ	f	p	juré	0	0.07
+jurées	Zy-Re	ju-rées	VER	f	p	jurer	0.01	0
+jurent	ZyR	ju-rent	VER			jurer	1.01	1.01
+jurer	Zy-Re	ju-rer	VER				7.58	7.57
+jurera	Zy-R°-Ra	ju-re-ra	VER			jurer	0.08	0
+jurerai	Zy-R°-RE	ju-re-rai	VER			jurer	0.72	0.07
+jurerais	Zy-R°-RE	ju-re-rais	VER			jurer	1.62	1.69
+jurerait	Zy-R°-RE	ju-re-rait	VER			jurer	0.38	2.16
+jureras	Zy-R°-Ra	ju-re-ras	VER			jurer	0.16	0.07
+jurèrent	Zy-RER	ju-rè-rent	VER			jurer	0.02	0.54
+jurerez	Zy-R°-Re	ju-re-rez	VER			jurer	0.05	0
+jureriez	Zy-R°-Rje	ju-re-riez	VER			jurer	0.05	0.14
+jureront	Zy-R°-R§	ju-re-ront	VER			jurer	0.04	0.07
+jures	ZyR	ju-res	VER			jurer	4.75	1.01
+jurés	Zy-Re	ju-rés	NOM	m	p	juré	5.59	3.92
+jurés	Zy-Re	ju-rés	ADJ	m	p	juré	0.4	0.27
+jurés	Zy-Re	ju-rés	VER	m	p	jurer	0.2	0.07
+jurez	Zy-Re	ju-rez	VER			jurer	6.55	0.47
+juridiction	Zy-Ri-dik-sj§	ju-ri-dic-tion	NOM	f	s		2.53	1.15
+juridictionnel	Zy-Ri-dik-sjO-nEl		ADJ	m	s		0.01	0
+juridictionnelle	Zy-Ri-dik-sjO-nEl		ADJ	f	s	juridictionnel	0.04	0
+juridictions	Zy-Ri-dik-sj§	ju-ri-dic-tions	NOM	f	p	juridiction	0.09	0.34
+juridique	Zy-Ri-dik	ju-ri-di-que	ADJ		s		4.24	1.62
+juridiquement	Zy-Ri-di-k°-m@	ju-ri-di-que-ment	ADV				0.14	0.27
+juridiques	Zy-Ri-dik	ju-ri-di-ques	ADJ		p	juridique	0.95	0.88
+juriez	Zy-Rje	ju-riez	VER			jurer	0.13	0
+jurisprudence	Zy-Ris-pRy-d@s	ju-ris-pru-den-ce	NOM	f	s		0.82	0.34
+juriste	Zy-Rist	ju-ris-te	NOM		s		1.95	0.34
+juristes	Zy-Rist	ju-ris-tes	NOM		p	juriste	0.62	0.54
+juron	Zy-R§	ju-ron	NOM	m	s		0.42	3.31
+jurons	Zy-R§	ju-rons	NOM	m	p	juron	1.68	6.62
+jurons	Zy-R§	ju-rons	VER			jurer	0.49	0.2
+jury	Zy-Ri	ju-ry	NOM	m	s		18.65	5.14
+jurys	Zy-Ri	ju-rys	NOM	m	p	jury	0.15	0.14
+jus	Zy	jus	NOM	m			22.36	23.04
+jusant	Zy-z@	ju-sant	NOM	m	s		0.01	1.76
+jusqu	Zysk	jus-qu	PRE				2.26	0.07
+jusqu'à	Zys-ka	jus-qu'à	PRE				0.81	0.27
+jusqu'au	Zys-ko	jus-qu'au	PRE				0.34	0.07
+jusque	Zysk	jus-que	PRE				15.05	37.5
+jusque	Zysk	jus-que	ADV				0.62	0.14
+jusque-là	Zys-k°-la	jusque-là	ADV				7.81	29.53
+jusques	Zysk	jus-ques	ADV				0	1.15
+jusquiame	Zys-kjam	jus-quia-me	NOM	f	s		0.11	0.07
+justaucorps	Zys-to-kOR	jus-tau-corps	NOM	m			0.22	0.61
+juste	Zyst	jus-te	ADJ		s		653.49	147.77
+juste	Zyst	jus-te	ADV				252.71	109.46
+juste	Zyst	jus-te	NOM	m	s		17.36	20.81
+juste-milieu	Zys-t°-mi-lj2	juste-milieu	NOM	m			0	0.07
+justement	Zys-t°-m@	jus-te-ment	ADV				62.08	78.18
+justes	Zyst	jus-tes	ADJ		p	juste	3.36	5.68
+justes	Zyst	jus-tes	NOM		p	juste	1.38	1.55
+justesse	Zys-tEs	jus-tes-se	NOM	f	s		1.91	8.58
+justice	Zys-tis	jus-ti-ce	NOM		s		50.96	46.22
+justices	Zys-tis	jus-ti-ces	NOM	f	p	justice	0	0.07
+justiciable	Zys-ti-sjabl	jus-ti-cia-ble	ADJ	m	s		0.1	0.27
+justiciables	Zys-ti-sjabl	jus-ti-cia-bles	ADJ		p	justiciable	0	0.2
+justicier	Zys-ti-sje	jus-ti-cier	NOM	m	s		1.45	1.96
+justicière	Zys-ti-sjER	jus-ti-ciè-re	NOM	f	s	justicier	0.03	0.47
+justiciers	Zys-ti-sje	jus-ti-ciers	NOM	m	p	justicier	0.48	1.35
+justifia	Zys-ti-fja	jus-ti-fia	VER			justifier	0	0.27
+justifiable	Zys-ti-fjabl	jus-ti-fia-ble	ADJ	m	s		0.06	0.14
+justifiables	Zys-ti-fjabl	jus-ti-fia-bles	ADJ	f	p	justifiable	0.02	0.2
+justifiaient	Zys-ti-fjE	jus-ti-fiaient	VER			justifier	0	1.28
+justifiais	Zys-ti-fjE	jus-ti-fiais	VER			justifier	0.01	0.2
+justifiait	Zys-ti-fjE	jus-ti-fiait	VER			justifier	0.17	4.53
+justifiant	Zys-ti-fj@	jus-ti-fiant	VER			justifier	0.07	0.68
+justifiant	Zys-ti-fj@	jus-ti-fiant	ADJ	m	s		0.01	0.14
+justifiât	Zys-ti-fja	jus-ti-fiât	VER			justifier	0	0.47
+justificatif	Zys-ti-fi-ka-tif	jus-ti-fi-ca-tif	NOM	m	s		0.26	0.2
+justificatif	Zys-ti-fi-ka-tif	jus-ti-fi-ca-tif	ADJ	m	s		0.01	0
+justificatifs	Zys-ti-fi-ka-tif	jus-ti-fi-ca-tif-s	NOM	m	p	justificatif	0.23	0
+justification	Zys-ti-fi-ka-sj§	jus-ti-fi-ca-tion	NOM	f	s		0.84	5
+justifications	Zys-ti-fi-ka-sj§	jus-ti-fi-ca-tions	NOM	f	p	justification	0.13	1.76
+justificative	Zys-ti-fi-ka-tiv	jus-ti-fi-ca-ti-ve	ADJ	f	s	justificatif	0.01	0.2
+justificatives	Zys-ti-fi-ka-tiv	jus-ti-fi-ca-ti-ves	ADJ	f	p	justificatif	0	0.14
+justifie	Zys-ti-fi	jus-ti-fie	VER			justifier	3.94	4.73
+justifié	Zys-ti-fje	jus-ti-fié	VER	m	s	justifier	1.38	2.91
+justifiée	Zys-ti-fje	jus-ti-fiée	VER	f	s	justifier	0.84	2.36
+justifiées	Zys-ti-fje	jus-ti-fiées	VER	f	p	justifier	0.27	0.68
+justifient	Zys-ti-fi	jus-ti-fient	VER			justifier	0.42	0.68
+justifier	Zys-ti-fje	jus-ti-fier	VER				7.37	14.93
+justifiera	Zys-ti-fi-Ra	jus-ti-fie-ra	VER			justifier	0.08	0.27
+justifierai	Zys-ti-fi-RE	jus-ti-fie-rai	VER			justifier	0.04	0.07
+justifieraient	Zys-ti-fi-RE	jus-ti-fie-raient	VER			justifier	0.01	0.14
+justifierais	Zys-ti-fi-RE	jus-ti-fie-rais	VER			justifier	0.01	0.07
+justifierait	Zys-ti-fi-RE	jus-ti-fie-rait	VER			justifier	0.2	0.61
+justifiés	Zys-ti-fje	jus-ti-fiés	VER	m	p	justifier	0.23	1.01
+justifiez	Zys-ti-fje	jus-ti-fiez	VER			justifier	0.52	0.14
+justinien	Zys-ti-nj5	jus-ti-nien	ADJ	m	s		0	0.07
+juta	Zy-ta	ju-ta	VER			juter	0	0.07
+jutait	Zy-tE	ju-tait	VER			juter	0	0.14
+jute	Zyt	ju-te	NOM	m	s		0.64	2.77
+juté	Zy-te	ju-té	VER	m	s	juter	0	0.14
+juter	Zy-te	ju-ter	VER				0.03	0.61
+juteuse	Zy-t2z	ju-teu-se	ADJ	f	s	juteux	0.75	1.01
+juteuses	Zy-t2z	ju-teu-ses	ADJ	f	p	juteux	0.53	0.47
+juteux	Zy-t2	ju-teux	ADJ	m			1.58	1.15
+juvénile	Zy-ve-nil	ju-vé-ni-le	ADJ		s		1.24	5.27
+juvéniles	Zy-ve-nil	ju-vé-ni-les	ADJ		p	juvénile	0.23	1.62
+juvénilité	Zy-ve-ni-li-te	ju-vé-ni-li-té	NOM	f	s		0	0.2
+juxtaposaient	Zyk-sta-po-zE	jux-ta-po-saient	VER			juxtaposer	0	0.07
+juxtaposais	Zyk-sta-po-zE	jux-ta-po-sais	VER			juxtaposer	0	0.07
+juxtaposait	Zyk-sta-po-zE	jux-ta-po-sait	VER			juxtaposer	0.01	0.07
+juxtaposant	Zyk-sta-po-z@		VER			juxtaposer	0.02	0
+juxtapose	Zyk-sta-poz	jux-ta-po-se	VER			juxtaposer	0.03	0.07
+juxtaposées	Zyk-sta-po-ze	jux-ta-po-sées	ADJ	f	p	juxtaposé	0	0.47
+juxtaposées	Zyk-sta-po-ze	jux-ta-po-sées	VER	f	p	juxtaposer	0	0.07
+juxtaposent	Zyk-sta-poz	jux-ta-po-sent	VER			juxtaposer	0	0.14
+juxtaposer	Zyk-sta-po-ze	jux-ta-po-ser	VER				0	0.2
+juxtaposèrent	Zyk-sta-po-zER	jux-ta-po-sè-rent	VER			juxtaposer	0	0.07
+juxtaposés	Zyk-sta-po-ze	jux-ta-po-sés	VER	m	p	juxtaposer	0	0.2
+juxtaposés	Zyk-sta-po-ze	jux-ta-po-sés	ADJ	m	p	juxtaposé	0	0.2
+juxtaposition	Zyk-sta-po-zi-sj§	jux-ta-po-si-tion	NOM	f	s		0.17	0.54
+juxtapositions	Zyk-sta-po-zi-sj§	jux-ta-po-si-tions	NOM	f	p	juxtaposition	0	0.14

@@ -1,0 +1,333 @@
+k	ka	k	NOM	m			9.93	3.78
+k-o	ka-o	k-o	ADJ				0.02	0.07
+k-way	ka-we	k-way	NOM	m	s		0.06	0.2
+ka	ka	ka	NOM	m	s		0.29	0.07
+kabarde	ka-baRd	ka-bar-de	ADJ	f	s		0	0.07
+kabbale	ka-bal	kab-ba-le	NOM	f	s		0.2	0.47
+kabbalistique	ka-ba-lis-tik	kab-ba-lis-ti-que	ADJ		s		0	0.07
+kabuki	ka-bu-ki	ka-bu-ki	NOM	m	s		0.42	0.14
+kabyle	ka-bil	ka-by-le	ADJ		s		0.01	0.61
+kabyle	ka-bil	ka-by-le	NOM		s		0	0.27
+kabyles	ka-bil	ka-by-les	ADJ		p	kabyle	0	0.41
+kacha	ka-Sa	ka-cha	NOM	f	s		0	0.34
+kacher	ka-Se	ka-cher	ADJ	m	s		0.02	0.14
+kachoube	ka-Sub	ka-chou-be	ADJ				0.1	0
+kaddisch	ka-diS		NOM	m	s		0	0.07
+kaddish	ka-diS	kad-di-sh	NOM	m	s		0.2	0
+kadi	ka-di	ka-di	NOM	m	s		0.11	0
+kafir	ka-fiR		NOM	m	s		0.05	0
+kafkaïen	kaf-ka-j5	kaf-kaïen	ADJ	m	s		0.02	0.07
+kaftan	kaf-t@	kaf-tan	ADJ	m	s		0.02	0
+kaftans	kaf-t@	kaf-tans	ADJ	m	p	kaftan	0.01	0
+kaiser	kaj-z9R	kai-ser	NOM	m	s		0.02	0.14
+kaki	ka-ki	ka-ki	ADJ				0.46	5.34
+kaki	ka-ki	ka-ki	NOM	m	s		0.38	0.88
+kakis	ka-ki	ka-kis	NOM	m	p	kaki	0.29	0.27
+kala-azar	ka-la-a-zaR	kala-azar	NOM	m	s		0	0.07
+kalachnikovs	ka-lak-ni-kOv	ka-la-ch-ni-kovs	NOM	f	p	kalachnikov	0.17	0
+kaléidoscope	ka-le-i-dos-kOp	ka-léi-do-sco-pe	NOM	m	s		0.18	1.22
+kaléidoscopes	ka-le-i-dos-kOp	ka-léi-do-sco-pes	NOM	m	p	kaléidoscope	0.04	0.2
+kali	ka-li	ka-li	NOM	m	s		0.19	0
+kaliémie	ka-lje-mi		NOM	f	s		0.01	0
+kalmouk	kal-muk	kal-mouk	ADJ	m	s		0	0.07
+kalmouks	kal-muk	kal-mouks	ADJ	m	p	kalmouk	0	0.07
+kalpa	kal-pa	kal-pa	NOM	m	s		0.01	0.07
+kama	ka-ma		NOM		s		0.14	0
+kamala	ka-ma-la	ka-ma-la	NOM	m	s		0.07	0
+kami	ka-mi	ka-mi	NOM	m	s		0.2	0.07
+kamikaze	ka-mi-kaz	ka-mi-ka-ze	NOM	m	s		0.73	1.01
+kamikaze	ka-mi-kaz	ka-mi-ka-ze	ADJ		s		0.33	0.27
+kamikazes	ka-mi-kaz	ka-mi-ka-zes	NOM	m	p	kamikaze	0.53	1.08
+kamikazes	ka-mi-kaz	ka-mi-ka-zes	ADJ		p	kamikaze	0.2	0.14
+kan	kan	kan	NOM	m	s		0.12	0.27
+kana	ka-na	ka-na	NOM	m	s		0.12	0.07
+kandjar	k@-djaR	kand-jar	NOM	m	s		0	0.07
+kangourou	k@-gu-Ru	kan-gou-rou	NOM	m	s		1.42	1.15
+kangourous	k@-gu-Ru	kan-gou-rous	NOM	m	p	kangourou	0.42	0.27
+kanji	k@-Zi	kan-ji	NOM	m	s		0.04	0
+kantien	k@-tj5	kan-tien	ADJ	m	s		0.01	0.07
+kantisme	k@-tizm	kan-tis-me	NOM	m	s		0	0.2
+kaolin	ka-o-l5	kao-lin	NOM	m	s		0.01	0.34
+kaori	ka-O-Ri		NOM	m	s		0.01	0
+kapo	ka-po	ka-po	NOM	m	s		0.29	0.14
+kapok	ka-pOk	ka-pok	NOM	m	s		0.04	0.34
+kapokier	ka-pO-kje		NOM	m	s		0.01	0
+kapos	ka-po	ka-pos	NOM	m	p	kapo	0	0.2
+kaposi	ka-po-zi	ka-po-si	NOM	m	s		0.09	0.2
+kapout	ka-put		NOM	m	s		0.01	0.2
+kappa	ka-pa	kap-pa	NOM	m	s		0.17	0
+karaoké	ka-Ra-o-ke	ka-rao-ké	NOM	m	s		0.97	0
+karaokés	ka-Ra-o-ke	ka-rao-kés	NOM	m	p	karaoké	0.02	0
+karaté	ka-Ra-te	ka-ra-té	NOM	m	s		2.64	0.95
+karatéka	ka-Ra-te-ka	ka-ra-té-ka	NOM		s		0.2	0.07
+karatékas	ka-Ra-te-ka	ka-ra-té-kas	NOM		p	karatéka	0	0.07
+karen	ka-REn	ka-ren	ADJ		s		0.43	0
+kari	ka-Ri		NOM	m	s		0.19	0.07
+karité	ka-Ri-te	ka-ri-té	NOM	m	s		0.01	0.14
+karma	kaR-ma	kar-ma	NOM	m	s		10.73	0.14
+karmique	kaR-mik	kar-mi-que	ADJ		s		0.16	0
+kart	kaRt	kart	NOM	m	s		0.3	0
+karting	kaR-tiG	kar-ting	NOM	m	s		0.34	0
+kasbah	kas-ba	kas-bah	NOM	f			0	0.27
+kascher	ka-SER	ka-scher	ADJ		s		0.13	0.27
+kasher	ka-SER	ka-sher	ADJ				0.63	0.41
+kastro	kas-tRo	kas-tro	NOM	m	s		0	0.47
+kastros	kas-tRo	kas-tros	NOM	m	p	kastro	0	0.07
+kata	ka-ta		NOM	m	s		0.01	0
+katal	ka-tal	ka-tal	NOM	m	s		0.01	0
+katangais	ka-t@-gE	ka-tan-gais	NOM	m			0.1	0.14
+katangais	ka-t@-gE	ka-tan-gais	ADJ	m			0	0.2
+katas	ka-ta	ka-tas	NOM	m	p	kata	0.01	0
+katchinas	kat-Si-na	kat-chi-nas	NOM	m	p	katchina	0	0.07
+katiba	ka-ti-ba		NOM	f	s		0	0.07
+kava	ka-va		NOM	m	s		0.01	0
+kawa	ka-wa	ka-wa	NOM	m	s		0	3.11
+kayac	ka-jak		NOM	m	s		0.01	0
+kayak	ka-jak	kayak	NOM	m	s		0.34	0.14
+kayakiste	ka-ja-kist		NOM		s		0.01	0
+kazakh	ka-zak	ka-za-kh	ADJ	m	s		0.13	0
+kazakh	ka-zak	ka-za-kh	NOM	m	s		0.1	0
+kazakhs	ka-zak	ka-za-khs	ADJ	m	p	kazakh	0.2	0.07
+kebab	ke-bab	ke-bab	NOM	m	s		0.55	0.07
+kebabs	k°-bab	ke-babs	NOM	m	p	kebab	0.23	0
+kebla	k°-bla	ke-bla	ADJ		s		0	0.07
+keblas	k°-bla	ke-blas	ADJ	f	p	kebla	0	0.07
+kébour	ke-buR	ké-bour	NOM	m	s		0	0.34
+kébours	ke-buR	ké-bours	NOM	m	p	kébour	0	0.07
+keepsake	kip-sEk		NOM	m	s		0.05	0
+keffieh	ke-fje		NOM	m	s		0.01	0
+kéfir	ke-fiR	ké-fir	NOM	m	s		0	0.2
+kéfirs	ke-fiR	ké-firs	NOM	m	p	kéfir	0	0.07
+keiretsu	ke-REt-su		NOM	m	s		0.07	0
+kekchose	kEk-Soz	kek-cho-se	NOM	f	s		0.01	0.07
+kelvins	kEl-vin	kel-vins	NOM	m	p	kelvin	0.03	0
+kendo	kEn-do	ken-do	NOM	m	s		0.24	0
+kényan	ke-nj@		ADJ	m	s		0.02	0
+képi	ke-pi	ké-pi	NOM	m	s		1.85	12.91
+képis	ke-pi	ké-pis	NOM	m	p	képi	0.55	2.91
+kérabau	ke-Ra-bo		NOM	m	s		0.1	0
+kératinisée	ke-Ra-ti-ni-ze		ADJ	f	s	kératinisé	0.01	0
+kératoplastie	ke-Ra-to-plas-ti		NOM	f	s		0.01	0
+kératose	ke-Ra-toz		NOM	f	s		0.01	0
+kermesse	kER-mEs	ker-mes-se	NOM	f	s		0.93	2.3
+kermesses	kER-mEs	ker-mes-ses	NOM	f	p	kermesse	0.04	0.47
+kérosène	ke-Ro-zEn	ké-ro-sè-ne	NOM	m	s		0.91	0.14
+kérosènes	ke-Ro-zEn	ké-ro-sè-nes	NOM	m	p	kérosène	0	0.07
+kerrie	kE-Ri		NOM	f	s		0.04	0
+ket	kEt	ket	NOM	m	s		0.07	0.07
+ketch	kEtS	ket-ch	NOM	m	s		0.11	0.07
+ketchup	kEt-S9p	ket-chup	NOM	m	s		4.45	0.54
+keuf	k9f	keuf	NOM	f	s		1	0
+keufs	k9f	keuf-s	NOM	f	p	keuf	1.83	0.88
+keum	k2m	keum	NOM	m	s		0.27	0.2
+keums	k2m	keum-s	NOM	m	p	keum	0.08	0
+kevlar	k°-vlaR	kev-lar	NOM	m	s		0.26	0
+khâgne	kaN	khâ-gne	NOM	f	s		0	1.42
+khâgnes	kaN	khâ-gnes	NOM	f	p	khâgne	0	0.14
+khâgneux	ka-N2	khâ-gneux	NOM	m			0	0.34
+khalife	ka-lif	kha-li-fe	NOM	m	s		0.02	0.27
+khamsin	kam-sin	kham-sin	NOM	m	s		0	0.2
+khan	kan	khan	NOM	m	s		0.21	1.49
+khanat	ka-na	kha-nat	NOM	m	s		0	0.07
+khans	kan	khans	NOM	m	p	khan	0.1	5.07
+khat	kat	khat	NOM	m	s		0.01	0
+khazar	ka-zaR	kha-zar	ADJ		s		0	0.14
+khédival	ke-di-val	khé-di-val	ADJ	m	s		0	0.07
+khédive	ke-div	khé-di-ve	NOM	m	s		0.03	0.88
+khmer	kmER	kh-mer	ADJ	m	s		0.27	0
+khmère	kmER	kh-mè-re	ADJ	f	s	khmer	0.01	0
+khôl	kol	khôl	NOM	m	s		0	0.81
+kibboutz	ki-buts	kib-boutz	NOM	m			1.85	0.27
+kibboutzim	ki-but-sim	kib-bout-zim	NOM	m	p		0	0.07
+kick	kik	ki-ck	NOM	m	s		0.42	0.34
+kicker	ki-ke		NOM	m	s		0.14	0
+kicks	kik	ki-cks	NOM	m	p	kick	0.05	0
+kid	kid	kid	NOM	m	s		5.71	6.82
+kidnappa	kid-na-pa	kid-nap-pa	VER			kidnapper	0	0.07
+kidnappait	kid-na-pE	kid-nap-pait	VER			kidnapper	0.04	0.07
+kidnappant	kid-na-p@	kid-nap-pant	VER			kidnapper	0.04	0
+kidnappe	kid-nap	kid-nap-pe	VER			kidnapper	0.69	0.14
+kidnappé	kid-na-pe	kid-nap-pé	VER	m	s	kidnapper	6.66	0.2
+kidnappée	kid-na-pe	kid-nap-pée	VER	f	s	kidnapper	3.65	0.2
+kidnappées	kid-na-pe	kid-nap-pées	VER	f	p	kidnapper	0.28	0.14
+kidnappent	kid-nap	kid-nap-pent	VER			kidnapper	0.15	0
+kidnapper	kid-na-pe	kid-nap-per	VER				2.54	0.2
+kidnapperai	kid-na-p°-RE	kid-nap-pe-rai	VER			kidnapper	0.14	0
+kidnapperaient	kid-na-p°-RE	kid-nap-pe-raient	VER			kidnapper	0.11	0
+kidnapperas	kid-na-p°-Ra	kid-nap-pe-ras	VER			kidnapper	0.01	0
+kidnapperez	kid-na-p°-Re	kid-nap-pe-rez	VER			kidnapper	0.02	0
+kidnappés	kid-na-pe	kid-nap-pés	VER	m	p	kidnapper	0.75	0.07
+kidnappeur	kid-na-p9R	kid-nap-peur	NOM	m	s		2.2	0.07
+kidnappeurs	kid-na-p9R	kid-nap-peurs	NOM	m	p	kidnappeur	1.35	0.2
+kidnappez	kid-na-pe	kid-nap-pez	VER			kidnapper	0.1	0
+kidnappiez	kid-na-pje	kid-nap-piez	VER			kidnapper	0.03	0
+kidnapping	kid-na-piG	kid-nap-ping	NOM	m	s		5.33	0.54
+kidnappings	kid-na-piG	kid-nap-ping-s	NOM	m	p	kidnapping	0.25	0
+kidnappons	kid-na-p§	kid-nap-pons	VER			kidnapper	0.01	0
+kids	kid	kid-s	NOM	m	p	kid	0.91	0.54
+kief	kjEf		NOM	m	s		0.02	0
+kierkegaardienne	kiR-k°-ga-aR-djEn	kier-ke-gaar-dien-ne	NOM	f	s	kierkegaardien	0	0.07
+kif	kif	kif	NOM	m	s		1.25	2.77
+kif-kif	kif-kif	kif-kif	ADJ		s		0.2	0.81
+kiki	ki-ki	ki-ki	NOM	m	s		0.53	0.74
+kil	kil	kil	NOM	m	s		0.16	0.34
+kilbus	kil-bus	kil-bus	NOM	m			0	0.27
+kilim	ki-lim	ki-lim	NOM	m	s		0.28	0
+killer	ki-l9R	kil-ler	NOM		s		1.19	0.07
+kilo	ki-lo	ki-lo	NOM	m	s		5.19	5.27
+kilogramme	ki-lo-gRam	ki-lo-gram-me	NOM	m	s		0.14	0.07
+kilogrammes	ki-lo-gRam	ki-lo-gram-mes	NOM	m	p	kilogramme	0.03	0.07
+kilohertz	ki-lo-ERts		NOM	m			0.14	0
+kilométrage	ki-lo-me-tRaZ	ki-lo-mé-tra-ge	NOM	m	s		0.49	0.14
+kilométrages	ki-lo-me-tRaZ	ki-lo-mé-tra-ges	NOM	m	p	kilométrage	0.01	0.14
+kilomètre	ki-lo-mEtR	ki-lo-mè-tre	NOM	m	s		3.73	6.28
+kilomètres	ki-lo-mEtR	ki-lo-mè-tres	NOM	m	p	kilomètre	21.07	55.95
+kilomètres-heure	ki-lo-mE-tR9R	kilomètres-heure	NOM	m	p	kilomètre-heure	0.14	0.41
+kilométrique	ki-lo-me-tRik	ki-lo-mé-tri-que	ADJ		s		0.04	0.34
+kilométriques	ki-lo-me-tRik	ki-lo-mé-tri-ques	ADJ	f	p	kilométrique	0	0.34
+kilos	ki-lo	ki-los	NOM	m	p	kilo	17.35	18.92
+kilotonnes	ki-lo-tOn	ki-lo-ton-nes	NOM	m	p	kilotonne	0.1	0.14
+kilowattheure	ki-lo-wa-t9R	ki-lo-watt-heu-re	NOM	m	s		0	0.07
+kilowatts	ki-lo-wat	ki-lo-watts	NOM	m	p	kilowatt	0	0.34
+kils	kil	kils	NOM	m	p	kil	0.01	0.2
+kilt	kilt	kilt	NOM	m	s		0.5	0.68
+kilts	kilt	kilts	NOM	m	p	kilt	0.05	0
+kimono	ki-mo-no	ki-mo-no	NOM	m	s		1.84	1.89
+kimonos	ki-mo-no	ki-mo-nos	NOM	m	p	kimono	0.27	0.54
+kinase	ki-naz		NOM	f	s		0.03	0
+kiné	ki-ne	ki-né	NOM		s		1.28	0
+kinescope	ki-nEs-kOp		NOM	m	s		0.01	0
+kinésiques	ki-ne-zik	ki-né-si-ques	NOM	f	p	kinésique	0.01	0
+kinésithérapeute	ki-ne-zi-te-Ra-p2t	ki-né-si-thé-ra-peu-te	NOM		s		0.05	0.2
+kinésithérapie	ki-ne-zi-te-Ra-pi	ki-né-si-thé-ra-pie	NOM	f	s		0.07	0
+kinesthésie	ki-nEs-te-zi		NOM	f	s		0.01	0
+king-charles	kiG-SaRl	king-charles	NOM	m			0	0.07
+kinnor	ki-nOR		NOM	m	s		0	0.07
+kino	ki-no		NOM	m	s		0	0.07
+kiosk	kjOsk	kiosk	NOM	m	s		0	1.55
+kiosks	kjOsk	kiosks	NOM	m	p	kiosk	0	0.27
+kiosque	kjOsk	kios-que	NOM	m	s		3.95	5.88
+kiosques	kjOsk	kios-ques	NOM	m	p	kiosque	0.1	2.3
+kip	kip	kip	NOM	m	s		0.62	0
+kipa	ki-pa	ki-pa	NOM	f	s		0.01	1.89
+kippa	ki-pa	kip-pa	NOM	f	s		0.52	0.07
+kipper	ki-p9R	kip-per	NOM	m	s		0.04	0
+kippers	ki-p9R	kip-pers	NOM	m	p	kipper	0	0.07
+kips	kip	kips	NOM	m	p	kip	0.01	0
+kir	kiR	kir	NOM	m	s		0.62	0.95
+kirghiz	kiR-giz	kir-ghiz	NOM	m			0	0.2
+kirghize	kiR-giz	kir-ghi-ze	NOM		s		0.14	0
+kirghize	kiR-giz	kir-ghi-ze	ADJ	m	s		0	0.07
+kirghizes	kiR-giz	kir-ghi-zes	ADJ	f	p	kirghize	0	0.07
+kirs	kiR	kirs	NOM	m	p	kir	0.01	0.34
+kirsch	kiRS	kir-sch	NOM	m	s		0.56	1.22
+kit	kit	kit	NOM	m	s		6.99	0.34
+kitch	kitS	kit-ch	ADJ	f	s		0.17	0
+kitchenette	kit-S°-nEt	kit-che-net-te	NOM	f	s		0.19	0.27
+kits	kit	kits	NOM	m	p	kit	0.34	0
+kitsch	kitS	kit-sch	ADJ				0.23	0.68
+kiva	ki-va	ki-va	NOM	f	s		0.03	0
+kiwi	ki-wi	ki-wi	NOM	m	s		0	0.07
+kiwis	ki-wi	ki-wis	NOM	m	p	kiwi	0	0.07
+klaxon	klak-s§	k-laxon	NOM	m	s		4.89	3.24
+klaxonna	klak-so-na	k-laxon-na	VER			klaxonner	0.03	0.27
+klaxonnai	klak-so-nE	k-laxon-nai	VER			klaxonner	0	0.14
+klaxonnaient	klak-so-nE	k-laxon-naient	VER			klaxonner	0.02	0.14
+klaxonnais	klak-so-nE	k-laxon-nais	VER			klaxonner	0.04	0
+klaxonnait	klak-so-nE	k-laxon-nait	VER			klaxonner	0.05	0.27
+klaxonnant	klak-so-n@	k-laxon-nant	VER			klaxonner	0	0.68
+klaxonne	klak-sOn	k-laxon-ne	VER			klaxonner	2.26	0.47
+klaxonné	klak-so-ne	k-laxon-né	VER	m	s	klaxonner	0.19	0.41
+klaxonnent	klak-sOn	k-laxon-nent	VER			klaxonner	0.07	0.14
+klaxonner	klak-so-ne	k-laxon-ner	VER				0.75	0.61
+klaxonnera	klak-sO-n°-Ra	k-laxon-ne-ra	VER			klaxonner	0.01	0.07
+klaxonnerai	klak-sO-n°-RE	k-laxon-ne-rai	VER			klaxonner	0.26	0
+klaxonnes	klak-sOn	k-laxon-nes	VER			klaxonner	0.23	0
+klaxonnez	klak-so-ne	k-laxon-nez	VER			klaxonner	0.39	0.07
+klaxons	klak-s§	k-laxons	NOM	m	p	klaxon	0.66	2.5
+klebs	klEps	k-lebs	NOM	m			0.01	0
+kleenex	kli-nEks	k-lee-nex	NOM	m			1.35	2.91
+kleptomane	klEp-to-man	k-lep-to-ma-ne	NOM		s		0.14	0
+kleptomanes	klEp-to-man	k-lep-to-ma-nes	NOM		p	kleptomane	0.02	0
+kleptomanie	klEp-to-ma-ni	k-lep-to-ma-nie	NOM	f	s		0.02	0
+klystron	klis-tR§	k-lys-tron	NOM	m	s		0.12	0
+km	ki-lo-mEtR	km	ADV				0.01	0
+knickerbockers	kni-k9R-bO-k9R	k-ni-cker-bo-ckers	NOM	m	p	knickerbocker	0.01	0.07
+knickers	kni-k9Rs	k-ni-ckers	NOM	m	p	knicker	0.03	0.07
+knock-out	nO-kawt	knock-out	ADJ	m	s		0.19	0.2
+knock-out	nO-kawt	knock-out	NOM	m			0.12	0.14
+knout	knut	k-nout	NOM	m	s		0	0.2
+koala	ko-a-la	koa-la	NOM	m	s		0.15	0.14
+koalas	ko-a-la	koa-las	NOM	m	p	koala	0.04	0
+kobold	ko-bOld	ko-bold	NOM	m	s		0.22	0.07
+kobolds	ko-bOld	ko-bold-s	NOM	m	p	kobold	0.15	0
+kodak	ko-dak	ko-dak	NOM	m	s		0.01	0.47
+kodiak	ko-djak	ko-diak	NOM	m	s		0.31	0
+kohl	kol		NOM	m	s		0	0.14
+kola	ko-la	ko-la	NOM	m	s		0.02	0.2
+kolatiers	ko-la-tje	ko-la-tiers	NOM	m	p	kolatier	0	0.2
+kolkhoze	kOl-koz	kol-kho-ze	NOM	m	s		1.11	0.41
+kolkhozien	kOl-ko-zj5	kol-kho-zien	NOM	m	s		0	0.07
+kolkhozienne	kOl-ko-zjEn	kol-kho-zien-ne	NOM	f	s	kolkhozien	0.1	0.2
+kolkhoziennes	kOl-ko-zjEn	kol-kho-zien-nes	NOM	f	p	kolkhozien	0	0.14
+kolkhoziens	kOl-ko-zj5	kol-kho-ziens	NOM	m	p	kolkhozien	0.1	0.27
+komi	ko-mi	ko-mi	NOM		s		0	0.07
+komi	ko-mi	ko-mi	ADJ		s		0.03	0
+komintern	kO-min-tERn		NOM	m	s		0.01	0.54
+kommandantur	ko-m@-d@n-tuR	kom-man-dan-tur	NOM	f	s		0.27	0.68
+kommando	kO-m@-do		NOM	m	s		0.28	0.14
+komsomol	kOm-so-mOl	kom-so-mol	NOM	m	s		0.25	0.54
+komsomols	kOm-so-mOl	kom-so-mols	NOM	m	p	komsomol	0	0.27
+kondo	k§-do	kon-do	NOM	m	s		0.12	0
+kopeck	ko-pEk	ko-pe-ck	NOM	m	s		1.3	0.47
+kopecks	ko-pEk	ko-pe-cks	NOM	m	p	kopeck	0.22	0.14
+kopeks	ko-pEk	ko-peks	NOM	m	p	kopek	0.14	0
+kora	kO-Ra		NOM	f	s		0.01	0
+koran	kO-R@		NOM	m	s		0	0.14
+korè	ko-RE	ko-rè	NOM	f	s		0	0.07
+koré	kO-Re		NOM	f	s		0	0.34
+korrigan	ko-Ri-g@	kor-ri-gan	NOM	m	s		0.01	0.07
+korrigans	ko-Ri-g@	kor-ri-gans	NOM	m	p	korrigan	0.02	0.14
+kosovar	kO-sO-vaR		NOM	m	s		0.01	0
+kot	kOt		NOM	m	s		0.33	0
+koto	ko-to	ko-to	NOM	m	s		0.02	0.07
+kouglof	ku-glOf	kou-glof	NOM	m	s		0.02	0.14
+koulak	ku-lak	kou-lak	NOM	m	s		0	0.27
+koulaks	ku-lak	kou-laks	NOM	m	p	koulak	0.11	0.2
+kouros	ku-Ros	kou-ros	NOM	m			0	0.27
+kraal	kRal		NOM	m	s		0.03	0
+krach	kRak	kra-ch	NOM	m	s		0.15	0.34
+krachs	kRak	kra-chs	NOM	m	p	krach	0	0.07
+kraft	kRaft	kraft	NOM	m	s		0.8	0.95
+krak	kRak		NOM	m	s		0.01	0
+kraken	kRa-kEn	kra-ken	NOM	m	s		0.14	0
+kremlin	kREm-l5	krem-lin	NOM	m	s		0	0.07
+kreutzer	kROj-ts9R	kreut-zer	NOM	m	s		0	0.07
+kriegspiel	kRik-Spil		NOM	m	s		0	0.14
+krill	kRil	krill	NOM	m	s		0.17	0
+kriss	kRis	kriss	NOM	m			0.09	0
+kroumir	kRu-miR	krou-mir	NOM	m	s		0.01	0.2
+kroumirs	kRu-miR	krou-mirs	NOM	m	p	kroumir	0	0.07
+krypton	kRip-t§	kryp-ton	NOM	m	s		1.04	0
+ksar	ksaR	k-sar	NOM	m	s		0	0.07
+kugelhof	ku-glOf	ku-gel-hof	NOM	m	s		0.04	0.07
+kula	ky-la	ku-la	NOM	f	s		0.01	0.07
+kummel	ky-mEl	kum-mel	NOM	m	s		0.01	0.34
+kumquat	kOm-kwat	kum-quat	NOM	m	s		0.13	0
+kumquats	kOm-kwat	kum-quats	NOM	m	p	kumquat	0.03	0.07
+kung fu	kuG-fu	kung fu	NOM	m	s	kung-fu	0.1	0
+kung-fu	kuG-fu	kung-fu	NOM	m	s		1.01	0
+kurde	kyRd	kur-de	ADJ		s		0.16	0.07
+kurde	kyRd	kur-de	NOM		s		0.01	0
+kurdes	kyRd	kur-des	ADJ		p	kurde	0.01	0.14
+kurdes	kyRd	kur-des	NOM		p	kurde	0.01	0
+kursaal	kyR-sal		NOM	m	s		0.2	0.07
+kurus	ky-Ry	ku-rus	NOM	m	p	kuru	0	0.07
+kvas	kvas		NOM	m			0.2	0
+kyrie	ki-Rje	ky-rie	NOM	m			0	0.54
+kyrie eleison	ki-Rje-e-le-i-sOn		NOM	m			0.41	0.07
+kyrielle	ki-RjEl	ky-riel-le	NOM	f	s		0.03	1.22
+kyrielles	ki-RjEl	ky-riel-les	NOM	f	p	kyrielle	0	0.2
+kyste	kist	kys-te	NOM	m	s		0.51	0.07
+kystes	kist	kys-tes	NOM	m	p	kyste	0.06	0.14
+kystique	kis-tik		ADJ	f	s		0.03	0

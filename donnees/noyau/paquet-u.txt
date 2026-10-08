@@ -1,0 +1,489 @@
+u	y	u	NOM	m			18.4	2.97
+ubac	y-bak	u-bac	NOM	m	s		0	0.14
+ubique	y-bik		ADJ		s		0	0.07
+ubiquiste	y-bi-k8ist	u-bi-quis-te	NOM		s		0.01	0.27
+ubiquiste	y-bi-k8ist	u-bi-quis-te	ADJ		s		0	0.07
+ubiquitaire	y-bi-k8i-tER	u-bi-qui-tai-re	ADJ	m	s		0	0.14
+ubiquité	y-bi-k8i-te	u-bi-qui-té	NOM	f	s		0.04	1.82
+ubuesque	y-by-Esk	u-bues-que	ADJ	f	s		0.14	0.07
+ufologie	y-fO-lO-Zi		NOM	f	s		0.04	0
+uhlan	y-l@	uh-lan	NOM	m	s		0.14	0.14
+uhlans	y-l@	uh-lans	NOM	m	p	uhlan	0.05	1.01
+uht	yt	uht	ADJ	m	s		0.01	0
+ukase	y-kaz		NOM	m	s		0.2	0
+ukases	y-kaz	u-ka-ses	NOM	m	p	ukase	0	0.07
+ukrainien	y-kRE-nj5	u-krai-nien	ADJ	m	s		0.28	0.41
+ukrainien	y-kRE-nj5	u-krai-nien	NOM	m	s		0.39	0.07
+ukrainienne	y-kRE-njEn	u-krai-nien-ne	ADJ	f	s	ukrainien	0.28	0.14
+ukrainienne	y-kRE-njEn	u-krai-nien-ne	NOM	f	s	ukrainien	0.02	0.14
+ukrainiennes	y-kRE-njEn	u-krai-nien-nes	ADJ	f	p	ukrainien	0.01	0.14
+ukrainiens	y-kRE-nj5	u-krai-niens	NOM	m	p	ukrainien	0.3	0.41
+ukrainiens	y-kRE-nj5	u-krai-niens	ADJ	m	p	ukrainien	0.05	0.2
+ukulélé	y-ky-le-le	u-ku-lé-lé	NOM	m	s		0.16	0.07
+ulcéra	yl-se-Ra	ul-cé-ra	VER			ulcérer	0	0.07
+ulcérait	yl-se-RE	ul-cé-rait	VER			ulcérer	0	0.07
+ulcérant	yl-se-R@	ul-cé-rant	VER			ulcérer	0	0.07
+ulcérations	yl-se-Ra-sj§	ul-cé-ra-tions	NOM	f	p	ulcération	0.01	0.2
+ulcérative	yl-se-Ra-tiv		ADJ	f	s	ulcératif	0.01	0
+ulcère	yl-sER	ul-cè-re	NOM	m	s		3.98	1.76
+ulcère	yl-sER	ul-cè-re	VER			ulcérer	0.03	0.07
+ulcéré	yl-se-Re	ul-cé-ré	VER	m	s	ulcérer	0.48	0.68
+ulcéré	yl-se-Re	ul-cé-ré	ADJ	m	s		0.01	0.81
+ulcérée	yl-se-Re	ul-cé-rée	ADJ	f	s	ulcéré	0	0.68
+ulcérée	yl-se-Re	ul-cé-rée	VER	f	s	ulcérer	0	0.47
+ulcérées	yl-se-Re	ul-cé-rées	VER	f	p	ulcérer	0	0.07
+ulcérées	yl-se-Re	ul-cé-rées	ADJ	f	p	ulcéré	0	0.07
+ulcères	yl-sER	ul-cè-res	NOM	m	p	ulcère	0.71	0.74
+ulcérés	yl-se-Re	ul-cé-rés	VER	m	p	ulcérer	0.15	0
+ulcérés	yl-se-Re	ul-cé-rés	ADJ	m	p	ulcéré	0	0.07
+ulcéreuse	yl-se-R2z	ul-cé-reu-se	ADJ	f	s	ulcéreux	0.01	0.14
+ulcéreuses	yl-se-R2z	ul-cé-reu-ses	ADJ	f	p	ulcéreux	0	0.07
+ulcéreux	yl-se-R2		ADJ	m	s		0.01	0
+ulna	yl-na		NOM	f	s		0.01	0
+ulnaire	yl-nER		ADJ	m	s		0.01	0
+ultérieur	yl-te-Rj9R	ul-té-rieur	ADJ	m	s		0.27	0.41
+ultérieure	yl-te-Rj9R	ul-té-rieu-re	ADJ	f	s	ultérieur	0.28	0.95
+ultérieurement	yl-te-Rj9-R°-m@	ul-té-rieu-re-ment	ADV				0.37	2.03
+ultérieures	yl-te-Rj9R	ul-té-rieu-res	ADJ	f	p	ultérieur	0.09	0.81
+ultérieurs	yl-te-Rj9R	ul-té-rieurs	ADJ	m	p	ultérieur	0.07	0.2
+ultima ratio	yl-ti-ma-Ra-sjo	ul-ti-ma ra-tio	NOM	f	s		0	0.07
+ultimatum	yl-ti-ma-tOm	ul-ti-ma-tum	NOM	m	s		1.23	1.55
+ultimatums	yl-ti-ma-tOm	ul-ti-ma-tum-s	NOM	m	p	ultimatum	0.09	0
+ultime	yl-tim	ul-ti-me	ADJ		s		8.01	21.49
+ultimement	yl-ti-m°-m@	ul-ti-me-ment	ADV				0.01	0.07
+ultimes	yl-tim	ul-ti-mes	ADJ		p	ultime	0.55	4.26
+ultimo	yl-ti-mo	ul-ti-mo	ADV				0	0.07
+ultra	yl-tRa	ul-tra	ADJ				1.59	1.49
+ultra	yl-tRa	ul-tra	NOM		s		0.49	0.47
+ultra-catholique	yl-tRa-ka-tO-lik		ADJ	m	s		0.1	0
+ultra-chic	yl-tRa-Sik	ultra-chic	ADJ		s		0.03	0.14
+ultra-chics	yl-tRa-Sik	ultra-chics	ADJ	f	p	ultra-chic	0	0.07
+ultra-courtes	yl-tRa-kuRt	ultra-courtes	ADJ	f	p	ultra-court	0.02	0
+ultra-courts	yl-tRa-kuR	ultra-courts	ADJ	m	p	ultra-court	0.14	0.07
+ultra-gauche	yl-tRa-goS	ul-tra-gau-che	NOM	f	s		0	0.07
+ultra-rapide	yl-tRa-Ra-pid	ul-tra-ra-pi-de	ADJ		s		0.2	0.27
+ultra-secret	yl-tRa-s2-kRE	ul-tra-se-cret	ADJ	m	s		0.2	0.07
+ultra-secret	yl-tRa-s2-kRE	ul-tra-se-cret	NOM		s		0.01	0
+ultra-sensible	yl-tRa-s@-sibl	ul-tra-sen-si-ble	ADJ	m	s		0.01	0.14
+ultra-sons	yl-tRa-s§	ul-tra-sons	NOM	m	p	ultra-son	0.03	0.14
+ultra-violet	yl-tRa-vjo-lE	ul-tra-vio-let	ADJ				0.01	0
+ultra-violets	yl-tRa-vjo-lE	ul-tra-vio-lets	NOM		s	ultra-violet	0.04	0.07
+ultra-violets	yl-tRa-vjo-lE	ul-tra-vio-lets	ADJ	m	p	ultra-violet	0.03	0.07
+ultrafin	yl-tRa-f5	ul-tra-fin	ADJ	m	s		0	0.07
+ultragauche	yl-tRa-goS	ul-tra-gau-che	NOM	f	s		0	0.07
+ultraléger	yl-tRa-le-Ze		ADJ	m	s		0.01	0
+ultramarine	yl-tRa-ma-Rin	ul-tra-ma-ri-ne	ADJ	f	s	ultramarin	0	0.14
+ultramoderne	yl-tRa-mo-dERn	ul-tra-mo-der-ne	ADJ		s		0.34	0.07
+ultramodernes	yl-tRa-mo-dERn	ul-tra-mo-der-nes	ADJ		p	ultramoderne	0.14	0.07
+ultramontain	yl-tRa-m§-t5	ul-tra-mon-tain	ADJ	m	s		0	0.07
+ultramontains	yl-tRa-m§-t5	ul-tra-mon-tains	ADJ	m	p	ultramontain	0	0.14
+ultraperformant	yl-tRa-pER-fOR-m@	ul-tra-per-for-mant	ADJ	m	s		0	0.07
+ultrarapide	yl-tRa-Ra-pid	ul-tra-ra-pi-de	ADJ		s		0.03	0.07
+ultrarapides	yl-tRa-Ra-pid	ul-tra-ra-pi-des	ADJ	m	p	ultrarapide	0.02	0
+ultras	yl-tRa	ul-tras	NOM		p	ultra	0	0.34
+ultrasecret	yl-tRa-s°-kRE	ul-tra-se-cret	ADJ	m	s		0.06	0
+ultrasecrète	yl-tRa-s°-kREt	ul-tra-se-crè-te	ADJ	f	s	ultrasecret	0.04	0.07
+ultrasensible	yl-tRa-s@-sibl	ul-tra-sen-si-ble	ADJ		s		0.23	0
+ultrasensibles	yl-tRa-s@-sibl	ul-tra-sen-si-bles	ADJ	m	p	ultrasensible	0.01	0.07
+ultrason	yl-tRa-s§	ul-tra-son	NOM	m	s		0.34	0
+ultrasonique	yl-tRa-so-nik	ul-tra-so-ni-que	ADJ		s		0.25	0
+ultrasons	yl-tRa-s§	ul-tra-sons	NOM	m	p	ultrason	0.53	0
+ultraviolet	yl-tRa-vjo-lE	ul-tra-vio-let	ADJ	m	s		0.16	0
+ultraviolet	yl-tRa-vjo-lE	ul-tra-vio-let	NOM	m	s		0.06	0
+ultraviolets	yl-tRa-vjo-lE	ul-tra-vio-lets	NOM	m	p	ultraviolet	0.27	0.07
+ultraviolets	yl-tRa-vjo-lE	ul-tra-vio-lets	ADJ	m	p	ultraviolet	0.08	0.07
+ultraviolette	yl-tRa-vjo-lEt	ul-tra-vio-let-te	ADJ	f	s	ultraviolet	0.07	0
+ultraviolettes	yl-tRa-vjo-lEt	ul-tra-vio-let-tes	ADJ	f	p	ultraviolet	0.01	0
+ultravirus	yl-tRa-vi-Rys	ul-tra-vi-rus	NOM	m			0.01	0
+ulula	y-ly-la	u-lu-la	VER			ululer	0	0.07
+ululait	y-ly-lE	u-lu-lait	VER			ululer	0	0.14
+ululant	y-ly-l@	u-lu-lant	VER			ululer	0	0.07
+ulule	y-lyl	u-lu-le	VER			ululer	0.01	0.07
+ululement	y-ly-l°-m@	u-lu-le-ment	NOM	m	s		0	0.41
+ululements	y-ly-l°-m@	u-lu-le-ments	NOM	m	p	ululement	0	0.07
+ululer	y-ly-le	u-lu-ler	VER				0	0.14
+umbanda	um-b@-da		NOM	m	s		0.1	0
+un	1	un	ART:ind	m	s		12087.62	13550.68
+un	1	un	PRO:ind	m	s		554.76	329.53
+un	1	un	ADJ:num				43.17	66.15
+unanime	y-na-nim	u-na-ni-me	ADJ		s		1.77	4.66
+unanimement	y-na-ni-m°-m@	u-na-ni-me-ment	ADV				0.06	1.35
+unanimes	y-na-nim	u-na-ni-mes	ADJ		p	unanime	0.41	1.42
+unanimisme	y-na-ni-mizm	u-na-ni-mis-me	NOM	m	s		0	0.07
+unanimité	y-na-ni-mi-te	u-na-ni-mi-té	NOM	f	s		2.63	3.78
+unau	y-no	u-nau	NOM	m	s		0.01	0
+underground	9n-d9R-gRawnd	un-der-ground	ADJ				0.89	0.34
+underground	9n-d9R-gRawnd	un-der-ground	NOM	m			0.2	0.2
+une	yn	u-ne	ART:ind	f	s		7907.85	9587.97
+une	yn	u-ne	PRO:ind	f	s		210.01	199.93
+une	yn	u-ne	ADJ:num				14.54	42.64
+une	yn	u-ne	NOM	f	s		1.13	0.27
+unes	yn	u-nes	PRO:ind	f	p		3.42	19.59
+unetelle	y-n°-tEl	u-ne-tel-le	NOM	m	s		0.01	0.61
+unguéal	§-g8e-al		ADJ	m	s		0.01	0
+uni	y-ni	u-ni	VER	m	s	unir	1.57	2.77
+uni	y-ni	u-ni	ADJ	m	s		0.64	3.24
+uni	y-ni	u-ni	NOM	m	s		0.11	0.34
+uniate	y-njat	u-nia-te	ADJ	m	s		0	0.07
+unicellulaire	y-ni-sE-ly-lER	u-ni-cel-lu-lai-re	ADJ	m	s		0.05	0
+unicité	y-ni-si-te	u-ni-ci-té	NOM	f	s		0.19	0.41
+unicorne	y-ni-kORn		ADJ		s		0.01	0
+unidimensionnel	y-ni-di-m@-sjo-nEl	u-ni-di-men-sion-nel	ADJ	m	s		0.14	0.07
+unidimensionnelle	y-ni-di-m@-sjO-nEl		ADJ	f	s	unidimensionnel	0.01	0
+unidirectionnel	y-ni-di-REk-sjo-nEl	u-ni-di-rec-tion-nel	ADJ	m	s		0.03	0.14
+unidirectionnelle	y-ni-di-REk-sjo-nEl	u-ni-di-rec-tion-nel-le	ADJ	f	s	unidirectionnel	0.02	0
+unidirectionnels	y-ni-di-REk-sjo-nEl	u-ni-di-rec-tion-nels	ADJ	m	p	unidirectionnel	0.01	0
+unie	y-ni	u-nie	ADJ	f	s	uni	1.17	2.57
+unie	y-ni	u-nie	VER	f	s	unir	0.98	1.49
+unième	y-njEm	u-niè-me	ADJ		s		0.17	0.81
+unies	y-ni	u-nies	ADJ	f	p	uni	3.46	4.73
+unies	y-ni	u-nies	VER	f	p	unir	0.65	1.55
+unification	y-ni-fi-ka-sj§	u-ni-fi-ca-tion	NOM	f	s		1.5	0.34
+unificatrice	y-ni-fi-ka-tRis		ADJ	f	s	unificateur	0.03	0
+unifie	y-ni-fi	u-ni-fie	VER			unifier	0	0.14
+unifié	y-ni-fje	u-ni-fié	VER	m	s	unifier	0.4	0.41
+unifiée	y-ni-fje	u-ni-fiée	VER	f	s	unifier	0.2	0.14
+unifiées	y-ni-fje	u-ni-fiées	VER	f	p	unifier	0	0.14
+unifient	y-ni-fi	u-ni-fient	VER			unifier	0.04	0
+unifier	y-ni-fje	u-ni-fier	VER				0.56	0.54
+unifiés	y-ni-fje	u-ni-fiés	VER	m	p	unifier	0.3	0.07
+unifiez	y-ni-fje	u-ni-fiez	VER			unifier	0.02	0
+uniforme	y-ni-fORm	u-ni-for-me	NOM	m	s		24.92	38.72
+uniforme	y-ni-fORm	u-ni-for-me	ADJ		s		1.14	4.86
+uniformément	y-ni-fOR-me-m@	u-ni-for-mé-ment	ADV				0.06	4.05
+uniformes	y-ni-fORm	u-ni-for-mes	NOM	m	p	uniforme	6.09	11.42
+uniformes	y-ni-fORm	u-ni-for-mes	ADJ		p	uniforme	0.27	2.23
+uniformisait	y-ni-fOR-mi-zE	u-ni-for-mi-sait	VER			uniformiser	0	0.14
+uniformisation	y-ni-fOR-mi-za-sj§	u-ni-for-mi-sa-tion	NOM	f	s		0.01	0.27
+uniformise	y-ni-fOR-miz	u-ni-for-mi-se	VER			uniformiser	0.1	0.2
+uniformisée	y-ni-fOR-mi-ze	u-ni-for-mi-sée	VER	f	s	uniformiser	0	0.07
+uniformiser	y-ni-fOR-mi-ze	u-ni-for-mi-ser	VER				0	0.07
+uniformisés	y-ni-fOR-mi-ze	u-ni-for-mi-sés	VER	m	p	uniformiser	0	0.07
+uniformité	y-ni-fOR-mi-te	u-ni-for-mi-té	NOM	f	s		0.07	1.35
+unijambiste	y-ni-Z@-bist	u-ni-jam-bis-te	ADJ		s		0.53	0.2
+unijambiste	y-ni-Z@-bist	u-ni-jam-bis-te	NOM		s		0.21	0.14
+unijambistes	y-ni-Z@-bist	u-ni-jam-bis-tes	NOM		p	unijambiste	0.01	0.07
+unijambistes	y-ni-Z@-bist	u-ni-jam-bis-tes	ADJ		p	unijambiste	0.01	0
+unilatéral	y-ni-la-te-Ral	u-ni-la-té-ral	ADJ	m	s		0.22	0.2
+unilatérale	y-ni-la-te-Ral	u-ni-la-té-ra-le	ADJ	f	s	unilatéral	0.16	0.27
+unilatéralement	y-ni-la-te-Ra-l°-m@	u-ni-la-té-ra-le-ment	ADV				0.1	0.41
+unilatérales	y-ni-la-te-Ral	u-ni-la-té-ra-les	ADJ	f	p	unilatéral	0.04	0.2
+unilatéralité	y-ni-la-te-Ra-li-te		NOM	f	s		0.03	0
+unilatéraux	y-ni-la-te-Ro		ADJ	m	p	unilatéral	0.01	0
+uniment	y-ni-m@	u-ni-ment	ADV				0	0.47
+uninominal	y-ni-no-mi-nal	u-ni-no-mi-nal	ADJ	m	s		0	0.2
+uninominales	y-ni-no-mi-nal	u-ni-no-mi-na-les	ADJ	f	p	uninominal	0	0.07
+union	y-nj§	u-nion	NOM	f	s		18.1	29.19
+unioniste	y-njo-nist	u-nio-nis-te	ADJ		s		0.07	0.07
+unioniste	y-njo-nist	u-nio-nis-te	NOM		s		0.01	0
+unionistes	y-njo-nist	u-nio-nis-tes	NOM		p	unioniste	0	0.07
+unions	y-nj§	u-nions	NOM	f	p	union	1.04	0.88
+uniprix	y-ni-pRi	u-ni-prix	NOM	m			0	0.61
+unique	y-nik	u-ni-que	ADJ		s		43.12	66.76
+uniquement	y-ni-k°-m@	u-ni-que-ment	ADV				21.86	24.66
+uniques	y-nik	u-ni-ques	ADJ		p	unique	2.31	3.38
+unir	y-niR	u-nir	VER				5.84	5.14
+unira	y-ni-Ra	u-ni-ra	VER			unir	0.45	0.2
+unirai	y-ni-RE	u-ni-rai	VER			unir	0.16	0
+uniraient	y-ni-RE	u-ni-raient	VER			unir	0	0.14
+unirait	y-ni-RE	u-ni-rait	VER			unir	0.06	0.2
+unirent	y-niR	u-ni-rent	VER			unir	0.17	0.34
+unirez	y-ni-Re	u-ni-rez	VER			unir	0.01	0
+unirions	y-ni-Rj§	u-ni-rions	VER			unir	0.14	0
+unirons	y-ni-R§	u-ni-rons	VER			unir	0.27	0
+uniront	y-ni-R§	u-ni-ront	VER			unir	0.21	0
+unis	y-ni	u-nis	VER	m	p	unir	6.63	4.53
+unis	y-ni	u-nis	ADJ	m	p	uni	4.81	3.24
+unis	y-ni	u-nis	NOM	m	p	uni	0.05	0.47
+unisexe	y-ni-sEks	u-ni-sexe	ADJ		s		0.1	0.14
+unisexes	y-ni-sEks	u-ni-sexes	ADJ	f	p	unisexe	0.01	0
+unissaient	y-ni-sE	u-nis-saient	VER			unir	0.29	2.57
+unissais	y-ni-sE	u-nis-sais	VER			unir	0	0.07
+unissait	y-ni-sE	u-nis-sait	VER			unir	0.34	5.2
+unissant	y-ni-s@	u-nis-sant	VER			unir	0.14	1.28
+unisse	y-nis	u-nis-se	VER			unir	1.04	0.07
+unissent	y-nis	u-nis-sent	VER			unir	1.23	2.09
+unisses	y-nis	u-nis-ses	VER			unir	0	0.07
+unissez	y-ni-se	u-nis-sez	VER			unir	1.43	0.47
+unissiez	y-ni-sje	u-nis-siez	VER			unir	0	0.07
+unissions	y-ni-sj§	u-nis-sions	VER			unir	0.02	0.14
+unisson	y-ni-s§	u-nis-son	NOM	m	s		0.81	4.53
+unissons	y-ni-s§	u-nis-sons	VER			unir	0.81	0.2
+unit	y-ni	u-nit	VER			unir	2.72	3.51
+unît	y-ni	u-nît	VER			unir	0	0.07
+unitaire	y-ni-tER	u-ni-tai-re	ADJ		s		0.04	0.14
+unitarien	y-ni-ta-Rj5	u-ni-ta-rien	ADJ	m	s		0.02	0
+unitarienne	y-ni-ta-RjEn		ADJ	f	s	unitarien	0.02	0
+unité	y-ni-te	u-ni-té	NOM	f	s		29.29	25.07
+unités	y-ni-te	u-ni-tés	NOM	f	p	unité	14.18	15.34
+univalves	y-ni-valv	u-ni-val-ves	ADJ		p	univalve	0	0.07
+univers	y-ni-vER	u-ni-vers	NOM	m			34.21	58.45
+universal	y-ni-vER-sal		NOM	m	s		1.24	0
+universalisais	y-ni-vER-sa-li-zE	u-ni-ver-sa-li-sais	VER			universaliser	0	0.07
+universalise	y-ni-vER-sa-liz	u-ni-ver-sa-li-se	VER			universaliser	0.01	0
+universalisme	y-ni-vER-sa-lizm	u-ni-ver-sa-lis-me	NOM	m	s		0	0.14
+universaliste	y-ni-vER-sa-list	u-ni-ver-sa-lis-te	NOM		s		0.01	0
+universalité	y-ni-vER-sa-li-te	u-ni-ver-sa-li-té	NOM	f	s		0	0.27
+universel	y-ni-vER-sEl	u-ni-ver-sel	ADJ	m	s		2.51	5.95
+universel	y-ni-vER-sEl	u-ni-ver-sel	NOM	m	s		0.45	0.81
+universelle	y-ni-vER-sEl	u-ni-ver-sel-le	ADJ	f	s	universel	2.34	8.51
+universellement	y-ni-vER-sE-l°-m@	u-ni-ver-sel-le-ment	ADV				0.26	0.41
+universelles	y-ni-vER-sEl	u-ni-ver-sel-les	ADJ	f	p	universel	0.18	0.54
+universels	y-ni-vER-sEl	u-ni-ver-sels	ADJ	m	p	universel	0.06	0.14
+universitaire	y-ni-vER-si-tER	u-ni-ver-si-tai-re	ADJ		s		2.72	2.5
+universitaire	y-ni-vER-si-tER	u-ni-ver-si-tai-re	NOM		s		0.64	0.88
+universitaires	y-ni-vER-si-tER	u-ni-ver-si-tai-res	ADJ		p	universitaire	0.85	1.42
+universitaires	y-ni-vER-si-tER	u-ni-ver-si-tai-res	NOM		p	universitaire	0.33	0.95
+université	y-ni-vER-si-te	u-ni-ver-si-té	NOM	f	s		38.22	13.24
+universités	y-ni-vER-si-te	u-ni-ver-si-tés	NOM	f	p	université	2.42	1.76
+univoque	y-ni-vOk	u-ni-vo-que	ADJ	m	s		0.25	0.2
+uns	1	uns	PRO:ind	m	p		15.74	62.91
+untel	1-tEl	un-tel	NOM	m	s		1.03	2.77
+upanisads	y-pa-ni-zad	u-pa-ni-sad-s	NOM	f	p	upanisad	0	0.07
+upanishad	y-pa-ni-Sa	u-pa-ni-shad	NOM	m			0.02	0.07
+upas	y-pas	u-pas	NOM	m			0	0.07
+upas	y-pas	u-pas	ADV				0.01	0
+update	9p-dajt	up-da-te	NOM	f	s		0.04	0
+updater	9p-da-te	up-da-ter	VER				0.01	0
+upgradée	9p-gRa-de	up-gra-dée	VER	f	s	upgrader	0.14	0
+uppercut	y-pER-kyt	up-per-cut	NOM	m	s		0.28	0.95
+uppercuts	y-pER-kyt	up-per-cuts	NOM	m	p	uppercut	0.04	0.34
+urane	y-Ran	u-ra-ne	NOM	m	s		0	0.07
+uraniens	y-Ra-nj5	u-ra-niens	ADJ	m	p	uranien	0.01	0
+uranisme	y-Ra-nizm	u-ra-nis-me	NOM	m	s		0	0.07
+uraniste	y-Ra-nist		NOM	m	s		0.02	0
+uranium	y-Ra-njOm	u-ra-nium	NOM	m	s		1.6	0.47
+urbain	yR-b5	ur-bain	ADJ	m	s		0.96	1.89
+urbaine	yR-bEn	ur-bai-ne	ADJ	f	s	urbain	1.28	1.35
+urbaines	yR-bEn	ur-bai-nes	ADJ	f	p	urbain	0.42	0.34
+urbains	yR-b5	ur-bains	ADJ	m	p	urbain	0.41	0.81
+urbanisation	yR-ba-ni-za-sj§	ur-ba-ni-sa-tion	NOM	f	s		0.14	0
+urbanisé	yR-ba-ni-ze	ur-ba-ni-sé	VER	m	s	urbaniser	0	0.07
+urbanisée	yR-ba-ni-ze	ur-ba-ni-sée	VER	f	s	urbaniser	0.02	0
+urbanisme	yR-ba-nizm	ur-ba-nis-me	NOM	m	s		1.48	0.14
+urbaniste	yR-ba-nist	ur-ba-nis-te	NOM		s		0	0.14
+urbaniste	yR-ba-nist	ur-ba-nis-te	ADJ		s		0.01	0
+urbanistes	yR-ba-nist	ur-ba-nis-tes	NOM		p	urbaniste	0.29	0.27
+urbanistes	yR-ba-nist	ur-ba-nis-tes	ADJ	m	p	urbaniste	0	0.07
+urbanité	yR-ba-ni-te	ur-ba-ni-té	NOM	f	s		0	0.41
+urbi et orbi	uR-bi-E-tOR-bi	ur-bi et or-bi	ADV				0.01	0.27
+urdu	yR-dy		NOM	m	s		0.02	0
+urée	y-Re	u-rée	NOM	f	s		0.2	0.14
+urémie	y-Re-mi	u-ré-mie	NOM	f	s		0.31	0.27
+urémique	y-Re-mik		ADJ		s		0.02	0
+ures	yR	u-res	NOM	m	p	ure	0.01	0.07
+uretère	y-R°-tER		NOM	m	s		0.04	0
+uréthane	y-Re-tan		NOM	m	s		0.08	0
+urètre	y-REtR	u-rè-tre	NOM	m	s		0.16	0.47
+urétrite	y-Re-tRit		NOM	f	s		0.04	0
+urf	yRf		ADJ	m	s		0	0.07
+urge	yRZ	ur-ge	VER			urger	0.77	0.61
+urgeait	yR-ZE	ur-geait	VER			urger	0.01	0.34
+urgemment	yR-Za-m@	ur-gem-ment	ADV				0.01	0.14
+urgence	yR-Z@s	ur-gen-ce	NOM	f	s		38.78	21.35
+urgences	yR-Z@s	ur-gen-ces	NOM	f	p	urgence	14.24	1.76
+urgent	yR-Z@	ur-gent	ADJ	m	s		26.75	11.62
+urgent	yRZ	ur-gent	VER			urger	0.02	0.07
+urgente	yR-Z@t	ur-gen-te	ADJ	f	s	urgent	3.18	2.91
+urgentes	yR-Z@t	ur-gen-tes	ADJ	f	p	urgent	0.84	1.49
+urgentissime	yR-Z@-ti-sim	ur-gen-tis-si-me	ADJ		s		0.02	0
+urgentiste	yR-Z@-tist	ur-gen-tis-te	NOM		s		0.25	0
+urgents	yR-Z@	ur-gents	ADJ	m	p	urgent	0.79	0.95
+urger	yR-Ze	ur-ger	VER				0.01	0.07
+urina	y-Ri-na	u-ri-na	VER			uriner	0	0.34
+urinaient	y-Ri-nE	u-ri-naient	VER			uriner	0.12	0.07
+urinaire	y-Ri-nER	u-ri-nai-re	ADJ		s		0.98	0.14
+urinaires	y-Ri-nER	u-ri-nai-res	ADJ		p	urinaire	0.28	0.2
+urinais	y-Ri-nE	u-ri-nais	VER			uriner	0	0.07
+urinait	y-Ri-nE	u-ri-nait	VER			uriner	0.01	0.27
+urinal	y-Ri-nal	u-ri-nal	NOM	m	s		0.03	0.2
+urinant	y-Ri-n@	u-ri-nant	VER			uriner	0.06	0.07
+urine	y-Rin	u-ri-ne	NOM	f	s		4.63	6.28
+urine	y-Rin	u-ri-ne	VER			uriner	0.33	0.2
+uriné	y-Ri-ne	u-ri-né	VER	m	s	uriner	0.25	0.14
+urinent	y-Rin	u-ri-nent	VER			uriner	0.08	0.07
+uriner	y-Ri-ne	u-ri-ner	VER				0.86	1.35
+urinera	y-Ri-n°-Ra	u-ri-ne-ra	VER			uriner	0.01	0
+urines	y-Rin	u-ri-nes	NOM	f	p	urine	1.08	0.34
+urines	y-Rin	u-ri-nes	VER			uriner	0.17	0
+urineuse	y-Ri-n2z	u-ri-neu-se	ADJ	f	s	urineux	0	0.07
+urinez	y-Ri-ne	u-ri-nez	VER			uriner	0.1	0
+urinoir	y-Ri-nwaR	u-ri-noir	NOM	m	s		0.37	0.61
+urinoirs	y-Ri-nwaR	u-ri-noirs	NOM	m	p	urinoir	0.32	0.74
+urinons	y-Ri-n§	u-ri-nons	VER			uriner	0	0.14
+urique	y-Rik	u-ri-que	ADJ	m	s		0.06	0.07
+urne	yRn	ur-ne	NOM	f	s		1.94	1.96
+urnes	yRn	ur-nes	NOM	f	p	urne	0.74	1.42
+urographie	y-Ro-gRa-fi	u-ro-gra-phie	NOM	f	s		0	0.07
+urokinase	y-Ro-ki-naz		NOM	f	s		0.01	0
+urologie	y-Ro-lo-Zi	u-ro-lo-gie	NOM	f	s		0.23	0.07
+urologique	y-RO-lO-Zik		ADJ	m	s		0.01	0
+urologue	y-Ro-lOg	u-ro-lo-gue	NOM		s		0.29	0.2
+uroscopie	y-Ros-ko-pi	u-ro-sco-pie	NOM	f	s		0	0.07
+ursuline	yR-sy-lin	ur-su-li-ne	NOM	f	s		0	0.07
+ursulines	yR-sy-lin	ur-su-li-nes	NOM	f	p	ursuline	0.23	0.95
+urticaire	yR-ti-kER	ur-ti-cai-re	NOM	f	s		1.22	0.61
+urticante	yR-ti-k@t		ADJ	f	s	urticant	0.01	0
+urticantes	yR-ti-k@t	ur-ti-can-tes	ADJ	f	p	urticant	0.01	0.14
+urticants	yR-ti-k@	ur-ti-cants	ADJ	m	p	urticant	0	0.07
+urubu	y-Ry-by	u-ru-bu	NOM	m	s		0	0.07
+urubus	y-Ry-by	u-ru-bus	NOM	m	p	urubu	0	0.27
+uruguayen	y-Ry-gwE-j5		NOM	m	s		0.57	0
+uruguayen	y-Ry-gwE-j5		ADJ	m	s		0.23	0
+urus	y-Rys	u-rus	NOM	m			0	0.2
+us	ys	us	NOM	m	p		9.1	1.55
+usa	y-za	u-sa	VER			user	0.15	0.61
+usage	y-zaZ	u-sa-ge	NOM	m	s		13.26	42.3
+usagé	y-za-Ze	u-sa-gé	ADJ	m	s		0.22	1.01
+usagée	y-za-Ze	u-sa-gée	ADJ	f	s	usagé	0.39	0.68
+usagées	y-za-Ze	u-sa-gées	ADJ	f	p	usagé	0.31	0.74
+usager	y-za-Ze	u-sa-ger	NOM	m	s		0.02	0.54
+usagères	y-za-ZER	u-sa-gè-res	NOM	f	p	usager	0	0.07
+usagers	y-za-Ze	u-sa-gers	NOM	m	p	usager	0.05	0.95
+usages	y-zaZ	u-sa-ges	NOM	m	p	usage	1.19	5.68
+usagés	y-za-Ze	u-sa-gés	ADJ	m	p	usagé	0.45	0.68
+usai	y-zE	u-sai	VER			user	0	0.41
+usaient	y-zE	u-saient	VER			user	0.14	1.49
+usais	y-zE	u-sais	VER			user	0.02	0.61
+usait	y-zE	u-sait	VER			user	0.08	4.26
+usant	y-z@	u-sant	VER			user	0.59	2.36
+usant	y-z@	u-sant	ADJ	m	s		0.39	0.14
+usante	y-z@t		ADJ	f	s	usant	0.01	0
+usât	y-za	u-sât	VER			user	0	0.2
+use	yz	u-se	VER			user	3.19	4.59
+usé	y-ze	u-sé	VER	m	s	user	2.02	8.92
+usé	y-ze	u-sé	ADJ	m	s		0.83	7.09
+usée	y-ze	u-sée	VER	f	s	user	0.8	3.72
+usée	y-ze	u-sée	ADJ	f	s	usé	0.77	3.24
+usées	y-ze	u-sées	ADJ	f	p	usé	0.5	2.7
+usées	y-ze	u-sées	VER	f	p	user	0.28	2.03
+usent	yz	u-sent	VER			user	0.17	2.23
+user	y-ze	u-ser	VER				3.48	9.73
+usera	y-z°-Ra	u-se-ra	VER			user	0.34	0
+userai	y-z°-RE	u-se-rai	VER			user	0.22	0.2
+userais	y-z°-RE	u-se-rais	VER			user	0.16	0
+userait	y-z°-RE	u-se-rait	VER			user	0.04	0.61
+usèrent	y-zER	u-sè-rent	VER			user	0	0.07
+useriez	y-z°-Rje	u-se-riez	VER			user	0.02	0
+userons	y-z°-R§	u-se-rons	VER			user	0.01	0.07
+useront	y-z°-R§	u-se-ront	VER			user	0.02	0.07
+uses	yz	u-ses	VER			user	0.19	0
+usés	y-ze	u-sés	ADJ	m	p	usé	0.39	4.05
+usés	y-ze	u-sés	VER	m	p	user	1.05	2.09
+usez	y-ze	u-sez	VER			user	0.46	0.27
+usinage	y-zi-naZ	u-si-na-ge	NOM	m	s		0.05	0
+usinaient	y-zi-nE	u-si-naient	VER			usiner	0	0.07
+usinant	y-zi-n@	u-si-nant	VER			usiner	0	0.07
+usine	y-zin	u-si-ne	NOM	f	s		43.51	28.04
+usine	y-zin	u-si-ne	VER			usiner	0.04	0.54
+usiné	y-zi-ne	u-si-né	VER	m	s	usiner	0	0.07
+usine-pilote	y-zin-pi-lOt	usine-pilote	NOM	f	s		0	0.07
+usinée	y-zi-ne	u-si-née	VER	f	s	usiner	0	0.07
+usinées	y-zi-ne	u-si-nées	VER	f	p	usiner	0	0.07
+usiner	y-zi-ne	u-si-ner	VER				0.01	0
+usines	y-zin	u-si-nes	NOM	f	p	usine	8.08	14.93
+usinés	y-zi-ne	u-si-nés	VER	m	p	usiner	0	0.07
+usinier	y-zi-nje	u-si-nier	ADJ	m	s		0	0.07
+usinière	y-zi-njER	u-si-niè-re	ADJ	f	s	usinier	0	0.07
+usiniers	y-zi-nje	u-si-niers	NOM	m	p	usinier	0	0.07
+usions	y-zj§	u-sions	VER			user	0.02	0.2
+usité	y-zi-te	u-si-té	ADJ	m	s		0	0.2
+usités	y-zi-te	u-si-tés	ADJ	m	p	usité	0.01	0.07
+usons	y-z§	u-sons	VER			user	0.14	0.27
+ustensile	ys-t@-sil	us-ten-si-le	NOM	m	s		0.27	1.35
+ustensiles	ys-t@-sil	us-ten-si-les	NOM	m	p	ustensile	1.06	3.92
+ustion	ys-tj§	us-tion	NOM	f	s		0	0.14
+usuel	y-z8El	u-suel	ADJ	m	s		0.04	0.41
+usuelle	y-z8El	u-suel-le	ADJ	f	s	usuel	0.04	0.2
+usuellement	y-z8E-l°-m@		ADV				0.1	0
+usuelles	y-z8El	u-suel-les	ADJ	f	p	usuel	0	0.2
+usuels	y-z8El	u-suels	ADJ	m	p	usuel	0.1	0.47
+usufruit	y-zyf-R8i	u-su-fruit	NOM	m	s		0.15	0.47
+usufruitier	y-zyf-R8i-tje	u-su-frui-tier	NOM	m	s		0	0.14
+usuraire	y-zy-RER	u-su-rai-re	ADJ	m	s		0.01	0.14
+usuraires	y-zy-RER	u-su-rai-res	ADJ	m	p	usuraire	0.02	0
+usure	y-zyR	u-su-re	NOM	f	s		1.77	10
+usures	y-zyR	u-su-res	NOM	f	p	usure	0.01	0.2
+usurier	y-zy-Rje	u-su-rier	NOM	m	s		1.2	0.61
+usurière	y-zy-RjER	u-su-riè-re	NOM	f	s	usurier	0.11	0.07
+usuriers	y-zy-Rje	u-su-riers	NOM	m	p	usurier	0.86	0.61
+usurpaient	y-zyR-pE	u-sur-paient	VER			usurper	0	0.14
+usurpait	y-zyR-pE	u-sur-pait	VER			usurper	0	0.07
+usurpant	y-zyR-p@	u-sur-pant	VER			usurper	0.01	0.2
+usurpateur	y-zyR-pa-t9R	u-sur-pa-teur	NOM	m	s		0.21	0.68
+usurpateurs	y-zyR-pa-t9R	u-sur-pa-teurs	NOM	m	p	usurpateur	0.05	0.61
+usurpation	y-zyR-pa-sj§	u-sur-pa-tion	NOM	f	s		0.59	1.35
+usurpatrice	y-zyR-pa-tRis	u-sur-pa-tri-ce	NOM	f	s	usurpateur	0.17	0.34
+usurpé	y-zyR-pe	u-sur-pé	VER	m	s	usurper	0.54	0.74
+usurpée	y-zyR-pe	u-sur-pée	VER	f	s	usurper	0	0.27
+usurpées	y-zyR-pe	u-sur-pées	VER	f	p	usurper	0	0.14
+usurpent	y-zyRp	u-sur-pent	VER			usurper	0.01	0.07
+usurper	y-zyR-pe	u-sur-per	VER				0.51	0.34
+usurperont	y-zyR-p°-R§	u-sur-pe-ront	VER			usurper	0.01	0
+usurpés	y-zyR-pe	u-sur-pés	VER	m	p	usurper	0.01	0.07
+ut	yt	ut	NOM	m			1.02	0.54
+utérin	y-te-R5	u-té-rin	ADJ	m	s		0.06	0.34
+utérine	y-te-Rin	u-té-ri-ne	ADJ	f	s	utérin	0.09	0.34
+utérines	y-te-Rin	u-té-ri-nes	ADJ	f	p	utérin	0.02	0.14
+utérins	y-te-R5	u-té-rins	ADJ	m	p	utérin	0.01	0
+utérus	y-te-Rys	u-té-rus	NOM	m			2.88	0.68
+utile	y-til	u-ti-le	ADJ		s		36.47	23.99
+utile	y-til	u-ti-le	NOM	m	s		2.22	1.15
+utilement	y-ti-l°-m@	u-ti-le-ment	ADV				0.03	1.49
+utiles	y-til	u-ti-les	ADJ		p	utile	8.52	8.72
+utilisa	y-ti-li-za	u-ti-li-sa	VER			utiliser	0.23	0.68
+utilisable	y-ti-li-zabl	u-ti-li-sa-ble	ADJ		s		1.3	1.15
+utilisables	y-ti-li-zabl	u-ti-li-sa-bles	ADJ		p	utilisable	0.32	0.54
+utilisai	y-ti-li-zE	u-ti-li-sai	VER			utiliser	0	0.14
+utilisaient	y-ti-li-zE	u-ti-li-saient	VER			utiliser	1.68	1.96
+utilisais	y-ti-li-zE	u-ti-li-sais	VER			utiliser	1.15	0.47
+utilisait	y-ti-li-zE	u-ti-li-sait	VER			utiliser	3.84	5.41
+utilisant	y-ti-li-z@	u-ti-li-sant	VER			utiliser	5.73	3.72
+utilisât	y-ti-li-za	u-ti-li-sât	VER			utiliser	0	0.07
+utilisateur	y-ti-li-za-t9R	u-ti-li-sa-teur	NOM	m	s		0.79	0
+utilisateurs	y-ti-li-za-t9R	u-ti-li-sa-teurs	NOM	m	p	utilisateur	0.44	0.2
+utilisation	y-ti-li-za-sj§	u-ti-li-sa-tion	NOM	f	s		4.47	4.12
+utilisations	y-ti-li-za-sj§	u-ti-li-sa-tions	NOM	f	p	utilisation	0.2	0.14
+utilisatrice	y-ti-li-za-tRis		NOM	f	s	utilisateur	0.01	0
+utilise	y-ti-liz	u-ti-li-se	VER			utiliser	31.68	2.97
+utilisé	y-ti-li-ze	u-ti-li-sé	VER	m	s	utiliser	30.65	4.19
+utilisé	y-ti-li-ze	u-ti-li-sé	ADJ	m	s		1.25	0.95
+utilisée	y-ti-li-ze	u-ti-li-sée	VER	f	s	utiliser	5.59	1.62
+utilisée	y-ti-li-ze	u-ti-li-sée	ADJ	f	s	utilisé	0.47	0.07
+utilisées	y-ti-li-ze	u-ti-li-sées	VER	f	p	utiliser	1.43	0.88
+utilisées	y-ti-li-ze	u-ti-li-sées	ADJ	f	p	utilisé	0.17	0.14
+utilisent	y-ti-liz	u-ti-li-sent	VER			utiliser	8	1.49
+utiliser	y-ti-li-ze	u-ti-li-ser	VER				61.97	15.61
+utilisera	y-ti-li-z°-Ra	u-ti-li-se-ra	VER			utiliser	1.62	0.14
+utiliserai	y-ti-li-z°-RE	u-ti-li-se-rai	VER			utiliser	1.82	0.2
+utiliseraient	y-ti-li-z°-RE	u-ti-li-se-raient	VER			utiliser	0.2	0.34
+utiliserais	y-ti-li-z°-RE	u-ti-li-se-rais	VER			utiliser	1.17	0.14
+utiliserait	y-ti-li-z°-RE	u-ti-li-se-rait	VER			utiliser	0.8	0.34
+utiliseras	y-ti-li-z°-Ra	u-ti-li-se-ras	VER			utiliser	0.58	0
+utilisèrent	y-ti-li-zER	u-ti-li-sè-rent	VER			utiliser	0.06	0.07
+utiliserez	y-ti-li-z°-Re	u-ti-li-se-rez	VER			utiliser	0.36	0
+utiliseriez	y-ti-li-z°-Rje	u-ti-li-se-riez	VER			utiliser	0.17	0
+utiliserions	y-ti-li-z°-Rj§	u-ti-li-se-rions	VER			utiliser	0.03	0
+utiliserons	y-ti-li-z°-R§	u-ti-li-se-rons	VER			utiliser	1.02	0
+utiliseront	y-ti-li-z°-R§	u-ti-li-se-ront	VER			utiliser	0.49	0.07
+utilises	y-ti-liz	u-ti-li-ses	VER			utiliser	3.8	0.2
+utilisés	y-ti-li-ze	u-ti-li-sés	VER	m	p	utiliser	2.44	1.89
+utilisés	y-ti-li-ze	u-ti-li-sés	ADJ	m	p	utilisé	0.4	0.2
+utilisez	y-ti-li-ze	u-ti-li-sez	VER			utiliser	11.86	0.34
+utilisiez	y-ti-li-zje	u-ti-li-siez	VER			utiliser	0.66	0.41
+utilisions	y-ti-li-zj§	u-ti-li-sions	VER			utiliser	0.37	0.14
+utilisons	y-ti-li-z§	u-ti-li-sons	VER			utiliser	3.04	0.07
+utilitaire	y-ti-li-tER	u-ti-li-tai-re	ADJ		s		0.11	1.08
+utilitaire	y-ti-li-tER	u-ti-li-tai-re	NOM		s		0.15	0.14
+utilitaires	y-ti-li-tER	u-ti-li-tai-res	ADJ		p	utilitaire	0.01	0.27
+utilitaires	y-ti-li-tER	u-ti-li-tai-res	NOM		p	utilitaire	0.01	0.2
+utilitarisme	y-ti-li-ta-Rizm	u-ti-li-ta-ris-me	NOM	m	s		0	0.07
+utilité	y-ti-li-te	u-ti-li-té	NOM	f	s		4.15	6.49
+utilités	y-ti-li-te	u-ti-li-tés	NOM	f	p	utilité	0.13	0.61
+utopie	y-to-pi	u-to-pie	NOM	f	s		1.16	0.88
+utopies	y-to-pi	u-to-pies	NOM	f	p	utopie	0.32	0.41
+utopique	y-to-pik	u-to-pi-que	ADJ		s		0.33	0.41
+utopiques	y-to-pik	u-to-pi-ques	ADJ	f	p	utopique	0.16	0.2
+utopiste	y-to-pist	u-to-pis-te	NOM		s		0.11	0.07
+utopistes	y-to-pist	u-to-pis-tes	NOM		p	utopiste	0.18	0
+uxorilocal	yk-so-Ri-lo-kal	uxo-ri-lo-cal	ADJ	m	s		0	0.07

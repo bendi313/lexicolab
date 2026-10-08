@@ -1,0 +1,2163 @@
+n	n	n	ADV			ne	70.36	5.68
+n	n	n	NOM	m	s	ne	9.67	11.08
+n'	n		ADV			ne	8860.45	6084.12
+n'	n		PRO:per				0.18	0
+n'	n		NOM	m	s	n	0.14	0
+n'	n		AUX			avoir	0.01	0
+n'est-ce pas	nE-s°-pa		ADV				0.1	0
+na	na	na	ONO				5.66	0.81
+na	na	na	NOM	f	s		0.01	0
+nabab	na-bab	na-bab	NOM	m	s		0.55	0.54
+nababs	na-bab	na-babs	NOM	m	p	nabab	0.18	0.14
+nabi	na-bi		NOM	m	s		0.28	0
+nable	nabl		NOM	m	s		0.02	0
+nabot	na-bo	na-bot	NOM	m	s		2.01	1.49
+nabote	na-bOt	na-bo-te	NOM	f	s	nabot	0	0.14
+nabots	na-bo	na-bots	NOM	m	p	nabot	0.08	0.47
+nacarat	na-ka-Ra	na-ca-rat	NOM	m	s		0	0.2
+nacelle	na-sEl	na-cel-le	NOM	f	s		1.04	2.36
+nacelles	na-sEl	na-cel-les	NOM	f	p	nacelle	0.2	0.68
+nacra	na-kRa	na-cra	VER			nacrer	0	0.07
+nacraient	na-kRE	na-craient	VER			nacrer	0	0.07
+nacre	nakR	na-cre	NOM	f	s		0.58	5.2
+nacré	na-kRe	na-cré	ADJ	m	s		0.05	1.15
+nacré	na-kRe	na-cré	VER	m	s	nacrer	0	0.61
+nacrée	na-kRe	na-crée	ADJ	f	s	nacré	0.01	0.74
+nacrée	na-kRe	na-crée	VER	f	s	nacrer	0	0.27
+nacrées	na-kRe	na-crées	ADJ	f	p	nacré	0.04	0.74
+nacrées	na-kRe	na-crées	VER	f	p	nacrer	0	0.2
+nacres	nakR	na-cres	NOM	f	p	nacre	0	0.14
+nacrés	na-kRe	na-crés	ADJ	m	p	nacré	0.28	0.61
+nacrés	na-kRe	na-crés	VER	m	p	nacrer	0	0.41
+nacrure	na-kRyR		NOM	f	s		0	0.14
+nada	na-da	na-da	ADV				2.63	0.41
+nadir	na-diR	na-dir	NOM	m	s		0.01	0.2
+naevus	ne-vys	nae-vus	NOM	m			0.03	0.14
+naga	na-ga		NOM	m			0.05	0
+nage	naZ	na-ge	NOM	f	s		5.37	6.22
+nage	naZ	na-ge	VER			nager	5.04	2.36
+nagé	na-Ze	na-gé	VER	m	s	nager	1.26	1.22
+nagea	na-Za	na-gea	VER			nager	0.03	1.15
+nageai	na-ZE	na-geai	VER			nager	0	0.2
+nageaient	na-ZE	na-geaient	VER			nager	0.08	1.82
+nageais	na-ZE	na-geais	VER			nager	0.57	0.74
+nageait	na-ZE	na-geait	VER			nager	0.62	3.58
+nageant	na-Z@	na-geant	VER			nager	0.95	2.3
+nageant	na-Z@	na-geant	ADJ	m	s		0.03	0
+nageante	na-Z@t	na-gean-te	ADJ	f	s	nageant	0	0.07
+nageât	na-Za	na-geât	VER			nager	0	0.07
+nagent	naZ	na-gent	VER			nager	1.24	1.01
+nageoire	na-ZwaR	na-geoi-re	NOM	f	s		0.53	0.34
+nageoires	na-ZwaR	na-geoi-res	NOM	f	p	nageoire	0.57	1.96
+nageons	na-Z§	na-geons	VER			nager	0.07	0.2
+nager	na-Ze	na-ger	VER				18.71	9.32
+nagera	na-Z°-Ra	na-ge-ra	VER			nager	0.15	0.07
+nagerai	na-Z°-RE	na-ge-rai	VER			nager	0.22	0
+nageraient	na-Z°-RE	na-ge-raient	VER			nager	0.01	0
+nagerais	na-Z°-RE	na-ge-rais	VER			nager	0.02	0.07
+nagerait	na-Z°-RE	na-ge-rait	VER			nager	0.02	0.2
+nageras	na-Z°-Ra	na-ge-ras	VER			nager	0.03	0.07
+nagèrent	na-ZER	na-gè-rent	VER			nager	0	0.34
+nagerez	na-Z°-Re	na-ge-rez	VER			nager	0.01	0.14
+nagerons	na-Z°-R§	na-ge-rons	VER			nager	0.03	0
+nageront	na-Z°-R§	na-ge-ront	VER			nager	0.01	0
+nages	naZ	na-ges	VER			nager	0.58	0.14
+nages	naZ	na-ges	NOM	f	p	nage	0.05	0.07
+nageur	na-Z9R	na-geur	NOM	m	s		1.43	3.24
+nageurs	na-Z9R	na-geurs	NOM	m	p	nageur	0.75	0.95
+nageuse	na-Z2z	na-geu-se	NOM	f	s	nageur	0.47	0.41
+nageuses	na-Z2z	na-geu-ses	NOM	f	p	nageur	0.07	0
+nagez	na-Ze	na-gez	VER			nager	0.53	0.27
+nagiez	na-Zje	na-giez	VER			nager	0.05	0.07
+nagions	na-Zj§	na-gions	VER			nager	0.13	0.34
+naguère	na-gER	na-guè-re	ADV				1.16	23.72
+naïade	na-jad	naïa-de	NOM	f	s		0.03	0.14
+naïades	na-jad	naïa-des	NOM	f	p	naïade	0.01	0.41
+naïf	na-if	naïf	ADJ	m	s		4.22	9.59
+naïf	na-if	naïf	NOM	m	s		0.66	1.55
+naïfs	na-if	naïf-s	ADJ	m	p	naïf	0.76	3.18
+naïfs	na-if	naïf-s	NOM	m	p	naïf	0.35	1.01
+nain	n5	nain	NOM	m	s		9.08	6.69
+nain	n5	nain	ADJ	m	s		1.03	2.16
+naine	nEn	nai-ne	NOM	f	s	nain	0.63	0.61
+naine	nEn	nai-ne	ADJ	f	s	nain	0.44	0.27
+naines	nEn	nai-nes	ADJ	f	p	nain	0.02	0.54
+naines	nEn	nai-nes	NOM	f	p	nain	0.03	0.07
+nains	n5	nains	NOM	m	p	nain	4.17	1.62
+nains	n5	nains	ADJ	m	p	nain	0.65	2.09
+naira	nE-Ra		NOM	m	s		0.03	0
+nais	nE	nais	VER			naître	0.57	0.27
+naissaient	nE-sE	nais-saient	VER			naître	0.16	3.85
+naissain	nE-s5	nais-sain	NOM	m	s		0	0.07
+naissais	nE-sE	nais-sais	VER			naître	0.01	0.07
+naissait	nE-sE	nais-sait	VER			naître	0.24	7.57
+naissance	nE-s@s	nais-san-ce	NOM	f	s		37.9	49.53
+naissances	nE-s@s	nais-san-ces	NOM	f	p	naissance	1.83	3.38
+naissant	nE-s@	nais-sant	ADJ	m	s		0.26	2.16
+naissant	nE-s@	nais-sant	VER			naître	0.42	0.88
+naissante	nE-s@t	nais-san-te	ADJ	f	s	naissant	0.33	2.5
+naissantes	nE-s@t	nais-san-tes	ADJ	f	p	naissant	0.34	0.68
+naissants	nE-s@	nais-sants	ADJ	m	p	naissant	0.01	0.27
+naisse	nEs	nais-se	VER			naître	0.92	0.88
+naissent	nEs	nais-sent	VER			naître	3.82	3.58
+naisses	nEs	nais-ses	VER			naître	0.03	0.14
+naisseur	nE-s9R		ADJ	m	s		0.01	0
+naissez	nE-se	nais-sez	VER			naître	0.06	0
+naissions	nE-sj§	nais-sions	VER			naître	0.03	0.14
+naissons	nE-s§	nais-sons	VER			naître	0.21	0.27
+naît	nE	naît	VER			naître	5.47	6.82
+naîtra	nE-tRa	naî-tra	VER			naître	1.55	0.54
+naîtrai	nE-tRE	naî-trai	VER			naître	0.02	0
+naîtraient	nE-tRE	naî-traient	VER			naître	0.17	0.07
+naîtrait	nE-tRE	naî-trait	VER			naître	0.11	0.34
+naître	nEtR	naî-tre	VER				12.74	19.86
+naîtrions	nE-tRi-j§	naî-trions	VER			naître	0	0.07
+naîtront	nE-tR§	naî-tront	VER			naître	0.34	0.47
+naïve	na-iv	naï-ve	ADJ	f	s	naïf	2.76	6.69
+naïve	na-iv	naï-ve	NOM	f	s		0.18	0.68
+naïvement	na-i-v°-m@	naï-ve-ment	ADV				0.27	6.01
+naïves	na-iv	naï-ves	ADJ	f	p	naïf	0.17	2.16
+naïves	na-iv	naï-ves	NOM	f	p	naïve	0.01	0.14
+naïveté	na-i-v°-te	naï-ve-té	NOM	f	s		0.94	9.86
+naïvetés	na-i-v°-te	naï-ve-tés	NOM	f	p	naïveté	0.01	0.81
+naja	na-Za	na-ja	NOM	m	s		0.02	0.34
+najas	na-Za	na-jas	NOM	m	p	naja	0	0.07
+namibiens	na-mi-bj5	na-mi-biens	NOM	m	p	namibien	0.02	0
+nan	n@	nan	NOM	m	s		11.92	1.42
+nana	na-na	na-na	NOM	f	s		26.48	7.64
+nanan	na-n@	na-nan	NOM	m	s		0.04	0.74
+nanar	na-naR	na-nar	NOM	m	s		0	0.14
+nanard	na-naR		NOM	m	s		0.01	0.07
+nanas	na-na	na-nas	NOM	f	p	nana	13.09	6.01
+nancéiens	n@-se-j5	nan-céiens	ADJ	m	p	nancéien	0	0.07
+nanisme	na-nizm	na-nis-me	NOM	m	s		0.02	0.14
+nankin	n@-k5	nan-kin	NOM	m	s		0.02	0.27
+nano	na-no	na-no	ADV				0.14	0.14
+nanomètre	na-nO-mEtR		NOM	m	s		0.03	0
+nanomètres	na-no-mEtR	na-no-mè-tres	NOM	m	p	nanomètre	0.04	0
+nanoseconde	na-no-z°-g§d		NOM	f	s		0.02	0
+nanosecondes	na-no-s°-g§d	na-no-se-con-des	NOM	f	p	nanoseconde	0.03	0
+nanotechnologie	na-no-tEk-no-lo-Zi	na-no-te-ch-no-lo-gie	NOM	f	s		0.34	0
+nant	n@	nant	NOM	m	s		0.32	0.81
+nantais	n@-tE	nan-tais	ADJ	m	s		0	0.34
+nantais	n@-tE	nan-tais	NOM	m			0	0.27
+nantaise	n@-tEz	nan-tai-se	NOM	f	s		0.14	0
+nantaise	n@-tEz	nan-tai-se	ADJ	f	s	nantais	0	0.07
+nantaises	n@-tEz	nan-tai-ses	NOM	f	p	nantais	0	0.07
+nanti	n@-ti	nan-ti	VER	m	s	nantir	0.03	0.88
+nanti	n@-ti	nan-ti	ADJ	m	s		0.15	0.2
+nanti	n@-ti	nan-ti	NOM	m	s		0.17	0.14
+nantie	n@-ti	nan-tie	VER	f	s	nantir	0.05	0.61
+nantie	n@-ti	nan-tie	NOM	f	s	nanti	0.02	0.07
+nantie	n@-ti	nan-tie	ADJ	f	s	nanti	0.01	0.07
+nanties	n@-ti	nan-ties	VER	f	p	nantir	0	0.14
+nantir	n@-tiR	nan-tir	VER				0.01	0.2
+nantis	n@-ti	nan-tis	NOM	m	p	nanti	0.25	1.42
+nantis	n@-ti	nan-tis	ADJ	m	p	nanti	0.01	0.61
+nantis	n@-ti	nan-tis	VER	m	p	nantir	0.01	0.14
+nantissement	n@-ti-s°-m@	nan-tis-se-ment	NOM	m	s		0.01	0.07
+nap	nap		ADJ	m	s		0.05	0
+napalm	na-palm	na-palm	NOM	m	s		0.96	0.68
+napel	na-pEl	na-pel	NOM	m	s		0.01	0
+naphtalène	naf-ta-lEn		NOM	m	s		0.09	0
+naphtaline	naf-ta-lin	na-ph-ta-li-ne	NOM	f	s		0.53	2.23
+naphtalines	naf-ta-lin	na-ph-ta-li-nes	NOM	f	p	naphtaline	0	0.07
+naphte	naft	na-ph-te	NOM	m	s		0.1	0.27
+napoléon	na-po-le-§	na-po-léon	NOM	m	s		0.04	0.81
+napoléonien	na-po-le-o-nj5	na-po-léo-nien	ADJ	m	s		0.02	0.2
+napoléonienne	na-po-le-o-njEn	na-po-léo-nien-ne	ADJ	f	s	napoléonien	0.01	0.2
+napoléoniennes	na-po-le-o-njEn	na-po-léo-nien-nes	ADJ	f	p	napoléonien	0.04	0.14
+napoléoniens	na-po-le-o-nj5	na-po-léo-niens	ADJ	m	p	napoléonien	0.01	0.07
+napoléons	na-po-le-§	na-po-léons	NOM	m	p	napoléon	0.14	0.47
+napolitain	na-po-li-t5	na-po-li-tain	ADJ	m	s		0.73	0.34
+napolitain	na-po-li-t5	na-po-li-tain	NOM	m	s		0.42	0.41
+napolitaine	na-po-li-tEn	na-po-li-tai-ne	ADJ	f	s	napolitain	0.21	0.74
+napolitaine	na-po-li-tEn	na-po-li-tai-ne	NOM	f	s	napolitain	0.16	0.27
+napolitaines	na-po-li-tEn	na-po-li-tai-nes	ADJ	f	p	napolitain	0.02	0.27
+napolitains	na-po-li-t5	na-po-li-tains	ADJ	m	p	napolitain	0.14	0.61
+napolitains	na-po-li-t5	na-po-li-tains	NOM	m	p	napolitain	0.63	0.07
+nappa	na-pa	nap-pa	VER			napper	0.22	0.2
+nappage	na-paZ		NOM	m	s		0.04	0
+nappaient	na-pE	nap-paient	VER			napper	0	0.07
+nappait	na-pE	nap-pait	VER			napper	0	0.14
+nappe	nap	nap-pe	NOM	f	s		3.01	18.18
+nappe	nap	nap-pe	VER			napper	0	0.07
+nappé	na-pe	nap-pé	VER	m	s	napper	0.04	0.41
+nappée	na-pe	nap-pée	VER	f	s	napper	0.01	0.2
+nappées	na-pe	nap-pées	VER	f	p	napper	0.01	0.2
+napper	na-pe	nap-per	VER				0.01	0.07
+napperon	na-p°-R§	nap-pe-ron	NOM	m	s		0.31	2.16
+napperons	na-p°-R§	nap-pe-rons	NOM	m	p	napperon	0.2	1.49
+nappes	nap	nap-pes	NOM	f	p	nappe	1.33	7.5
+nappés	na-pe	nap-pés	VER	m	p	napper	0.02	0.14
+naquirent	na-kiR	na-qui-rent	VER			naître	0.03	0.34
+naquis	na-ki	na-quis	VER			naître	0.25	0.27
+naquisse	na-kis	na-quis-se	VER			naître	0	0.07
+naquissent	na-kis	na-quis-sent	VER			naître	0	0.07
+naquit	na-ki	na-quit	VER			naître	1.4	3.18
+naquît	na-ki	na-quît	VER			naître	0	0.2
+narbonnais	naR-bo-nE	nar-bon-nais	ADJ	m	s		0	0.68
+narcisse	naR-sis	nar-cis-se	NOM	m	s		0.04	0.27
+narcisses	naR-sis	nar-cis-ses	NOM	m	p	narcisse	0.31	0.68
+narcissique	naR-si-sik	nar-cis-si-que	ADJ		s		0.88	0.61
+narcissiquement	naR-si-si-k°-m@	nar-cis-si-que-ment	ADV				0	0.07
+narcissiques	naR-si-sik	nar-cis-si-ques	ADJ		p	narcissique	0.27	0.27
+narcissisme	naR-si-sizm	nar-cis-sis-me	NOM	m	s		1.18	1.15
+narcissiste	naR-si-sist		NOM		s		0.03	0
+narco-analyse	naR-ko-a-na-liz	narco-analyse	NOM	f	s		0.01	0
+narcolepsie	naR-ko-lEp-si	nar-co-lep-sie	NOM	f	s		0.21	0
+narcoleptique	naR-ko-lEp-tik	nar-co-lep-ti-que	ADJ		s		0.14	0
+narcose	naR-koz	nar-co-se	NOM	f	s		0	0.14
+narcotique	naR-ko-tik	nar-co-ti-que	NOM	m	s		0.32	0.34
+narcotique	naR-ko-tik	nar-co-ti-que	ADJ		s		0.09	0
+narcotiques	naR-ko-tik	nar-co-ti-ques	NOM	m	p	narcotique	0.96	0.14
+narcotiques	naR-ko-tik	nar-co-ti-ques	ADJ		p	narcotique	0.33	0
+narcotrafic	naR-ko-tRa-fik	nar-co-tra-fic	NOM	m	s		0.01	0
+narcotrafiquants	naR-ko-tRa-fi-k@	nar-co-tra-fi-quants	NOM	m	p	narcotrafiquant	0.19	0
+nard	naR	nard	NOM	m	s		0.01	0.14
+nards	naR	nard-s	NOM	m	p	nard	0.01	0
+narghilé	naR-gi-le	nar-ghi-lé	NOM	m	s		0.01	0.14
+narghileh	naR-gi-le	nar-ghi-leh	NOM	m	s		0	0.07
+nargua	naR-ga	nar-gua	VER			narguer	0	0.14
+narguaient	naR-gE	nar-guaient	VER			narguer	0	0.34
+narguais	naR-gE	nar-guais	VER			narguer	0.02	0.07
+narguait	naR-gE	nar-guait	VER			narguer	0.02	0.88
+narguant	naR-g@	nar-guant	VER			narguer	0.04	0.47
+nargue	naRg	nar-gue	VER			narguer	0.88	0.88
+nargué	naR-ge	nar-gué	VER	m	s	narguer	0.05	0.07
+narguées	naR-ge	nar-guées	VER	f	p	narguer	0	0.07
+narguent	naRg	nar-guent	VER			narguer	0.48	0.2
+narguer	naR-ge	nar-guer	VER				0.41	3.38
+nargues	naRg	nar-gues	VER			narguer	0.01	0
+narguez	naR-ge	nar-guez	VER			narguer	0.02	0.07
+narguilé	naR-gi-le	nar-gui-lé	NOM	m	s		0.07	0.81
+narguilés	naR-gi-le	nar-gui-lés	NOM	m	p	narguilé	0.01	0.2
+narguons	naR-g§	nar-guons	VER			narguer	0.01	0
+narine	na-Rin	na-ri-ne	NOM	f	s		1.11	5.14
+narines	na-Rin	na-ri-nes	NOM	f	p	narine	2.3	20.68
+narquois	naR-kwa	nar-quois	ADJ	m			0.12	4.73
+narquoise	naR-kwaz	nar-quoi-se	ADJ	f	s	narquois	0.14	1.42
+narquoisement	naR-kwa-z°-m@	nar-quoi-se-ment	ADV				0	0.27
+narquoiserie	naR-kwa-z°-Ri	nar-quoi-se-rie	NOM	f	s		0	0.07
+narquoises	naR-kwaz	nar-quoi-ses	ADJ	f	p	narquois	0	0.2
+narra	na-Ra	nar-ra	VER			narrer	0	0.2
+narrai	na-RE	nar-rai	VER			narrer	0	0.07
+narrait	na-RE	nar-rait	VER			narrer	0.01	0.61
+narrant	na-R@	nar-rant	VER			narrer	0.02	0.27
+narrateur	na-Ra-t9R	nar-ra-teur	NOM	m	s		0.43	2.23
+narratif	na-Ra-tif	nar-ra-tif	ADJ	m	s		0.05	0.34
+narratifs	na-Ra-tif	nar-ra-tif-s	ADJ	m	p	narratif	0.05	0
+narration	na-Ra-sj§	nar-ra-tion	NOM	f	s		0.43	2.3
+narrations	na-Ra-sj§	nar-ra-tions	NOM	f	p	narration	0.01	0.14
+narrative	na-Ra-tiv	nar-ra-ti-ve	ADJ	f	s	narratif	0.07	0
+narratives	na-Ra-tiv	nar-ra-ti-ves	ADJ	f	p	narratif	0.04	0
+narratrice	na-Ra-tRis	nar-ra-tri-ce	NOM	f	s	narrateur	0.17	0.14
+narratrices	na-Ra-tRis	nar-ra-tri-ces	NOM	f	p	narrateur	0.14	0
+narre	naR	nar-re	VER			narrer	0.01	0.34
+narré	na-Re	nar-ré	VER	m	s	narrer	0.03	0.2
+narrée	na-Re	nar-rée	VER	f	s	narrer	0	0.07
+narrées	na-Re	nar-rées	VER	f	p	narrer	0	0.07
+narrer	na-Re	nar-rer	VER				0.16	0.47
+narthex	naR-tEks	nar-thex	NOM	m			0.01	0.61
+narval	naR-val	nar-val	NOM	m	s		0.04	0.61
+narvals	naR-val	nar-vals	NOM	m	p	narval	0	0.07
+nasal	na-zal	na-sal	ADJ	m	s		0.6	0.47
+nasal	na-zal	na-sal	NOM	m	s		0	0.07
+nasale	na-zal	na-sa-le	ADJ	f	s	nasal	0.67	1.08
+nasales	na-zal	na-sa-les	ADJ	f	p	nasal	0.24	0.81
+nasard	na-zaR	na-sard	NOM	m	s		0	0.07
+nasardes	na-zaRd	na-sar-des	NOM	f	p	nasard	0	0.07
+nasaux	na-zo	na-saux	ADJ	m	p	nasal	0.05	0.14
+nasdaq	naz-dak		NOM	m	s		0.14	0
+nase	naz	na-se	ADJ		s		1.54	0.68
+nase	naz	na-se	NOM	m	s		0.63	0.2
+naseau	na-zo	na-seau	NOM	m	s		0.14	0.2
+naseaux	na-zo	na-seaux	NOM	m	p	naseau	0.21	5
+nases	naz	na-ses	NOM	m	p	nase	0.43	0
+nases	naz	na-ses	ADJ		p	nase	0.29	0.07
+nasilla	na-zi-ja	na-sil-la	VER			nasiller	0	0.07
+nasillaient	na-zi-jE	na-sil-laient	VER			nasiller	0	0.07
+nasillait	na-zi-jE	na-sil-lait	VER			nasiller	0	0.41
+nasillant	na-zi-j@	na-sil-lant	VER			nasiller	0	0.34
+nasillard	na-zi-jaR	na-sil-lard	ADJ	m	s		0.01	0.54
+nasillarde	na-zi-jaRd	na-sil-lar-de	ADJ	f	s	nasillard	0.01	1.42
+nasillardes	na-zi-jaRd	na-sil-lar-des	ADJ	f	p	nasillard	0	0.27
+nasillards	na-zi-jaR	na-sil-lard-s	ADJ	m	p	nasillard	0	0.41
+nasille	na-zij	na-sil-le	VER			nasiller	0.01	0.14
+nasillement	na-zi-j°-m@	na-sil-le-ment	NOM	m	s		0	0.41
+nasillent	na-zij	na-sil-lent	VER			nasiller	0	0.07
+nasiller	na-zi-je	na-sil-ler	VER				0	0.14
+nasillonne	na-zi-jOn	na-sil-lon-ne	VER			nasillonner	0	0.07
+nasique	na-zik		NOM	m	s		0.5	0
+nasopharynx	na-zo-fa-R5ks		NOM	m			0.03	0
+nasse	nas	nas-se	NOM	f	s		0.39	1.22
+nassérien	na-se-Rj5	nas-sé-rien	ADJ	m	s		0	0.07
+nasses	nas	nas-ses	NOM	f	p	nasse	0.14	0.61
+natal	na-tal	na-tal	ADJ	m	s		2.54	5.47
+natale	na-tal	na-ta-le	ADJ	f	s	natal	3.15	7.91
+natales	na-tal	na-ta-les	ADJ	f	p	natal	0.02	0.41
+natalité	na-ta-li-te	na-ta-li-té	NOM	f	s		0.2	0.54
+natals	na-tal	na-tals	ADJ	m	p	natal	0	0.14
+natation	na-ta-sj§	na-ta-tion	NOM	f	s		3.59	1.22
+natatoire	na-ta-twaR	na-ta-toi-re	ADJ	f	s		0.01	0.07
+natif	na-tif	na-tif	ADJ	m	s		0.44	1.82
+natif	na-tif	na-tif	NOM	m	s		0.16	0.41
+natifs	na-tif	na-tif-s	NOM	m	p	natif	0.36	0.27
+natifs	na-tif	na-tif-s	ADJ	m	p	natif	0.07	0.34
+nation	na-sj§	na-tion	NOM	f	s		16.97	31.96
+national	na-sjo-nal	na-tio-nal	ADJ	m	s		12.23	42.7
+national	na-sjo-nal	na-tio-nal	NOM	m	s		3.14	1.01
+national-socialisme	na-sjo-nal-so-sja-lizm	national-socialisme	NOM	m	s		0.58	2.03
+national-socialiste	na-sjo-nal-so-sja-list	national-socialiste	ADJ	m	s		0.23	0.14
+national-socialiste	na-sjo-nal-so-sja-list	national-socialiste	NOM		s		0.12	0
+nationale	na-sjo-nal	na-tio-na-le	ADJ	f	s	national	18.59	48.18
+nationale	na-sjo-nal	na-tio-na-le	NOM	f	s		1.12	6.49
+nationale-socialiste	na-sjo-nal-so-sja-list	nationale-socialiste	ADJ	f	s		0	0.14
+nationalement	na-sjo-na-l°-m@	na-tio-na-le-ment	ADV				0	0.14
+nationales	na-sjo-nal	na-tio-na-les	ADJ	f	p	national	1.43	4.39
+nationales	na-sjo-nal	na-tio-na-les	NOM	f	p	nationale	0.09	0.74
+nationalisait	na-sjo-na-li-zE	na-tio-na-li-sait	VER			nationaliser	0	0.07
+nationalisation	na-sjo-na-li-za-sj§	na-tio-na-li-sa-tion	NOM	f	s		0.01	0.61
+nationalisations	na-sjo-na-li-za-sj§	na-tio-na-li-sa-tions	NOM	f	p	nationalisation	0.1	0.47
+nationalisé	na-sjo-na-li-ze	na-tio-na-li-sé	VER	m	s	nationaliser	0.01	0.07
+nationalisée	na-sjo-na-li-ze	na-tio-na-li-sée	VER	f	s	nationaliser	0.01	0.14
+nationalisées	na-sjo-na-li-ze	na-tio-na-li-sées	VER	f	p	nationaliser	0.01	0.2
+nationalisent	na-sjo-na-liz	na-tio-na-li-sent	VER			nationaliser	0	0.07
+nationaliser	na-sjo-na-li-ze	na-tio-na-li-ser	VER				0.01	0.07
+nationalisés	na-sjo-na-li-ze	na-tio-na-li-sés	VER	m	p	nationaliser	0.02	0
+nationalisme	na-sjo-na-lizm	na-tio-na-lis-me	NOM	m	s		2.75	3.11
+nationalisons	na-sjo-na-li-z§	na-tio-na-li-sons	VER			nationaliser	0	0.07
+nationaliste	na-sjo-na-list	na-tio-na-lis-te	ADJ		s		1.16	1.76
+nationaliste	na-sjo-na-list	na-tio-na-lis-te	NOM		s		0.05	0.34
+nationalistes	na-sjo-na-list	na-tio-na-lis-tes	NOM		p	nationaliste	1.4	1.22
+nationalistes	na-sjo-na-list	na-tio-na-lis-tes	ADJ		p	nationaliste	0.49	0.81
+nationalité	na-sjo-na-li-te	na-tio-na-li-té	NOM	f	s		2.77	5.74
+nationalités	na-sjo-na-li-te	na-tio-na-li-tés	NOM	f	p	nationalité	0.43	1.15
+nationaux	na-sjo-no	na-tio-naux	ADJ	m	p	national	2.35	2.77
+nationaux	na-sjo-no	na-tio-naux	NOM	m	p	national	0.11	0.34
+nationaux-socialistes	na-sjo-no-so-sja-list	nationaux-socialistes	ADJ		p		0	0.14
+nations	na-sj§	na-tions	NOM	f	p	nation	7.83	15.27
+native	na-tiv	na-ti-ve	ADJ	f	s	natif	0.06	1.28
+native	na-tiv	na-ti-ve	NOM	f	s		0.06	0.07
+natives	na-tiv	na-ti-ves	ADJ	f	p	natif	0.01	0.2
+natives	na-tiv	na-ti-ves	NOM	f	p	native	0	0.14
+nativité	na-ti-vi-te	na-ti-vi-té	NOM	f	s		0.14	1.28
+nativités	na-ti-vi-te	na-ti-vi-tés	NOM	f	p	nativité	0	0.07
+natrémie	na-tRe-mi		NOM	f	s		0.03	0
+natron	na-tR§		NOM	m	s		0.04	0
+natrum	na-tROm	na-trum	NOM	m	s		0.01	0
+natta	na-ta	nat-ta	VER			natter	0	0.07
+natte	nat	nat-te	NOM	f	s		0.88	4.26
+natte	nat	nat-te	VER			natter	0	0.07
+natté	na-te	nat-té	VER	m	s	natter	0	0.07
+nattée	na-te	nat-tée	VER	f	s	natter	0	0.2
+nattées	na-te	nat-tées	VER	f	p	natter	0	0.07
+natter	na-te	nat-ter	VER				0.01	0.14
+nattes	nat	nat-tes	NOM	f	p	natte	0.87	5.95
+nattés	na-te	nat-tés	VER	m	p	natter	0.1	0.41
+nattier	na-tje	nat-tier	NOM	m	s		0	0.14
+naturalisation	na-ty-Ra-li-za-sj§	na-tu-ra-li-sa-tion	NOM	f	s		0.06	1.01
+naturalisé	na-ty-Ra-li-ze	na-tu-ra-li-sé	VER	m	s	naturaliser	0.29	0.27
+naturalisé	na-ty-Ra-li-ze	na-tu-ra-li-sé	NOM	m	s		0.14	0.2
+naturalisé	na-ty-Ra-li-ze	na-tu-ra-li-sé	ADJ	m	s		0.02	0.27
+naturalisée	na-ty-Ra-li-ze		ADJ	f	s	naturalisé	0.01	0
+naturaliser	na-ty-Ra-li-ze	na-tu-ra-li-ser	VER				0.05	0.34
+naturalisés	na-ty-Ra-li-ze	na-tu-ra-li-sés	ADJ	m	p	naturalisé	0.01	0.2
+naturalisés	na-ty-Ra-li-ze	na-tu-ra-li-sés	VER	m	p	naturaliser	0	0.07
+naturalisés	na-ty-Ra-li-ze	na-tu-ra-li-sés	NOM	m	p	naturalisé	0	0.07
+naturalisme	na-ty-Ra-lizm	na-tu-ra-lis-me	NOM	m	s		0.4	0.27
+naturaliste	na-ty-Ra-list	na-tu-ra-lis-te	NOM		s		0.51	0.41
+naturaliste	na-ty-Ra-list	na-tu-ra-lis-te	ADJ		s		0.44	0.07
+naturalistes	na-ty-Ra-list	na-tu-ra-lis-tes	NOM		p	naturaliste	0.18	0.27
+naturalistes	na-ty-Ra-list	na-tu-ra-lis-tes	ADJ	m	p	naturaliste	0.01	0.07
+nature	na-tyR	na-tu-re	NOM	f	s		59.8	93.45
+nature	na-tyR	na-tu-re	ADJ				5.52	11.01
+naturel	na-ty-REl	na-tu-rel	ADJ	m	s		19.01	38.65
+naturel	na-ty-REl	na-tu-rel	NOM	m	s		2.84	13.65
+naturelle	na-ty-REl	na-tu-rel-le	ADJ	f	s	naturel	14.02	24.86
+naturellement	na-ty-RE-l°-m@	na-tu-rel-le-ment	ADV				21.05	71.96
+naturelles	na-ty-REl	na-tu-rel-les	ADJ	f	p	naturel	3.9	6.28
+naturels	na-ty-REl	na-tu-rels	ADJ	m	p	naturel	2.86	5.88
+naturels	na-ty-REl	na-tu-rels	NOM	m	p	naturel	0.09	0.68
+natures	na-tyR	na-tu-res	NOM	f	p	nature	0.4	2.43
+naturisme	na-ty-Rizm	na-tu-ris-me	NOM	m	s		0.03	0.14
+naturiste	na-ty-Rist	na-tu-ris-te	ADJ	m	s		0.18	0.2
+naturiste	na-ty-Rist	na-tu-ris-te	NOM		s		0	0.07
+naturistes	na-ty-Rist	na-tu-ris-tes	ADJ	m	p	naturiste	0.02	0.2
+naturistes	na-ty-Rist	na-tu-ris-tes	NOM		p	naturiste	0.03	0.14
+naturlich	na-tyR-liS		ADV				0.27	0.14
+naturopathe	na-ty-Ro-pat	na-tu-ro-pa-the	NOM		s		0.03	0
+naufrage	no-fRaZ	nau-fra-ge	NOM	m	s		2.76	10.61
+naufrage	no-fRaZ	nau-fra-ge	VER			naufrager	0	0.07
+naufragé	no-fRa-Ze	nau-fra-gé	NOM	m	s		0.3	2.03
+naufragé	no-fRa-Ze	nau-fra-gé	ADJ	m	s		0.03	0.47
+naufragé	no-fRa-Ze	nau-fra-gé	VER	m	s	naufrager	0.01	0.2
+naufrageant	no-fRa-Z@	nau-fra-geant	VER			naufrager	0	0.07
+naufragée	no-fRa-Ze	nau-fra-gée	NOM	f	s	naufragé	0	0.41
+naufragée	no-fRa-Ze	nau-fra-gée	VER	f	s	naufrager	0	0.2
+naufragée	no-fRa-Ze	nau-fra-gée	ADJ	f	s	naufragé	0	0.2
+naufragées	no-fRa-Ze	nau-fra-gées	ADJ	f	p	naufragé	0	0.07
+naufragent	no-fRaZ	nau-fra-gent	VER			naufrager	0	0.07
+naufrager	no-fRa-Ze	nau-fra-ger	VER				0.19	0.07
+naufrages	no-fRaZ	nau-fra-ges	NOM	m	p	naufrage	0.28	1.01
+naufragés	no-fRa-Ze	nau-fra-gés	NOM	m	p	naufragé	0.38	1.01
+naufragés	no-fRa-Ze	nau-fra-gés	ADJ	m	p	naufragé	0.03	0.34
+naufragés	no-fRa-Ze	nau-fra-gés	VER	m	p	naufrager	0.01	0.2
+naufrageur	no-fRa-Z9R	nau-fra-geur	NOM	m	s		0	0.07
+naufrageurs	no-fRa-Z9R	nau-fra-geurs	NOM	m	p	naufrageur	0.02	0.07
+naufrageuse	no-fRa-Z2z	nau-fra-geu-se	NOM	f	s	naufrageur	0	0.07
+nauséabond	no-ze-a-b§	nau-séa-bond	ADJ	m	s		0.34	0.95
+nauséabonde	no-ze-a-b§d	nau-séa-bon-de	ADJ	f	s	nauséabond	0.17	0.88
+nauséabondes	no-ze-a-b§d	nau-séa-bon-des	ADJ	f	p	nauséabond	0.05	0.95
+nauséabonds	no-ze-a-b§	nau-séa-bond-s	ADJ	m	p	nauséabond	0.06	0.2
+nausée	no-ze	nau-sée	NOM	f	s		4.75	7.91
+nausées	no-ze	nau-sées	NOM	f	p	nausée	1.76	2.09
+nauséeuse	no-ze-2z	nau-séeu-se	ADJ	f	s	nauséeux	0.2	0.74
+nauséeuses	no-ze-2z	nau-séeu-ses	ADJ	f	p	nauséeux	0.14	0.14
+nauséeux	no-ze-2	nau-séeux	ADJ	m			0.21	1.15
+nautes	not	nau-tes	NOM	m	p	naute	0	0.07
+nautile	no-til	nau-ti-le	NOM	m	s		0.05	0
+nautilus	no-ti-ly	nau-ti-lus	NOM	m			1.26	0.14
+nautique	no-tik	nau-ti-que	ADJ		s		0.71	1.15
+nautiques	no-tik	nau-ti-ques	ADJ		p	nautique	1.17	0.95
+nautonier	no-to-nje	nau-to-nier	NOM	m	s		0	0.07
+nautoniers	no-to-nje	nau-to-niers	NOM	m	p	nautonier	0	0.2
+navaja	na-va-Za	na-va-ja	NOM	f	s		0.15	0.27
+navajas	na-va-Za	na-va-jas	NOM	f	p	navaja	0	0.07
+navajo	na-va-Ro	na-va-jo	ADJ		s		0.18	0
+navajo	na-va-Ro	na-va-jo	NOM		s		0.04	0
+navajos	na-va-Ros	na-va-jos	ADJ	m	p	navajo	0.03	0.14
+navajos	na-va-Ros	na-va-jos	NOM		p	navajo	0.09	0
+naval	na-val	na-val	ADJ	m	s		2.08	1.08
+navale	na-val	na-va-le	ADJ	f	s	naval	1.56	3.45
+navale	na-val	na-va-le	NOM	f	s		0.03	0.27
+navales	na-val	na-va-les	ADJ	f	p	naval	0.27	3.31
+navales	na-val	na-va-les	NOM	f	p	navale	0.02	0
+navals	na-val	na-vals	ADJ	m	p	naval	0.46	0.95
+navarin	na-va-R5	na-va-rin	NOM	m	s		0.1	0.2
+navarins	na-va-R5	na-va-rins	NOM	m	p	navarin	0	0.07
+navarrais	na-va-RE	na-var-rais	NOM	m			0.1	0.61
+navarrais	na-va-RE	na-var-rais	ADJ	m			0.1	0
+nave	nav		NOM	f	s		0.02	0.74
+navel	na-vEl		NOM	f	s		0.03	0
+navet	na-vE	na-vet	NOM	m	s		1.25	0.88
+navets	na-vE	na-vets	NOM	m	p	navet	1.9	1.89
+navette	na-vEt	na-vet-te	NOM	f	s		8.44	3.04
+navettes	na-vEt	na-vet-tes	NOM	f	p	navette	0.91	0.61
+navicert	na-vi-sER	na-vi-cert	NOM	m			0	0.07
+navigabilité	na-vi-ga-bi-li-te		NOM	f	s		0.01	0
+navigable	na-vi-gabl	na-vi-ga-ble	ADJ	m	s		0.02	0.14
+navigables	na-vi-gabl	na-vi-ga-bles	ADJ	f	p	navigable	0.04	0.14
+navigant	na-vi-g@	na-vi-gant	ADJ	m	s		0.16	0.41
+navigant	na-vi-g@	na-vi-gant	NOM	m	s		0.04	0.07
+navigante	na-vi-g@t		ADJ	f	s	navigant	0.03	0
+navigateur	na-vi-ga-t9R	na-vi-ga-teur	NOM	m	s		1.95	1.89
+navigateurs	na-vi-ga-t9R	na-vi-ga-teurs	NOM	m	p	navigateur	0.25	1.82
+navigation	na-vi-ga-sj§	na-vi-ga-tion	NOM	f	s		3.25	5.07
+navigations	na-vi-ga-sj§	na-vi-ga-tions	NOM	f	p	navigation	0	0.34
+navigatrice	na-vi-ga-tRis	na-vi-ga-tri-ce	NOM	f	s	navigateur	0.04	0.07
+navigua	na-vi-ga	na-vi-gua	VER			naviguer	0.04	0.27
+naviguaient	na-vi-gE	na-vi-guaient	VER			naviguer	0.02	1.01
+naviguais	na-vi-gE	na-vi-guais	VER			naviguer	0.12	0.27
+naviguait	na-vi-gE	na-vi-guait	VER			naviguer	0.2	1.82
+naviguant	na-vi-g@	na-vi-guant	VER			naviguer	0.07	1.08
+navigue	na-vig	na-vi-gue	VER			naviguer	2.18	1.82
+navigué	na-vi-ge	na-vi-gué	VER	m	s	naviguer	1.29	1.35
+naviguent	na-vig	na-vi-guent	VER			naviguer	0.14	0.61
+naviguer	na-vi-ge	na-vi-guer	VER				3.33	2.57
+naviguera	na-vi-g°-Ra	na-vi-gue-ra	VER			naviguer	0.1	0
+naviguerai	na-vi-g°-RE	na-vi-gue-rai	VER			naviguer	0.04	0
+navigueraient	na-vi-g°-RE	na-vi-gue-raient	VER			naviguer	0	0.07
+naviguèrent	na-vi-gER	na-vi-guè-rent	VER			naviguer	0.02	0
+naviguerons	na-vi-g°-R§	na-vi-gue-rons	VER			naviguer	0.25	0
+navigues	na-vig	na-vi-gues	VER			naviguer	0.02	0
+naviguez	na-vi-ge	na-vi-guez	VER			naviguer	0.56	0
+naviguiez	na-vi-gje	na-vi-guiez	VER			naviguer	0.14	0
+naviguions	na-vi-gj§	na-vi-guions	VER			naviguer	0	0.41
+naviguons	na-vi-g§	na-vi-guons	VER			naviguer	0.19	0.14
+navire	na-viR	na-vi-re	NOM	m	s		15.83	28.04
+navire-citerne	na-viR-si-tERn	navire-citerne	NOM	m	s		0.01	0
+navire-hôpital	na-vi-Ro-pi-tal	navire-hôpital	NOM	m	s		0.04	0.14
+navires	na-viR	na-vi-res	NOM	m	p	navire	6.14	22.16
+navires-citernes	na-viR-si-tERn	navires-citernes	NOM	m	p	navire-citerne	0.14	0
+navires-écoles	na-vi-Re-kOl	navires-écoles	NOM	m	p	navire-école	0	0.07
+navra	na-vRa	na-vra	VER			navrer	0	0.2
+navrait	na-vRE	na-vrait	VER			navrer	0	0.34
+navrance	na-vR@s		NOM	f	s		0	0.07
+navrant	na-vR@	na-vrant	ADJ	m	s		0.51	0.74
+navrant	na-vR@	na-vrant	VER			navrer	0.03	0.34
+navrante	na-vR@t	na-vran-te	ADJ	f	s	navrant	0.09	1.01
+navrantes	na-vR@t	na-vran-tes	ADJ	f	p	navrant	0.02	0.54
+navrants	na-vR@	na-vrants	ADJ	m	p	navrant	0.01	0.41
+navre	navR	na-vre	VER			navrer	0.29	0.47
+navré	na-vRe	na-vré	VER	m	s	navrer	12.01	1.42
+navré	na-vRe	na-vré	ADJ	m	s		6.81	2.43
+navrée	na-vRe	na-vrée	VER	f	s	navrer	6.01	0.81
+navrée	na-vRe	na-vrée	ADJ	f	s	navré	2.02	1.15
+navrées	na-vRe	na-vrées	ADJ	f	p	navré	0	0.27
+navrées	na-vRe	na-vrées	VER	f	p	navrer	0.03	0.07
+navrer	na-vRe	na-vrer	VER				0	0.07
+navres	navR	na-vres	VER			navrer	0	0.07
+navrés	na-vRe	na-vrés	VER	m	p	navrer	0.31	0.41
+navrés	na-vRe	na-vrés	ADJ	m	p	navré	0.11	0.41
+navrez	na-vRe	na-vrez	VER			navrer	0.01	0
+nay	nE		NOM	f	s		0.01	0
+nazaréen	na-za-Re-5	na-za-réen	NOM	m	s		0.48	0.14
+nazaréen	na-za-Re-5	na-za-réen	ADJ	m	s		0.05	0
+naze	naz	na-ze	ADJ		s		4.2	1.55
+naze	naz	na-ze	NOM	m	s		1.71	0.27
+nazes	naz	na-zes	NOM	m	p	naze	1.56	0.07
+nazes	naz	na-zes	ADJ		p	naze	0.63	0
+nazi	na-zi	na-zi	ADJ	m	s		3.27	2.97
+nazi	na-zi	na-zi	NOM	m	s		4.13	0.74
+nazie	na-zi	na-zie	ADJ	f	s	nazi	1.27	1.62
+nazie	na-zi	na-zie	NOM	f	s	nazi	0.69	0
+nazies	na-zi	na-zies	ADJ	f	p	nazi	0.53	0.88
+nazies	na-zi	na-zies	NOM	f	p	nazi	0.14	0
+nazillons	na-zi-j§	na-zil-lons	NOM	m	p	nazillon	0.01	0.07
+nazis	na-zi	na-zis	NOM	m	p	nazi	9.81	6.76
+nazis	na-zi	na-zis	ADJ	m	p	nazi	2.04	2.23
+nazisme	na-zizm	na-zis-me	NOM	m	s		0.63	1.62
+ne	n°	ne	ADV				13357.03	7752.09
+né	ne	né	VER	m	s	naître	53.72	36.01
+né	ne	né	ADJ	m	s		3.52	1.55
+ne varietur	n°-va-Rje-tyR	ne va-rie-tur	ADV				0	0.14
+néandertalien	ne-@-dER-ta-lj5		ADJ	m	s		0.01	0
+néandertaliens	ne-@-dER-ta-lj5	néan-der-ta-liens	NOM	m	p	néandertalien	0.02	0
+néanderthalien	ne-@-dER-ta-lj5	néan-der-tha-lien	NOM	m	s		0.01	0.07
+néanderthalien	ne-@-dER-ta-lj5	néan-der-tha-lien	ADJ	m	s		0.01	0
+néanmoins	ne-@-mw5	néan-moins	CON				2.7	16.35
+néanmoins	ne-@-mw5	néan-moins	ADV				4.95	11.69
+néant	ne-@	néant	NOM	m	s		6.62	23.92
+néantisation	ne-@-ti-za-sj§	néan-ti-sa-tion	NOM	f	s		0	0.07
+néantisée	ne-@-ti-ze	néan-ti-sée	VER	f	s	néantiser	0	0.07
+néants	ne-@	néants	NOM	m	p	néant	0	0.07
+nébuleuse	ne-by-l2z	né-bu-leu-se	NOM	f	s	nébuleux	0.71	0.61
+nébuleuse	ne-by-l2z	né-bu-leu-se	ADJ	f	s	nébuleux	0.04	0.34
+nébuleuses	ne-by-l2z	né-bu-leu-ses	NOM	f	p	nébuleux	0	0.61
+nébuleuses	ne-by-l2z	né-bu-leu-ses	ADJ	f	p	nébuleux	0.04	0.27
+nébuleuses	ne-by-l2z	né-bu-leu-ses	NOM	f	p	nébuleuse	0.02	0
+nébuleux	ne-by-l2	né-bu-leux	ADJ	m			0.38	0.68
+nébuliseur	ne-by-li-z9R		NOM	m	s		0.01	0
+nébulosité	ne-by-lo-zi-te	né-bu-lo-si-té	NOM	f	s		0.1	0.14
+nec	nEk	nec	NOM		s		0.64	0.27
+nécessaire	ne-se-sER	né-ces-sai-re	ADJ		s		44.29	48.45
+nécessaire	ne-se-sER	né-ces-sai-re	NOM	m	s		8.84	8.04
+nécessairement	ne-se-sE-R°-m@	né-ces-sai-re-ment	ADV				3.31	7.64
+nécessaires	ne-se-sER	né-ces-sai-res	ADJ		p	nécessaire	7.71	19.66
+nécessaires	ne-se-sER	né-ces-sai-res	NOM	m	p	nécessaire	0.07	0.34
+nécessita	ne-se-si-ta	né-ces-si-ta	VER			nécessiter	0.01	0.2
+nécessitaient	ne-se-si-tE	né-ces-si-taient	VER			nécessiter	0.01	0.14
+nécessitait	ne-se-si-tE	né-ces-si-tait	VER			nécessiter	0.54	1.01
+nécessitant	ne-se-si-t@	né-ces-si-tant	VER			nécessiter	0.28	0.07
+nécessite	ne-se-sit	né-ces-si-te	VER			nécessiter	2.42	1.08
+nécessité	ne-se-si-te	né-ces-si-té	NOM	f	s		5.61	28.78
+nécessité	ne-se-si-te	né-ces-si-té	VER	m	s	nécessiter	0.15	0.81
+nécessitée	ne-se-si-te	né-ces-si-tée	VER	f	s	nécessiter	0	0.14
+nécessitées	ne-se-si-te	né-ces-si-tées	VER	f	p	nécessiter	0	0.07
+nécessitent	ne-se-sit	né-ces-si-tent	VER			nécessiter	0.4	0.34
+nécessiter	ne-se-si-te	né-ces-si-ter	VER				0.16	0.07
+nécessitera	ne-se-si-t°-Ra	né-ces-si-te-ra	VER			nécessiter	0.07	0
+nécessiterait	ne-se-si-t°-RE	né-ces-si-te-rait	VER			nécessiter	0.11	0.14
+nécessités	ne-se-si-te	né-ces-si-tés	NOM	f	p	nécessité	0.32	5
+nécessités	ne-se-si-te	né-ces-si-tés	VER	m	p	nécessiter	0.01	0.07
+nécessiteuse	ne-se-si-t2z		ADJ	f	s	nécessiteux	0.01	0
+nécessiteuses	ne-se-si-t2z	né-ces-si-teu-ses	ADJ	f	p	nécessiteux	0.04	0.07
+nécessiteux	ne-se-si-t2	né-ces-si-teux	NOM	m			0.76	0.54
+nécessiteux	ne-se-si-t2	né-ces-si-teux	ADJ	m			0.16	0.41
+neck	nEk	ne-ck	NOM	m	s		0.21	0
+nécro	ne-kRo	né-cro	NOM	f	s		0.25	0.07
+nécrobioses	ne-kRo-bjoz	né-cro-bio-ses	NOM	f	p	nécrobiose	0	0.07
+nécrologe	ne-kRo-lOZ	né-cro-lo-ge	NOM	m	s		0	0.14
+nécrologie	ne-kRo-lo-Zi	né-cro-lo-gie	NOM	f	s		1.03	0.47
+nécrologies	ne-kRo-lo-Zi	né-cro-lo-gies	NOM	f	p	nécrologie	0.08	0
+nécrologique	ne-kRo-lo-Zik	né-cro-lo-gi-que	ADJ		s		0.41	0.34
+nécrologiques	ne-kRo-lo-Zik	né-cro-lo-gi-ques	ADJ		p	nécrologique	0.12	0.14
+nécrologue	ne-kRo-lOg	né-cro-lo-gue	NOM		s		0.03	0.07
+nécromancie	ne-kRo-m@-si	né-cro-man-cie	NOM	f	s		0.09	0.07
+nécromancien	ne-kRo-m@-sj5		NOM	m	s		0.19	0
+nécromancienne	ne-kRo-m@-sjEn	né-cro-man-cien-ne	NOM	f	s	nécromancien	0.01	0.07
+nécromanciens	ne-kRo-m@-sj5	né-cro-man-ciens	NOM	m	p	nécromancien	0	0.2
+nécromant	ne-kRo-m@	né-cro-mant	NOM	m	s		0.03	0.07
+nécrophage	ne-kRo-faZ	né-cro-pha-ge	ADJ		s		0.03	0.07
+nécrophage	ne-kRo-faZ	né-cro-pha-ge	NOM		s		0.01	0
+nécrophagie	ne-kRo-fa-Zi	né-cro-pha-gie	NOM	f	s		0	0.07
+nécrophile	ne-kRo-fil	né-cro-phi-le	ADJ	m	s		0.2	0
+nécrophile	ne-kRo-fil	né-cro-phi-le	NOM		s		0.02	0.07
+nécrophiles	ne-kRo-fil	né-cro-phi-les	ADJ	f	p	nécrophile	0.05	0
+nécrophiles	ne-kRo-fil	né-cro-phi-les	NOM		p	nécrophile	0.03	0
+nécrophilie	ne-kRo-fi-li	né-cro-phi-lie	NOM	f	s		0.08	0.27
+nécropole	ne-kRo-pOl	né-cro-po-le	NOM	f	s		0.2	1.01
+nécropoles	ne-kRo-pOl	né-cro-po-les	NOM	f	p	nécropole	0	0.27
+nécropsie	ne-kRop-si		NOM	f	s		0.05	0
+nécros	ne-kRo	né-cros	NOM	f	p	nécro	0.11	0
+nécrosant	ne-kRo-z@		VER			nécroser	0.1	0
+nécrose	ne-kRoz	né-cro-se	NOM	f	s		0.28	0.14
+nécrosé	ne-kRo-ze	né-cro-sé	VER	m	s	nécroser	0.07	0.07
+nécrosée	ne-kRo-ze	né-cro-sée	VER	f	s	nécroser	0.01	0
+nécroser	ne-kRo-ze		VER				0.01	0
+nécroses	ne-kRoz	né-cro-ses	NOM	f	p	nécrose	0.17	0.14
+nécrotique	ne-kRo-tik		ADJ	m	s		0.05	0
+nectar	nEk-taR	nec-tar	NOM	m	s		2.28	0.81
+nectarine	nEk-ta-Rin	nec-ta-ri-ne	NOM	f	s		0.12	0
+nectarines	nEk-ta-Rin	nec-ta-ri-nes	NOM	f	p	nectarine	0.01	0
+née	ne	née	VER	f	s	naître	23.63	22.36
+née	ne	née	ADJ	f	s	né	0.83	1.69
+néerlandais	ne-ER-l@-dE	néer-lan-dais	ADJ	m			1.1	0.47
+néerlandais	ne-ER-l@-dE	néer-lan-dais	NOM	m			0.26	0.14
+néerlandaise	ne-ER-l@-dEz	néer-lan-dai-se	ADJ	f	s	néerlandais	0.37	0.14
+néerlandaise	ne-ER-l@-dEz	néer-lan-dai-se	NOM	f	s	néerlandais	0.1	0
+néerlandaises	ne-ER-l@-dEz	néer-lan-dai-ses	ADJ	f	p	néerlandais	0	0.27
+nées	ne	nées	VER	f	p	naître	1.37	3.51
+nées	ne	nées	ADJ	f	p	né	0.33	0.41
+nef	nEf	nef	NOM	f	s		0.41	6.49
+néfaste	ne-fast	né-fas-te	ADJ		s		1.27	2.7
+néfastes	ne-fast	né-fas-tes	ADJ		p	néfaste	0.38	1.69
+nèfles	nEfl	nè-fles	NOM	f	p	nèfle	0.17	0.54
+néflier	ne-fli-je	né-flier	NOM	m	s		0	0.2
+néfliers	ne-fli-je	né-fliers	NOM	m	p	néflier	0	0.07
+nefs	nEf	nef-s	NOM	f	p	nef	0.13	0.41
+négateur	ne-ga-t9R	né-ga-teur	ADJ	m	s		0	0.14
+négatif	ne-ga-tif	né-ga-tif	ADJ	m	s		8.33	3.31
+négatif	ne-ga-tif	né-ga-tif	NOM	m	s		6.35	1.76
+négatifs	ne-ga-tif	né-ga-tif-s	ADJ	m	p	négatif	2.13	0.68
+négatifs	ne-ga-tif	né-ga-tif-s	NOM	m	p	négatif	0.98	0.88
+négation	ne-ga-sj§	né-ga-tion	NOM	f	s		1.78	3.38
+négationnisme	ne-ga-sjo-nism		NOM	m	s		0.01	0
+négations	ne-ga-sj§	né-ga-tions	NOM	f	p	négation	0.04	0.27
+négative	ne-ga-tiv	né-ga-ti-ve	ADJ	f	s	négatif	3.33	3.65
+négative	ne-ga-tiv	né-ga-ti-ve	NOM	f	s		0.12	0.47
+négativement	ne-ga-ti-v°-m@	né-ga-ti-ve-ment	ADV				0.12	1.08
+négatives	ne-ga-tiv	né-ga-ti-ves	ADJ	f	p	négatif	2.23	0.68
+négatives	ne-ga-tiv	né-ga-ti-ves	NOM	f	p	négative	0.04	0.07
+négativisme	ne-ga-ti-vizm	né-ga-ti-vis-me	NOM	m	s		0.01	0
+négativiste	ne-ga-ti-vist	né-ga-ti-vis-te	NOM		s		0.01	0.07
+négativité	ne-ga-ti-vi-te	né-ga-ti-vi-té	NOM	f	s		0.2	0.07
+néglige	ne-gliZ	né-gli-ge	VER			négliger	1.46	2.23
+négligé	ne-gli-Ze	né-gli-gé	VER	m	s	négliger	2.71	4.46
+négligé	ne-gli-Ze	né-gli-gé	NOM	m	s		0.28	1.01
+négligé	ne-gli-Ze	né-gli-gé	ADJ	m	s		0.47	0.74
+négligea	ne-gli-Za	né-gli-gea	VER			négliger	0.01	1.08
+négligeable	ne-gli-Zabl	né-gli-gea-ble	ADJ		s		0.82	3.92
+négligeables	ne-gli-Zabl	né-gli-gea-bles	ADJ		p	négligeable	0.34	1.08
+négligeai	ne-gli-ZE	né-gli-geai	VER			négliger	0	0.2
+négligeaient	ne-gli-ZE	né-gli-geaient	VER			négliger	0	0.27
+négligeais	ne-gli-ZE	né-gli-geais	VER			négliger	0.3	0.2
+négligeait	ne-gli-ZE	né-gli-geait	VER			négliger	0.12	1.62
+négligeant	ne-gli-Z@	né-gli-geant	VER			négliger	0.17	2.16
+négligeât	ne-gli-Za	né-gli-geât	VER			négliger	0	0.2
+négligée	ne-gli-Ze	né-gli-gée	ADJ	f	s	négligé	0.65	1.08
+négligée	ne-gli-Ze	né-gli-gée	VER	f	s	négliger	0.39	0.95
+négligées	ne-gli-Ze	né-gli-gées	VER	f	p	négliger	0.07	0.41
+négligées	ne-gli-Ze	né-gli-gées	ADJ	f	p	négligé	0.11	0.34
+négligemment	ne-gli-Za-m@	né-gli-gem-ment	ADV				0.04	8.45
+négligence	ne-gli-Z@s	né-gli-gen-ce	NOM	f	s		2.96	4.12
+négligences	ne-gli-Z@s	né-gli-gen-ces	NOM	f	p	négligence	0.05	0.88
+négligent	ne-gli-Z@	né-gli-gent	ADJ	m	s		0.92	2.09
+négligent	ne-gliZ	né-gli-gent	VER			négliger	0.48	0.14
+négligent	ne-gli-Z@	né-gli-gent	NOM	m	s		0.17	0.2
+négligente	ne-gli-Z@t	né-gli-gen-te	ADJ	f	s	négligent	0.36	0.95
+négligents	ne-gli-Z@	né-gli-gents	ADJ	m	p	négligent	0.41	0.27
+négligents	ne-gli-Z@	né-gli-gents	NOM	m	p	négligent	0.01	0.07
+négligeons	ne-gli-Z§	né-gli-geons	VER			négliger	0.3	0
+négliger	ne-gli-Ze	né-gli-ger	VER				1.62	4.73
+négligera	ne-gli-Z°-Ra	né-gli-ge-ra	VER			négliger	0	0.07
+négligerai	ne-gli-Z°-RE	né-gli-ge-rai	VER			négliger	0.14	0
+négligerait	ne-gli-Z°-RE	né-gli-ge-rait	VER			négliger	0.01	0.14
+négligèrent	ne-gli-ZER	né-gli-gè-rent	VER			négliger	0	0.07
+négligeriez	ne-gli-Z°-Rje	né-gli-ge-riez	VER			négliger	0.01	0
+négliges	ne-gliZ	né-gli-ges	VER			négliger	0.23	0.2
+négligés	ne-gli-Ze	né-gli-gés	ADJ	m	p	négligé	0.14	0.54
+négligés	ne-gli-Ze	né-gli-gés	VER	m	p	négliger	0.06	0.47
+négligés	ne-gli-Ze	né-gli-gés	NOM	m	p	négligé	0	0.07
+négligez	ne-gli-Ze	né-gli-gez	VER			négliger	1.34	0.07
+négligiez	ne-gli-Zje	né-gli-giez	VER			négliger	0.01	0
+négligions	ne-gli-Zj§	né-gli-gions	VER			négliger	0	0.2
+négoce	ne-gOs	né-go-ce	NOM	m	s		0.1	2.03
+négoces	ne-gOs	né-go-ces	NOM	m	p	négoce	0.1	0.07
+négocia	ne-go-sja	né-go-cia	VER			négocier	0.03	0.14
+négociable	ne-go-sjabl	né-go-cia-ble	ADJ		s		1.08	0.41
+négociables	ne-go-sjabl	né-go-cia-bles	ADJ		p	négociable	0.23	0.27
+négociaient	ne-go-sjE	né-go-ciaient	VER			négocier	0.04	0.34
+négociais	ne-go-sjE	né-go-ciais	VER			négocier	0.08	0.2
+négociait	ne-go-sjE	né-go-ciait	VER			négocier	0.23	0.81
+négociant	ne-go-sj@	né-go-ciant	NOM	m	s		0.3	0.88
+négociant	ne-go-sj@	né-go-ciant	VER			négocier	0.12	0.81
+négociante	ne-go-sj@t		NOM	f	s	négociant	0.04	0
+négociants	ne-go-sj@	né-go-ciants	NOM	m	p	négociant	0.1	1.55
+négociateur	ne-go-sja-t9R	né-go-cia-teur	NOM	m	s		0.94	0.61
+négociateurs	ne-go-sja-t9R	né-go-cia-teurs	NOM	m	p	négociateur	0.38	0.61
+négociation	ne-go-sja-sj§	né-go-cia-tion	NOM	f	s		2.71	2.84
+négociations	ne-go-sja-sj§	né-go-cia-tions	NOM	f	p	négociation	3.99	8.45
+négociatrice	ne-go-sja-tRis		NOM	f	s	négociateur	0.05	0
+négociatrices	ne-go-sja-tRis	né-go-cia-tri-ces	NOM	f	p	négociateur	0.01	0
+négocie	ne-go-si	né-go-cie	VER			négocier	2.49	0.68
+négocié	ne-go-sje	né-go-cié	VER	m	s	négocier	1.76	1.22
+négociée	ne-go-sje	né-go-ciée	VER	f	s	négocier	0	0.14
+négociées	ne-go-sje	né-go-ciées	VER	f	p	négocier	0.01	0
+négocient	ne-go-si	né-go-cient	VER			négocier	0.4	0.14
+négocier	ne-go-sje	né-go-cier	VER				11.88	5.61
+négociera	ne-go-si-Ra	né-go-cie-ra	VER			négocier	0.24	0
+négocierai	ne-go-si-RE	né-go-cie-rai	VER			négocier	0.19	0.14
+négocieraient	ne-go-si-RE	né-go-cie-raient	VER			négocier	0	0.07
+négocierions	ne-go-si-Rj§	né-go-cie-rions	VER			négocier	0.02	0
+négocierons	ne-go-si-R§	né-go-cie-rons	VER			négocier	0.28	0
+négocieront	ne-go-si-R§	né-go-cie-ront	VER			négocier	0.19	0
+négociés	ne-go-sje	né-go-ciés	VER	m	p	négocier	0.09	0.47
+négociez	ne-go-sje	né-go-ciez	VER			négocier	0.34	0.07
+négocions	ne-go-sj§	né-go-cions	VER			négocier	0.45	0
+nègre	nEgR	nè-gre	NOM	m	s		11.26	15.54
+nègre	nEgR	nè-gre	ADJ		s		1.23	3.24
+nègres	nEgR	nè-gres	NOM	m	p	nègre	6.12	7.03
+nègres	nEgR	nè-gres	ADJ		p	nègre	0.28	1.28
+négresse	ne-gREs	né-gres-se	NOM	f	s	nègre	1.56	3.78
+négresse	ne-gREs	né-gres-se	ADJ	f	s	nègre	0.14	0.61
+négresses	ne-gREs	né-gres-ses	NOM	f	p	nègre	0.15	1.28
+négresses	ne-gREs	né-gres-ses	ADJ	f	p	nègre	0	0.27
+négrier	ne-gRi-je	né-grier	NOM	m	s		0.07	0.47
+négrier	ne-gRi-je	né-grier	ADJ	m	s		0.12	0.34
+négrière	ne-gRi-jER	né-griè-re	NOM	f	s	négrier	0.02	0
+négriers	ne-gRi-je	né-griers	NOM	m	p	négrier	0.23	0.07
+négriers	ne-gRi-je	né-griers	ADJ	m	p	négrier	0.01	0
+négril	ne-gRil	né-gril	NOM	m	s		0	0.07
+négrillon	ne-gRi-j§	né-gril-lon	NOM	m	s		0.04	0.14
+négrillons	ne-gRi-j§	né-gril-lons	NOM	m	p	négrillon	0.04	0.88
+négritude	ne-gRi-tyd	né-gri-tu-de	NOM	f	s		0.44	0.41
+negro	ne-gRo	ne-gro	NOM		s		0.07	0.07
+négro	ne-gRo	né-gro	NOM	m	s		4.64	2.43
+negro spiritual	ne-gRos-pi-Ri-t8Ol	ne-gro s-pi-ri-tual	NOM	m	s		0.01	0.07
+negro spirituals	ne-gRos-pi-Ri-t8al	ne-gro s-pi-ri-tuals	NOM	m	p	negro spiritual	0	0.07
+négroïde	ne-gRo-id	né-groï-de	ADJ		s		0.07	0.74
+négroïdes	ne-gRo-id	né-groï-des	ADJ		p	négroïde	0.02	0.54
+négrophile	ne-gRo-fil	né-gro-phi-le	ADJ	m	s		0.02	0
+négrophiles	ne-gRo-fil	né-gro-phi-les	ADJ	f	p	négrophile	0.02	0
+négros	ne-gRo	né-gros	NOM	m	p	négro	1.38	0.54
+négus	ne-gys	né-gus	NOM	m			0.1	1.55
+neige	nEZ	nei-ge	NOM	f	s		37.52	74.93
+neige	nEZ	nei-ge	VER			neiger	5.48	1.49
+neigé	ne-Ze	nei-gé	VER	m	s	neiger	0.66	0.54
+neigeait	nE-ZE	nei-geait	VER			neiger	0.89	1.22
+neiger	ne-Ze	nei-ger	VER				0.59	0.61
+neigera	nE-Z°-Ra	nei-ge-ra	VER			neiger	0.21	0.07
+neigerait	nE-Z°-RE	nei-ge-rait	VER			neiger	0.02	0
+neiges	nEZ	nei-ges	NOM	f	p	neige	1.82	5.95
+neiges	nEZ	nei-ges	VER			neiger	0.02	0
+neigeuse	ne-Z2z	nei-geu-se	ADJ	f	s	neigeux	0.04	1.35
+neigeuses	nE-Z2z	nei-geu-ses	ADJ	f	p	neigeux	0.03	1.22
+neigeux	ne-Z2	nei-geux	ADJ	m			0.23	1.55
+nem	nEm	nem	NOM	m	s		0.33	0.07
+nématodes	ne-ma-tOd	né-ma-to-des	NOM	m	p	nématode	0.01	0
+nemrod	nEm-ROd		NOM	m	s		0	0.07
+nems	nEm	nem-s	NOM	m	p	nem	0.29	0.07
+néné	ne-ne	né-né	NOM	m	s		3.76	2.03
+nénés	ne-ne	né-nés	NOM	m	p	néné	1.65	1.01
+nénesse	ne-nEs	né-nes-se	NOM	m	s		0	0.14
+nénesses	ne-nEs	né-nes-ses	NOM	m	p	nénesse	0	0.14
+nénette	ne-nEt	né-net-te	NOM	f	s		0.69	2.77
+nénettes	ne-nEt	né-net-tes	NOM	f	p	nénette	0.16	0.95
+nenni	nE-ni	nen-ni	ADV				0.52	0.34
+nénuphar	ne-ny-faR	né-nu-phar	NOM	m	s		0.25	0.47
+nénuphars	ne-ny-faR	né-nu-phars	NOM	m	p	nénuphar	0.24	2.43
+néo	ne-o	néo	ADV				0.62	0.61
+néo-barbares	ne-o-baR-baR	néo-barbares	ADJ	f	p	néo-barbare	0	0.07
+néo-classique	ne-o-kla-sik	néo-clas-si-que	ADJ		s		0.12	0.34
+néo-colonialisme	ne-o-ko-lo-nja-lizm	néo-co-lo-nia-lis-me	NOM	m	s		0	0.2
+néo-communiste	ne-o-ko-my-nist	néo-communiste	ADJ	f	s		0.01	0
+néo-fascisme	ne-o-fa-Sizm	néo-fas-cis-me	NOM	m	s		0.01	0.07
+néo-fascistes	ne-o-fa-Sist	néo-fascistes	ADJ		p	néo-fasciste	0.01	0
+néo-fascistes	ne-o-fa-Sist	néo-fascistes	NOM		p	néo-fasciste	0.01	0
+néo-figuration	ne-o-fi-gy-Ra-sj§	néo-figuration	NOM	f	s		0	0.07
+néo-flics	ne-o-flik	néo-flics	NOM	m	p	néo-flic	0.02	0
+néo-gangster	ne-o-g@g-stER	néo-gangster	NOM	m	s		0.01	0
+néo-gothique	ne-o-go-tik	néo-go-thi-que	ADJ	f	s		0	0.14
+néo-gothique	ne-o-go-tik	néo-go-thi-que	NOM	m	s		0	0.07
+néo-gothiques	ne-o-go-tik	néo-gothiques	ADJ		p	néo-gothique	0	0.07
+néo-grec	ne-o-gREk	néo-grec	ADJ	m	s		0	0.07
+néo-helléniques	ne-o-e-le-nik	néo-helléniques	ADJ	f	p	néo-hellénique	0	0.07
+néo-malthusianisme	ne-o-mal-ty-zja-nizm	néo-malthusianisme	NOM	m	s		0	0.14
+néo-mauresque	ne-o-mo-REsk	néo-mauresque	ADJ	m	s		0	0.07
+néo-mauresques	ne-o-mo-REsk	néo-mauresques	ADJ	f	p	néo-mauresque	0	0.07
+néo-mouvement	ne-o-mu-v°-m@	néo-mouvement	NOM	m	s		0	0.07
+néo-réalisme	ne-o-Re-a-lizm	néo-réa-lis-me	NOM	m	s		0.1	0.07
+néo-réaliste	ne-o-Re-a-list	néo-réaliste	ADJ	m	s		0	0.07
+néo-réalistes	ne-o-Re-a-list	néo-réalistes	ADJ	m	p	néo-réaliste	0	0.14
+néo-renaissant	ne-o-R°-nE-s@	néo-renaissant	ADJ	m	s		0	0.07
+néo-romantique	ne-o-Ro-m@-tik	néo-romantique	ADJ	f	s		0.01	0
+néo-russe	ne-o-Rys	néo-russe	ADJ		s		0	0.14
+néo-zélandais	ne-o-ze-l@-dE	néo-zélandais	NOM	m			0.07	0.2
+néo-zélandais	ne-o-ze-l@-dE	néo-zélandais	ADJ	m			0.1	0.14
+néo-zélandaise	ne-o-ze-l@-dEz	néo-zélandaise	ADJ	f	s	néo-zélandais	0.01	0
+néoclassique	ne-o-kla-sik	néo-clas-si-que	ADJ	m	s		0.01	0.07
+néocolonial	ne-o-ko-lo-njal	néo-co-lo-nial	ADJ	m	s		0	0.07
+néocolonialisme	ne-o-ko-lo-nja-lizm	néo-co-lo-nia-lis-me	NOM	m	s		0.01	0
+néocortex	ne-o-kOR-tEks	néo-cor-tex	NOM	m			0.15	0
+néofascisme	ne-o-fa-Sizm	néo-fas-cis-me	NOM	m	s		0.01	0
+néogothique	ne-o-go-tik	néo-go-thi-que	ADJ	m	s		0.14	0.07
+néolibéralisme	ne-o-li-be-Ra-lism		NOM	m	s		0.14	0
+néolithique	ne-o-li-tik	néo-li-thi-que	NOM		s		0.02	0.14
+néolithique	ne-o-li-tik	néo-li-thi-que	ADJ		s		0.01	0.07
+néolithiques	ne-o-li-tik	néo-li-thi-ques	ADJ	f	p	néolithique	0	0.07
+néologisme	ne-o-lo-Zizm	néo-lo-gis-me	NOM	m	s		0.01	0.27
+néologismes	ne-o-lo-Zizm	néo-lo-gis-mes	NOM	m	p	néologisme	0	0.34
+néon	ne-§	néon	NOM	m	s		1.21	7.16
+néonatal	ne-o-na-tal		ADJ	m	s		0.04	0
+néonatale	ne-o-na-tal		ADJ	f	s	néonatal	0.07	0
+néonazie	ne-o-na-zi		ADJ	f	s	néonazi	0.01	0
+néonazis	ne-o-na-zi	néo-na-zis	ADJ	m	p	néonazi	0.1	0
+néonazis	ne-o-na-zi	néo-na-zis	NOM	m	p	néonazi	0.02	0
+néons	ne-§	néons	NOM	m	p	néon	0.61	3.65
+néophyte	ne-o-fit	néo-phy-te	NOM		s		0.12	0.54
+néophyte	ne-o-fit	néo-phy-te	ADJ		s		0.02	0.27
+néophytes	ne-o-fit	néo-phy-tes	NOM		p	néophyte	0.05	0.41
+néophytes	ne-o-fit	néo-phy-tes	ADJ	f	p	néophyte	0.02	0
+néoplasie	ne-o-pla-zi		NOM	f	s		0.01	0
+néoplasique	ne-o-pla-zik		ADJ		s		0.04	0
+néoplasme	ne-o-plasm	néo-plas-me	NOM	m	s		0.01	0.07
+néoplatonisme	ne-o-pla-to-nizm	néo-pla-to-nis-me	NOM	m	s		0	0.07
+néoprène	ne-o-pREn		NOM	m	s		0.03	0
+néoréalisme	ne-o-Re-a-lizm	néo-réa-lis-me	NOM	m	s		0.02	0
+népalais	ne-pa-lE	né-pa-lais	ADJ	m	p		0.02	0.07
+népalais	ne-pa-lE	né-pa-lais	NOM	m			0.01	0.07
+népalaise	ne-pa-lEz	né-pa-lai-se	NOM	f	s	népalais	0	0.14
+népalaise	ne-pa-lEz	né-pa-lai-se	ADJ	f	s	népalais	0	0.07
+népalaises	ne-pa-lEz	né-pa-lai-ses	ADJ	f	p	népalais	0.01	0.07
+nèpe	nEp	nè-pe	NOM	f	s		0	0.07
+népenthès	ne-p@-tEz	né-pen-thès	NOM	m			0.04	0.07
+nèpes	nEp	nè-pes	NOM	f	p	nèpe	0	0.07
+néphrectomie	ne-fREk-to-mi	né-ph-rec-to-mie	NOM	f	s		0.03	0
+néphrétique	ne-fRe-tik	né-ph-ré-ti-que	ADJ	f	s		0.01	0.07
+néphrétiques	ne-fRe-tik	né-ph-ré-ti-ques	ADJ	f	p	néphrétique	0.01	0.14
+néphrite	ne-fRit	né-ph-ri-te	NOM	f	s		0.11	0.07
+néphrologie	ne-fRo-lo-Zi	né-ph-ro-lo-gie	NOM	f	s		0.05	0
+néphrologue	ne-fRo-lOg		NOM		s		0.03	0
+nephtys	nEf-tis	ne-ph-tys	NOM	m			0	0.07
+népotisme	ne-po-tizm	né-po-tis-me	NOM	m	s		0.13	0.2
+neptunienne	nEp-ty-njEn	nep-tu-nien-ne	ADJ	f	s	neptunien	0.03	0
+neptuniens	nEp-ty-nj5	nep-tu-niens	ADJ	m	p	neptunien	0.04	0
+néréide	ne-Re-id	né-réi-de	NOM	f	s		0	0.07
+néréides	ne-Re-id	né-réi-des	NOM	f	p	néréide	0	0.14
+nerf	nER	nerf	NOM	m	s		8.09	3.92
+nerfs	nER	nerf-s	NOM	m	p	nerf	22.03	26.55
+néroli	ne-RO-li		NOM	m	s		0.03	0
+nerprun	nER-pR1	ner-prun	NOM	m	s		0	0.14
+nerpruns	nER-pR1	ner-pruns	NOM	m	p	nerprun	0	0.07
+nerva	nER-va	ner-va	VER			nerver	0.34	0
+nervé	nER-ve	ner-vé	VER	m	s	nerver	0	0.07
+nerver	n2R-ve		VER				0.02	0
+nerveuse	nER-v2z	ner-veu-se	ADJ	f	s	nerveux	16.99	10.88
+nerveuse	nER-v2z	ner-veu-se	NOM	f	s	nerveux	0.88	0.34
+nerveusement	nER-v2-z°-m@	ner-veu-se-ment	ADV				0.38	7.36
+nerveuses	nER-v2z	ner-veu-ses	ADJ	f	p	nerveux	0.89	3.11
+nerveuses	nER-v2z	ner-veu-ses	NOM	f	p	nerveux	0.01	0
+nerveux	nER-v2	ner-veux	ADJ	m			32.52	21.82
+nerveux	nER-v2	ner-veux	NOM	m			2.11	1.15
+nervi	nER-vi	ner-vi	NOM	m	s		0.05	0.47
+nervis	nER-vi	ner-vis	NOM	m	p	nervi	0	0.34
+nervosité	nER-vo-zi-te	ner-vo-si-té	NOM	f	s		1.58	4.93
+nervosités	nER-vo-zi-te	ner-vo-si-tés	NOM	f	p	nervosité	0	0.14
+nervure	nER-vyR	ner-vu-re	NOM	f	s		0	0.54
+nervuré	nER-vy-Re	ner-vu-ré	VER	m	s	nervurer	0	0.2
+nervurée	nER-vy-Re	ner-vu-rée	VER	f	s	nervurer	0.01	0.14
+nervurées	nER-vy-Re	ner-vu-rées	VER	f	p	nervurer	0	0.07
+nervures	nER-vyR	ner-vu-res	NOM	f	p	nervure	0.01	2.7
+nés	ne	nés	VER	m	p	naître	8.83	7.5
+nés	ne	nés	ADJ	m	p	né	1.1	1.49
+nescafé	nEs-ka-fe	nes-ca-fé	NOM	m	s		0.2	0.81
+nestor	nEs-tOR		NOM	m	s		0.01	0
+nestorianisme	nEs-to-Rja-nizm	nes-to-ria-nis-me	NOM	m	s		0	0.34
+nestorien	nEs-to-Rj5	nes-to-rien	NOM	m	s		0	1.35
+nestorien	nEs-to-Rj5	nes-to-rien	ADJ	m	s		0	1.01
+nestorienne	nEs-to-RjEn	nes-to-rien-ne	ADJ	f	s	nestorien	0	0.34
+nestoriennes	nEs-to-RjEn	nes-to-rien-nes	ADJ	f	p	nestorien	0	0.07
+nestoriens	nEs-to-Rj5	nes-to-riens	NOM	m	p	nestorien	0	0.74
+nestoriens	nEs-to-Rj5	nes-to-riens	ADJ	m	p	nestorien	0	0.2
+net	nEt	net	ADJ	m	s		14.31	17.09
+net	nEt	net	ADV				3.89	19.32
+net	nEt	net	NOM	m	s		1.73	1.69
+nets	nEt	nets	ADJ	m	p	net	0.94	4.19
+nets	nEt	nets	NOM	m	p	net	0.02	0.07
+nette	nEt	net-te	ADJ	f	s	net	3.91	14.86
+nettement	nE-t°-m@	net-te-ment	ADV				3.17	20.34
+nettes	nEt	net-tes	ADJ	f	p	net	0.79	4.05
+netteté	nEt-te	net-te-té	NOM	f	s		0.61	9.12
+nettoie	nE-twa	net-toie	VER			nettoyer	12.09	2.64
+nettoiement	ne-twa-m@	net-toie-ment	NOM	m	s		0.03	0.27
+nettoient	ne-twa	net-toient	VER			nettoyer	0.67	0.81
+nettoiera	ne-twa-Ra	net-toie-ra	VER			nettoyer	0.33	0.2
+nettoierai	ne-twa-RE	net-toie-rai	VER			nettoyer	0.75	0.07
+nettoieraient	nE-twa-RE	net-toie-raient	VER			nettoyer	0.02	0
+nettoierais	nE-twa-RE	net-toie-rais	VER			nettoyer	0.11	0
+nettoierait	ne-twa-RE	net-toie-rait	VER			nettoyer	0.13	0.07
+nettoieras	nE-twa-Ra	net-toie-ras	VER			nettoyer	0.33	0
+nettoierez	ne-twa-Re	net-toie-rez	VER			nettoyer	0.04	0.14
+nettoierons	nE-twa-R§	net-toie-rons	VER			nettoyer	0.13	0
+nettoies	ne-twa	net-toies	VER			nettoyer	1.42	0.14
+nettoya	ne-twa-ja	net-toya	VER			nettoyer	0.02	1.28
+nettoyable	ne-twa-jabl		ADJ		s		0.01	0
+nettoyables	ne-twa-jabl	net-toya-bles	ADJ		p	nettoyable	0	0.07
+nettoyage	ne-twa-jaZ	net-toya-ge	NOM	m	s		7.48	5.88
+nettoyages	ne-twa-jaZ	net-toya-ges	NOM	m	p	nettoyage	0.02	0.47
+nettoyai	ne-twa-jE	net-toyai	VER			nettoyer	0	0.14
+nettoyaient	ne-twa-jE	net-toyaient	VER			nettoyer	0.07	0.95
+nettoyais	ne-twa-jE	net-toyais	VER			nettoyer	1.06	0.14
+nettoyait	ne-twa-jE	net-toyait	VER			nettoyer	1.02	2.57
+nettoyant	ne-twa-j@	net-toyant	VER			nettoyer	0.64	1.01
+nettoyant	ne-twa-j@	net-toyant	NOM	m	s		0.33	0
+nettoyant	ne-twa-j@	net-toyant	ADJ	m	s		0.07	0.07
+nettoyante	ne-twa-j@t		ADJ	f	s	nettoyant	0.01	0
+nettoyants	ne-twa-j@	net-toyants	NOM	m	p	nettoyant	0.02	0.07
+nettoyants	ne-twa-j@	net-toyants	ADJ	m	p	nettoyant	0.01	0
+nettoyât	ne-twa-ja	net-toyât	VER			nettoyer	0	0.2
+nettoyé	ne-twa-je	net-toyé	VER	m	s	nettoyer	7.72	4.19
+nettoyée	ne-twa-je	net-toyée	VER	f	s	nettoyer	0.89	1.08
+nettoyées	ne-twa-je	net-toyées	VER	f	p	nettoyer	0.29	0.41
+nettoyer	ne-twa-je	net-toyer	VER				30.28	10.95
+nettoyèrent	ne-twa-jER	net-toyè-rent	VER			nettoyer	0.01	0.07
+nettoyés	ne-twa-je	net-toyés	VER	m	p	nettoyer	0.45	0.88
+nettoyeur	ne-twa-j9R	net-toyeur	NOM	m	s		1.24	0.34
+nettoyeurs	ne-twa-j9R	net-toyeurs	NOM	m	p	nettoyeur	0.91	0.2
+nettoyeuse	ne-twa-j2z	net-toyeu-se	NOM	f	s	nettoyeur	0.36	0.07
+nettoyeuses	ne-twa-j2z	net-toyeu-ses	NOM	f	p	nettoyeur	0	0.07
+nettoyez	ne-twa-je	net-toyez	VER			nettoyer	2.88	0
+nettoyiez	ne-twaj-je	net-toyiez	VER			nettoyer	0.14	0.07
+nettoyons	ne-twa-j§	net-toyons	VER			nettoyer	0.46	0.14
+neuf	n9f	neuf	ADJ:num				32.05	56.01
+neuf	n9f	neuf	ADJ	m	s		8.59	14.12
+neufs	n9f	neuf-s	ADJ	m	p	neuf	3.5	11.89
+neuneu	n2-n2		ADJ	f	s		0.49	0.07
+neuneu	n2-n2		NOM	m	s		0.13	0.07
+neural	n2-Ral	neu-ral	ADJ	m	s		0.79	0
+neurale	n2-Ral	neu-ra-le	ADJ	f	s	neural	0.32	0
+neurales	n2-Ral	neu-ra-les	ADJ	f	p	neural	0.1	0
+neurasthénie	n2-Ras-te-ni	neu-ras-thé-nie	NOM	f	s		0.14	1.28
+neurasthénique	n2-Ras-te-nik	neu-ras-thé-ni-que	ADJ		s		0.7	0.81
+neurasthénique	n2-Ras-te-nik	neu-ras-thé-ni-que	NOM		s		0	0.14
+neurasthéniques	n2-Ras-te-nik	neu-ras-thé-ni-ques	ADJ		p	neurasthénique	0.01	0.34
+neurasthéniques	n2-Ras-te-nik	neu-ras-thé-ni-ques	NOM		p	neurasthénique	0.1	0.07
+neurinome	n2-Ri-nom		NOM	m	s		0.01	0
+neurobiologie	n2-Ro-bjo-lo-Zi	neu-ro-bio-lo-gie	NOM	f	s		0.01	0
+neurobiologiste	n2-Ro-bjO-lO-Zist		NOM		s		0.02	0
+neurochimie	n2-Ro-Si-mi		NOM	f	s		0.03	0
+neurochimique	n2-Ro-Si-mik	neu-ro-chi-mi-que	ADJ		s		0.01	0
+neurochirurgie	n2-Ro-Si-RyR-Zi	neu-ro-chi-rur-gie	NOM	f	s		0.53	0
+neurochirurgien	n2-Ro-Si-RyR-Zj5	neu-ro-chi-rur-gien	NOM	m	s		0.79	0
+neurochirurgienne	n2-Ro-Si-RyR-ZjEn	neu-ro-chi-rur-gien-ne	NOM	f	s	neurochirurgien	0.06	0
+neurofibromatose	n2-Ro-fi-bRO-ma-toz		NOM	f	s		0.05	0
+neuroleptique	n2-Ro-lEp-tik	neu-ro-lep-ti-que	NOM	m	s		0.01	0.07
+neuroleptiques	n2-Ro-lEp-tik	neu-ro-lep-ti-ques	NOM	m	p	neuroleptique	0.06	0.14
+neurolinguistique	n2-RO-l5-g8is-tik		NOM	f	s		0.01	0
+neurologie	n2-Ro-lo-Zi	neu-ro-lo-gie	NOM	f	s		0.93	0
+neurologique	n2-Ro-lo-Zik	neu-ro-lo-gi-que	ADJ		s		1.26	0
+neurologiquement	n2-Ro-lo-Zi-k°-m@	neu-ro-lo-gi-que-ment	ADV				0.02	0
+neurologiques	n2-Ro-lo-Zik	neu-ro-lo-gi-ques	ADJ		p	neurologique	0.45	0
+neurologiste	n2-Ro-lo-Zist	neu-ro-lo-gis-te	NOM		s		0.09	0
+neurologue	n2-Ro-lOg	neu-ro-lo-gue	NOM		s		1.34	0.34
+neurologues	n2-Ro-lOg	neu-ro-lo-gues	NOM		p	neurologue	0.22	0
+neuromusculaire	n2-Ro-mys-ky-lER	neu-ro-mus-cu-lai-re	ADJ	m	s		0.11	0
+neuronal	n2-Ro-nal	neu-ro-nal	ADJ	m	s		0.19	0
+neuronale	n2-Ro-nal	neu-ro-na-le	ADJ	f	s	neuronal	0.14	0
+neuronales	n2-Ro-nal	neu-ro-na-les	ADJ	f	p	neuronal	0.03	0
+neuronaux	n2-Ro-no	neu-ro-naux	ADJ	m	p	neuronal	0.06	0
+neurone	n2-Ron	neu-ro-ne	NOM	m	s		0.38	0.07
+neurones	n2-Ron	neu-ro-nes	NOM	m	p	neurone	1.39	1.08
+neuronique	n2-RO-nik		ADJ	f	s		0.03	0
+neuropathie	n2-Ro-pa-ti		NOM	f	s		0.07	0
+neuropathologie	n2-Ro-pa-to-lo-Zi	neu-ro-pa-tho-lo-gie	NOM	f	s		0.01	0
+neuropeptide	n2-Ro-pEp-tid		NOM	m	s		0.01	0
+neurophysiologie	n2-Ro-fi-zjo-lo-Zi	neu-ro-phy-sio-lo-gie	NOM	f	s		0.02	0.07
+neuroplégique	n2-Ro-ple-Zik		ADJ		s		0.02	0
+neuropsychiatrie	n2-Rop-si-kja-tRi		NOM	f	s		0.03	0
+neuropsychologiques	n2-Rop-si-ko-lo-Zik	neu-ro-psy-cho-lo-gi-ques	ADJ		p	neuropsychologique	0.11	0
+neuropsychologue	n2-Rop-si-ko-lOg	neu-ro-psy-cho-lo-gue	NOM		s		0.02	0
+neuroscience	n2-Ro-sj@s		NOM	f	s		0.04	0
+neurotoxine	n2-Ro-tOk-sin	neu-ro-toxi-ne	NOM	f	s		0.05	0
+neurotoxique	n2-Ro-tOk-sik	neu-ro-toxi-que	ADJ		s		0.14	0
+neurotransmetteur	n2-Ro-tR@s-mE-t9R	neu-ro-trans-met-teur	NOM	m	s		0.05	0
+neurotransmetteurs	n2-Ro-tR@s-mE-t9R	neu-ro-trans-met-teurs	NOM	m	p	neurotransmetteur	0.31	0
+neutralisaient	n2-tRa-li-zE	neu-tra-li-saient	VER			neutraliser	0.01	0.14
+neutralisait	n2-tRa-li-zE	neu-tra-li-sait	VER			neutraliser	0.05	0.07
+neutralisant	n2-tRa-li-z@	neu-tra-li-sant	VER			neutraliser	0.06	0.2
+neutralisant	n2-tRa-li-z@	neu-tra-li-sant	ADJ	m	s		0.01	0
+neutralisante	n2-tRa-li-z@t		ADJ	f	s	neutralisant	0.02	0
+neutralisateur	n2-tRa-li-za-t9R	neu-tra-li-sa-teur	ADJ	m	s		0.01	0.07
+neutralisateur	n2-tRa-li-za-t9R	neu-tra-li-sa-teur	NOM	m	s		0.01	0
+neutralisation	n2-tRa-li-za-sj§	neu-tra-li-sa-tion	NOM	f	s		0.13	1.08
+neutralise	n2-tRa-liz	neu-tra-li-se	VER			neutraliser	0.53	0.27
+neutralisé	n2-tRa-li-ze	neu-tra-li-sé	VER	m	s	neutraliser	1.02	0.34
+neutralisée	n2-tRa-li-ze	neu-tra-li-sée	VER	f	s	neutraliser	0.29	0.27
+neutralisées	n2-tRa-li-ze	neu-tra-li-sées	VER	f	p	neutraliser	0.02	0.14
+neutralisent	n2-tRa-liz	neu-tra-li-sent	VER			neutraliser	0.29	0
+neutraliser	n2-tRa-li-ze	neu-tra-li-ser	VER				2.31	1.28
+neutralisera	n2-tRa-li-z°-Ra	neu-tra-li-se-ra	VER			neutraliser	0.09	0
+neutraliserai	n2-tRa-li-z°-RE	neu-tra-li-se-rai	VER			neutraliser	0.02	0
+neutraliseraient	n2-tRa-li-z°-RE	neu-tra-li-se-raient	VER			neutraliser	0	0.07
+neutraliserait	n2-tRa-li-z°-RE	neu-tra-li-se-rait	VER			neutraliser	0.03	0
+neutraliseront	n2-tRa-li-z°-R§	neu-tra-li-se-ront	VER			neutraliser	0.04	0
+neutralisés	n2-tRa-li-ze	neu-tra-li-sés	VER	m	p	neutraliser	0.31	0.2
+neutralisez	n2-tRa-li-ze	neu-tra-li-sez	VER			neutraliser	0.19	0
+neutralisiez	n2-tRa-li-zje	neu-tra-li-siez	VER			neutraliser	0.01	0
+neutralisons	n2-tRa-li-z§	neu-tra-li-sons	VER			neutraliser	0.03	0
+neutraliste	n2-tRa-list		NOM		s		0.16	0
+neutralité	n2-tRa-li-te	neu-tra-li-té	NOM	f	s		0.46	2.97
+neutre	n2tR	neu-tre	ADJ		s		4.32	10.2
+neutre	n2tR	neu-tre	NOM		s		0.41	0.47
+neutres	n2tR	neu-tres	ADJ		p	neutre	0.83	1.55
+neutres	n2tR	neu-tres	NOM		p	neutre	0.27	0.27
+neutrino	n2-tRi-no	neu-tri-no	NOM	m	s		0.15	0
+neutrinos	n2-tRi-no	neu-tri-nos	NOM	m	p	neutrino	0.4	0
+neutron	n2-tR§	neu-tron	NOM	m	s		0.46	0.14
+neutronique	n2-tRO-nik		ADJ	m	s		0.01	0
+neutrons	n2-tR§	neu-trons	NOM	m	p	neutron	0.23	0.41
+neutropénie	n2-tRO-pe-ni		NOM	f	s		0.04	0
+neuvaine	n9-vEn	neu-vai-ne	NOM	f	s		0.14	0.14
+neuvaines	n9-vEn	neu-vai-nes	NOM	f	p	neuvaine	0.25	0.47
+neuve	n9v	neu-ve	ADJ	f	s	neuf	10.3	22.43
+neuves	n9v	neu-ves	ADJ	f	p	neuf	5.02	8.72
+neuvième	n9-vjEm	neu-viè-me	ADJ				1.09	1.42
+neuvième	n9-vjEm	neu-viè-me	NOM		s		0.54	1.08
+neuvièmes	n9-vjEm	neu-viè-mes	ADJ			neuvième	0	0.07
+neuvièmes	n9-vjEm	neu-viè-mes	NOM		p	neuvième	0.01	0
+névé	ne-ve	né-vé	NOM	m	s		0	0.14
+névés	ne-ve	né-vés	NOM	m	p	névé	0	0.14
+neveu	n°-v2	ne-veu	NOM	m	s		22.9	13.92
+neveux	n°-v2	ne-veux	NOM	m	p		2.13	3.72
+névralgie	ne-vRal-Zi	né-vral-gie	NOM	f	s		0.17	0.34
+névralgies	nE-vRal-Zi	né-vral-gies	NOM	f	p	névralgie	0.04	0.27
+névralgique	ne-vRal-Zik	né-vral-gi-que	ADJ	m	s		0.12	0
+névralgiques	ne-vRal-Zik	né-vral-gi-ques	ADJ	m	p	névralgique	0	0.14
+névrite	ne-vRit	né-vri-te	NOM	f	s		0.17	0.07
+névropathe	ne-vRo-pat	né-vro-pa-the	NOM		s		0.12	0.14
+névroptères	ne-vRop-tER	né-vro-ptè-res	NOM	m	p	névroptère	0	0.07
+névrose	ne-vRoz	né-vro-se	NOM	f	s		1.04	1.28
+névrosé	ne-vRo-ze	né-vro-sé	ADJ	m	s		0.49	0.14
+névrosé	ne-vRo-ze	né-vro-sé	NOM	m	s		0.34	0.2
+névrosée	ne-vRo-ze	né-vro-sée	ADJ	f	s	névrosé	0.61	0.41
+névrosées	ne-vRo-ze	né-vro-sées	ADJ	f	p	névrosé	0.04	0.14
+névroses	ne-vRoz	né-vro-ses	NOM	f	p	névrose	0.32	1.22
+névrosés	ne-vRo-ze	né-vro-sés	NOM	m	p	névrosé	0.24	0.2
+névrosés	ne-vRo-ze	né-vro-sés	ADJ	m	p	névrosé	0.05	0.07
+névrotique	ne-vRo-tik	né-vro-ti-que	ADJ		s		0.13	0.14
+névrotiques	ne-vRo-tik	né-vro-ti-ques	ADJ		p	névrotique	0.08	0.14
+new	nju	new	ADJ	m	s		0.74	3.51
+new wave	nju-wejv	new wa-ve	NOM	f			0	0.07
+new-yorkais	nju-jOR-kE	new-yorkais	ADJ	m			0	0.95
+new-yorkais	nju-jOR-kE	new-yorkais	NOM	m			0	0.27
+new-yorkaise	nju-jOR-kEz	new-yorkaise	ADJ	f	s	new-yorkais	0	0.34
+new-yorkaise	nju-jOR-kEz	new-yorkaise	NOM	f	s	new-yorkais	0	0.07
+new-yorkaises	nju-jOR-kEz	new-yorkaises	ADJ	f	p	new-yorkais	0	0.14
+news	njuz	news	NOM	m	p	new	0.08	0.2
+ney	ne		NOM	m	s		1.68	0.14
+nez	ne	nez	NOM	m			75.18	177.64
+ni	ni	ni	CON				377.64	662.36
+nia	nja	nia	VER			nier	0.13	1.01
+niable	njabl	nia-ble	ADJ		s		0	0.61
+niai	njE	niai	VER			nier	0	0.2
+niaient	njE	niaient	VER			nier	0.03	0.54
+niais	njE	niais	ADJ	m			1.11	3.51
+niais	njE	niais	NOM	m			0.57	1.08
+niais	njE	niais	VER			nier	0.15	0.14
+niaise	njEz	niai-se	ADJ	f	s	niais	0.06	1.49
+niaise	njEz	niai-se	NOM	f	s	niais	0.18	0.41
+niaisé	njE-ze	niai-sé	VER	m	s	niaiser	0.14	0
+niaisement	njE-z°-m@	niai-se-ment	ADV				0.11	0.68
+niaiser	njE-ze		VER				0.17	0
+niaiserie	njE-z°-Ri	niai-se-rie	NOM	f	s		0.16	1.89
+niaiseries	njE-z°-Ri	niai-se-ries	NOM	f	p	niaiserie	0.73	1.62
+niaises	njEz	niai-ses	ADJ	f	p	niais	0.02	0.68
+niaises	njEz	niai-ses	NOM	f	p	niais	0.07	0
+niaiseuse	njE-z2z		ADJ	f	s	niaiseux	0.01	0
+niaiseux	njE-z2	niai-seux	ADJ	m	p		0.04	0.07
+niait	njE	niait	VER			nier	0.11	2.43
+niakoué	nja-ku-e	nia-koué	NOM		s		0.03	0.07
+niakoués	nja-ku-e	nia-koués	NOM		p	niakoué	0.04	0.07
+niant	nj@	niant	VER			nier	0.35	0.95
+nib	nib	nib	ADV				0.16	2.03
+nibard	ni-baR	ni-bard	NOM	m	s		0.13	0.07
+nibards	ni-baR	ni-bard-s	NOM	m	p	nibard	1.47	0.61
+nibergue	ni-bERg	ni-ber-gue	ADJ				0	0.07
+nicaraguayen	ni-ka-Ra-gwa-j5	ni-ca-ra-guayen	ADJ	m	s		0.04	0
+nicaraguayenne	ni-ka-Ra-gwa-jEn	ni-ca-ra-guayen-ne	NOM	f	s	nicaraguayen	0.02	0
+nicaraguayens	ni-ka-Ra-gwa-j5	ni-ca-ra-guayens	NOM	m	p	nicaraguayen	0.05	0
+nicaraguayens	ni-ka-Ra-gwa-j5	ni-ca-ra-guayens	ADJ	m	p	nicaraguayen	0.02	0
+nice	nis		NOM		s		2	0.41
+nicet	ni-sE		ADJ	m	s		0	0.14
+nicha	ni-Sa	ni-cha	VER			nicher	0.01	0.07
+nichaient	ni-SE	ni-chaient	VER			nicher	0.12	0.34
+nichait	ni-SE	ni-chait	VER			nicher	0.1	0.27
+nichan	ni-S@	ni-chan	NOM	m	s		0	0.07
+nichant	ni-S@	ni-chant	VER			nicher	0	0.34
+niche	niS	ni-che	NOM	f	s		2.17	6.35
+niche	niS	ni-che	VER			nicher	0.33	0.88
+niché	ni-Se	ni-ché	VER	m	s	nicher	0.23	0.61
+nichée	ni-Se	ni-chée	NOM	f	s		0.06	1.22
+nichée	ni-Se	ni-chée	VER	f	s	nicher	0.14	0.61
+nichées	ni-Se	ni-chées	VER	f	p	nicher	0	0.14
+nichées	ni-Se	ni-chées	NOM	f	p	nichée	0.01	0
+nichent	niS	ni-chent	VER			nicher	0.16	0.27
+nicher	ni-Se	ni-cher	VER				0.35	1.62
+nichèrent	ni-SER	ni-chè-rent	VER			nicher	0	0.07
+niches	niS	ni-ches	NOM	f	p	niche	0.1	3.04
+nichés	ni-Se	ni-chés	VER	m	p	nicher	0.02	0.27
+nicheurs	ni-S9R	ni-cheurs	ADJ	m	p	nicheur	0	0.07
+nichions	ni-Sj§	ni-chions	VER			nicher	0	0.07
+nichon	ni-S§	ni-chon	NOM	m	s		0.67	0.54
+nichonnée	ni-So-ne	ni-chon-née	ADJ	f	s		0	0.14
+nichonnées	ni-So-ne	ni-chon-nées	ADJ	f	p	nichonnée	0	0.14
+nichons	ni-S§	ni-chons	NOM	m	p	nichon	9.18	5.81
+nichons	ni-S§	ni-chons	VER			nicher	0.06	0.07
+nickel	ni-kEl	ni-ckel	ADJ				2.78	1.28
+nickel	ni-kEl	ni-ckel	NOM	m	s		1.41	1.22
+nickelé	ni-k°-le	ni-cke-lé	ADJ	m	s		0.02	0.81
+nickelé	ni-k°-le	ni-cke-lé	VER	m	s	nickeler	0	0.27
+nickelée	ni-k°-le	ni-cke-lée	ADJ	f	s	nickelé	0.01	0.54
+nickelée	ni-k°-le	ni-cke-lée	VER	f	s	nickeler	0	0.07
+nickelées	ni-k°-le	ni-cke-lées	VER	f	p	nickeler	0	0.07
+nickelées	ni-k°-le	ni-cke-lées	ADJ	f	p	nickelé	0	0.07
+nickelés	ni-k°-le	ni-cke-lés	ADJ	m	p	nickelé	0.32	0.61
+nickelés	ni-k°-le	ni-cke-lés	VER	m	p	nickeler	0	0.07
+nickelle	ni-kEl	ni-ckel-le	VER			nickeler	0	0.07
+nickels	ni-kEl	ni-ckels	NOM	m	p	nickel	0.09	0.34
+niçois	ni-swa	ni-çois	ADJ	m			0	0.88
+niçois	ni-swa	ni-çois	NOM	m			0	0.27
+niçoise	ni-swaz	ni-çoi-se	ADJ	f	s	niçois	0.08	0.34
+niçoise	ni-swaz	ni-çoi-se	NOM	f	s	niçois	0.03	0.14
+niçoises	ni-swaz	ni-çoi-ses	NOM	f	p	niçois	0	0.2
+niçoises	ni-swaz	ni-çoi-ses	ADJ	f	p	niçois	0	0.07
+nicotine	ni-ko-tin	ni-co-ti-ne	NOM	f	s		1.66	1.28
+nicotinisé	ni-ko-ti-ni-ze	ni-co-ti-ni-sé	VER	m	s	nicotiniser	0	0.07
+nicotinisés	ni-ko-ti-ni-ze	ni-co-ti-ni-sés	VER	m	p	nicotiniser	0	0.07
+nictation	nik-ta-sj§	nic-ta-tion	NOM	f	s		0	0.07
+nictitant	nik-ti-t@	nic-ti-tant	ADJ	m	s		0	0.07
+nictitante	nik-ti-t@t		ADJ	f	s	nictitant	0.01	0
+nid	ni	nid	NOM	m	s		11.07	14.59
+nid-de-poule	ni-d°-pul	nid-de-poule	NOM	m	s		0.14	0.07
+nidification	ni-di-fi-ka-sj§	ni-di-fi-ca-tion	NOM	f	s		0.04	0.07
+nidificatrices	ni-di-fi-ka-tRis	ni-di-fi-ca-tri-ces	NOM	f	p	nidificateur	0	0.07
+nidifie	ni-di-fi	ni-di-fie	VER			nidifier	0.01	0
+nids	ni	nid-s	NOM	m	p	nid	1.19	4.26
+nids-de-poule	ni-d°-pul	nids-de-poule	NOM	m	p	nid-de-poule	0.06	0.14
+nie	ni	nie	VER			nier	7.37	3.85
+nié	nje	nié	VER	m	s	nier	1.53	0.88
+nié	nje	nié	ADJ	m	s		0.01	0.14
+niébé	nje-be	nié-bé	NOM	m	s		0.02	0.07
+nièce	njEs	niè-ce	NOM	f	s		9.28	9.73
+nièces	njEs	niè-ces	NOM	f	p	nièce	0.82	2.7
+niée	nje	niée	VER	f	s	nier	0.14	0.27
+niée	nje	niée	ADJ	f	s	nié	0.01	0.14
+nielle	njEl	niel-le	NOM		s		0	0.14
+niellé	nje-le	niel-lé	VER	m	s	nieller	0	0.07
+nième	njEm	niè-me	NOM	m	s		0.03	0.07
+nient	ni	nient	VER			nier	0.9	0.95
+nier	nje	nier	VER				7.76	10.68
+niera	ni-Ra	nie-ra	VER			nier	0.18	0
+nierai	ni-RE	nie-rai	VER			nier	0.62	0.2
+nierais	ni-RE	nie-rais	VER			nier	0.12	0.14
+nierait	ni-RE	nie-rait	VER			nier	0.19	0.07
+nieras	ni-Ra	nie-ras	VER			nier	0.14	0
+nière	njER		NOM	m	s		0.14	0.07
+nièrent	njER	niè-rent	VER			nier	0.01	0.07
+nierez	ni-Re	nie-rez	VER			nier	0.04	0.2
+nieriez	ni-Rje	nie-riez	VER			nier	0.01	0
+nierons	ni-R§	nie-rons	VER			nier	0.04	0
+nieront	ni-R§	nie-ront	VER			nier	0.06	0.07
+nies	ni	nies	VER			nier	2.96	0.2
+niés	nje	niés	VER	m	p	nier	0.01	0.07
+niés	nje	niés	ADJ	m	p	nié	0	0.07
+niet	njEt	niet	ONO				0.33	0.27
+nietzschéen	nit-Se-5	nietz-schéen	NOM	m	s		0.59	0.07
+nietzschéen	nit-Se-5	nietz-schéen	ADJ	m	s		0.17	0.41
+nietzschéenne	nit-Se-En	nietz-schéen-ne	ADJ	f	s	nietzschéen	0.41	0.2
+nietzschéenne	nit-Se-En	nietz-schéen-ne	NOM	f	s		0.05	0
+nietzschéennes	nit-Se-En	nietz-schéen-nes	ADJ	f	p	nietzschéen	0.2	0.14
+nietzschéennes	nit-Se-En	nietz-schéen-nes	NOM	f	p	nietzschéenne	0.01	0
+niez	nje	niez	VER			nier	1.87	0.61
+nigaud	ni-go	ni-gaud	NOM	m	s		1.27	0.95
+nigaud	ni-go	ni-gaud	ADJ	m	s		0.54	0.74
+nigaude	ni-god	ni-gau-de	ADJ	f	s	nigaud	0.05	0.14
+nigaude	ni-god	ni-gau-de	NOM	f	s	nigaud	0.03	0.07
+nigaudement	ni-go-d°-m@	ni-gau-de-ment	ADV				0	0.07
+nigauderie	ni-go-d°-Ri	ni-gau-de-rie	NOM	f	s		0	0.07
+nigauds	ni-go	ni-gaud-s	NOM	m	p	nigaud	0.28	0.41
+nigauds	ni-go	ni-gaud-s	ADJ	m	p	nigaud	0.03	0.27
+nigelle	ni-ZEl		NOM	f	s	nigel	0.01	0
+nigérian	ni-Ze-Rj@	ni-gé-rian	ADJ	m	s		0.08	0
+nigérian	ni-Ze-Rj@	ni-gé-rian	NOM	m	s		0.08	0
+nigériane	ni-Ze-Rjan		ADJ	f	s	nigérian	0.01	0
+nigérians	ni-Ze-Rj@	ni-gé-rians	NOM	m	p	nigérian	0.14	0
+nigérians	ni-Ze-Rj@	ni-gé-rians	ADJ	m	p	nigérian	0.04	0
+nigérien	ni-Ze-Rj5	ni-gé-rien	ADJ	m	s		0.17	0
+nigérien	ni-Ze-Rj5	ni-gé-rien	NOM	m	s		0.01	0
+nigériens	ni-Ze-Rj5	ni-gé-riens	NOM	m	p	nigérien	0.03	0.07
+night club	naj-tkl9b	night club	NOM	m	s	night-club	0.05	0
+night-club	naj-tkl9b	night-club	NOM	m	s		1.16	0.61
+night-clubs	naj-tkl9b	night-clubs	NOM	m	p	night-club	0.1	0.27
+niguedouille	nig-duj		NOM		s		0	0.07
+nihil obstat	ni-i-lOp-sta	ni-hil obs-tat	ADV				0	0.2
+nihilisme	ni-i-lizm	ni-hi-lis-me	NOM	m	s		0.11	1.22
+nihiliste	ni-i-list	ni-hi-lis-te	ADJ		s		0.09	0.54
+nihiliste	ni-i-list	ni-hi-lis-te	NOM		s		0.08	0.41
+nihilistes	ni-i-list	ni-hi-lis-tes	ADJ	m	p	nihiliste	0	0.2
+nihilistes	ni-i-list	ni-hi-lis-tes	NOM		p	nihiliste	0.08	0
+nikkei	ni-kEj	nik-kei	NOM	m	s		0.05	0
+nil	nil		NOM		s		0.05	0.07
+nim	nim		NOM	m	s		1.78	0.07
+nimba	n5-ba	nim-ba	VER			nimber	0	0.07
+nimbaient	n5-bE	nim-baient	VER			nimber	0	0.07
+nimbait	n5-bE	nim-bait	VER			nimber	0.01	0.74
+nimbant	n5-b@	nim-bant	VER			nimber	0	0.14
+nimbe	n5b	nim-be	NOM	m	s		0.01	0.81
+nimbé	n5-be	nim-bé	VER	m	s	nimber	0.14	0.47
+nimbé	n5-be	nim-bé	ADJ	m	s		0	0.2
+nimbé	n5-be	nim-bé	NOM	m	s		0	0.07
+nimbée	n5-be	nim-bée	VER	f	s	nimber	0.02	0.61
+nimbée	n5-be	nim-bée	ADJ	f	s	nimbé	0	0.07
+nimbées	n5-be	nim-bées	VER	f	p	nimber	0	0.14
+nimbent	n5b	nim-bent	VER			nimber	0	0.07
+nimber	n5-be	nim-ber	VER				0	0.14
+nimbes	n5b	nim-bes	NOM	m	p	nimbe	0	0.07
+nimbés	n5-be	nim-bés	VER	m	p	nimber	0	0.07
+nimbo	n5-bo	nim-bo	ADV				0	0.07
+nimbo-stratus	n5-bos-tRa-tys	nim-bo-stra-tus	NOM	m			0.14	0
+nimbostratus	n5-bos-tRa-tys	nim-bo-stra-tus	NOM	m			0	0.07
+nimbus	n5-bys	nim-bus	NOM	m			0.09	0.2
+ninas	ni-na	ni-nas	NOM	m			0.01	0.95
+niobium	njO-bjOm		NOM	m	s		0.01	0
+niolo	ni-jo-lo	nio-lo	NOM	m	s		0	0.14
+nions	nj§	nions	VER			nier	0.16	0.07
+nioulouque	nju-luk	niou-lou-que	ADJ		s		0	0.07
+nippe	nip	nip-pe	NOM	f	s		0.01	0.07
+nippe	nip	nip-pe	VER			nipper	0	0.07
+nippé	ni-pe	nip-pé	VER	m	s	nipper	0.02	0.07
+nippée	ni-pe	nip-pée	VER	f	s	nipper	0.02	0.34
+nippées	ni-pe	nip-pées	VER	f	p	nipper	0.1	0.2
+nipper	ni-pe	nip-per	VER				0.04	0.14
+nippes	nip	nip-pes	NOM	f	p	nippe	0.13	2.36
+nippes	nip	nip-pes	VER			nipper	0.1	0
+nippez	ni-pe	nip-pez	VER			nipper	0.1	0.07
+nippo	ni-po	nip-po	ADV				0.03	0
+nippon	ni-p§	nip-pon	ADJ	m	s		0.33	0.41
+nippon	ni-p§	nip-pon	NOM	m	s		0.02	0
+nippone	ni-pOn	nip-po-ne	ADJ	f	s	nippon	0.01	0.14
+nippones	ni-pOn	nip-po-nes	ADJ	f	p	nippon	0	0.34
+nipponne	ni-pOn	nip-pon-ne	ADJ	f	s		0.14	0
+nippons	ni-p§	nip-pons	NOM	m	p	nippon	0.04	0.41
+nippons	ni-p§	nip-pons	ADJ	m	p	nippon	0	0.34
+niquait	ni-kEt	ni-quait	VER			niquer	0.06	0
+nique	nik	ni-que	NOM	f	s		1.56	0.61
+nique	nik	ni-que	VER			niquer	1.21	0.2
+niqué	ni-ke	ni-qué	VER	m	s	niquer	2.33	0.2
+niquedouille	ni-k°-duj	ni-que-douil-le	NOM		s		0.03	0.2
+niquedouille	ni-k°-duj	ni-que-douil-le	ADJ		s		0	0.14
+niquée	ni-ke	ni-quée	VER	f	s	niquer	0.11	0
+niquent	nik	ni-quent	VER			niquer	0.23	0
+niquer	ni-ke	ni-quer	VER				3.27	0.74
+niquera	ni-k°-Ra	ni-que-ra	VER			niquer	0.03	0
+niquerait	ni-k°-RE	ni-que-rait	VER			niquer	0.01	0
+niques	nik	ni-ques	VER			niquer	0.11	0
+niqués	ni-ke	ni-qués	VER	m	p	niquer	0.14	0.2
+niquez	ni-ke	ni-quez	VER			niquer	0.08	0
+niquons	ni-k§	ni-quons	VER			niquer	0.01	0
+nirvana	niR-va-na	nir-va-na	NOM	m	s		0.81	0.68
+nirvâna	niR-va-na	nir-vâ-na	NOM	m	s		0.01	2.09
+nirvanas	niR-va-na	nir-va-nas	NOM	m	p	nirvana	0	0.07
+nisan	ni-z@	ni-san	NOM	m	s		0	0.2
+nitratant	ni-tRa-t@	ni-tra-tant	VER			nitrater	0.01	0
+nitrate	ni-tRat	ni-tra-te	NOM	m	s		0.38	0.41
+nitrates	ni-tRat	ni-tra-tes	NOM	m	p	nitrate	0.27	0.14
+nitre	nitR		NOM	m	s		0.07	0
+nitré	ni-tRe	ni-tré	ADJ	m	s		0	0.07
+nitreuse	ni-tR2z		ADJ	f	s	nitreux	0.01	0
+nitreux	ni-tR2	ni-treux	ADJ	m	s		0.16	0
+nitrique	ni-tRik	ni-tri-que	ADJ		s		0.25	0.14
+nitrite	ni-tRit	ni-tri-te	NOM	m	s		0.02	0.14
+nitrogène	ni-tRo-ZEn	ni-tro-gè-ne	NOM	m	s		0.17	0
+nitroglycérine	ni-tRo-gli-se-Rin	ni-tro-gly-cé-ri-ne	NOM	f	s		0.79	0.2
+nivaquine	ni-va-kin	ni-va-qui-ne	NOM	f	s		0	0.14
+niveau	ni-vo	ni-veau	NOM	m	s		45.46	30.74
+niveaux	ni-vo	ni-veaux	NOM	m	p	niveau	5.24	2.16
+nivelait	ni-v°-lE	ni-ve-lait	VER			niveler	0	0.07
+nivelant	ni-v°-l@	ni-ve-lant	VER			niveler	0.04	0.07
+nivelât	ni-v°-la	ni-ve-lât	VER			niveler	0	0.07
+nivelé	ni-v°-le	ni-ve-lé	VER	m	s	niveler	0.02	0.68
+nivelée	ni-v°-le	ni-ve-lée	VER	f	s	niveler	0	0.27
+nivelées	ni-v°-le	ni-ve-lées	VER	f	p	niveler	0	0.07
+niveler	ni-v°-le	ni-ve-ler	VER				0.09	0.27
+nivelés	ni-v°-le	ni-ve-lés	VER	m	p	niveler	0	0.34
+niveleur	ni-v°-l9R		NOM	m	s		0.01	0
+niveleurs	ni-v°-l9R	ni-ve-leurs	NOM	m	p	niveleur	0	0.2
+niveleuse	ni-v°-l2z	ni-ve-leu-se	NOM	f	s	niveleur	0	0.07
+nivelle	ni-vEl	ni-vel-le	VER			niveler	0	0.07
+nivellement	ni-vE-l°-m@	ni-vel-le-ment	NOM	m	s		0	0.2
+nivellent	ni-vEl	ni-vel-lent	VER			niveler	0	0.07
+nivernais	ni-vER-nE	ni-ver-nais	ADJ	m			0	0.07
+nivernaise	ni-vER-nEz	ni-ver-nai-se	ADJ	f	s		0	0.2
+nivôse	ni-voz	ni-vô-se	NOM	m	s		0	0.41
+nixe	niks	nixe	NOM	f	s		0.01	0.07
+no man's land	no-man-sl@d	no man's land	NOM	m	s		0.95	1.49
+nobiliaire	no-bi-ljER	no-bi-liai-re	ADJ		s		0.1	0.47
+nobiliaire	no-bi-ljER	no-bi-liai-re	NOM	m	s		0	0.07
+nobiliaires	no-bi-ljER	no-bi-liai-res	ADJ		p	nobiliaire	0	0.47
+nobilitas	no-bi-li-ta	no-bi-li-tas	NOM	f			0.1	0
+noblaillon	no-bla-j§	no-blail-lon	NOM	m	s		0.02	0
+noble	nObl	no-ble	ADJ		s		23.73	20
+noble	nObl	no-ble	NOM		s		2.46	2.16
+noblement	nO-bl°-m@	no-ble-ment	ADV				0.58	2.7
+nobles	nObl	no-bles	ADJ		p	noble	4.97	11.62
+nobles	nObl	no-bles	NOM		p	noble	3.86	2.36
+noblesse	no-blEs	no-bles-se	NOM	f	s		6.09	12.43
+noblesses	no-blEs	no-bles-ses	NOM	f	p	noblesse	0	0.2
+nobliau	nO-bli-jo		NOM	m	s		0.01	0
+nobliaux	no-bli-jo	no-bliaux	NOM	m	p	nobliau	0	0.14
+noce	nOs	no-ce	NOM	f	s		4.43	6.55
+nocer	nO-se		VER				0.01	0
+noces	nOs	no-ces	NOM	f	p	noce	12.62	14.46
+noceur	no-s9R	no-ceur	NOM	m	s		0.15	0.47
+noceurs	no-s9R	no-ceurs	NOM	m	p	noceur	0.02	0.2
+noceuse	no-s2z	no-ceu-se	NOM	f	s	noceur	0	0.14
+noceuses	no-s2z	no-ceu-ses	NOM	f	p	noceur	0	0.07
+nocher	no-Se	no-cher	NOM	m	s		0.02	0.14
+nochère	nO-SER		NOM	f	s		0	0.14
+nocif	no-sif	no-cif	ADJ	m	s		0.56	0.74
+nocifs	no-sif	no-cif-s	ADJ	m	p	nocif	0.38	0.34
+nocive	no-siv	no-ci-ve	ADJ	f	s	nocif	0.31	0.41
+nocives	no-siv	no-ci-ves	ADJ	f	p	nocif	0.27	0.2
+nocivité	no-si-vi-te	no-ci-vi-té	NOM	f	s		0.16	0.2
+noctambule	nOk-t@-byl	noc-tam-bu-le	NOM		s		0.07	0.68
+noctambule	nOk-t@-byl	noc-tam-bu-le	ADJ	m	s		0.38	0.27
+noctambules	nOk-t@-byl	noc-tam-bu-les	NOM		p	noctambule	0.01	0.88
+noctambules	nOk-t@-byl	noc-tam-bu-les	ADJ		p	noctambule	0.14	0.34
+noctambulisme	nOk-t@-by-lizm	noc-tam-bu-lis-me	NOM	m	s		0	0.14
+nocturnal	nOk-tyR-nal	noc-tur-nal	NOM	m	s		0.01	0.07
+nocturne	nOk-tyRn	noc-tur-ne	ADJ		s		4.09	25.41
+nocturne	nOk-tyRn	noc-tur-ne	NOM		s		0.25	0.68
+nocturnes	nOk-tyRn	noc-tur-nes	ADJ		p	nocturne	1.62	11.76
+nocturnes	nOk-tyRn	noc-tur-nes	NOM		p	nocturne	0.13	0.27
+nodal	no-dal	no-dal	ADJ	m	s		0.01	0.34
+nodales	no-dal	no-da-les	ADJ	f	p	nodal	0	0.07
+nodosités	no-do-zi-te	no-do-si-tés	NOM	f	p	nodosité	0.01	0.27
+nodule	no-dyl	no-du-le	NOM	m	s		0.12	0
+nodules	no-dyl	no-du-les	NOM	m	p	nodule	0.31	0
+noduleux	no-dy-l2	no-du-leux	ADJ	m	p		0	0.14
+nodus	no-dys	no-dus	NOM	m			0	0.07
+noël	no-El	noël	NOM	m	s		2.14	5.95
+noëls	no-El	noëls	NOM	m	p	noël	0.84	0.74
+noeud	n2	noeud	NOM	m	s		7.64	14.46
+noeuds	n2	noeud-s	NOM	m	p	noeud	3.48	9.8
+noie	nwa	noie	VER			noyer	4.53	3.85
+noient	nwa	noient	VER			noyer	0.48	1.08
+noiera	nwa-Ra	noie-ra	VER			noyer	0.14	0.07
+noierai	nwa-RE	noie-rai	VER			noyer	0.17	0.07
+noieraient	nwa-RE	noie-raient	VER			noyer	0	0.07
+noierait	nwa-RE	noie-rait	VER			noyer	0.56	0.47
+noieras	nwa-Ra	noie-ras	VER			noyer	0.04	0
+noierez	nwa-Re	noie-rez	VER			noyer	0.1	0.07
+noieront	nwa-R§	noie-ront	VER			noyer	0.14	0
+noies	nwa	noies	VER			noyer	0.71	0.14
+noir	nwaR	noir	ADJ	m	s		72.2	184.86
+noir	nwaR	noir	NOM	m	s		54.22	92.57
+noirâtre	nwa-RatR	noi-râ-tre	ADJ		s		0.02	4.12
+noirâtres	nwa-RatR	noi-râ-tres	ADJ		p	noirâtre	0	1.96
+noiraud	nwa-Ro	noi-raud	ADJ	m	s		0.69	1.28
+noiraud	nwa-Ro	noi-raud	NOM	m	s		0.36	0.81
+noiraude	nwa-Rod	noi-rau-de	ADJ	f	s	noiraud	0.01	3.31
+noiraudes	nwa-Rod	noi-rau-des	ADJ	f	p	noiraud	0	0.14
+noirauds	nwa-Ro	noi-raud-s	ADJ	m	p	noiraud	0	0.07
+noirauds	nwa-Ro	noi-raud-s	NOM	m	p	noiraud	0.01	0
+noirceur	nwaR-s9R	noir-ceur	NOM	f	s		0.63	2.97
+noirceurs	nwaR-s9R	noir-ceurs	NOM	f	p	noirceur	0	0.27
+noirci	nwaR-si	noir-ci	VER	m	s	noircir	0.38	1.89
+noirci	nwaR-si	noir-ci	ADJ	m	s		0.47	1.35
+noircie	nwaR-si	noir-cie	VER	f	s	noircir	0.15	1.01
+noircie	nwaR-si	noir-cie	ADJ	f	s	noirci	0.01	0.61
+noircies	nwaR-si	noir-cies	ADJ	f	p	noirci	0.04	1.69
+noircies	nwaR-si	noir-cies	VER	f	p	noircir	0.01	1.22
+noircir	nwaR-siR	noir-cir	VER				0.68	2.16
+noircirai	nwaR-si-RE	noir-ci-rai	VER			noircir	0.01	0
+noircirais	nwaR-si-RE	noir-ci-rais	VER			noircir	0	0.07
+noircirait	nwaR-si-RE	noir-ci-rait	VER			noircir	0	0.07
+noircirent	nwaR-siR	noir-ci-rent	VER			noircir	0	0.2
+noircis	nwaR-si	noir-cis	ADJ	m	p	noirci	0.14	1.28
+noircis	nwaR-si	noir-cis	VER	m	p	noircir	0.35	0.88
+noircissaient	nwaR-si-sE	noir-cis-saient	VER			noircir	0.14	0.2
+noircissais	nwaR-si-sE	noir-cis-sais	VER			noircir	0	0.07
+noircissait	nwaR-si-sE	noir-cis-sait	VER			noircir	0.01	1.28
+noircissant	nwaR-si-s@	noir-cis-sant	VER			noircir	0	0.34
+noircisse	nwaR-sis	noir-cis-se	VER			noircir	0	0.07
+noircissent	nwaR-sis	noir-cis-sent	VER			noircir	0.11	0.2
+noircissez	nwaR-si-se	noir-cis-sez	VER			noircir	0.05	0.07
+noircit	nwaR-si	noir-cit	VER			noircir	0.25	0.68
+noire	nwaR	noi-re	ADJ	f	s	noir	41.57	140.88
+noire	nwaR	noi-re	NOM	f	s	noir	3.59	8.78
+noires	nwaR	noi-res	ADJ	f	p	noir	9.39	62.64
+noires	nwaR	noi-res	NOM	f	p	noir	1.33	1.82
+noirs	nwaR	noirs	ADJ	m	p	noir	21.65	93.85
+noirs	nwaR	noirs	NOM	m	p	noir	20.61	13.72
+noise	nwaz	noi-se	NOM	f	s		0.35	0.27
+noises	nwaz	noi-ses	NOM	f	p	noise	0.79	0.41
+noisetier	nwa-z°-tje	noi-se-tier	NOM	m	s		1.1	1.62
+noisetiers	nwa-z°-tje	noi-se-tiers	NOM	m	p	noisetier	0.03	1.62
+noisette	nwa-zEt	noi-set-te	NOM	f	s		0.57	1.69
+noisette	nwa-zEt	noi-set-te	ADJ				0.22	1.82
+noisettes	nwa-zEt	noi-set-tes	NOM	f	p	noisette	2.33	2.3
+noix	nwa	noix	NOM	f			12.83	12.23
+nok	nOk	nok	ADJ	f	s		0.03	0
+nolis	no-li	no-lis	NOM	m			0	0.07
+nom	n§	nom	NOM	m	s		528.17	326.89
+nomade	no-mad	no-ma-de	NOM		s		0.6	1.62
+nomade	no-mad	no-ma-de	ADJ		s		0.24	1.96
+nomades	no-mad	no-ma-des	NOM		p	nomade	0.72	3.24
+nomades	no-mad	no-ma-des	ADJ		p	nomade	0.16	1.15
+nomadisait	no-ma-di-zE	no-ma-di-sait	VER			nomadiser	0	0.07
+nomadisant	no-ma-di-z@	no-ma-di-sant	VER			nomadiser	0	0.07
+nomadisent	no-ma-diz	no-ma-di-sent	VER			nomadiser	0	0.07
+nomadisme	no-ma-dizm	no-ma-dis-me	NOM	m	s		0.01	0.68
+nombre	n§bR	nom-bre	NOM	m	s		36.57	76.28
+nombres	n§bR	nom-bres	NOM	m	p	nombre	3.59	2.09
+nombreuse	n§-bR2z	nom-breu-se	ADJ	f	s	nombreux	0.74	5.34
+nombreuses	n§-bR2z	nom-breu-ses	ADJ	f	p	nombreux	14.01	17.91
+nombreux	n§-bR2	nom-breux	ADJ	m			29.89	37.03
+nombril	n§-bRil	nom-bril	NOM	m	s		4.26	5.2
+nombrilisme	n§-bRi-lism		NOM	m	s		0.03	0
+nombriliste	n§-bRi-list	nom-bri-lis-te	NOM		s		0.14	0
+nombriliste	n§-bRi-list	nom-bri-lis-te	ADJ	f	s		0.06	0.07
+nombrils	n§-bRil	nom-brils	NOM	m	p	nombril	0.08	0.34
+nome	nOm	no-me	NOM	m	s		0.24	0.07
+nomenclature	no-m@-kla-tyR	no-men-cla-tu-re	NOM	f	s		0.03	0.81
+nomenclatures	no-m@-kla-tyR	no-men-cla-tu-res	NOM	f	p	nomenclature	0	0.2
+nomenklatura	no-m@-kla-ty-Ra	no-menk-la-tu-ra	NOM	f	s		0	0.14
+nominal	no-mi-nal	no-mi-nal	ADJ	m	s		0.09	0.14
+nominale	no-mi-nal	no-mi-na-le	ADJ	f	s	nominal	0.1	0.07
+nominalement	nO-mi-na-l°-m@		ADV				0.01	0
+nominales	no-mi-nal	no-mi-na-les	ADJ	f	p	nominal	0.02	0.14
+nominaliste	no-mi-na-list	no-mi-na-lis-te	ADJ	m	s		0	0.07
+nominatif	no-mi-na-tif	no-mi-na-tif	ADJ	m	s		0.05	0.07
+nominatifs	no-mi-na-tif	no-mi-na-tif-s	ADJ	m	p	nominatif	0	0.2
+nomination	no-mi-na-sj§	no-mi-na-tion	NOM	f	s		3.1	2.77
+nominations	no-mi-na-sj§	no-mi-na-tions	NOM	f	p	nomination	0.4	0.34
+nominative	no-mi-na-tiv	no-mi-na-ti-ve	ADJ	f	s	nominatif	0.03	0.07
+nominatives	no-mi-na-tiv	no-mi-na-ti-ves	ADJ	f	p	nominatif	0.01	0.14
+nominaux	no-mi-no		ADJ	m	p	nominal	0.17	0
+nomine	no-min	no-mi-ne	VER			nominer	0.25	0.34
+nominé	no-mi-ne	no-mi-né	VER	m	s	nominer	0.56	0
+nominée	no-mi-ne	no-mi-née	VER	f	s	nominer	0.21	0
+nominées	no-mi-ne	no-mi-nées	VER	f	p	nominer	0.08	0
+nominer	nO-mi-ne		VER				0.04	0
+nominés	no-mi-ne	no-mi-nés	VER	m	p	nominer	0.27	0
+nomma	no-ma	nom-ma	VER			nommer	0.3	1.82
+nommai	no-mE	nom-mai	VER			nommer	0	0.68
+nommaient	no-mE	nom-maient	VER			nommer	0.02	1.22
+nommais	no-mE	nom-mais	VER			nommer	0.02	0.27
+nommait	no-mE	nom-mait	VER			nommer	0.51	6.82
+nommant	no-m@	nom-mant	VER			nommer	0.57	0.95
+nommât	no-ma	nom-mât	VER			nommer	0	0.14
+nomme	nOm	nom-me	VER			nommer	9.41	9.53
+nommé	no-me	nom-mé	VER	m	s	nommer	18.24	20.41
+nommé	no-me	nom-mé	ADJ	m	s		3.73	6.82
+nommée	no-me	nom-mée	VER	f	s	nommer	3.01	3.51
+nommée	no-me	nom-mée	ADJ	f	s	nommé	0.38	0.54
+nommées	no-me	nom-mées	VER	f	p	nommer	0.2	0.81
+nommées	no-me	nom-mées	ADJ	f	p	nommé	0.03	0.27
+nommément	no-me-m@	nom-mé-ment	ADV				0.1	0.47
+nomment	nOm	nom-ment	VER			nommer	0.69	1.22
+nommer	no-me	nom-mer	VER				7.41	10.47
+nommera	nO-m°-Ra	nom-me-ra	VER			nommer	0.64	0.27
+nommerai	nO-m°-RE	nom-me-rai	VER			nommer	1.1	0.27
+nommerais	nO-m°-RE	nom-me-rais	VER			nommer	0.21	0
+nommerait	nO-m°-RE	nom-me-rait	VER			nommer	0.04	0.14
+nommeras	nO-m°-Ra	nom-me-ras	VER			nommer	0.02	0
+nommèrent	no-mER	nom-mè-rent	VER			nommer	0.15	0.14
+nommeriez	nO-m°-Rje	nom-me-riez	VER			nommer	0.02	0
+nommerons	nO-m°-R§	nom-me-rons	VER			nommer	0.05	0
+nommeront	nO-m°-R§	nom-me-ront	VER			nommer	0.05	0.07
+nommes	nOm	nom-mes	VER			nommer	0.61	0.07
+nommés	no-me	nom-més	VER	m	p	nommer	0.68	2.3
+nommés	no-me	nom-més	ADJ	m	p	nommé	0.05	0.2
+nommez	no-me	nom-mez	VER			nommer	1.14	0.61
+nommiez	no-mje	nom-miez	VER			nommer	0.17	0
+nommions	no-mj§	nom-mions	VER			nommer	0.01	0.27
+nommons	no-m§	nom-mons	VER			nommer	0.34	0.34
+noms	n§	nom-s	NOM	m	p	nom	42.5	68.11
+non	n§	non	ADV				4040.18	1135.81
+non	n§	non	NOM	m			3.56	3.38
+non	n§	non	ADJ	m	s		0.05	0
+non	n§	non	PRO:per		s		0.01	0
+non troppo	nOn-tRo-po	non trop-po	ADV				0	0.07
+non-agression	nO-na-gRE-sj§	non-agression	NOM	f	s		0.07	0.61
+non-alignement	nO-na-li-N°-m@	non-alignement	NOM	m	s		0.04	0
+non-alignés	nO-na-li-Ne	non-alignés	ADJ	m	p	non-aligné	0.09	0
+non-amour	nO-na-muR		NOM	m	s		0.1	0
+non-appartenance	nO-na-paR-t2-n@s		NOM	f	s		0.01	0.07
+non-assistance	nO-na-sis-t@s	non-assistance	NOM	f	s		0.1	0.07
+non-blanc	n§-bl@	non-blanc	NOM	m	s		0	0.07
+non-blancs	n§-bl@	non-blancs	NOM	m	p	non-blanc	0.04	0
+non-combattant	n§-k§-ba-t@	non-combattant	ADJ	m	s		0.01	0
+non-combattant	n§-k§-ba-t@	non-combattant	NOM	m	s		0.01	0
+non-combattants	n§-k§-ba-t@	non-combattants	ADJ	m	p	non-combattant	0.14	0
+non-combattants	n§-k§-ba-t@	non-combattants	NOM	m	p	non-combattant	0.02	0
+non-comparution	n§-k§-pa-Ry-sj§	non-comparution	NOM	f	s		0.01	0
+non-concurrence	n§-k§-ky-R@s		NOM	f	s		0.01	0
+non-conformisme	n§-k§-fOR-mizm	non-conformisme	NOM	m	s		0	0.2
+non-conformiste	n§-k§-fOR-mist	non-conformiste	NOM		s		0.06	0.14
+non-conformiste	n§-k§-fOR-mist	non-conformiste	ADJ		s		0.1	0
+non-conformistes	n§-k§-fOR-mist	non-conformistes	ADJ		p	non-conformiste	0.04	0
+non-conformistes	n§-k§-fOR-mist	non-conformistes	NOM		p	non-conformiste	0.03	0
+non-conformité	n§-k§-fOR-mi-te		NOM	f	s		0.01	0
+non-consommation	n§-k§-sO-ma-sj§		NOM	f	s		0.03	0
+non-croyance	n§k-Rwa-j@s		NOM	f	s		0.1	0
+non-croyant	n§k-Rwa-j@	non-croyant	NOM	m	s		0.21	0.07
+non-croyants	n§k-Rwa-j@	non-croyants	NOM	m	p	non-croyant	0.41	0
+non-culpabilité	n§-kyl-pa-bi-li-te		NOM	f	s		0.01	0
+non-dit	n§-di	non-dit	NOM	m	s		0.09	0.74
+non-dits	n§-di	non-dits	NOM	m	p	non-dit	0.18	0.14
+non-droit	n§-dRwa		NOM	m	s		0.22	0
+non-être	n§-nEtR	non-être	NOM	m			0	0.95
+non-événement	nO-ne-ve-n°-m@		NOM	m	s		0.02	0
+non-existence	nO-nEg-zis-t@s	non-existence	NOM	f	s		0.07	0.07
+non-ferreux	n§-fE-R2		NOM	m			0.01	0
+non-fumeur	n§-fy-m9R	non-fumeur	ADJ	m	s		0.68	0
+non-fumeur	n§-fy-m9R	non-fumeur	NOM	m	s		0.14	0
+non-fumeurs	n§-fy-m9R	non-fumeurs	ADJ				0.44	0.07
+non-initié	nO-ni-ni-sje	non-initié	NOM	m	s		0.03	0.14
+non-initié	nO-ni-ni-sje	non-initié	ADJ	m	s		0.01	0
+non-initiés	nO-ni-ni-sje	non-initiés	NOM	m	p	non-initié	0.19	0.2
+non-initiés	nO-ni-ni-sje	non-initiés	ADJ	m	p	non-initié	0.01	0
+non-intervention	nO-n5-tER-v@-sj§	non-intervention	NOM	f	s		0.21	0.14
+non-lieu	n§-lj2	non-lieu	NOM	m	s		1.08	1.42
+non-lieux	n§-lj2	non-lieux	NOM	m	p		0.01	0.2
+non-malades	n§-ma-lad	non-malades	NOM		p	non-malade	0	0.07
+non-paiement	n§-pE-m@	non-paiement	NOM	m	s		0.1	0.07
+non-participation	n§-paR-ti-si-pa-sj§	non-participation	NOM	f	s		0.01	0.07
+non-pesanteur	n§-p°-z@-t9R	non-pesanteur	NOM	f	s		0	0.07
+non-présence	n§-pRe-z@s		NOM	f	s		0.01	0.14
+non-prolifération	n§-pRo-li-fe-Ra-sj§	non-prolifération	NOM	f	s		0.09	0
+non-recevoir	n§-R2-s2-vwaR	non-recevoir	NOM	m	s		0.06	0.2
+non-représentation	n§-R2-pRe-z@-ta-sj§		NOM	f	s		0.01	0
+non-résistance	n§-Re-zis-t@s	non-résistance	NOM	f	s		0	0.14
+non-respect	n§-REs-pE	non-respect	NOM	m	s		0.16	0
+non-retour	n§-R2-tuR	non-retour	NOM	m	s		0.34	0.41
+non-savoir	n§-sa-vwaR		NOM	m	s		0.04	0.07
+non-savoir	n§-sa-vwaR		VER				0.01	0
+non-sens	n§-s@s	non-sens	NOM	m			0.83	0.95
+non-séparation	n§-se-pa-Ra-sj§		NOM	f	s		0	0.07
+non-spécialiste	n§s-pe-sja-list	non-spécialiste	NOM		s		0.01	0
+non-spécialistes	n§s-pe-sja-list	non-spécialistes	NOM		p	non-spécialiste	0.01	0.07
+non-stop	nOn-stOp	non-stop	ADJ				0.89	0.14
+non-utilisation	nO-ny-ti-li-za-sj§		NOM	f	s		0.01	0
+non-vie	n§-vi		NOM	f	s		0.04	0
+non-violence	n§-vjo-l@s	non-violence	NOM	f	s		0.63	0.07
+non-violent	n§-vjo-l@	non-violent	ADJ	m	s		0.19	0.07
+non-violent	n§-vjo-l@	non-violent	NOM	m	s		0.05	0.07
+non-violente	n§-vjo-l@t	non-violente	ADJ	f	s	non-violent	0.07	0
+non-violente	n§-vjo-l@t	non-violente	NOM	f	s	non-violent	0.01	0
+non-violents	n§-vjo-l@	non-violents	ADJ	m	p	non-violent	0.05	0
+non-violents	n§-vjo-l@	non-violents	NOM	m	p	non-violent	0.01	0
+non-vouloir	n§-vu-lwaR		NOM	m	s		0	0.07
+non-voyant	n§-vwa-j@	non-voyant	NOM	m	s		0.28	0.2
+non-voyante	n§-vwa-j@t		NOM	f	s	non-voyant	0.02	0
+non-voyants	n§-vwa-j@	non-voyants	NOM	m	p	non-voyant	0.03	0.07
+nonagénaire	no-na-Ze-nER	no-na-gé-nai-re	ADJ		s		0.01	0.41
+nonagénaire	no-na-Ze-nER	no-na-gé-nai-re	NOM		s		0.01	0.14
+nonagénaires	no-na-Ze-nER	no-na-gé-nai-res	ADJ	f	p	nonagénaire	0	0.14
+nonagénaires	no-na-Ze-nER	no-na-gé-nai-res	NOM		p	nonagénaire	0.01	0
+nonante	no-n@t	no-nan-te	ADJ:num				0.27	0.27
+nonante-huit	no-n@-t8it	nonante-huit	ADJ:num				0	0.07
+nonce	n§s	non-ce	NOM	m	s		0.01	0.68
+nonchalamment	n§-Sa-la-m@	non-cha-lam-ment	ADV				0.04	2.7
+nonchalance	n§-Sa-l@s	non-cha-lan-ce	NOM	f	s		0.47	5
+nonchalant	n§-Sa-l@	non-cha-lant	ADJ	m	s		0.21	3.31
+nonchalante	n§-Sa-l@t	non-cha-lan-te	ADJ	f	s	nonchalant	0.27	2.77
+nonchalantes	n§-Sa-l@t	non-cha-lan-tes	ADJ	f	p	nonchalant	0.11	0.68
+nonchalants	n§-Sa-l@	non-cha-lants	ADJ	m	p	nonchalant	0.01	0.88
+nonciature	n§-sja-tyR	non-cia-tu-re	NOM	f	s		0.14	0.14
+none	nOn	no-ne	NOM	f	s		0.48	0.07
+nones	nOn	no-nes	NOM	f	p	none	0.19	0.34
+nonette	no-nEt	no-net-te	NOM		s		0	0.2
+nonettes	no-nEt	no-net-tes	NOM		p	nonette	0	0.07
+nonidi	no-ni-di	no-ni-di	NOM	m	s		0	0.07
+nonnain	no-n5	non-nain	NOM	m	s		0	0.61
+nonne	nOn	non-ne	NOM	f	s		5.46	1.69
+nonnes	nOn	non-nes	NOM	f	p	nonne	3.01	2.03
+nonnette	no-nEt	non-net-te	NOM	f	s		0.04	0.34
+nonnettes	no-nEt	non-net-tes	NOM	f	p	nonnette	0.1	0.07
+nonobstant	no-nOp-st@	non-obs-tant	PRE				0.16	2.97
+nonobstant	no-nOp-st@	non-obs-tant	ADV				0.04	0.54
+nonpareille	n§-pa-REj	non-pa-reil-le	ADJ	f	s	nonpareil	0.01	0.14
+nonsense	n§-s@s	non-sen-se	NOM	m	s		0.04	0.07
+nope	nOp	no-pe	NOM	f	s		0.5	0
+noradrénaline	nO-Ra-dRe-na-lin		NOM	f	s		0.05	0
+nord	nOR	nord	NOM	m			50.38	72.3
+nord	nOR	nord	ADJ				12.26	11.89
+nord-africain	nO-Ra-fRi-k5	nord-africain	NOM	m	s		0	0.34
+nord-africain	nO-Ra-fRi-k5	nord-africain	ADJ	m	s		0.02	0.2
+nord-africaine	nO-Ra-fRi-kEn	nord-africaine	ADJ	f	s	nord-africain	0.01	0.95
+nord-africaines	nO-Ra-fRi-kEn	nord-africaines	ADJ	f	p	nord-africain	0.01	0.07
+nord-africains	nO-Ra-fRi-k5	nord-africains	NOM	m	p	nord-africain	0	0.81
+nord-africains	nO-Ra-fRi-k5	nord-africains	ADJ	m	p	nord-africain	0.01	0.74
+nord-américain	nO-Ra-me-Ri-k5	nord-américain	ADJ	m	s		0.24	0.07
+nord-américain	nO-Ra-me-Ri-k5	nord-américain	NOM	m	s		0.1	0
+nord-américaine	nO-Ra-me-Ri-kEn	nord-américaine	ADJ	f	s	nord-américain	0.06	0.14
+nord-américains	nO-Ra-me-Ri-k5	nord-américains	NOM	m	p	nord-américain	0.03	0
+nord-américains	nO-Ra-me-Ri-k5	nord-américains	ADJ	m	p	nord-américain	0.02	0
+nord-coréen	nOR-ko-Re-5	nord-coréen	ADJ	m	s		0.24	0
+nord-coréen	nOR-ko-Re-5	nord-coréen	NOM	m	s		0.02	0
+nord-coréenne	nOR-ko-Re-En	nord-coréenne	ADJ	f	s	nord-coréen	0.06	0
+nord-coréenne	nOR-ko-Re-En	nord-coréenne	NOM	f	s	nord-coréen	0.02	0
+nord-coréennes	nOR-ko-Re-En	nord-coréennes	ADJ	f	p	nord-coréen	0.02	0
+nord-coréens	nOR-ko-Re-5	nord-coréens	NOM	m	p	nord-coréen	0.18	0.07
+nord-coréens	nOR-ko-Re-5	nord-coréens	ADJ	m	p	nord-coréen	0.04	0
+nord-est	nO-REst	nord-est	NOM	m			1.4	2.84
+nord-est	nO-REst	nord-est	ADJ				0.84	0.47
+nord-nord-est	nOR-nO-REst		NOM	m	s		0.03	0.14
+nord-ouest	nO-RwEst	nord-ouest	NOM	m			0.95	1.22
+nord-ouest	nO-RwEst	nord-ouest	ADJ				0.91	0.61
+nord-sud	nOR-syd	nord-sud	ADJ				0.15	0.88
+nord-vietnamien	nOR-vjEt-na-mj5	nord-vietnamien	ADJ	m	s		0.04	0
+nord-vietnamien	nOR-vjEt-na-mj5	nord-vietnamien	NOM	m	s		0.01	0
+nord-vietnamienne	nOR-vjEt-na-mjEn	nord-vietnamienne	ADJ	f	s	nord-vietnamien	0.04	0
+nord-vietnamiens	nOR-vjEt-na-mj5	nord-vietnamiens	NOM	m	p	nord-vietnamien	0.11	0
+nord-vietnamiens	nOR-vjEt-na-mj5	nord-vietnamiens	ADJ	m	p	nord-vietnamien	0.03	0
+nordet	nOR-dE	nor-det	NOM	m	s		0	0.07
+nordicité	nOR-di-si-te		NOM	f	s		0.01	0
+nordique	nOR-dik	nor-di-que	ADJ		s		1.15	1.22
+nordique	nOR-dik	nor-di-que	NOM		s		0.4	0.41
+nordiques	nOR-dik	nor-di-ques	ADJ		p	nordique	0.28	0.47
+nordiques	nOR-dik	nor-di-ques	NOM		p	nordique	0.31	0.07
+nordiste	nOR-dist	nor-dis-te	ADJ		s		0.22	0.14
+nordiste	nOR-dist	nor-dis-te	NOM		s		0.12	0
+nordistes	nOR-dist	nor-dis-tes	NOM		p	nordiste	0.66	0.07
+nordistes	nOR-dist	nor-dis-tes	ADJ	m	p	nordiste	0.25	0
+noria	no-Rja	no-ria	NOM	f	s		0.01	0.54
+noria	no-Rja	no-ria	ADJ	f	s		0	0.07
+norias	no-Rja	no-rias	NOM	f	p	noria	0	0.07
+normal	nOR-mal	nor-mal	ADJ	m	s		90.98	42.97
+normal	nOR-mal	nor-mal	NOM	m	s		7.29	2.84
+normale	nOR-mal	nor-ma-le	ADJ	f	s	normal	23.74	13.45
+normale	nOR-mal	nor-ma-le	NOM	f	s		3.73	2.36
+normalement	nOR-ma-l°-m@	nor-ma-le-ment	ADV				20.37	12.43
+normales	nOR-mal	nor-ma-les	ADJ	f	p	normal	4.08	2.3
+normales	nOR-mal	nor-ma-les	NOM	f	p	normale	0.11	0.14
+normalien	nOR-ma-lj5	nor-ma-lien	NOM	m	s		0	1.35
+normalien	nOR-ma-lj5	nor-ma-lien	ADJ	m	s		0	0.14
+normalienne	nOR-ma-ljEn	nor-ma-lien-ne	ADJ	f	s	normalien	0	0.14
+normaliennes	nOR-ma-ljEn	nor-ma-lien-nes	NOM	f	p	normalien	0	0.07
+normaliens	nOR-ma-lj5	nor-ma-liens	NOM	m	p	normalien	0	0.81
+normaliens	nOR-ma-lj5	nor-ma-liens	ADJ	m	p	normalien	0	0.07
+normalisation	nOR-ma-li-za-sj§	nor-ma-li-sa-tion	NOM	f	s		0.13	0.41
+normalise	nOR-ma-liz	nor-ma-li-se	VER			normaliser	0.04	0.07
+normalisée	nOR-ma-li-ze		VER	f	s	normaliser	0.03	0
+normalisées	nOR-ma-li-ze	nor-ma-li-sées	VER	f	p	normaliser	0	0.07
+normalisent	nOR-ma-liz	nor-ma-li-sent	VER			normaliser	0	0.07
+normaliser	nOR-ma-li-ze	nor-ma-li-ser	VER				0.12	0.27
+normalisés	nOR-ma-li-ze	nor-ma-li-sés	ADJ	m	p	normalisé	0	0.07
+normalisés	nOR-ma-li-ze	nor-ma-li-sés	VER	m	p	normaliser	0.01	0
+normalisons	nOR-ma-li-z§	nor-ma-li-sons	VER			normaliser	0	0.07
+normalité	nOR-ma-li-te	nor-ma-li-té	NOM	f	s		1.27	0.74
+normand	nOR-m@	nor-mand	ADJ	m	s		0.45	2.03
+normand	nOR-m@	nor-mand	NOM	m	s		0.01	0.07
+normande	nOR-m@d	nor-man-de	ADJ	f	s	normand	0.27	2.97
+normande	nOR-m@d	nor-man-de	NOM	f	s	normand	0.02	0.61
+normandes	nOR-m@d	nor-man-des	ADJ	f	p	normand	0.03	0.74
+normandes	nOR-m@d	nor-man-des	NOM	f	p	normand	0	0.07
+normands	nOR-m@	nor-mand-s	ADJ	m	p	normand	0.05	0.68
+normands	nOR-m@	nor-mand-s	NOM	m	p	normand	0.01	0.14
+normatif	nOR-ma-tif	nor-ma-tif	ADJ	m	s		0.01	0.14
+normative	nOR-ma-tiv	nor-ma-ti-ve	ADJ	f	s	normatif	0	0.14
+normaux	nOR-mo	nor-maux	ADJ	m	p	normal	8.35	4.05
+norme	nORm	nor-me	NOM	f	s		1.58	1.15
+normes	nORm	nor-mes	NOM	f	p	norme	3.42	2.64
+noroît	no-Rwa	no-roît	NOM	m	s		0	0.34
+norroise	nO-Rwaz		ADJ	f	s	norrois	0.01	0
+norvégien	nOR-ve-Zj5	nor-vé-gien	ADJ	m	s		1.16	0.54
+norvégien	nOR-ve-Zj5	nor-vé-gien	NOM	m	s		0.8	0.54
+norvégienne	nOR-ve-ZjEn	nor-vé-gien-ne	ADJ	f	s	norvégien	1	0.14
+norvégienne	nOR-ve-ZjEn	nor-vé-gien-ne	NOM	f	s		0.07	0.07
+norvégiennes	nOR-ve-ZjEn	nor-vé-gien-nes	ADJ	f	p	norvégien	0.47	0.14
+norvégiennes	nOR-ve-ZjEn	nor-vé-gien-nes	NOM	f	p	norvégienne	0.14	0.07
+norvégiens	nOR-ve-Zj5	nor-vé-giens	ADJ	m	p	norvégien	0.34	0.34
+norvégiens	nOR-ve-Zj5	nor-vé-giens	NOM	m	p	norvégien	0.19	0.2
+nos	no	nos	ADJ:pos		p		524.63	579.19
+nosocomiale	no-zO-kO-mjal		ADJ	f	s	nosocomial	0.01	0
+nostalgie	nOs-tal-Zi	nos-tal-gie	NOM	f	s		4.44	18.04
+nostalgies	nOs-tal-Zi	nos-tal-gies	NOM	f	p	nostalgie	0.01	2.03
+nostalgique	nOs-tal-Zik	nos-tal-gi-que	ADJ		s		1.11	3.78
+nostalgique	nOs-tal-Zik	nos-tal-gi-que	NOM		s		0.02	0.2
+nostalgiquement	nOs-tal-Zi-k°-m@	nos-tal-gi-que-ment	ADV				0	0.2
+nostalgiques	nOs-tal-Zik	nos-tal-gi-ques	ADJ		p	nostalgique	0.2	1.49
+nostalgiques	nOs-tal-Zik	nos-tal-gi-ques	NOM		p	nostalgique	0.04	0.14
+not	nOt	not	NOM				0.56	0.07
+nota	no-ta	no-ta	VER			noter	0.02	4.12
+nota	no-ta	no-ta	NOM	m			0	0.34
+nota bene	no-ta-be-ne	no-ta be-ne	ADV				0.01	0.07
+notabilité	no-ta-bi-li-te	no-ta-bi-li-té	NOM	f	s		0	0.07
+notabilités	no-ta-bi-li-te	no-ta-bi-li-tés	NOM	f	p	notabilité	0	0.68
+notable	no-tabl	no-ta-ble	ADJ		s		0.49	3.65
+notable	no-tabl	no-ta-ble	NOM		s		0.11	1.35
+notablement	no-ta-bl°-m@	no-ta-ble-ment	ADV				0.04	0.74
+notables	no-tabl	no-ta-bles	NOM		p	notable	0.52	5.2
+notables	no-tabl	no-ta-bles	ADJ		p	notable	0.2	1.35
+notai	no-tE	no-tai	VER			noter	0.14	1.62
+notaient	no-tE	no-taient	VER			noter	0.03	0.27
+notaire	no-tER	no-tai-re	NOM	m	s		4.63	14.86
+notaires	no-tER	no-tai-res	NOM	m	p	notaire	0.06	2.36
+notais	no-tE	no-tais	VER			noter	0.31	1.01
+notait	no-tE	no-tait	VER			noter	0.32	2.7
+notamment	no-ta-m@	no-tam-ment	ADV				2.2	20.2
+notant	no-t@	no-tant	VER			noter	0.16	1.01
+notarial	no-ta-Rjal	no-ta-rial	ADJ	m	s		0.01	0.14
+notariale	nO-ta-Rjal		ADJ	f	s	notarial	0.01	0
+notariat	no-ta-Rja	no-ta-riat	NOM	m	s		0	0.2
+notariaux	no-ta-Rjo	no-ta-riaux	ADJ	m	p	notarial	0	0.07
+notarié	no-ta-Rje	no-ta-rié	VER	m	s	notarier	0.05	0.07
+notarié	no-ta-Rje	no-ta-rié	ADJ	m	s		0.04	0
+notariée	no-ta-Rje	no-ta-riée	ADJ	f	s	notarié	0.01	0
+notariées	no-ta-Rje	no-ta-riées	VER	f	p	notarier	0.01	0.07
+notariés	no-ta-Rje	no-ta-riés	VER	m	p	notarier	0.03	0.07
+notariés	no-ta-Rje	no-ta-riés	ADJ	m	p	notarié	0.02	0.07
+notation	no-ta-sj§	no-ta-tion	NOM	f	s		0.19	0.54
+notations	no-ta-sj§	no-ta-tions	NOM	f	p	notation	0.03	0.54
+note	nOt	no-te	NOM	f	s		33.42	39.32
+note	nOt	no-te	VER			noter	5.37	8.72
+noté	no-te	no-té	VER	m	s	noter	11.04	8.11
+noté	no-te	no-té	ADJ	m	s		0.97	0.34
+notée	no-te	no-tée	VER	f	s	noter	0.33	0.27
+notée	no-te	no-tée	ADJ	f	s	noté	0.23	0.27
+notées	no-te	no-tées	VER	f	p	noter	0.06	0.41
+notées	no-te	no-tées	ADJ	f	p	noté	0.16	0
+notent	nOt	no-tent	VER			noter	0.28	0.14
+noter	no-te	no-ter	VER				5.44	8.78
+notera	nO-t°-Ra	no-te-ra	VER			noter	0.03	0.47
+noterai	nO-t°-RE	no-te-rai	VER			noter	0.51	0.2
+noterais	nO-t°-RE	no-te-rais	VER			noter	0.05	0
+noterait	nO-t°-RE	no-te-rait	VER			noter	0.04	0.27
+noteras	nO-t°-Ra	no-te-ras	VER			noter	0.03	0.07
+notèrent	no-tER	no-tè-rent	VER			noter	0.01	0.07
+noterez	nO-t°-Re	no-te-rez	VER			noter	0.19	0.34
+noterons	nO-t°-R§	no-te-rons	VER			noter	0.01	0.07
+noteront	nO-t°-R§	no-te-ront	VER			noter	0.04	0
+notes	nOt	no-tes	NOM	f	p	note	29.4	38.11
+notés	no-te	no-tés	VER	m	p	noter	0.56	0.47
+notés	no-te	no-tés	ADJ	m	p	noté	0.04	0.07
+notez	no-te	no-tez	VER			noter	5.74	5.14
+notice	no-tis	no-ti-ce	NOM	f	s		0.92	1.96
+notices	no-tis	no-ti-ces	NOM	f	p	notice	0.31	0.61
+notiez	no-tje	no-tiez	VER			noter	0.35	0
+notifia	no-ti-fja	no-ti-fia	VER			notifier	0	0.47
+notifiai	no-ti-fjE	no-ti-fiai	VER			notifier	0	0.2
+notifiaient	no-ti-fjE	no-ti-fiaient	VER			notifier	0	0.07
+notifiait	no-ti-fjE	no-ti-fiait	VER			notifier	0	0.2
+notifiant	no-ti-fj@	no-ti-fiant	VER			notifier	0	0.2
+notification	no-ti-fi-ka-sj§	no-ti-fi-ca-tion	NOM	f	s		0.37	0.54
+notifié	no-ti-fje	no-ti-fié	VER	m	s	notifier	0.42	0.88
+notifiée	no-ti-fje	no-ti-fiée	VER	f	s	notifier	0.02	0.27
+notifiée	no-ti-fje	no-ti-fiée	ADJ	f	s	notifié	0	0.07
+notifiées	no-ti-fje	no-ti-fiées	ADJ	f	p	notifié	0	0.14
+notifiées	no-ti-fje	no-ti-fiées	VER	f	p	notifier	0	0.07
+notifier	no-ti-fje	no-ti-fier	VER				0.27	0.74
+notifiez	no-ti-fje	no-ti-fiez	VER			notifier	0.01	0
+notifions	no-ti-fj§	no-ti-fions	VER			notifier	0.02	0.07
+notion	no-sj§	no-tion	NOM	f	s		4.99	10.61
+notions	nO-sj§	no-tions	NOM	f	p	notion	0.81	3.45
+notions	nO-tj§	no-tions	VER			noter	0	0.07
+notoire	no-twaR	no-toi-re	ADJ		s		1.55	4.39
+notoirement	no-twa-R°-m@	no-toi-re-ment	ADV				0.17	0.61
+notoires	no-twaR	no-toi-res	ADJ		p	notoire	0.26	1.42
+notonecte	no-to-nEkt	no-to-nec-te	NOM		s		0	0.07
+notonectes	no-to-nEkt	no-to-nec-tes	NOM		p	notonecte	0	0.07
+notons	no-t§	no-tons	VER			noter	0.18	0.2
+notoriété	no-to-Rje-te	no-to-rié-té	NOM	f	s		0.65	2.77
+notoriétés	no-to-Rje-te	no-to-rié-tés	NOM	f	p	notoriété	0	0.07
+notre	nOtR	no-tre	ADJ:pos		s		1022.94	680.68
+notre	nOtR	no-tre	PRO:pos		s		0.09	0
+nôtre	notR	nô-tre	PRO:pos		s		19	23.51
+nôtre	notR	nô-tre	ADJ:pos		s		0.78	0.88
+notre-dame	nO-tR°-dam	notre-dame	NOM	f			2.69	8.58
+nôtres	notR	nô-tres	PRO:pos		p		22.63	21.35
+nôtres	notR	nô-tres	ADJ:pos		p		0.14	0.27
+notules	no-tyl	no-tu-les	NOM	f	p	notule	0	0.2
+noua	nwa	noua	VER			nouer	0.01	3.04
+nouage	nwaZ	noua-ge	NOM	m	s		0.01	0
+nouai	nwE	nouai	VER			nouer	0	0.2
+nouaient	nwE	nouaient	VER			nouer	0.02	1.49
+nouais	nwE	nouais	VER			nouer	0	0.27
+nouait	nwE	nouait	VER			nouer	0.03	3.85
+nouant	nw@	nouant	VER			nouer	0.01	1.01
+nouas	nu-a	nouas	VER			nouer	0.01	0
+nouba	nu-ba	nou-ba	NOM	f	s		0.95	0.74
+noubas	nu-ba	nou-bas	NOM	f	p	nouba	0.04	0.14
+noue	nu	noue	VER			nouer	0.52	1.62
+noue	nu	noue	NOM	f	s		0.01	0.07
+noué	nwe	noué	VER	m	s	nouer	0.47	5.81
+noué	nwe	noué	ADJ	m	s		0.29	1.49
+nouée	nwe	nouée	ADJ	f	s	noué	0.45	3.24
+nouée	nwe	nouée	VER	f	s	nouer	0.14	2.16
+nouées	nwe	nouées	VER	f	p	nouer	0.17	1.62
+nouées	nwe	nouées	ADJ	f	p	noué	0.14	0.74
+nouent	nu	nouent	VER			nouer	0.16	1.69
+nouer	nwe	nouer	VER				1.67	6.01
+nouera	nu-Ra	noue-ra	VER			nouer	0.01	0.07
+nouerais	nu-RE	noue-rais	VER			nouer	0.01	0.07
+nouerait	nu-RE	noue-rait	VER			nouer	0	0.07
+nouèrent	nwER	nouè-rent	VER			nouer	0	0.34
+nouerez	nu-Re	noue-rez	VER			nouer	0	0.07
+noueront	nu-R§	noue-ront	VER			nouer	0	0.07
+noués	nwe	noués	VER	m	p	nouer	0.21	3.04
+noués	nwe	noués	ADJ	m	p	noué	0.14	1.15
+noueuse	nw2z	noueu-se	ADJ	f	s	noueux	0	0.74
+noueuses	nw2z	noueu-ses	ADJ	f	p	noueux	0	1.62
+noueux	nw2	noueux	ADJ	m			0.22	2.77
+nouez	nu-e	nouez	VER			nouer	0.18	0
+nougat	nu-ga	nou-gat	NOM	m	s		0.89	1.49
+nougatine	nu-ga-tin	nou-ga-ti-ne	NOM	f	s		0.03	0.41
+nougatines	nu-ga-tin	nou-ga-ti-nes	NOM	f	p	nougatine	0.01	0.07
+nougats	nu-ga	nou-gats	NOM	m	p	nougat	0.05	0.68
+nouille	nuj	nouil-le	NOM	f	s		1.02	0.47
+nouille	nuj	nouil-le	ADJ	m	s		0.16	0.14
+nouilles	nuj	nouil-les	NOM	f	p	nouille	3.35	3.78
+nouilles	nuj	nouil-les	ADJ		p	nouille	0.47	0.34
+noumène	nu-mEn	nou-mè-ne	NOM	m	s		0	0.07
+nounou	nu-nu	nou-nou	NOM	f	s		3.87	4.86
+nounours	nu-nuRs	nou-nours	NOM	m			3.71	2.03
+nounous	nu-nu	nou-nous	NOM	f	p	nounou	0.53	0.14
+nourri	nu-Ri	nour-ri	VER	m	s	nourrir	6.13	7.43
+nourri	nu-Ri	nour-ri	ADJ	m	s		1.86	3.04
+nourrice	nu-Ris	nour-ri-ce	NOM	f	s		5.88	7.36
+nourrices	nu-Ris	nour-ri-ces	NOM	f	p	nourrice	0.29	1.01
+nourricier	nu-Ri-sje	nour-ri-cier	ADJ	m	s		0.15	1.01
+nourricier	nu-Ri-sje	nour-ri-cier	NOM	m	s		0.01	0
+nourricière	nu-Ri-sjER	nour-ri-ciè-re	ADJ	f	s	nourricier	0.16	1.15
+nourricière	nu-Ri-sjER	nour-ri-ciè-re	NOM	f	s	nourricier	0	0.14
+nourricières	nu-Ri-sjER	nour-ri-ciè-res	ADJ	f	p	nourricier	0.02	0.14
+nourricières	nu-Ri-sjER	nour-ri-ciè-res	NOM	f	p	nourricier	0	0.07
+nourriciers	nu-Ri-sje	nour-ri-ciers	ADJ	m	p	nourricier	0.01	0.61
+nourriciers	nu-Ri-sje	nour-ri-ciers	NOM	m	p	nourricier	0.01	0
+nourrie	nu-Ri	nour-rie	VER	f	s	nourrir	0.91	2.97
+nourrie	nu-Ri	nour-rie	ADJ	f	s	nourri	0.34	0.81
+nourries	nu-Ri	nour-ries	VER	f	p	nourrir	0.11	0.95
+nourries	nu-Ri	nour-ries	ADJ	f	p	nourri	0.02	0.47
+nourrir	nu-RiR	nour-rir	VER				22.08	24.05
+nourrira	nu-Ri-Ra	nour-ri-ra	VER			nourrir	0.52	0.47
+nourrirai	nu-Ri-RE	nour-ri-rai	VER			nourrir	0.36	0.2
+nourriraient	nu-Ri-RE	nour-ri-raient	VER			nourrir	0.01	0.2
+nourrirais	nu-Ri-RE	nour-ri-rais	VER			nourrir	0.05	0
+nourrirait	nu-Ri-RE	nour-ri-rait	VER			nourrir	0.35	0.41
+nourriras	nu-Ri-Ra	nour-ri-ras	VER			nourrir	0.03	0
+nourrirent	nu-RiR	nour-ri-rent	VER			nourrir	0	0.14
+nourrirez	nu-Ri-Re	nour-ri-rez	VER			nourrir	0.06	0
+nourririons	nu-Ri-Rj§	nour-ri-rions	VER			nourrir	0.01	0
+nourrirons	nu-Ri-R§	nour-ri-rons	VER			nourrir	0.07	0.07
+nourriront	nu-Ri-R§	nour-ri-ront	VER			nourrir	0.18	0.2
+nourris	nu-Ri	nour-ris	VER	m	p	nourrir	6.36	3.51
+nourris	nu-Ri	nour-ris	ADJ	m	p	nourri	0.76	2.7
+nourrissage	nu-Ri-saZ	nour-ris-sa-ge	NOM	m	s		0.02	0.14
+nourrissaient	nu-Ri-sE	nour-ris-saient	VER			nourrir	0.26	1.82
+nourrissais	nu-Ri-sE	nour-ris-sais	VER			nourrir	0.54	0.95
+nourrissait	nu-Ri-sE	nour-ris-sait	VER			nourrir	1	7.91
+nourrissant	nu-Ri-s@	nour-ris-sant	VER			nourrir	0.41	1.82
+nourrissant	nu-Ri-s@	nour-ris-sant	ADJ	m	s		0.68	0.81
+nourrissante	nu-Ri-s@t	nour-ris-san-te	ADJ	f	s	nourrissant	0.28	0.47
+nourrissantes	nu-Ri-s@t	nour-ris-san-tes	ADJ	f	p	nourrissant	0	0.07
+nourrissants	nu-Ri-s@	nour-ris-sants	ADJ	m	p	nourrissant	0.05	0.14
+nourrisse	nu-Ris	nour-ris-se	VER			nourrir	0.52	0.74
+nourrissent	nu-Ris	nour-ris-sent	VER			nourrir	2.46	3.31
+nourrisses	nu-Ris	nour-ris-ses	VER			nourrir	0.06	0.14
+nourrisseur	nu-Ri-s9R	nour-ris-seur	NOM	m	s		0	0.14
+nourrissez	nu-Ri-se	nour-ris-sez	VER			nourrir	0.91	0.27
+nourrissiez	nu-Ri-sje	nour-ris-siez	VER			nourrir	0.03	0.07
+nourrissions	nu-Ri-sj§	nour-ris-sions	VER			nourrir	0.02	0.2
+nourrisson	nu-Ri-s§	nour-ris-son	NOM	m	s		1.13	3.04
+nourrissons	nu-Ri-s§	nour-ris-sons	NOM	m	p	nourrisson	0.49	1.49
+nourrissons	nu-Ri-s§	nour-ris-sons	VER			nourrir	0.32	0.07
+nourrit	nu-Ri	nour-rit	VER			nourrir	8.78	6.55
+nourrît	nu-Ri	nour-rît	VER			nourrir	0	0.07
+nourriture	nu-Ri-tyR	nour-ri-tu-re	NOM	f	s		44.59	25.74
+nourritures	nu-Ri-tyR	nour-ri-tu-res	NOM	f	p	nourriture	0.27	5.27
+nous	nu	nous	PRO:per		p		4772.12	3867.84
+nous-même	nu-mEm	nous-même	PRO:per		p		1.12	0.61
+nous-mêmes	nu-mEm	nous-mêmes	PRO:per		p		11.11	16.28
+nouveau	nu-vo	nou-veau	ADJ	m	s		170.28	138.31
+nouveau	nu-vo	nou-veau	NOM	m	s		106.48	190.47
+nouveau-né	nu-vo-ne	nouveau-né	NOM	m	s		2.27	3.18
+nouveau-né	nu-vo-ne	nouveau-né	ADJ	m	s		0.17	1.15
+nouveau-nés	nu-vo-ne	nouveau-nés	NOM	m	p	nouveau-né	0.14	1.49
+nouveau-nés	nu-vo-ne	nouveau-nés	ADJ	m	p	nouveau-né	0.1	0.14
+nouveauté	nu-vo-te	nou-veau-té	NOM	f	s		3.23	6.55
+nouveautés	nu-vo-te	nou-veau-tés	NOM	f	p	nouveauté	1	2.16
+nouveaux	nu-vo	nou-veaux	ADJ	m	p	nouveau	39.17	47.3
+nouveaux	nu-vo	nou-veaux	NOM	m	p	nouveau	6.76	3.72
+nouveaux-nés	nu-vo-ne	nouveaux-nés	NOM	m	p	nouveau-né	0.3	0.14
+nouvel	nu-vEl	nou-vel	ADJ	m	s		30.59	22.23
+nouvelle	nu-vEl	nou-vel-le	ADJ	f	s		152.78	130.81
+nouvelle	nu-vEl	nou-vel-le	NOM	f	s	nouveau	34.65	34.46
+nouvellement	nu-vE-l°-m@	nou-vel-le-ment	ADV				0.27	1.62
+nouvelles	nu-vEl	nou-vel-les	NOM	f	p	nouveau	82.08	63.78
+nouvelles	nu-vEl	nou-vel-les	ADJ	f	p	nouvelle	38.37	41.69
+nouvelleté	nu-vE-l°-te	nou-vel-le-té	NOM	f	s		0	0.07
+nouvelliste	nu-ve-list		NOM		s		0.01	0
+nova	no-va	no-va	NOM	f	s		4.14	0.07
+nova	no-va	no-va	VER			nover	0.02	0
+novateur	no-va-t9R	no-va-teur	ADJ	m	s		0.27	0.2
+novateur	no-va-t9R	no-va-teur	NOM	m	s		0.03	0.27
+novateurs	no-va-t9R	no-va-teurs	NOM	m	p	novateur	0.27	0
+novateurs	no-va-t9R	no-va-teurs	ADJ	m	p	novateur	0.04	0.14
+novation	nO-va-sj§		NOM	f	s		0.14	0
+novatrice	no-va-tRis	no-va-tri-ce	ADJ	f	s	novateur	0.05	0.27
+novatrices	no-va-tRis	no-va-tri-ces	ADJ	f	p	novateur	0.02	0.07
+nove	nOv	no-ve	VER			nover	0	0.07
+novelettes	no-v°-lEt	no-ve-let-tes	NOM	f	p	novelette	0.01	0
+novélisation	no-ve-li-za-sj§	no-vé-li-sa-tion	NOM	f	s		0.03	0
+novembre	no-v@bR	no-vem-bre	NOM	m			8.79	33.04
+novice	no-vis	no-vi-ce	NOM		s		1.05	1.35
+novice	no-vis	no-vi-ce	ADJ		s		1.04	0.81
+novices	no-vis	no-vi-ces	NOM		p	novice	0.96	1.55
+novices	no-vis	no-vi-ces	ADJ		p	novice	0.25	0.34
+noviciat	no-vi-sja	no-vi-ciat	NOM	m	s		0.04	0.61
+novilleros	no-vi-je-Ro	no-vil-le-ros	NOM	m	p	novillero	0	0.07
+novillo	no-vi-jo	no-vil-lo	NOM	m	s		0	0.14
+novocaïne	no-vo-ka-in	no-vo-caï-ne	NOM	f	s		0.13	0.27
+novotique	nO-vO-tik		NOM	f	s		0.01	0
+noya	nwa-ja	noya	VER			noyer	0.33	0.74
+noyade	nwa-jad	noya-de	NOM	f	s		1.85	2.03
+noyades	nwa-jad	noya-des	NOM	f	p	noyade	0.12	0.41
+noyaient	nwa-jE	noyaient	VER			noyer	0.06	1.15
+noyais	nwa-jE	noyais	VER			noyer	0.3	0.2
+noyait	nwa-jE	noyait	VER			noyer	0.38	3.24
+noyant	nwa-j@	noyant	VER			noyer	0.18	1.55
+noyau	nwa-jo	noyau	NOM	m	s		3.71	7.36
+noyauta	nwa-jo-ta	noyau-ta	VER			noyauter	0	0.07
+noyautage	nwa-jo-taZ	noyau-ta-ge	NOM	m	s		0.01	0.2
+noyautant	nwa-jo-t@	noyau-tant	VER			noyauter	0	0.07
+noyauté	nwa-jo-te	noyau-té	VER	m	s	noyauter	0	0.07
+noyautée	nwa-jo-te	noyau-tée	VER	f	s	noyauter	0.01	0.07
+noyautées	nwa-jo-te	noyau-tées	VER	f	p	noyauter	0	0.07
+noyautent	nwa-jot	noyau-tent	VER			noyauter	0	0.07
+noyauter	nwa-jo-te	noyau-ter	VER				0	0.47
+noyaux	nwa-jo	noyaux	NOM	m	p	noyau	0.45	2.3
+noyé	nwa-je	noyé	VER	m	s	noyer	4.78	6.69
+noyé	nwa-je	noyé	NOM	m	s		0.91	2.97
+noyé	nwa-je	noyé	ADJ	m	s		0.92	2.77
+noyée	nwa-je	noyée	VER	f	s	noyer	3.35	3.11
+noyée	nwa-je	noyée	ADJ	f	s	noyé	0.36	1.76
+noyée	nwa-je	noyée	NOM	f	s	noyé	0.62	1.22
+noyées	nwa-je	noyées	VER	f	p	noyer	0.1	1.08
+noyées	nwa-je	noyées	ADJ	f	p	noyé	0.16	0.68
+noyées	nwa-je	noyées	NOM	f	p	noyé	0	0.2
+noyer	nwa-je	noyer	VER				9	11.49
+noyer	nwa-je	noyer	NOM	m	s		0.52	1.62
+noyèrent	nwa-jER	noyè-rent	VER			noyer	0	0.27
+noyers	nwa-je	noyers	NOM	m	p	noyer	0.03	0.88
+noyés	nwa-je	noyés	VER	m	p	noyer	1.4	2.91
+noyés	nwa-je	noyés	NOM	m	p	noyé	0.66	1.89
+noyés	nwa-je	noyés	ADJ	m	p	noyé	0.37	2.16
+noyez	nwa-je	noyez	VER			noyer	0.39	0.14
+noyions	nwaj-j§	noyions	VER			noyer	0	0.07
+noyons	nwa-j§	noyons	VER			noyer	0.13	0.14
+nu	ny	nu	ADJ	m	s		17.39	53.85
+nu	ny	nu	NOM	m	s		4.15	9.46
+nu-propriétaire	ny-pRo-pRi-je-tER	nu-propriétaire	NOM		s		0	0.07
+nu-tête	ny-tEt	nu-tête	ADJ	m	s		0.02	1.35
+nuage	n8aZ	nua-ge	NOM	m	s		11.81	26.49
+nuages	n8aZ	nua-ges	NOM	m	p	nuage	18.47	50.34
+nuageuse	n8a-Z2z	nua-geu-se	ADJ	f	s	nuageux	0.22	0.14
+nuageuses	n8a-Z2z	nua-geu-ses	ADJ	f	p	nuageux	0.29	0.2
+nuageux	n8a-Z2	nua-geux	ADJ	m			0.73	0.95
+nuança	n8@-sa	nuan-ça	VER			nuancer	0	0.27
+nuançaient	n8@-sE	nuan-çaient	VER			nuancer	0	0.14
+nuançait	n8@-sE	nuan-çait	VER			nuancer	0	0.34
+nuançant	n8@-s@	nuan-çant	VER			nuancer	0	0.14
+nuançât	n8@-sa	nuan-çât	VER			nuancer	0	0.07
+nuance	n8@s	nuan-ce	NOM	f	s		1.09	10.88
+nuance	n8@s	nuan-ce	VER			nuancer	0.01	0.41
+nuancé	n8@-se	nuan-cé	ADJ	m	s		0.16	0.41
+nuancé	n8@-se	nuan-cé	VER	m	s	nuancer	0	0.41
+nuancée	n8@-se	nuan-cée	VER	f	s	nuancer	0.03	0.14
+nuancée	n8@-se	nuan-cée	ADJ	f	s	nuancé	0.04	0.07
+nuancées	n8@-se	nuan-cées	VER	f	p	nuancer	0	0.07
+nuancées	n8@-se	nuan-cées	ADJ	f	p	nuancé	0	0.07
+nuancer	n8@-se	nuan-cer	VER				0.01	0.54
+nuances	n8@s	nuan-ces	NOM	f	p	nuance	0.89	9.93
+nuancés	n8@-se	nuan-cés	ADJ	m	p	nuancé	0.01	0.27
+nuancés	n8@-se	nuan-cés	VER	m	p	nuancer	0	0.14
+nuancier	ny-@-sje	nuan-cier	NOM	m	s		0.04	0
+nuas	n8a	nuas	VER			nuer	0	0.07
+nubien	ny-bj5	nu-bien	ADJ	m	s		0.09	0.07
+nubien	ny-bj5	nu-bien	NOM	m	s		0.1	0
+nubienne	ny-bjEn	nu-bien-ne	ADJ	f	s	nubien	0.07	0.07
+nubiens	ny-bj5	nu-biens	ADJ	m	p	nubien	0.02	0.14
+nubiens	ny-bj5	nu-biens	NOM	m	p	nubien	0.03	0.07
+nubile	ny-bil	nu-bi-le	ADJ		s		0.25	0.34
+nubiles	ny-bil	nu-bi-les	ADJ	f	p	nubile	0.06	0.2
+nubilité	ny-bi-li-te	nu-bi-li-té	NOM	f	s		0	0.14
+nubuck	ny-byk		NOM	m	s		0.16	0
+nucal	ny-kal		ADJ	m	s		0.01	0
+nucléaire	ny-kle-ER	nu-cléai-re	ADJ		s		11.45	1.22
+nucléaire	ny-kle-ER	nu-cléai-re	NOM	m	s		0.9	0.07
+nucléaires	ny-kle-ER	nu-cléai-res	ADJ		p	nucléaire	4.04	0.61
+nucléaires	ny-kle-ER	nu-cléai-res	NOM	m	p	nucléaire	0.05	0
+nucléée	ny-kle-e		ADJ	f	s	nucléé	0.01	0
+nucléique	ny-kle-ik		ADJ	m	s		0.02	0
+nucléoside	ny-kle-o-zid		NOM	m	s		0.01	0
+nucléotides	ny-kle-o-tid	nu-cléo-ti-des	NOM	m	p	nucléotide	0.09	0
+nucléus	ny-kle-ys		NOM	m			0.1	0
+nudisme	ny-dizm	nu-dis-me	NOM	m	s		0.25	0.07
+nudiste	ny-dist	nu-dis-te	NOM		s		0.81	0.07
+nudiste	ny-dist	nu-dis-te	ADJ		s		0.12	0.2
+nudistes	ny-dist	nu-dis-tes	NOM		p	nudiste	1.43	0.41
+nudistes	ny-dist	nu-dis-tes	ADJ	f	p	nudiste	0.06	0
+nudité	ny-di-te	nu-di-té	NOM	f	s		2.1	12.57
+nudités	ny-di-te	nu-di-tés	NOM	f	p	nudité	0.01	0.95
+nue	ny	nue	ADJ	f	s	nu	15.23	43.85
+nue	ny	nue	NOM	f	s	nu	5.45	6.69
+nue	ny	nue	VER			nu	0.61	1.82
+nue-propriété	ny-pRo-pRi-je-te	nue-propriété	NOM	f	s		0	0.07
+nuée	n8e	nuée	NOM	f	s		0.54	3.99
+nuées	n8e	nuées	NOM	f	p	nuée	0.74	6.76
+nuées	n8e	nuées	VER	f	p	nuer	0	0.07
+nuer	n8e		VER				0.01	0
+nues	ny	nues	ADJ	f		nu	6.46	21.42
+nues	ny	nues	NOM	f	p	nu	1.14	3.58
+nui	n8i	nui	VER	m	s	nuire	1.31	0.61
+nuira	n8i-Ra	nui-ra	VER			nuire	0.59	0.14
+nuirai	n8i-RE	nui-rai	VER			nuire	0.01	0
+nuirait	n8i-RE	nui-rait	VER			nuire	0.27	0.34
+nuiras	n8i-Ra	nui-ras	VER			nuire	0.11	0
+nuire	n8iR	nui-re	VER				5.98	4.46
+nuiront	n8i-R§	nui-ront	VER			nuire	0.03	0
+nuis	n8i	nuis	VER			nuire	0.2	0
+nuisaient	n8i-zE	nui-saient	VER			nuire	0.1	0.07
+nuisait	n8i-zE	nui-sait	VER			nuire	0.05	0.61
+nuisance	n8i-z@s	nui-san-ce	NOM	f	s		0.38	0.14
+nuisances	n8i-z@s	nui-san-ces	NOM	f	p	nuisance	0.3	0.14
+nuisant	n8i-z@	nui-sant	VER			nuire	0.03	0.07
+nuise	n8iz	nui-se	VER			nuire	0.22	0.41
+nuisent	n8iz	nui-sent	VER			nuire	0.54	0.27
+nuisette	n8i-zEt	nui-set-te	NOM	f	s		0.33	0.07
+nuisez	n8i-ze	nui-sez	VER			nuire	0.02	0
+nuisible	n8i-zibl	nui-si-ble	ADJ		s		0.56	1.42
+nuisible	n8i-zibl	nui-si-ble	NOM	m	s		0.14	0.14
+nuisibles	n8i-zibl	nui-si-bles	ADJ		p	nuisible	0.28	0.81
+nuisibles	n8i-zibl	nui-si-bles	NOM	m	p	nuisible	0.12	0.27
+nuisît	n8i-zi	nui-sît	VER			nuire	0	0.07
+nuit	n8i	nuit	NOM	f	s		557.56	672.36
+nuit	n8i	nuit	VER			nuire	5.29	4.19
+nuitamment	n8i-ta-m@	nui-tam-ment	ADV				0.02	0.47
+nuitards	n8i-taR	nui-tard-s	NOM	m	p	nuitard	0.01	0
+nuitée	n8i-te	nui-tée	NOM	f	s		0	0.2
+nuitées	n8i-te	nui-tées	NOM	f	p	nuitée	0.01	0.14
+nuiteux	n8i-t2	nui-teux	NOM	m	s		0.01	0.2
+nuits	n8i	nuits	NOM	f	p	nuit	28.98	65.88
+nul	nyl	nul	PRO:ind	m	s		24.28	31.82
+nul	nyl	nul	ADJ:ind	m	s		28.8	19.93
+nul	nyl	nul	ADJ	m	s		3.88	4.86
+nul	nyl	nul	NOM	m	s		2.34	1.82
+nullard	ny-laR	nul-lard	NOM	m	s		0.2	0.07
+nullard	ny-laR	nul-lard	ADJ	m	s		0.11	0
+nullarde	ny-laRd	nul-lar-de	ADJ	f	s	nullard	0.03	0.07
+nullardes	ny-laRd	nul-lar-des	ADJ	f	p	nullard	0	0.07
+nullards	ny-laR	nul-lard-s	NOM	m	p	nullard	0.32	0.14
+nullards	ny-laR	nul-lard-s	ADJ	m	p	nullard	0.04	0
+nulle	nyl	nul-le	ADJ:ind	f	s		37.84	32.7
+nulle	nyl	nul-le	PRO:ind	f	s		19.46	7.16
+nulle	nyl	nul-le	ADJ	f	s	nul	6.68	8.45
+nullement	ny-l°-m@	nul-le-ment	ADV				1.45	14.19
+nulles	nyl	nul-les	ADJ	f	p	nul	0.96	0.61
+nulles	nyl	nul-les	ADJ:ind	f	p		0.41	0.34
+nullissime	ny-li-sim	nul-lis-si-me	ADJ		s		0.01	0.07
+nullité	ny-li-te	nul-li-té	NOM	f	s		0.96	2.16
+nullités	ny-li-te	nul-li-tés	NOM	f	p	nullité	0.24	0.61
+nullos	ny-lo	nul-los	ADJ		s		0.18	0
+nuls	nyl	nuls	ADJ	m	p	nul	4.22	1.22
+nuls	nyl	nuls	NOM	m	p	nul	2.41	0.68
+nuls	nyl	nuls	ADJ:ind	m	p		0.63	0.34
+numéraire	ny-me-RER	nu-mé-rai-re	NOM	m	s		0.01	0.27
+numéral	ny-me-Ral	nu-mé-ral	ADJ	m	s		0	0.07
+numérateur	ny-me-Ra-t9R		NOM	m	s		0.02	0
+numération	ny-me-Ra-sj§	nu-mé-ra-tion	NOM	f	s		0.23	0.07
+numérique	ny-me-Rik	nu-mé-ri-que	ADJ		s		2.41	0.27
+numériquement	ny-me-Ri-k°-m@	nu-mé-ri-que-ment	ADV				0.09	0.2
+numériques	ny-me-Rik	nu-mé-ri-ques	ADJ		p	numérique	0.93	0.14
+numérisation	ny-me-Ri-za-sj§	nu-mé-ri-sa-tion	NOM	f	s		0.07	0
+numérise	ny-me-Riz	nu-mé-ri-se	VER			numériser	0.04	0
+numérisé	ny-me-Ri-ze	nu-mé-ri-sé	VER	m	s	numériser	0.09	0
+numérisée	ny-me-Ri-ze	nu-mé-ri-sée	VER	f	s	numériser	0.01	0
+numérisées	ny-me-Ri-ze	nu-mé-ri-sées	VER	f	p	numériser	0.04	0
+numériser	ny-me-Ri-ze	nu-mé-ri-ser	VER				0.02	0
+numérisez	ny-me-Ri-ze	nu-mé-ri-sez	VER			numériser	0.02	0
+numéro	ny-me-Ro	nu-mé-ro	NOM	m	s		162.08	60
+numérologie	ny-me-RO-lO-Zi		NOM	f	s		0.14	0
+numérologue	ny-me-Ro-lOg	nu-mé-ro-lo-gue	NOM		s		0.05	0
+numéros	ny-me-Ro	nu-mé-ros	NOM	m	p	numéro	11.4	10.07
+numérota	ny-me-Ro-ta	nu-mé-ro-ta	VER			numéroter	0	0.07
+numérotage	ny-me-Ro-taZ	nu-mé-ro-ta-ge	NOM	m	s		0	0.14
+numérotaient	ny-me-Ro-tE	nu-mé-ro-taient	VER			numéroter	0	0.07
+numérotait	ny-me-Ro-tE	nu-mé-ro-tait	VER			numéroter	0.01	0.2
+numérotation	ny-me-Ro-ta-sj§	nu-mé-ro-ta-tion	NOM	f	s		0.12	0.07
+numérote	ny-me-ROt	nu-mé-ro-te	VER			numéroter	0.11	0.27
+numéroté	ny-me-Ro-te	nu-mé-ro-té	ADJ	m	s		0.19	0.34
+numéroté	ny-me-Ro-te	nu-mé-ro-té	VER	m	s	numéroter	0.2	0.14
+numérotée	ny-me-Ro-te	nu-mé-ro-tée	ADJ	f	s	numéroté	0.11	0.07
+numérotée	ny-me-Ro-te	nu-mé-ro-tée	VER	f	s	numéroter	0.05	0
+numérotées	ny-me-Ro-te	nu-mé-ro-tées	ADJ	f	p	numéroté	0.15	0.68
+numérotées	ny-me-Ro-te	nu-mé-ro-tées	VER	f	p	numéroter	0.04	0.27
+numérotent	ny-me-ROt	nu-mé-ro-tent	VER			numéroter	0.01	0.07
+numéroter	ny-me-Ro-te	nu-mé-ro-ter	VER				0.04	0.27
+numérotés	ny-me-Ro-te	nu-mé-ro-tés	ADJ	m	p	numéroté	0.08	0.54
+numérotés	ny-me-Ro-te	nu-mé-ro-tés	VER	m	p	numéroter	0.04	0.47
+numérotez	ny-me-Ro-te	nu-mé-ro-tez	VER			numéroter	0.03	0.07
+numerus clausus	ny-m°-Rys-klo-zys	nu-me-rus clau-sus	NOM	m			0	0.07
+numide	ny-mid	nu-mi-de	NOM		s		0.04	0.14
+numide	ny-mid	nu-mi-de	ADJ	m	s		0	0.07
+numides	ny-mid	nu-mi-des	ADJ		p	numide	0	0.27
+numismate	ny-mis-mat	nu-mis-ma-te	NOM		s		0.01	0.34
+numismates	ny-mis-mat	nu-mis-ma-tes	NOM		p	numismate	0	0.14
+numismatique	ny-mis-ma-tik	nu-mis-ma-ti-que	ADJ	m	s		0.01	0.14
+nunchaku	nun-Sa-ku	nun-cha-ku	NOM	m	s		0.05	0
+nunchakus	nun-Sa-ku	nun-cha-kus	NOM	m	p	nunchaku	0.19	0
+nuncupatifs	n§-ky-pa-tif	nun-cu-pa-tif-s	ADJ	m	p	nuncupatif	0	0.07
+nunuche	ny-nyS	nu-nu-che	ADJ		s		0.35	0
+nunuches	ny-nyS	nu-nu-ches	ADJ		p	nunuche	0.16	0
+nuoc-mâm	n8Ok-mam	nuoc-mâm	NOM	m			0	0.07
+nuptial	nyp-sjal	nup-tial	ADJ	m	s		1.05	1.35
+nuptiale	nyp-sjal	nup-tia-le	ADJ	f	s	nuptial	1.56	2.09
+nuptiales	nyp-sjal	nup-tia-les	ADJ	f	p	nuptial	0.17	0.68
+nuptialité	nyp-sja-li-te	nup-tia-li-té	NOM	f	s		0	0.2
+nuptiaux	nyp-sjo	nup-tiaux	ADJ	m	p	nuptial	0.14	0.2
+nuque	nyk	nu-que	NOM	f	s		7.58	48.51
+nuques	nyk	nu-ques	NOM	f	p	nuque	0.22	2.43
+nurse	n9Rs	nur-se	NOM	f	s		2.14	3.18
+nurseries	n9R-s°-Ri	nur-se-ries	NOM	f	p		0	0.07
+nursery	n9R-s°-Ri	nur-se-ry	NOM	f	s		1.04	0.74
+nurses	n9Rs	nur-ses	NOM	f	p	nurse	0.1	0.74
+nursing	n9R-siG		NOM	m	s		0.03	0
+nus	ny	nus	ADJ	m	p	nu	10.8	48.92
+nus	ny	nus	NOM	m	p	nu	1.42	1.69
+nutriment	ny-tRi-m@		NOM	m	s		0.02	0
+nutriments	ny-tRi-m@	nu-tri-ments	NOM	m	p	nutriment	0.19	0
+nutritif	ny-tRi-tif	nu-tri-tif	ADJ	m	s		0.16	0.2
+nutritifs	ny-tRi-tif	nu-tri-tif-s	ADJ	m	p	nutritif	0.21	0
+nutrition	ny-tRi-sj§	nu-tri-tion	NOM	f	s		0.86	0.34
+nutritionnel	ny-tRi-sjo-nEl	nu-tri-tion-nel	ADJ	m	s		0.04	0
+nutritionnelle	ny-tRi-sjo-nEl	nu-tri-tion-nel-le	ADJ	f	s	nutritionnel	0.06	0.07
+nutritionniste	ny-tRi-sjo-nist	nu-tri-tion-nis-te	NOM		s		0.25	0
+nutritive	ny-tRi-tiv	nu-tri-ti-ve	ADJ	f	s	nutritif	0.51	0.07
+nutritives	ny-tRi-tiv	nu-tri-ti-ves	ADJ	f	p	nutritif	0.18	0.14
+nyctalope	nik-ta-lOp	nyc-ta-lo-pe	ADJ		s		0	0.14
+nyctalope	nik-ta-lOp	nyc-ta-lo-pe	NOM		s		0	0.07
+nyctalopes	nik-ta-lOp	nyc-ta-lo-pes	NOM		p	nyctalope	0	0.34
+nyctalopes	nik-ta-lOp	nyc-ta-lo-pes	ADJ	f	p	nyctalope	0	0.07
+nylon	ni-l§	ny-lon	NOM	m	s		1.27	6.42
+nylons	ni-l§	ny-lons	NOM	m	p	nylon	0.05	0
+nymphal	n5-fal		ADJ	m	s		0.04	0
+nymphe	n5f	nym-phe	NOM	f	s		0.88	1.76
+nymphéa	n5-fe-a	nym-phéa	NOM	m	s		0	0.07
+nymphéas	n5-fe-a	nym-phéas	NOM	m	p	nymphéa	0	0.27
+nymphées	n5-fe	nym-phées	NOM	m	p	nymphée	0.14	0.07
+nymphes	n5f	nym-phes	NOM	f	p	nymphe	0.9	4.05
+nymphette	n5-fEt	nym-phet-te	NOM	f	s		0.07	0.41
+nymphettes	n5-fEt	nym-phet-tes	NOM	f	p	nymphette	0.03	0.27
+nympho	n5-fo	nym-pho	NOM	f	s		0.69	0.07
+nymphomane	n5-fo-man	nym-pho-ma-ne	NOM		s		0.8	0.07
+nymphomane	n5-fo-man	nym-pho-ma-ne	ADJ		s		0.44	0.2
+nymphomanes	n5-fo-man	nym-pho-ma-nes	NOM		p	nymphomane	0.13	0.14
+nymphomanes	n5-fo-man	nym-pho-ma-nes	ADJ	f	p	nymphomane	0.03	0.14
+nymphomanie	n5-fo-ma-ni	nym-pho-ma-nie	NOM	f	s		0.2	0
+nymphos	n5-fo	nym-phos	NOM	f	p	nympho	0.11	0.07

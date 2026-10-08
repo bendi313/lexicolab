@@ -1,0 +1,100 @@
+w	du-bl°-ve	w	NOM	m			3.54	2.7
+wagnérien	vag-ne-Rj5	wag-né-rien	ADJ	m	s		0.01	0.34
+wagnérienne	vag-ne-RjEn	wag-né-rien-ne	ADJ	f	s	wagnérien	0.03	0.07
+wagnériennes	vag-ne-RjEn	wag-né-rien-nes	ADJ	f	p	wagnérien	0	0.07
+wagon	va-g§	wa-gon	NOM	m	s		6.53	18.11
+wagon-bar	va-g§-baR	wagon-bar	NOM	m	s		0.03	0
+wagon-lit	va-g§-li	wagon-lit	NOM	m	s		0.7	0.81
+wagon-lits	va-g§-li		NOM	m			0	0.07
+wagon-restaurant	va-g§-REs-to-R@	wagon-restaurant	NOM	m	s		0.35	0.81
+wagon-salon	va-g§-sa-l§	wagon-salon	NOM	m	s		0.01	0.54
+wagonnet	va-go-nE	wa-gon-net	NOM	m	s		0.12	0.2
+wagonnets	va-go-nE	wa-gon-nets	NOM	m	p	wagonnet	0.14	1.08
+wagons	va-g§	wa-gons	NOM	m	p	wagon	3.71	14.66
+wagons-citernes	va-g§-si-tERn	wagons-citernes	NOM	m	p	wagon-citerne	0	0.07
+wagons-lits	va-g§-li	wagons-lits	NOM	m	p	wagon-lit	1.09	1.08
+wagons-restaurants	va-g§-REs-to-R@	wagons-restaurants	NOM	m	p	wagon-restaurant	0	0.2
+wait and see	wEj-t5n-dsi	wait and see	NOM	m	s		0.16	0
+wali	wa-li		NOM	m	s		0.02	0
+walkie-talkie	wOl-ki-tOl-ki	walkie-talkie	NOM	m	s		0.05	0.14
+walkies-talkies	wOl-ki-tOl-kiz	walkies-talkies	NOM	m	p	walkie-talkie	0.03	0
+walkman	wOl-kman	walk-man	NOM	m	s		1.13	1.22
+walkmans	wOl-kman	walk-mans	NOM	m	p	walkman	0.05	0.07
+walkyrie	val-ki-Ri	wal-ky-rie	NOM	f	s		0	0.27
+wall street	wOl-stRit	wall s-treet	NOM		s		0.03	0.07
+wallaby	wa-la-bi	wal-la-by	NOM	m	s		0.13	0
+wallace	wa-las	wal-la-ce	NOM	f	s		0.91	0
+wallon	wa-l§	wal-lon	ADJ	m	s		0.01	0.07
+wallonne	wa-lOn		ADJ	f	s	wallon	0.27	0
+walter	wal-tER	wal-ter	NOM	m	s		0.27	0
+walter	wal-tER	wal-ter	ADJ	m	s		0.01	0
+wapiti	wa-pi-ti	wa-pi-ti	NOM	m	s		0.02	0.07
+wapitis	wa-pi-ti	wa-pi-tis	NOM	m	p	wapiti	0.01	0.14
+warning	waR-niG		NOM	m	s		0.07	0
+warnings	waR-niG	war-ning-s	NOM	m	p	warning	0.28	0.07
+warrants	wa-R@	war-rants	NOM	m	p	warrant	0	0.07
+wassingue	wa-s5g	was-sin-gue	NOM	f	s		0	0.07
+wassingues	wa-s5g	was-sin-gues	NOM	f	p	wassingue	0	0.07
+water	wa-tER		NOM	m	s		1.03	0.2
+water-closet	wa-tER-klo-zEt	water-closet	NOM	m	s		0	0.14
+water-polo	wa-tER-po-lo	water-polo	NOM	m	s		0.23	0
+waterman	wa-t2R-man		NOM	m	s		0.12	0.34
+waterproof	wa-tER-pRuf	wa-ter-proof	ADJ	m	s		0.07	0.07
+waters	wa-tER	wa-ters	NOM	m	p	water	1.46	1.35
+watt	wat		NOM	m	s		0.03	0
+wattman	wat-man	watt-man	NOM	m	s		0	0.2
+watts	wat	watts	NOM	m	p	watt	1.75	0.81
+wax	waks	wax	NOM	m			0.74	0.07
+way of life	wE-jO-flajf	way of li-fe	NOM	m	s		0.02	0.14
+web	wEb		NOM	m	s		2.34	0
+webcam	wEb-kam		NOM	f	s		0.31	0
+week end	wi-kEnd	week end	NOM	m	s	week-end	1.96	0
+week-end	wi-kEnd	week-end	NOM	m	s		39.41	12.16
+week-ends	wi-kEnd	week-ends	NOM	m	p	week-end	3.13	2.16
+weimarienne	vaj-ma-RjEn	wei-ma-rien-ne	ADJ	f	s	weimarien	0	0.07
+weltanschauung	vEl-tan-Sa-wuG	wel-tan-schauung	NOM	f	s		0.02	0.07
+welter	vEl-t9R	wel-ter	NOM	m	s		0.1	0
+welters	wEl-tER	wel-ters	NOM	m	p	welter	0.04	0
+western	wEs-tERn	wes-tern	NOM	m	s		5.19	1.96
+western-spaghetti	wEs-tER-nspa-ge-ti	western-spaghetti	NOM	m			0	0.07
+westerns	wEs-tERn	wes-terns	NOM	m	p	western	1.16	1.82
+westphalien	vEs-tpa-lj5	west-pha-lien	ADJ	m	s		0	0.07
+westphaliennes	vEs-tpa-ljEn	west-pha-lien-nes	ADJ	f	p	westphalien	0	0.07
+wharf	waRf	w-harf	NOM	m	s		0.03	1.22
+whig	wig	w-hig	NOM	m	s		0.03	0.07
+whigs	wig	w-hig-s	NOM	m	p	whig	0.18	0
+whipcord	wip-kORd	w-hip-cord	NOM	m	s		0	0.07
+whiskey	wis-ki	w-his-key	NOM	m	s		1.2	0.27
+whiskies	wis-ki	w-his-kies	NOM	m	p		0.53	1.89
+whisky	wis-ki	w-his-ky	NOM	m	s		29.89	25.14
+whisky-soda	wis-ki-so-da	whisky-soda	NOM	m	s		0.13	0.07
+whiskys	wis-ki	w-his-kys	NOM	m	p	whisky	0.32	0.34
+whist	wist	w-hist	NOM	m	s		0.19	0.27
+white-spirit	waj-tspi-Rit	white-spirit	NOM	m	s		0.01	0
+wicket	wi-kEt		NOM	m	s		0.16	0
+wigwam	wi-gwam	wig-wam	NOM	m	s		0	0.14
+wigwams	wi-gwam	wig-wam-s	NOM	m	p	wigwam	0	0.14
+wildcat	waj-ldkat		NOM	m	s		0.02	0
+wilhelmien	vi-lEl-mj5	wil-hel-mien	ADJ	m	s		0	0.14
+willaya	wi-lE-ja	wil-laya	NOM	f	s		0	0.61
+willayas	wi-lE-ja	wil-layas	NOM	f	p	willaya	0	0.07
+william	wi-ljam	wil-liam	NOM	m	s		0.09	0.27
+williams	wi-ljams	wil-liam-s	NOM	f	s		0.46	0
+winchester	win-tSEs-tER	win-ches-ter	NOM	m	s		0.01	0.27
+winchesters	win-tSEs-tER	win-ches-ters	NOM	m	p	winchester	0.04	0
+windsurf	win-ds9Rf		NOM	m	s		0.05	0
+wintergreen	win-t2R-gRin		NOM	m	s		0.01	0
+wishbone	wiS-bon		NOM	m	s		0.01	0
+wisigothe	vi-zi-gOt	wi-si-go-the	NOM	f	s	wisigoth	0	0.07
+wisigothique	vi-zi-go-tik	wi-si-go-thi-que	ADJ	f	s		0	0.07
+wisigothiques	vi-zi-go-tik	wi-si-go-thi-ques	ADJ	f	p	wisigothique	0	0.07
+wisigoths	vi-zi-go	wi-si-go-ths	NOM	m	p	wisigoth	0	0.07
+witz	witz		NOM	m			0.01	0
+wombat	w§-ba		NOM	m	s		0.04	0
+woofer	wu-f9R		NOM	m	s		0.01	0
+woofers	vu-f9R	woo-fers	NOM	m	p	woofer	0.03	0
+world music	w9R-ldmju-zik	world mu-sic	NOM	f			0.02	0
+wouah	wa		ONO				1.29	0.07
+wurtembergeois	vuR-tEm-bER-Zwa	wur-tem-ber-geois	ADJ	m			0	0.07
+wurtembergeois	vuR-tEm-bER-Zwa	wur-tem-ber-geois	NOM	m			0	0.07
+wurtembergeoise	vuR-tEm-bER-Zwaz	wur-tem-ber-geoi-se	ADJ	f	s	wurtembergeois	0	0.07

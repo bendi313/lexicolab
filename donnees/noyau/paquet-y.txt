@@ -1,0 +1,92 @@
+y	i	y	PRO:per				4346.55	3086.76
+y	i	y	NOM	m			30.26	26.62
+y	i	y	ADV			yu	1.07	0.27
+y	i	y	VER				0.1	0
+ya	ja		NOM	m	s		11.45	3.31
+yacht	jOt	ya-cht	NOM	m	s		6.51	3.78
+yacht-club	jOt-kl9b	yacht-club	NOM	m	s		0.04	0.07
+yachting	jO-tiG	ya-ch-ting	NOM	m	s		0.04	0.14
+yachtman	jOt-man	ya-cht-man	NOM	m	s		0.02	0.07
+yachtmen	jOt-mEn	ya-cht-men	NOM	m	p	yachtman	0	0.07
+yachts	jOt	ya-chts	NOM	m	p	yacht	0.44	1.01
+yachtwoman	jO-twu-man	ya-cht-wo-man	NOM	f	s		0	0.07
+yack	jak	ya-ck	NOM	m	s		0.46	1.42
+yacks	jak	ya-cks	NOM	m	p	yack	2.69	0.34
+yak	jak	yak	NOM	m	s		0.28	0.41
+yakitori	ja-ki-tO-Ri		NOM	m	s		0.01	0
+yaks	jak	yaks	NOM	m	p	yak	0.1	0
+yakusa	ja-ku-za	ya-ku-sa	NOM	m	s		0.15	0
+yakuza	ja-ku-za	ya-ku-za	NOM	m	s		0.79	0
+yakuzas	ja-ku-za	ya-ku-zas	NOM	m	p	yakuza	0.07	0
+yali	ja-li	ya-li	NOM	m	s		0	0.88
+yalis	ja-li	ya-lis	NOM	m	p	yali	0	0.14
+yama	ja-ma	ya-ma	NOM	m	s		0.24	0.07
+yang	j@g	yang	NOM	m	s		3.25	0.81
+yankee	j@-ki	yan-kee	NOM		s		3.71	0.68
+yankees	j@-ki	yan-kees	NOM		p	yankee	5	0.41
+yanquis	j@-ki	yan-quis	ADJ		p	yanqui	0.01	0
+yaourt	ja-uRt	yaourt	NOM	m	s		2.87	3.18
+yaourtières	ja-uR-tjER	yaour-tiè-res	NOM	f	p	yaourtière	0	0.07
+yaourts	ja-uRt	yaourts	NOM	m	p	yaourt	0.71	1.55
+yard	jaR	yard	NOM	m	s		0.46	0.27
+yards	jaR	yard-s	NOM	m	p	yard	1.64	0.07
+yatagan	ja-ta-g@	ya-ta-gan	NOM	m	s		0.01	0.54
+yatagans	ja-ta-g@	ya-ta-gans	NOM	m	p	yatagan	0	0.34
+yé-yé	je-je	yéyé	NOM	m			0	0.14
+yeah	jE	yeah	ONO				14.01	0.27
+yearling	j9R-liG	year-ling	NOM	m	s		0.01	0.14
+yèbles	jEbl	yè-bles	NOM	f	p	yèble	0	0.14
+yéménites	je-me-nit	yé-mé-ni-tes	NOM		p	yéménite	0.01	0.07
+yéménites	je-me-nit	yé-mé-ni-tes	ADJ	m	p	yéménite	0.01	0
+yen	jEn	yen	NOM	m	s		1.87	0.47
+yens	jEn	yens	NOM	m	p	yen	1.4	0.14
+yeshiva	jE-Si-va		NOM	f	s		1.13	0.2
+yeti	je-ti	ye-ti	NOM	m	s		0.29	0.14
+yéti	je-ti	yé-ti	NOM	m	s		0.65	0.14
+yeuse	j2z	yeu-se	NOM	f	s		0.02	0.14
+yeuses	i-2z	yeu-ses	NOM	f	p	yeuse	0.1	0.68
+yeux	j2	yeux	NOM	m	p	oeil	315.89	955.68
+yeux-radars	j2-Ra-daR	yeux-radars	NOM	m	p	oeil-radars	0	0.07
+yéyé	je-je	yéyé	NOM		s		0.41	0.2
+yéyés	je-je	yéyés	NOM		p	yéyé	0	0.14
+yiddish	ji-diS	yid-di-sh	ADJ	m	s		0.7	0.74
+yin	jin	yin	NOM	m	s		2.17	0.81
+ylang-ylang	i-l@-i-l@		NOM	m	s		0.01	0
+yo-yo	jo-jo	yoyo	NOM	m			1.03	0.47
+yodlait	jod-lE	yo-dlait	VER			yodler	0	0.07
+yodler	jOd-le		VER				0.03	0
+yoga	jo-ga	yo-ga	NOM	m	s		3.17	1.08
+yoghourt	jo-guRt	yo-ghourt	NOM	m	s		0	0.34
+yogi	jo-gi	yo-gi	NOM	m	s		0.52	0.41
+yogis	jo-gi	yo-gis	NOM	m	p	yogi	0.05	0.07
+yogourt	jo-guRt	yo-gourt	NOM	m	s		0.31	0.07
+yole	jOl	yo-le	NOM	f	s		0.04	0.47
+yom kippour	jOm-ki-puR	yom kip-pour	NOM	m			0.45	0.34
+yom kippur	jOm-ki-puR	yom kip-pur	NOM	m	s		0.04	0
+york	jORk		NOM	m	s		0.48	0.61
+yorkshire	jOR-kSiR		NOM	m	s		0.01	0
+you-you	ju-ju	youyou	NOM	m	s		0	0.07
+yougoslave	ju-gO-slav	you-go-sla-ve	ADJ		s		0.55	0.81
+yougoslave	ju-gO-slav	you-go-sla-ve	NOM		s		0.14	0.95
+yougoslaves	ju-gO-slav	you-go-sla-ves	NOM		p	yougoslave	0.12	1.01
+yougoslaves	ju-gO-slav	you-go-sla-ves	ADJ		p	yougoslave	0.14	0.61
+youp	jup	youp	ONO				0.17	0.68
+youpi	ju-pi	you-pi	ONO				1.12	0.54
+youpin	ju-p5	you-pin	NOM	m	s		1.05	1.42
+youpine	ju-pin	you-pi-ne	NOM	f	s	youpin	0.03	0.2
+yourte	juRt	your-te	NOM	f	s		0.56	1.28
+yourtes	juRt	your-tes	NOM	f	p	yourte	0	1.62
+youtre	jutR		NOM		s		0.01	0
+youyou	ju-ju	youyou	NOM	m	s		0	1.42
+youyous	ju-ju	youyous	NOM	m	p	youyou	0	0.2
+yoyo	jo-jo	yoyo	NOM	m	s		0.59	0.34
+yoyos	jo-jo	yoyos	NOM	m	p	yoyo	0.05	0.2
+ypérite	i-pe-Rit	y-pé-ri-te	NOM	f	s		0	0.14
+yu	jy		NOM	m	s	y	2.94	0
+yuan	jy-an	yuan	NOM	m	s		0.5	0
+yuans	jy-an	yuans	NOM	m	p	yuan	4.19	0
+yucca	ju-ka	yuc-ca	NOM	m	s		0.24	0
+yuccas	ju-ka	yuc-cas	NOM	m	p	yucca	0.07	0.07
+yue	jy		NOM	m			0.43	0
+yuppie	ju-pi	yup-pie	NOM		s		0.45	0
+yuppies	ju-pi	yup-pies	NOM		p	yuppie	0.6	0.07

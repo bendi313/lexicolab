@@ -1,0 +1,29 @@
+Fichiers de données de LexicoLab (dossier donnees/noyau)
+=========================================================
+
+Ces fichiers sont tirés de trois sources publiées sous licence libre « partage à l'identique ».
+Ils sont redistribués sous les mêmes licences. Vous pouvez les copier, les modifier et les réutiliser,
+y compris commercialement, à condition de citer les sources et de garder la même licence.
+
+1. index.txt, criteres.txt, paquet-*.txt, courbe.json
+   Source : Lexique 3.83 - http://www.lexique.org/
+   Licence : Creative Commons Attribution - Partage dans les mêmes conditions 4.0 (CC BY-SA 4.0)
+   https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+   À citer : New, B., Pallier, C., Brysbaert, M., Ferrand, L. (2004). Lexique 2 : A new French lexical database.
+   Behavior Research Methods, Instruments, & Computers, 36(3), 516-524.
+
+2. definitions-*.json, mots-du-jour.txt, sens.txt, origines-*.json, langues.txt, affixes.json, registres.json
+   Source : Wiktionnaire français - https://fr.wiktionary.org/ (extrait structuré : https://kaikki.org/, outil Wiktextract)
+   Licence : CC BY-SA 4.0 (et GFDL)
+   Auteurs : les contributeurs du Wiktionnaire ; la liste des auteurs de chaque article est dans l'onglet
+   « Historique » de la page du mot.
+
+3. sens-mots.txt, sens-vecteurs.bin
+   Source : vecteurs de mots fastText pour le français - https://fasttext.cc/docs/en/crawl-vectors.html
+   Licence : Creative Commons Attribution - Partage dans les mêmes conditions 3.0 (CC BY-SA 3.0)
+   https://creativecommons.org/licenses/by-sa/3.0/deed.fr
+   À citer : E. Grave, P. Bojanowski, P. Gupta, A. Joulin, T. Mikolov (2018). Learning Word Vectors for 157 Languages.
+
+Modifications apportées : sélection, contrôle, mise en forme compacte ; pour les vecteurs, réduction de 300 à 50
+dimensions ; pour les origines, repérage automatique des langues citées dans le texte d'étymologie.
+Le détail est dans le fichier SOURCES.md du projet.

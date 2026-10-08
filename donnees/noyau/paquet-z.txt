@@ -1,0 +1,260 @@
+z	zEd	z	NOM	m			5.39	5.07
+zadé	za-de	za-dé	VER	m	s	zader	0	0.47
+zaibatsu	zaj-bat-su	zai-bat-su	NOM	m			0.01	0
+zain	z5	zain	ADJ	m	s		0	0.07
+zaïrois	za-i-Rwa	zaï-rois	NOM	m			0.01	0
+zaïroise	za-i-Rwaz	zaï-roi-se	ADJ	f	s	zaïrois	0	0.07
+zaïroises	za-i-Rwaz	zaï-roi-ses	ADJ	f	p	zaïrois	0.01	0.07
+zakouski	za-kus-ki	za-kous-ki	NOM	m			0.62	0.07
+zakouskis	za-kus-ki	za-kous-kis	NOM	m	p	zakouski	0	0.27
+zani	za-ni		NOM	m	s		0.04	0
+zanimaux	za-ni-mo	za-ni-maux	NOM	m	p		0	0.07
+zanzi	z@-zi	zan-zi	NOM	m	s		0.02	8.04
+zanzibar	z@-zi-baR	zan-zi-bar	NOM	m	s		0.01	0
+zappant	za-p@	zap-pant	VER			zapper	0.01	0
+zappe	zap	zap-pe	VER			zapper	1.04	0
+zappé	za-pe	zap-pé	VER	m	s	zapper	0.64	0.07
+zapper	za-pe	zap-per	VER				0.75	0.07
+zapperai	za-p°-RE	zap-pe-rai	VER			zapper	0.02	0
+zapperait	za-p°-RE	zap-pe-rait	VER			zapper	0.01	0
+zappes	zap	zap-pes	VER			zapper	0.17	0
+zappeur	za-p9R	zap-peur	NOM	m	s		0.14	0
+zappez	za-pe	zap-pez	VER			zapper	0.09	0
+zapping	za-piG	zap-ping	NOM	m	s		0.02	0
+zarabe	za-Rab		NOM		s		0.1	0
+zarbi	zaR-bi	zar-bi	ADJ		s		0.63	0.14
+zarbis	zaR-bi	zar-bis	ADJ	m	p	zarbi	0.07	0
+zazou	za-zu	za-zou	ADJ	m	s		0.04	1.01
+zazou	za-zu	za-zou	NOM	m	s		0.04	0.68
+zazous	za-zu	za-zous	NOM	m	p	zazou	0.07	0.2
+zazous	za-zu	za-zous	ADJ	m	p	zazou	0.02	0
+zeb	zEb		NOM	m	s		0.5	0.07
+zébra	ze-bRa	zé-bra	VER			zébrer	0.16	0.14
+zébraient	ze-bRE	zé-braient	VER			zébrer	0	0.54
+zébrait	ze-bRE	zé-brait	VER			zébrer	0	0.14
+zébrant	ze-bR@	zé-brant	VER			zébrer	0	0.41
+zèbre	zEbR	zè-bre	NOM	m	s		2.65	3.04
+zèbre	zEbR	zè-bre	VER			zébrer	0.03	0
+zébré	ze-bRe	zé-bré	VER	m	s	zébrer	0	0.61
+zébré	ze-bRe	zé-bré	ADJ	m	s		0.03	0.14
+zébrée	ze-bRe	zé-brée	VER	f	s	zébrer	0	0.41
+zébrée	ze-bRe	zé-brée	ADJ	f	s	zébré	0.02	0.27
+zébrées	ze-bRe	zé-brées	VER	f	p	zébrer	0	0.14
+zébrées	ze-bRe	zé-brées	ADJ	f	p	zébré	0	0.14
+zèbrent	zEbR	zè-brent	VER			zébrer	0	0.07
+zébrer	ze-bRe	zé-brer	VER				0	0.27
+zèbres	zEbR	zè-bres	NOM	m	p	zèbre	1.15	2.09
+zèbres	zEbR	zè-bres	VER			zébrer	0.01	0
+zébrés	ze-bRe	zé-brés	VER	m	p	zébrer	0.01	0.14
+zébrés	ze-bRe	zé-brés	ADJ	m	p	zébré	0	0.14
+zébrure	ze-bRyR	zé-bru-re	NOM	f	s		0	0.47
+zébrures	ze-bRyR	zé-bru-res	NOM	f	p	zébrure	0.03	1.01
+zébu	ze-by	zé-bu	NOM	m	s		0.06	0.2
+zébus	ze-by	zé-bus	NOM	m	p	zébu	0	0.2
+zef	zEf	zef	NOM	m	s		0.01	4.53
+zélateur	ze-la-t9R	zé-la-teur	NOM	m	s		0	0.07
+zélateurs	ze-la-t9R	zé-la-teurs	NOM	m	p	zélateur	0	0.34
+zélatrice	ze-la-tRis		NOM	f	s	zélateur	0.02	0
+zèle	zEl	zè-le	NOM	m	s		4.92	10.61
+zélé	ze-le	zé-lé	ADJ	m	s		0.69	1.42
+zélée	ze-le	zé-lée	ADJ	f	s	zélé	0.11	0.47
+zélées	ze-le	zé-lées	ADJ	f	p	zélé	0	0.2
+zèles	zEl	zè-les	NOM	m	p	zèle	0	0.07
+zélés	ze-le	zé-lés	ADJ	m	p	zélé	0.39	0.88
+zelle	zEl	zel-le	NOM	m	s		0.71	0.74
+zélote	ze-lOt	zé-lo-te	NOM	m	s		0.02	0.34
+zélotes	ze-lOt	zé-lo-tes	NOM	m	p	zélote	0.06	0.47
+zemstvo	zem-stvo	zem-st-vo	NOM	m	s		0	0.07
+zen	zEn	zen	ADJ	m	s		2.55	1.76
+zen	zEn	zen	NOM	m	s		0.92	0.61
+zénana	ze-na-na	zé-na-na	NOM	f	s		0	0.07
+zénith	ze-nit	zé-ni-th	NOM	m	s		0.63	3.38
+zénithale	ze-ni-tal	zé-ni-tha-le	ADJ	f	s	zénithal	0	0.07
+zénithales	ze-ni-tal	zé-ni-tha-les	ADJ	f	p	zénithal	0	0.07
+zens	zEn	zens	NOM	m	p	zen	0.01	0.2
+zéphire	ze-fiR	zé-phi-re	ADJ		s		0.1	0
+zéphire	ze-fiR	zé-phi-re	NOM	m	s		0.01	0
+zéphyr	ze-fiR	zé-phyr	NOM	m	s		0.04	0.47
+zéphyrs	ze-fiR	zé-phyrs	NOM	m	p	zéphyr	0.05	0.14
+zeppelin	zE-p°-l5	zep-pe-lin	NOM	m	s		0.04	0.14
+zeppelins	zE-p°-l5	zep-pe-lins	NOM	m	p	zeppelin	0.03	0.27
+zéro	ze-Ro	zé-ro	NOM	m	s		30.44	16.49
+zéros	ze-Ro	zé-ros	NOM	m	p	zéro	2.41	1.76
+zest	zEst	zest	NOM	m	s		0.05	0.07
+zeste	zEst	zes-te	NOM	m	s		0.69	0.74
+zester	zEs-te		VER				0.01	0
+zestes	zEst	zes-tes	NOM	m	p	zeste	0.01	0.14
+zézaie	ze-zE	zé-zaie	VER			zézayer	0.01	0.27
+zézaiement	ze-zE-m@	zé-zaie-ment	NOM	m	s		0.03	0.2
+zézaient	ze-zE	zé-zaient	VER			zézayer	0	0.07
+zézayaient	ze-ze-jE	zé-zayaient	VER			zézayer	0	0.07
+zézayant	ze-ze-j@	zé-zayant	VER			zézayer	0.01	0.2
+zézaye	ze-zej	zé-zaye	VER			zézayer	0	0.07
+zézayer	ze-ze-je	zé-zayer	VER				0	0.07
+zézette	ze-zEt	zé-zet-te	NOM	f	s		0.24	9.05
+zézettes	ze-zEt	zé-zet-tes	NOM	f	p	zézette	0	0.27
+zibeline	zi-b°-lin	zi-be-li-ne	NOM	f	s		0.86	0.81
+zibelines	zi-b°-lin	zi-be-li-nes	NOM	f	p	zibeline	0.61	0.27
+zicmu	zik-my	zic-mu	NOM	f	s		0.14	0
+zieute	zj2t	zieu-te	VER			zieuter	0.07	0.34
+zieutent	zj2t	zieu-tent	VER			zieuter	0	0.14
+zieuter	zj2-te	zieu-ter	VER				0.06	0.34
+zieutes	zj2t	zieu-tes	VER			zieuter	0.01	0.07
+zieutez	zj2-te	zieu-tez	VER			zieuter	0.02	0
+zig	zig	zig	NOM	m	s		1.16	0.68
+zig-zig	zig-zig	zig-zig	ADV				0.03	0
+ziggourat	zi-gu-Rat		NOM	f	s		0.05	0
+ziggourats	zi-gu-Ra	zig-gou-rats	NOM	f	p	ziggourat	0	0.07
+zigomar	zi-go-maR	zi-go-mar	NOM	m	s		0.01	0.2
+zigomars	zi-go-maR	zi-go-mars	NOM	m	p	zigomar	0.01	0.07
+zigoto	zi-go-to	zi-go-to	NOM	m	s		0.25	0.68
+zigotos	zi-go-to	zi-go-tos	NOM	m	p	zigoto	0.05	0.74
+zigouillais	zi-gu-jE	zi-gouil-lais	VER			zigouiller	0	0.07
+zigouillait	zi-gu-jE	zi-gouil-lait	VER			zigouiller	0	0.07
+zigouille	zi-guj	zi-gouil-le	VER			zigouiller	0.45	0.2
+zigouillé	zi-gu-je	zi-gouil-lé	VER	m	s	zigouiller	0.46	0.27
+zigouillées	zi-gu-je	zi-gouil-lées	VER	f	p	zigouiller	0.01	0
+zigouillent	zi-guj	zi-gouil-lent	VER			zigouiller	0.01	0
+zigouiller	zi-gu-je	zi-gouil-ler	VER				0.54	0.47
+zigouillés	zi-gu-je	zi-gouil-lés	VER	m	p	zigouiller	0.1	0.07
+zigouillez	zi-gu-je	zi-gouil-lez	VER			zigouiller	0.03	0.07
+zigounette	zi-gu-nEt	zi-gou-net-te	NOM	f	s		0.14	0.07
+zigue	zig	zi-gue	NOM	m	s		0.3	0.54
+zigues	zig	zi-gues	NOM	m	p	zigue	0.03	0.2
+zigzag	zig-zag	zig-zag	NOM	m	s		0.36	1.49
+zigzagant	zig-za-g@	zig-za-gant	ADJ	m	s		0	0.2
+zigzagante	zig-za-g@t	zig-za-gan-te	ADJ	f	s	zigzagant	0	0.34
+zigzagantes	zig-za-g@t	zig-za-gan-tes	ADJ	f	p	zigzagant	0	0.07
+zigzags	zig-zag	zig-zag-s	NOM	m	p	zigzag	0.05	1.15
+zigzagua	zig-za-ga	zig-za-gua	VER			zigzaguer	0	0.2
+zigzaguai	zig-za-gE	zig-za-guai	VER			zigzaguer	0	0.07
+zigzaguaient	zig-za-gE	zig-za-guaient	VER			zigzaguer	0	0.41
+zigzaguait	zig-za-gE	zig-za-guait	VER			zigzaguer	0.04	0.81
+zigzaguant	zig-za-g@	zig-za-guant	VER			zigzaguer	0.14	1.42
+zigzague	zig-zag	zig-za-gue	VER			zigzaguer	0.17	0.54
+zigzagué	zig-za-ge	zig-za-gué	VER	m	s	zigzaguer	0.04	0.2
+zigzaguée	zig-za-ge	zig-za-guée	VER	f	s	zigzaguer	0	0.07
+zigzaguent	zig-zag	zig-za-guent	VER			zigzaguer	0.01	0.2
+zigzaguer	zig-za-ge	zig-za-guer	VER				0.41	0.68
+zigzaguèrent	zig-za-gER	zig-za-guè-rent	VER			zigzaguer	0	0.07
+zinc	z5g	zinc	NOM	m	s		1.96	16.49
+zincs	z5g	zincs	NOM	m	p	zinc	0.16	0.81
+zingage	z5-gaZ	zin-ga-ge	NOM	m	s		0	0.07
+zingaro	zin-ga-Ro	zin-ga-ro	NOM	m	s		0.1	17.97
+zingué	z5-ge	zin-gué	VER	m	s	zinguer	0	0.07
+zingués	z5-ge	zin-gués	VER	m	p	zinguer	0	0.07
+zinnia	zi-nja	zin-nia	NOM	m	s		0.01	0.07
+zinnias	zi-nja	zin-nias	NOM	m	p	zinnia	0.1	0.27
+zinzin	z5-z5	zin-zin	ADJ	m	s		0.64	0.41
+zinzin	z5-z5	zin-zin	NOM	m	s		0.19	0.54
+zinzins	z5-z5	zin-zins	NOM	m	p	zinzin	0.08	0.2
+zinzolin	z5-zo-l5	zin-zo-lin	ADJ	m	p		0	0.07
+zip	zip	zip	NOM	m	s		0.78	0.41
+zippa	zi-pa	zip-pa	VER			zipper	0	0.07
+zippait	zi-pE	zip-pait	VER			zipper	0	0.07
+zippé	zi-pe	zip-pé	VER	m	s	zipper	0.04	0
+zipper	zi-pe	zip-per	VER				0.21	0.07
+zircon	ziR-k§	zir-con	NOM	m	s		0.18	0
+zirconium	ziR-ko-njom		NOM	m	s		0.05	0
+zircons	ziR-k§	zir-cons	NOM	m	p	zircon	0.02	0
+zizanie	zi-za-ni	zi-za-nie	NOM	f	s		0.56	0.34
+zizanies	zi-za-ni	zi-za-nies	NOM	f	p	zizanie	0	0.07
+zizi	zi-zi	zi-zi	NOM	m	s		2.69	2.3
+zizique	zi-zik	zi-zi-que	NOM	f	s		0.17	0.34
+zizis	zi-zi	zi-zis	NOM	m	p	zizi	0.2	0.54
+zloty	zlo-ti	z-lo-ty	NOM	m	s		0.01	0
+zlotys	zlo-ti	z-lo-tys	NOM	m	p	zloty	1.28	0.07
+zob	zOb	zob	NOM	m	s		1.54	1.35
+zobs	zOb	zobs	NOM	m	p	zob	0.03	0
+zodiac	zO-djak		NOM	m	s		0.01	0
+zodiacal	zo-dja-kal	zo-dia-cal	ADJ	m	s		0.14	0.07
+zodiacale	zo-dja-kal		ADJ	f	s	zodiacal	0.01	0
+zodiaque	zo-djak	zo-dia-que	NOM	m	s		0.53	0.68
+zombi	z§-bi	zom-bi	NOM	m	s		0.28	2.97
+zombie	z§-bi	zom-bie	NOM	m	s		2.33	0.54
+zombies	z§-bi	zom-bies	NOM	m	p	zombie	2.71	0.47
+zombification	z§-bi-fi-ka-sj§	zom-bi-fi-ca-tion	NOM	f	s		0.02	0
+zombis	z§-bi	zom-bis	NOM	m	p	zombi	0.37	0.61
+zona	zo-na	zo-na	NOM	m	s		0.36	0.61
+zona	zo-na	zo-na	VER			zoner	0.01	0
+zonage	zo-naZ	zo-na-ge	NOM	m	s		0.1	0
+zonait	zo-nE	zo-nait	VER			zoner	0.04	0.07
+zonal	zo-nal	zo-nal	ADJ	m	s		0	0.07
+zonant	zo-n@	zo-nant	VER			zoner	0.01	0.07
+zonard	zo-naR	zo-nard	NOM	m	s		0.08	1.76
+zonarde	zo-naRd	zo-nar-de	NOM	f	s	zonard	0	0.27
+zonardes	zo-naRd	zo-nar-des	NOM	f	p	zonard	0	0.14
+zonards	zo-naR	zo-nard-s	NOM	m	p	zonard	0.1	2.09
+zonas	zo-na	zo-nas	NOM	m	p	zona	0.01	0
+zone	zon	zo-ne	NOM	f	s		46.97	34.39
+zoné	zo-ne	zo-né	VER	m	s	zoner	0.13	0.14
+zoner	zo-ne	zo-ner	VER				0.03	0.54
+zonera	zo-n°-Ra	zo-ne-ra	VER			zoner	0.01	0
+zones	zon	zo-nes	NOM	f	p	zone	6.98	8.11
+zones-clés	zon-kle	zones-clés	NOM	f	p	zone-clé	0	0.07
+zoning	zo-niG		NOM	m	s		0.01	0
+zonzon	z§-z§	zon-zon	NOM	m	s		0.33	0.54
+zoo	zo-o	zoo	NOM	m	s		11.45	6.08
+zoologie	zo-o-lo-Zi	zoo-lo-gie	NOM	f	s		0.4	0.34
+zoologique	zo-o-lo-Zik	zoo-lo-gi-que	ADJ		s		0.35	1.01
+zoologiques	zo-o-lo-Zik	zoo-lo-gi-ques	ADJ	m	p	zoologique	0.01	0.2
+zoologiste	zo-o-lo-Zist	zoo-lo-gis-te	NOM		s		0.25	0
+zoologue	zo-o-lOg	zoo-lo-gue	NOM	m	s		0.02	0
+zoom	zum	zoom	NOM	m	s		2.27	0.34
+zoome	zum	zoo-me	VER			zoomer	0.58	0
+zoomer	zu-me	zoo-mer	VER				0.37	0
+zoomes	zum	zoo-mes	VER			zoomer	0.28	0
+zoomez	zu-me	zoo-mez	VER			zoomer	0.26	0
+zooms	zum	zoom-s	NOM	m	p	zoom	0.12	0.07
+zoophile	zo-o-fil	zoo-phi-le	ADJ	f	s		0.01	0.14
+zoophiles	zo-o-fil	zoo-phi-les	ADJ	f	p	zoophile	0.02	0
+zoophiles	zo-o-fil	zoo-phi-les	NOM		p	zoophile	0.01	0
+zoophilie	zo-o-fi-li		NOM	f	s		0.08	0
+zoos	zo-o	zoos	NOM	m	p	zoo	0.72	0.41
+zoreille	zO-REj		NOM	m	s		0.02	0
+zoreilles	zo-REj	zo-reil-les	NOM	m	p	zoreille	0	0.07
+zorille	zo-Rij	zo-ril-le	NOM	f	s		0	0.07
+zoroastrien	zo-Ro-as-tRi-j5	zo-roas-trien	ADJ	m	s		0	0.07
+zoroastrien	zo-Ro-as-tRi-j5	zo-roas-trien	NOM	m	s		0.01	0
+zoroastriens	zo-Ro-as-tRi-5	zo-roas-triens	NOM	m	p	zoroastrien	0.01	0
+zoroastrisme	zo-Ro-as-tRizm	zo-roas-tris-me	NOM	m	s		0.01	0
+zou	zu	zou	ONO				1.86	0.54
+zouave	zwav	zoua-ve	NOM	m	s		0.46	1.76
+zouaves	zwav	zoua-ves	NOM	m	p	zouave	0	0.95
+zouk	zuk		NOM	m	s		0.01	0
+zoulou	zu-lu		ADJ	m	s		0.15	0
+zoulou	zu-lu		NOM	m	s		0.06	0
+zouloue	zu-lu	zou-loue	ADJ	f	s	zoulou	0.01	0
+zoulous	zu-lu	zou-lous	NOM	m	p	zoulou	0.05	0.07
+zoulous	zu-lu	zou-lous	ADJ	m	p	zoulou	0	0.07
+zoziaux	zo-zjo	zo-ziaux	NOM	m	p		0.01	0.07
+zozo	zo-zo	zo-zo	NOM	m	s		0.7	0.41
+zozos	zo-zo	zo-zos	NOM	m	p	zozo	0.18	0.41
+zozotait	zo-zo-tE	zo-zo-tait	VER			zozoter	0	0.14
+zozotant	zo-zo-t@	zo-zo-tant	VER			zozoter	0	0.34
+zozote	zo-zOt	zo-zo-te	VER			zozoter	0.05	0.07
+zozotement	zo-zO-t°-m@	zo-zo-te-ment	NOM	m	s		0.01	0.07
+zozotements	zo-zO-t°-m@	zo-zo-te-ments	NOM	m	p	zozotement	0	0.07
+zozotes	zo-zOt	zo-zo-tes	VER			zozoter	0	0.07
+zozoteuse	zo-zo-t2z	zo-zo-teu-se	NOM	f	s	zozoteur	0	0.07
+zozotez	zo-zo-te	zo-zo-tez	VER			zozoter	0.01	0
+zurichois	zy-Ri-kwa	zu-ri-chois	NOM	m			0	0.14
+zurichois	zy-Ri-kwa	zu-ri-chois	ADJ	m	p		0	0.07
+zurichoise	zy-Ri-kwaz	zu-ri-choi-se	ADJ	f	s	zurichois	0	0.07
+zut	zyt	zut	ONO				13.69	7.16
+zydeco	zi-d2-ko		NOM	f	s		0.01	0
+zyeuta	zj2-ta	zyeu-ta	VER			zyeuter	0	0.07
+zyeutais	zj2-tE	zyeu-tais	VER			zyeuter	0	0.07
+zyeutait	zj2-tE	zyeu-tait	VER			zyeuter	0	0.14
+zyeutant	zj2-t@	zyeu-tant	VER			zyeuter	0	0.2
+zyeute	zj2t	zyeu-te	VER			zyeuter	0.12	1.22
+zyeuté	zi-2-te	zyeu-té	VER	m	s	zyeuter	0.01	0.14
+zyeuter	zj2-te	zyeu-ter	VER				0.02	0.95
+zyeutes	zj2t	zyeu-tes	VER			zyeuter	0.01	0
+zygoma	zi-go-ma	zy-go-ma	NOM	m	s		0	0.07
+zygomatique	zi-go-ma-tik	zy-go-ma-ti-que	ADJ	f	s		0.11	0.14
+zygomatiques	zi-go-ma-tik	zy-go-ma-ti-ques	ADJ	f	p	zygomatique	0.05	0.2
+zygote	zi-gOt		NOM	m	s		0.06	0
+zyklon	zi-kl§	zyk-lon	NOM	m	s		0.82	0
+zzz	z	zzz	ONO				0.04	0
+zzzz	z	zzzz	ONO				0	0.07

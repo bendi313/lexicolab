@@ -1,0 +1,3326 @@
+v	ve	v	NOM	m			26.54	5
+v	ve	v	ADJ:num				3.56	2.7
+va	va	va	VER			aller	3382.55	694.59
+va	va	va	NOM	m	s		0.34	0
+va-et-vient	va-e-vj5	va-et-vient	NOM	m			1.3	10.61
+va-tout	va-tu	va-tout	NOM	m			0.05	0.41
+vacance	va-k@s	va-can-ce	NOM	f	s		0.29	0.88
+vacances	va-k@s	va-can-ces	NOM	f	p	vacance	67.6	81.69
+vacancier	va-k@-sje	va-can-cier	NOM	m	s		0.02	0.14
+vacancière	va-k@-sjER	va-can-ciè-re	NOM	f	s	vacancier	0.01	0.14
+vacancières	va-k@-sjER	va-can-ciè-res	NOM	f	p	vacancier	0.01	0.07
+vacanciers	va-k@-sje	va-can-ciers	NOM	m	p	vacancier	0.2	1.89
+vacant	va-k@	va-cant	ADJ	m	s		0.84	2.57
+vacante	va-k@t	va-can-te	ADJ	f	s	vacant	0.6	1.42
+vacantes	va-k@t	va-can-tes	ADJ	f	p	vacant	0.01	0.41
+vacants	va-k@	va-cants	ADJ	m	p	vacant	0.22	0.68
+vacarme	va-kaRm	va-car-me	NOM	m	s		3.46	15.2
+vacarmes	va-kaRm	va-car-mes	NOM	m	p	vacarme	0	0.41
+vacataire	va-ka-tER	va-ca-tai-re	NOM		s		0.05	0
+vacation	va-ka-sj§	va-ca-tion	NOM	f	s		0.05	0.14
+vacations	va-ka-sj§	va-ca-tions	NOM	f	p	vacation	0	0.41
+vaccin	vak-s5	vac-cin	NOM	m	s		5.01	4.12
+vaccinal	vak-si-nal		ADJ	m	s		0.01	0
+vaccinant	vak-si-n@	vac-ci-nant	ADJ	m	s		0	0.07
+vaccination	vak-si-na-sj§	vac-ci-na-tion	NOM	f	s		0.2	0.47
+vaccinations	vak-si-na-sj§	vac-ci-na-tions	NOM	f	p	vaccination	0.3	0.07
+vaccine	vak-sin	vac-ci-ne	VER			vacciner	0.18	0.14
+vaccine	vak-sin	vac-ci-ne	NOM	f	s		0.04	0
+vacciné	vak-si-ne	vac-ci-né	VER	m	s	vacciner	0.53	0.47
+vacciné	vak-si-ne	vac-ci-né	ADJ	m	s		0.3	0.07
+vaccinée	vak-si-ne	vac-ci-née	VER	f	s	vacciner	0.14	0.2
+vaccinée	vak-si-ne	vac-ci-née	ADJ	f	s	vacciné	0.03	0
+vaccinées	vak-si-ne	vac-ci-nées	VER	f	p	vacciner	0.01	0.07
+vaccinent	vak-sin	vac-ci-nent	VER			vacciner	0	0.07
+vacciner	vak-si-ne	vac-ci-ner	VER				0.68	0.47
+vaccinés	vak-si-ne	vac-ci-nés	VER	m	p	vacciner	0.11	0.2
+vaccinés	vak-si-ne	vac-ci-nés	ADJ	m	p	vacciné	0.01	0
+vaccins	vak-s5	vac-cins	NOM	m	p	vaccin	1.54	0.81
+vachard	va-SaR	va-chard	ADJ	m	s		0.08	0.74
+vacharde	va-SaRd	va-char-de	ADJ	f	s	vachard	0	0.34
+vachardes	va-SaRd	va-char-des	ADJ	f	p	vachard	0	0.14
+vachardise	va-SaR-diz		NOM	f	s		0	0.14
+vachards	va-SaR	va-chard-s	ADJ	m	p	vachard	0	0.2
+vache	vaS	va-che	NOM	f	s		36.24	26.08
+vache	vaS	va-che	ADJ		s		3.37	6.35
+vachement	va-S°-m@	va-che-ment	ADV				15.74	11.82
+vacher	va-Se	va-cher	NOM	m	s		0.77	0.61
+vachère	va-SER	va-chè-re	NOM	f	s		0	0.41
+vachères	va-SER	va-chè-res	NOM	f	p	vachère	0.11	0.2
+vacherie	va-S°-Ri	va-che-rie	NOM	f	s		0.42	3.18
+vacheries	va-S°-Ri	va-che-ries	NOM	f	p	vacherie	0.27	2.23
+vacherin	va-S°-R5	va-che-rin	NOM	m	s		0	0.54
+vachers	va-Se	va-chers	NOM	m	p	vacher	0.13	0.2
+vaches	vaS	va-ches	NOM	f	p	vache	11.46	27.36
+vaches	vaS	va-ches	ADJ		p	vache	1.01	1.76
+vachette	va-SEt	va-chet-te	NOM	f	s		0.02	0.34
+vachettes	va-SEt	va-chet-tes	NOM	f	p	vachette	0	0.07
+vacilla	va-si-ja	va-cil-la	VER			vaciller	0.1	1.69
+vacillai	va-si-jE	va-cil-lai	VER			vaciller	0	0.07
+vacillaient	va-si-jE	va-cil-laient	VER			vaciller	0	0.54
+vacillait	va-si-jE	va-cil-lait	VER			vaciller	0.02	2.23
+vacillant	va-si-j@	va-cil-lant	ADJ	m	s		0.07	1.76
+vacillant	va-si-j@	va-cil-lant	VER			vaciller	0.27	1.28
+vacillante	va-si-j@t	va-cil-lan-te	ADJ	f	s	vacillant	0.19	1.82
+vacillantes	va-si-j@t	va-cil-lan-tes	ADJ	f	p	vacillant	0.01	0.81
+vacillants	va-si-j@	va-cil-lants	ADJ	m	p	vacillant	0.01	0.41
+vacillât	va-si-ja	va-cil-lât	VER			vaciller	0	0.07
+vacillations	va-si-ja-sj§	va-cil-la-tions	NOM	f	p	vacillation	0	0.07
+vacille	va-sij	va-cil-le	VER			vaciller	0.93	2.57
+vacillé	va-si-je	va-cil-lé	VER	m	s	vaciller	0.03	0.34
+vacillement	va-si-j°-m@	va-cil-le-ment	NOM	m	s		0.01	0.34
+vacillent	va-sij	va-cil-lent	VER			vaciller	0.22	0.34
+vaciller	va-si-je	va-cil-ler	VER				0.29	3.45
+vacillèrent	va-si-jER	va-cil-lè-rent	VER			vaciller	0	0.27
+vacuité	va-k8i-te	va-cui-té	NOM	f	s		0.27	1.42
+vacuole	va-k8Ol	va-cuo-le	NOM	f	s		0.01	0
+vacuolisation	va-k8O-li-za-sj§		NOM	f	s		0.01	0
+vacuum	va-k8Om	va-cuum	NOM	m	s		0.13	0.2
+vade retro	va-de-Re-tRo	va-de re-tro	ADV				0.26	0.68
+vadrouillais	va-dRu-jE	va-drouil-lais	VER			vadrouiller	0.01	0.07
+vadrouillait	va-dRu-jE	va-drouil-lait	VER			vadrouiller	0.01	0.07
+vadrouille	va-dRuj	va-drouil-le	NOM	f	s		0.8	1.69
+vadrouille	va-dRuj	va-drouil-le	VER			vadrouiller	0.04	0.27
+vadrouillé	va-dRu-je	va-drouil-lé	VER	m	s	vadrouiller	0.06	0.07
+vadrouillent	va-dRuj	va-drouil-lent	VER			vadrouiller	0	0.07
+vadrouiller	va-dRu-je	va-drouil-ler	VER				0.21	0.81
+vadrouilles	va-dRuj	va-drouil-les	NOM	f	p	vadrouille	0.14	0.2
+vadrouilles	va-dRuj	va-drouil-les	VER			vadrouiller	0.01	0
+vadrouilleur	va-dRu-j9R		NOM	m	s		0.1	0
+vadrouilleurs	va-dRu-j9R	va-drouil-leurs	NOM	m	p	vadrouilleur	0.01	0
+vadrouilleuse	va-dRu-j2z	va-drouil-leu-se	NOM	f	s	vadrouilleur	0	0.07
+vadrouilleuses	va-dRu-j2z	va-drouil-leu-ses	NOM	f	p	vadrouilleur	0	0.07
+vadrouillez	va-dRu-je	va-drouil-lez	VER			vadrouiller	0.01	0
+vae soli	va-e-so-li	vae so-li	ADV				0	0.07
+vae victis	va-e-vik-tis	vae vic-tis	ADV				0.02	0.07
+vagabond	va-ga-b§	va-ga-bond	NOM	m	s		3.1	3.38
+vagabond	va-ga-b§	va-ga-bond	ADJ	m	s		0.84	1.42
+vagabonda	va-ga-b§-da	va-ga-bon-da	VER			vagabonder	0	0.07
+vagabondage	va-ga-b§-daZ	va-ga-bon-da-ge	NOM	m	s		0.68	1.76
+vagabondages	va-ga-b§-daZ	va-ga-bon-da-ges	NOM	m	p	vagabondage	0.02	0.81
+vagabondaient	va-ga-b§-dE	va-ga-bon-daient	VER			vagabonder	0	0.14
+vagabondais	va-ga-b§-dE	va-ga-bon-dais	VER			vagabonder	0.28	0
+vagabondait	va-ga-b§-dE	va-ga-bon-dait	VER			vagabonder	0.26	0.88
+vagabondant	va-ga-b§-d@	va-ga-bon-dant	VER			vagabonder	0.04	0
+vagabonde	va-ga-b§d	va-ga-bon-de	ADJ	f	s	vagabond	0.41	0.81
+vagabonde	va-ga-b§d	va-ga-bon-de	VER			vagabonder	0.68	0.34
+vagabonde	va-ga-b§d	va-ga-bon-de	NOM	f	s	vagabond	0.3	0.27
+vagabondé	va-ga-b§-de	va-ga-bon-dé	VER	m	s	vagabonder	0.08	0.14
+vagabondent	va-ga-b§d	va-ga-bon-dent	VER			vagabonder	0.17	0.14
+vagabonder	va-ga-b§-de	va-ga-bon-der	VER				0.78	0.81
+vagabondèrent	va-ga-b§-dER	va-ga-bon-dè-rent	VER			vagabonder	0	0.07
+vagabondes	va-ga-b§d	va-ga-bon-des	ADJ	f	p	vagabond	0	0.41
+vagabondes	va-ga-b§d	va-ga-bon-des	VER			vagabonder	0.12	0.07
+vagabondes	va-ga-b§d	va-ga-bon-des	NOM	f	p	vagabond	0.02	0
+vagabondiez	va-ga-b§-dje	va-ga-bon-diez	VER			vagabonder	0.01	0
+vagabonds	va-ga-b§	va-ga-bond-s	NOM	m	p	vagabond	2.3	2.57
+vagabonds	va-ga-b§	va-ga-bond-s	ADJ	m	p	vagabond	0.52	0.54
+vagal	va-gal		ADJ	m	s		0.41	0
+vagi	va-Zi	va-gi	VER	m	s	vagir	0	0.14
+vagin	va-Z5	va-gin	NOM	m	s		4.11	2.09
+vaginal	va-Zi-nal	va-gi-nal	ADJ	m	s		0.45	0.14
+vaginale	va-Zi-nal	va-gi-na-le	ADJ	f	s	vaginal	0.9	0.34
+vaginales	va-Zi-nal	va-gi-na-les	ADJ	f	p	vaginal	0.38	0.07
+vaginaux	va-Zi-no		ADJ	m	p	vaginal	0.08	0
+vaginite	va-Zi-nit		NOM	f	s		0.03	0
+vagins	va-Z5	va-gins	NOM	m	p	vagin	0.29	0.07
+vagir	va-ZiR	va-gir	VER				0	0.2
+vagis	va-Zi	va-gis	VER			vagir	0	0.07
+vagissaient	va-Zi-sE	va-gis-saient	VER			vagir	0	0.07
+vagissais	va-Zi-sE	va-gis-sais	VER			vagir	0.14	0.07
+vagissait	va-Zi-sE	va-gis-sait	VER			vagir	0	0.81
+vagissant	va-Zi-s@	va-gis-sant	ADJ	m	s		0.03	0.2
+vagissant	va-Zi-s@	va-gis-sant	VER			vagir	0	0.07
+vagissement	va-Zi-s°-m@	va-gis-se-ment	NOM	m	s		0.43	0.34
+vagissements	va-Zi-s°-m@	va-gis-se-ments	NOM	m	p	vagissement	0.27	0.61
+vagissent	va-Zis	va-gis-sent	VER			vagir	0.01	0.07
+vagissons	va-Zi-s§	va-gis-sons	VER			vagir	0	0.07
+vagit	va-Zi	va-git	VER			vagir	0	0.2
+vagotomie	va-gO-tO-mi		NOM	f	s		0.01	0
+vagua	va-ga	va-gua	VER			vaguer	0	0.07
+vaguait	va-gE	va-guait	VER			vaguer	0	0.27
+vaguant	va-g@	va-guant	VER			vaguer	0	0.07
+vague	vag	va-gue	NOM		s		12.8	38.18
+vague	vag	va-gue	ADJ		s		6.32	41.08
+vague	vag	va-gue	VER			vaguer	0.11	0.88
+vaguelette	va-g°-lEt	va-gue-let-te	NOM	f	s		0.02	0.61
+vaguelettes	va-g°-lEt	va-gue-let-tes	NOM	f	p	vaguelette	0.02	2.23
+vaguement	va-g°-m@	va-gue-ment	ADV				4.72	51.76
+vaguemestre	va-g°-mEstR	va-gue-mes-tre	NOM		s		0.14	0.68
+vaguent	vag	va-guent	VER			vaguer	0	0.14
+vaguer	va-ge	va-guer	VER				0.1	0.47
+vagues	vag	va-gues	NOM		p	vague	8.79	35.41
+vagues	vag	va-gues	ADJ		p	vague	3.58	24.86
+vahiné	va-i-ne	va-hi-né	NOM	f	s		0.09	0.27
+vahinés	va-i-ne	va-hi-nés	NOM	f	p	vahiné	0.03	0.27
+vaillamment	va-ja-m@	vail-lam-ment	ADV				0.6	2.64
+vaillance	va-j@s	vail-lan-ce	NOM	f	s		1.2	2.03
+vaillant	va-j@	vail-lant	ADJ	m	s		3.75	3.31
+vaillante	va-j@t	vail-lan-te	ADJ	f	s	vaillant	0.65	2.43
+vaillantes	va-j@t	vail-lan-tes	ADJ	f	p	vaillant	0.05	0.95
+vaillants	va-j@	vail-lants	ADJ	m	p	vaillant	1	1.89
+vaille	vaj	vail-le	VER			valoir	3.04	5.34
+vaillent	vaj	vail-lent	VER			valoir	0.21	0.2
+vain	v5	vain	ADJ	m	s		16.02	40.14
+vainc	v5k	vainc	VER			vaincre	0.14	0.27
+vaincra	v5-kRa	vain-cra	VER			vaincre	0.82	0.27
+vaincrai	v5-kRE	vain-crai	VER			vaincre	0.42	0.2
+vaincraient	v5-kRE	vain-craient	VER			vaincre	0.02	0.07
+vaincrais	v5-kRE	vain-crais	VER			vaincre	0.11	0
+vaincrait	v5-kRE	vain-crait	VER			vaincre	0.27	0.07
+vaincras	v5-kRa	vain-cras	VER			vaincre	0.19	0
+vaincre	v5kR	vain-cre	VER				13.71	13.31
+vaincrez	v5-kRe	vain-crez	VER			vaincre	0.11	0
+vaincrons	v5-kR§	vain-crons	VER			vaincre	1.62	0.47
+vaincront	v5-kR§	vain-cront	VER			vaincre	0.09	0.14
+vaincs	v5k	vaincs	VER			vaincre	0.06	0.14
+vaincu	v5-ky	vain-cu	VER	m	s	vaincre	7.28	6.62
+vaincu	v5-ky	vain-cu	ADJ	m	s		1.33	3.51
+vaincu	v5-ky	vain-cu	NOM	m	s		1.09	2.43
+vaincue	v5-ky	vain-cue	VER	f	s	vaincre	1.1	2.23
+vaincue	v5-ky	vain-cue	ADJ	f	s	vaincu	0.4	1.96
+vaincue	v5-ky	vain-cue	NOM	f	s	vaincu	0.16	0.81
+vaincues	v5-ky	vain-cues	ADJ	f	p	vaincu	0.04	0.41
+vaincues	v5-ky	vain-cues	VER	f	p	vaincre	0.18	0.14
+vaincues	v5-ky	vain-cues	NOM	f	p	vaincu	0	0.2
+vaincus	v5-ky	vain-cus	NOM	m	p	vaincu	0.42	5.07
+vaincus	v5-ky	vain-cus	VER	m	p	vaincre	1.42	1.55
+vaincus	v5-ky	vain-cus	ADJ	m	p	vaincu	0.65	1.22
+vaine	vEn	vai-ne	ADJ	f	s	vain	1.04	8.18
+vainement	vE-n°-m@	vai-ne-ment	ADV				0.55	12.09
+vaines	vEn	vai-nes	ADJ	f	p	vain	1.57	5.2
+vainquant	v5-k@	vain-quant	VER			vaincre	0.01	0.07
+vainquent	v5k	vain-quent	VER			vaincre	0.01	0
+vainqueur	v5-k9R	vain-queur	NOM	m	s		6.71	5.74
+vainqueur	v5-k9R	vain-queur	ADJ	m	s		2.89	5.2
+vainqueurs	v5-k9R	vain-queurs	NOM	m	p	vainqueur	2.38	5.61
+vainqueurs	v5-k9R	vain-queurs	ADJ	m	p	vainqueur	1.14	1.69
+vainquez	v5-ke	vain-quez	VER			vaincre	0.03	0
+vainquions	v5-kj§	vain-quions	VER			vaincre	0.02	0
+vainquirent	v5-kiR	vain-qui-rent	VER			vaincre	0.01	0
+vainquit	v5-ki	vain-quit	VER			vaincre	0.18	0.14
+vainquons	v5-k§	vain-quons	VER			vaincre	0.03	0
+vains	v5	vains	ADJ	m	p	vain	1.23	3.51
+vair	vER	vair	NOM	m	s		0.09	0.27
+vairon	vE-R§	vai-ron	ADJ	m	s		0	0.2
+vairon	vE-R§	vai-ron	NOM	m	s		0	0.14
+vairons	vE-R§	vai-rons	NOM	m	p	vairon	0.04	0.41
+vairons	vE-R§	vai-rons	ADJ	m	p	vairon	0	0.34
+vais	vE	vais	VER			aller	1644.99	280
+vaisseau	vE-so	vais-seau	NOM	m	s		67.11	7.23
+vaisseau-amiral	vE-so-a-mi-Ral		NOM	m	s		0.05	0
+vaisseaux	vE-so	vais-seaux	NOM	m	p	vaisseau	16.27	5.2
+vaisselier	vE-s°-lje	vais-se-lier	NOM	m	s		0.07	0.61
+vaisseliers	vE-s°-lje	vais-se-liers	NOM	m	p	vaisselier	0	0.07
+vaisselle	vE-sEl	vais-sel-le	NOM	f	s		12.1	24.93
+vaisselles	vE-sEl	vais-sel-les	NOM	f	p	vaisselle	0.01	1.01
+val	val	val	NOM	m	s		2.12	3.04
+valable	va-labl	va-la-ble	ADJ		s		7.46	8.65
+valablement	va-la-bl°-m@	va-la-ble-ment	ADV				0	0.27
+valables	va-labl	va-la-bles	ADJ		p	valable	1.63	1.76
+valaient	va-lE	va-laient	VER			valoir	1.03	5.27
+valais	va-lE	va-lais	VER			valoir	0.46	0.47
+valait	va-lE	va-lait	VER			valoir	15.82	41.62
+valant	va-l@	va-lant	VER			valoir	1	1.49
+valaque	va-lak		NOM		s		0.01	0
+valdingua	val-d5-ga	val-din-gua	VER			valdinguer	0	0.07
+valdingue	val-d5g	val-din-gue	VER			valdinguer	0	1.01
+valdingué	val-d5-ge	val-din-gué	VER	m	s	valdinguer	0	0.07
+valdinguer	val-d5-ge	val-din-guer	VER				0.05	0.14
+valdingues	val-d5g	val-din-gues	VER			valdinguer	0	0.41
+valdingués	val-d5-ge	val-din-gués	VER	m	p	valdinguer	0	0.07
+valdôtains	val-do-t5	val-dô-tains	NOM	m	p	valdôtain	0	0.14
+valence	va-l@s	va-len-ce	NOM	f	s		0.28	0.07
+valencien	va-l@-sj5	va-len-cien	NOM	m	s		0	0.07
+valencienne	va-l@-sjEn	va-len-cien-ne	NOM	f	s	valencien	0.14	0.07
+valent	val	va-lent	VER			valoir	9.79	8.58
+valentin	va-l@-t5		NOM	m	s		0.11	0
+valentine	va-l@-tin	va-len-ti-ne	NOM	f	s	valentin	0.16	0
+valentinien	va-l@-ti-nj5	va-len-ti-nien	NOM	m	s		0.02	0
+valériane	va-le-Rjan	va-lé-ria-ne	NOM	f	s		0.3	0.14
+valet	va-lE	va-let	NOM	m	s		9.23	13.65
+valetaille	va-l°-taj	va-le-tail-le	NOM	f	s		0.01	1.01
+valeter	va-l°-te	va-le-ter	VER				0.14	0
+valets	va-lE	va-lets	NOM	m	p	valet	2.17	6.15
+valétudinaire	va-le-ty-di-nER	va-lé-tu-di-nai-re	ADJ	m	s		0.01	0.14
+valeur	va-l9R	va-leur	NOM	f	s		32.48	40.74
+valeur-refuge	va-l9R-R°-fyZ	valeur-refuge	NOM	f	s		0	0.07
+valeureuse	va-l2-R2z	va-leu-reu-se	ADJ	f	s	valeureux	0	0.07
+valeureusement	va-l9-R2-z°-m@		ADV				0.01	0
+valeureuses	va-l2-R2z	va-leu-reu-ses	ADJ	f	p	valeureux	0.01	0.07
+valeureux	va-l2-R2	va-leu-reux	ADJ	m			2.44	2.23
+valeurs	va-l9R	va-leurs	NOM	f	p	valeur	12.91	11.55
+valez	va-le	va-lez	VER			valoir	2.49	0.54
+valgus	val-gys	val-gus	ADJ	m			0.02	0
+valida	va-li-da	va-li-da	VER			valider	0	0.07
+validait	va-li-dE	va-li-dait	VER			valider	0	0.07
+validant	va-li-d@	va-li-dant	VER			valider	0	0.07
+validation	va-li-da-sj§	va-li-da-tion	NOM	f	s		0.14	0.07
+valide	va-lid	va-li-de	ADJ		s		1.72	1.55
+valide	va-lid	va-li-de	VER			valider	0.26	0.07
+validé	va-li-de	va-li-dé	ADJ	m	s		0.04	2.57
+validé	va-li-de	va-li-dé	NOM	m	s		0.04	0.88
+validé	va-li-de	va-li-dé	VER	m	s	valider	0.18	0.07
+validée	va-li-de	va-li-dée	VER	f	s	valider	0.03	0.07
+validée	va-li-de	va-li-dée	ADJ	f	s	validé	0.04	0
+valident	va-lid	va-li-dent	VER			valider	0.01	0
+valider	va-li-de	va-li-der	VER				0.72	0.14
+valideront	va-li-d°-R§	va-li-de-ront	VER			valider	0.03	0
+valides	va-lid	va-li-des	ADJ		p	valide	0.59	1.82
+validité	va-li-di-te	va-li-di-té	NOM	f	s		0.35	0.41
+valiez	va-lje	va-liez	VER			valoir	0.15	0
+valions	va-lj§	va-lions	VER			valoir	0.16	0.14
+valise	va-liz	va-li-se	NOM	f	s		33.21	47.43
+valisé	va-li-ze	va-li-sé	VER	m	s	valiser	0	0.14
+valises	va-liz	va-li-ses	NOM	f	p	valise	17.79	22.91
+valkyries	val-ki-Ri	val-ky-ries	NOM	f	p	valkyrie	0.02	0
+vallée	va-le	val-lée	NOM	f	s		12.51	30.14
+vallées	va-le	val-lées	NOM	f	p	vallée	1.03	5.54
+valleuse	va-l2z	val-leu-se	NOM	f	s		0	0.07
+vallon	va-l§	val-lon	NOM	m	s		2.11	5.74
+vallonnaient	va-lo-nE	val-lon-naient	VER			vallonner	0	0.07
+vallonnait	va-lo-nE	val-lon-nait	VER			vallonner	0	0.07
+vallonné	va-lo-ne	val-lon-né	ADJ	m	s		0.03	0.27
+vallonnée	va-lo-ne	val-lon-née	ADJ	f	s	vallonné	0.01	0.27
+vallonnée	va-lo-ne	val-lon-née	VER	f	s	vallonner	0	0.07
+vallonnées	va-lo-ne	val-lon-nées	ADJ	f	p	vallonné	0.01	0.14
+vallonnement	va-lO-n°-m@	val-lon-ne-ment	NOM	m	s		0	0.88
+vallonnements	va-lO-n°-m@	val-lon-ne-ments	NOM	m	p	vallonnement	0	1.22
+vallonner	va-lo-ne	val-lon-ner	VER				0	0.07
+vallonnés	va-lo-ne	val-lon-nés	ADJ	m	p	vallonné	0.01	0.07
+vallons	va-l§	val-lons	NOM	m	p	vallon	0.4	1.15
+valoche	va-lOS	va-lo-che	NOM	f	s		0.19	2.03
+valoches	va-lOS	va-lo-ches	NOM	f	p	valoche	0.27	1.35
+valoir	va-lwaR	va-loir	VER				4.62	9.32
+valons	va-l§	va-lons	VER			valoir	0.78	0.41
+valorisait	va-lo-Ri-zE	va-lo-ri-sait	VER			valoriser	0	0.07
+valorisant	va-lo-Ri-z@	va-lo-ri-sant	ADJ	m	s		0.35	0.14
+valorisante	va-lO-Ri-z@t		ADJ	f	s	valorisant	0.02	0
+valorisation	va-lo-Ri-za-sj§	va-lo-ri-sa-tion	NOM	f	s		0.01	0
+valorise	va-lo-Riz	va-lo-ri-se	VER			valoriser	0.19	0.27
+valorisé	va-lo-Ri-ze	va-lo-ri-sé	VER	m	s	valoriser	0	0.07
+valorisée	va-lo-Ri-ze	va-lo-ri-sée	VER	f	s	valoriser	0.02	0.07
+valoriser	va-lo-Ri-ze	va-lo-ri-ser	VER				0.22	0.2
+valorisés	va-lo-Ri-ze	va-lo-ri-sés	VER	m	p	valoriser	0.01	0.14
+valorisez	va-lo-Ri-ze	va-lo-ri-sez	VER			valoriser	0.01	0
+valpolicella	val-po-lit-SE-la	val-po-li-cel-la	NOM	m	s		0.01	0.14
+vals	val	vals	NOM	m	p	val	0.61	0.54
+valsa	val-sa	val-sa	VER			valser	0	0.2
+valsaient	val-sE	val-saient	VER			valser	0	0.47
+valsait	val-sE	val-sait	VER			valser	0.04	0.34
+valsant	val-s@	val-sant	VER			valser	0.05	0.27
+valse	vals	val-se	NOM	f	s		5.45	7.91
+valse	vals	val-se	VER			valser	0.1	0.47
+valsé	val-se	val-sé	VER	m	s	valser	0.2	0.61
+valse-hésitation	val-se-zi-ta-sj§	valse-hésitation	NOM	f	s		0	0.2
+valsent	vals	val-sent	VER			valser	0.11	0.2
+valser	val-se	val-ser	VER				1.33	2.43
+valsera	val-s°-Ra	val-se-ra	VER			valser	0.01	0
+valsèrent	val-sER	val-sè-rent	VER			valser	0.01	0.07
+valses	vals	val-ses	NOM	f	p	valse	0.11	1.42
+valses	vals	val-ses	VER			valser	0.02	0
+valses-hésitations	val-se-zi-ta-sj§	valses-hésitations	NOM	f	p	valse-hésitation	0	0.07
+valseur	val-s9R	val-seur	NOM	m	s		0.01	1.08
+valseurs	val-s9R	val-seurs	NOM	m	p	valseur	0	0.14
+valseuse	val-s2z	val-seu-se	NOM	f	s	valseur	0.11	0
+valseuses	val-s2z	val-seu-ses	NOM	f	p	valseur	0.14	0.14
+valsez	val-se	val-sez	VER			valser	0.04	0.07
+valsons	val-s§	val-sons	VER			valser	0.02	0
+valu	va-ly	va-lu	VER	m	s	valoir	3.82	9.39
+value	va-ly	va-lue	VER	f	s	valoir	0.12	0.07
+values	va-ly	va-lues	VER	f	p	valoir	0	0.14
+valurent	va-lyR	va-lu-rent	VER			valoir	0.03	0.81
+valut	va-ly	va-lut	VER			valoir	0.56	3.45
+valût	va-ly	va-lût	VER			valoir	0	0.61
+valve	valv	val-ve	NOM	f	s		1.6	0.47
+valves	valv	val-ves	NOM	f	p	valve	1.03	0.54
+valvulaires	val-vy-lER	val-vu-lai-res	ADJ		p	valvulaire	0	0.07
+valvule	val-vyl	val-vu-le	NOM	f	s		0.22	0.07
+vamp	v@p	vamp	NOM	f	s		0.33	1.22
+vamp-club	v@p-kl9b	vamp-club	NOM	f	s		0.01	0
+vampe	v@p	vam-pe	VER			vamper	0.01	0
+vampé	v@-pe	vam-pé	VER	m	s	vamper	0.03	0
+vamper	v@-pe	vam-per	VER				0.2	0.07
+vampire	v@-piR	vam-pi-re	NOM	m	s		15.29	1.82
+vampires	v@-piR	vam-pi-res	NOM	m	p	vampire	11.98	1.42
+vampirique	v@-pi-Rik	vam-pi-ri-que	ADJ		s		0.21	0.2
+vampirisant	v@-pi-Ri-z@	vam-pi-ri-sant	VER			vampiriser	0.01	0
+vampirise	v@-pi-Riz	vam-pi-ri-se	VER			vampiriser	0.04	0.07
+vampirisé	v@-pi-Ri-ze	vam-pi-ri-sé	VER	m	s	vampiriser	0	0.07
+vampirisée	v@-pi-Ri-ze	vam-pi-ri-sée	VER	f	s	vampiriser	0.05	0
+vampirisées	v@-pi-Ri-ze	vam-pi-ri-sées	VER	f	p	vampiriser	0	0.07
+vampirisme	v@-pi-Rizm	vam-pi-ris-me	NOM	m	s		0.32	0.14
+vamps	v@p	vamps	NOM	f	p	vamp	0.16	0.2
+van	van	van	NOM	m	s		8.78	3.24
+vanadium	va-na-djOm	va-na-dium	NOM	m	s		0	0.74
+vandale	v@-dal	van-da-le	NOM		s		0.33	0.47
+vandale	v@-dal	van-da-le	ADJ		s		0.01	0.14
+vandales	v@-dal	van-da-les	NOM		p	vandale	0.81	0.41
+vandales	v@-dal	van-da-les	ADJ		p	vandale	0.03	0
+vandalisé	v@-da-li-ze	van-da-li-sé	VER	m	s	vandaliser	0.23	0
+vandalisent	v@-da-liz	van-da-li-sent	VER			vandaliser	0.01	0.07
+vandaliser	v@-da-li-ze	van-da-li-ser	VER				0.09	0.07
+vandalisme	v@-da-lizm	van-da-lis-me	NOM	m	s		1.53	1.55
+vandoises	v@-dwaz	van-doi-ses	NOM	f	p	vandoise	0	0.14
+vanille	va-nij	va-nil-le	NOM	f	s		2.5	3.38
+vanillé	va-ni-je	va-nil-lé	ADJ	m	s		0.17	0.07
+vanillée	va-ni-je	va-nil-lée	ADJ	f	s	vanillé	0	0.07
+vanillées	va-ni-je	va-nil-lées	ADJ	f	p	vanillé	0	0.07
+vanité	va-ni-te	va-ni-té	NOM	f	s		5.16	16.49
+vanités	va-ni-te	va-ni-tés	NOM	f	p	vanité	0.59	1.49
+vaniteuse	va-ni-t2z	va-ni-teu-se	ADJ	f	s	vaniteux	0.49	0.68
+vaniteuse	va-ni-t2z	va-ni-teu-se	NOM	f	s	vaniteux	0.03	0
+vaniteusement	va-ni-t2-z°-m@	va-ni-teu-se-ment	ADV				0	0.07
+vaniteuses	va-ni-t2z	va-ni-teu-ses	ADJ	f	p	vaniteux	0.14	0.07
+vaniteux	va-ni-t2	va-ni-teux	ADJ	m			1.6	1.76
+vaniteux	va-ni-t2	va-ni-teux	NOM	m			0.27	0.54
+vanity-case	va-ni-ti-kEjs	vanity-case	NOM	m	s		0.11	0.14
+vanna	va-na	van-na	VER			vanner	0.04	1.96
+vannais	va-nE	van-nais	VER			vanner	0	0.07
+vannait	va-nE	van-nait	VER			vanner	0	0.07
+vanne	van	van-ne	NOM	f	s		0.94	3.11
+vanne	van	van-ne	VER			vanner	0.09	1.08
+vanné	va-ne	van-né	VER	m	s	vanner	0.56	0.34
+vanné	va-ne	van-né	ADJ	m	s		0.08	0.54
+vanneau	va-no	van-neau	NOM	m	s		0	0.34
+vanneaux	va-no	van-neaux	NOM	m	p	vanneau	0	0.41
+vannée	va-ne	van-née	VER	f	s	vanner	0.36	0.27
+vannée	va-ne	van-née	ADJ	f	s	vanné	0.16	0
+vannent	van	van-nent	VER			vanner	0.02	0
+vanner	va-ne	van-ner	VER				0.09	0.54
+vannèrent	va-nER	van-nè-rent	VER			vanner	0	0.07
+vannerie	va-n°-Ri	van-ne-rie	NOM	f	s		0.14	0.68
+vanneries	va-n°-Ri	van-ne-ries	NOM	f	p	vannerie	0	0.07
+vannes	van	van-nes	NOM	f	p	vanne	1.79	4.26
+vannes	van	van-nes	VER			vanner	0.01	0
+vannés	va-ne	van-nés	VER	m	p	vanner	0.16	0
+vanneur	va-n9R	van-neur	NOM	m	s		0	0.14
+vanneurs	va-n9R	van-neurs	NOM	m	p	vanneur	0	0.07
+vannier	va-nje	van-nier	NOM	m	s		0	0.2
+vannières	va-njER	van-niè-res	NOM	f	p	vannière	0	0.07
+vanniers	va-nje	van-niers	NOM	m	p	vannier	0	0.07
+vans	van	vans	NOM	m	p	van	0.13	0
+vanta	v@-ta	van-ta	VER			vanter	0.03	0.68
+vantai	v@-tE	van-tai	VER			vanter	0	0.14
+vantaient	v@-tE	van-taient	VER			vanter	0.05	1.49
+vantail	v@-taj	van-tail	NOM	m	s		0	2.23
+vantais	v@-tE	van-tais	VER			vanter	0.25	0.41
+vantait	v@-tE	van-tait	VER			vanter	0.49	4.46
+vantant	v@-t@	van-tant	VER			vanter	0.36	1.42
+vantard	v@-taR	van-tard	NOM	m	s		1.06	0.07
+vantard	v@-taR	van-tard	ADJ	m	s		0.29	0.27
+vantarde	v@-taRd	van-tar-de	ADJ	f	s	vantard	0.01	0
+vantarde	v@-taRd	van-tar-de	NOM	f	s	vantard	0.01	0
+vantardes	v@-taRd	van-tar-des	ADJ	f	p	vantard	0.01	0.07
+vantardise	v@-taR-diz	van-tar-di-se	NOM	f	s		0.16	0.74
+vantardises	v@-taR-diz	van-tar-di-ses	NOM	f	p	vantardise	0.03	0.95
+vantards	v@-taR	van-tard-s	NOM	m	p	vantard	0.53	0.07
+vantards	v@-taR	van-tard-s	ADJ	m	p	vantard	0.02	0.41
+vantât	v@-ta	van-tât	VER			vanter	0	0.07
+vantaux	v@-to	van-taux	NOM	m	p	vantail	0	1.62
+vante	v@t	van-te	VER			vanter	1.86	2.57
+vanté	v@-te	van-té	VER	m	s	vanter	1.12	1.89
+vantée	v@-te	van-tée	VER	f	s	vanter	0.22	0.34
+vantées	v@-te	van-tées	VER	f	p	vanter	0	0.2
+vantent	v@t	van-tent	VER			vanter	0.39	1.15
+vanter	v@-te	van-ter	VER				4.8	7.5
+vantera	v@-t°-Ra	van-te-ra	VER			vanter	0.01	0.2
+vanterai	v@-t°-RE	van-te-rai	VER			vanter	0.16	0.07
+vanterais	v@-t°-RE	van-te-rais	VER			vanter	0.07	0.07
+vanterait	v@-t°-RE	van-te-rait	VER			vanter	0.01	0
+vanteras	v@-t°-Ra	van-te-ras	VER			vanter	0.14	0
+vanterie	v@-t°-Ri	van-te-rie	NOM	f	s		0	0.07
+vanteries	v@-t°-Ri	van-te-ries	NOM	f	p	vanterie	0.01	0.14
+vanteront	v@-t°-R§	van-te-ront	VER			vanter	0.02	0.07
+vantes	v@t	van-tes	VER			vanter	0.46	0.2
+vantés	v@-te	van-tés	VER	m	p	vanter	0.01	0.2
+vantez	v@-te	van-tez	VER			vanter	0.16	0.14
+vantiez	v@-tje	van-tiez	VER			vanter	0.01	0
+vantions	v@-tj§	van-tions	VER			vanter	0.1	0
+vantons	v@-t§	van-tons	VER			vanter	0.03	0
+vape	vap	va-pe	NOM	f	s		0	2.3
+vapes	vap	va-pes	NOM	f	p	vape	1.26	0.74
+vapeur	va-p9R	va-peur	NOM		s		6.17	19.12
+vapeurs	va-p9R	va-peurs	NOM		p	vapeur	1.85	7.64
+vaporetto	va-po-RE-to	va-po-ret-to	NOM	m	s		0.32	0.41
+vaporeuse	va-po-R2z	va-po-reu-se	ADJ	f	s	vaporeux	0.17	1.76
+vaporeuses	va-po-R2z	va-po-reu-ses	ADJ	f	p	vaporeux	0	0.47
+vaporeux	va-po-R2	va-po-reux	ADJ	m			0.04	2.3
+vaporisa	va-po-Ri-za	va-po-ri-sa	VER			vaporiser	0	0.34
+vaporisais	va-po-Ri-zE	va-po-ri-sais	VER			vaporiser	0.01	0
+vaporisait	va-po-Ri-zE	va-po-ri-sait	VER			vaporiser	0.14	0.41
+vaporisant	va-po-Ri-z@	va-po-ri-sant	VER			vaporiser	0	0.07
+vaporisateur	va-po-Ri-za-t9R	va-po-ri-sa-teur	NOM	m	s		0.28	0.74
+vaporisateurs	va-po-Ri-za-t9R	va-po-ri-sa-teurs	NOM	m	p	vaporisateur	0.01	0.34
+vaporisation	va-po-Ri-za-sj§	va-po-ri-sa-tion	NOM	f	s		0.09	0.07
+vaporisations	va-po-Ri-za-sj§	va-po-ri-sa-tions	NOM	f	p	vaporisation	0	0.07
+vaporise	va-po-Riz	va-po-ri-se	VER			vaporiser	0.2	0.2
+vaporisé	va-po-Ri-ze	va-po-ri-sé	VER	m	s	vaporiser	0.42	0
+vaporisée	va-po-Ri-ze	va-po-ri-sée	VER	f	s	vaporiser	0.07	0.41
+vaporiser	va-po-Ri-ze	va-po-ri-ser	VER				0.51	0.34
+vaporiserait	va-po-Ri-z°-RE	va-po-ri-se-rait	VER			vaporiser	0.03	0.07
+vaporises	va-po-Riz	va-po-ri-ses	VER			vaporiser	0.02	0
+vaporisez	va-po-Ri-ze	va-po-ri-sez	VER			vaporiser	0.08	0
+vaps	vap	vaps	NOM	f	p		0.24	0
+vaquai	va-kE	va-quai	VER			vaquer	0	0.07
+vaquaient	va-kE	va-quaient	VER			vaquer	0.04	0.27
+vaquais	va-kE	va-quais	VER			vaquer	0.03	0.07
+vaquait	va-kE	va-quait	VER			vaquer	0.01	1.28
+vaquant	va-k@	va-quant	VER			vaquer	0.02	0.27
+vaque	vak	va-que	VER			vaquer	0.07	0.27
+vaqué	va-ke		VER	m	s	vaquer	0.02	0
+vaquent	vak	va-quent	VER			vaquer	0	0.14
+vaquer	va-ke	va-quer	VER				0.37	0.61
+vaquerait	va-k°-RE	va-que-rait	VER			vaquer	0	0.07
+vaquero	va-ke-Ro		NOM	m	s		0.06	0.07
+vaqueros	va-ke-Ro		NOM	m	p	vaquero	0.05	0
+vaquions	va-kj§	va-quions	VER			vaquer	0	0.07
+vaquons	va-k§	va-quons	VER			vaquer	0.1	0.07
+var	vaR		NOM	m	s		0.01	0
+vara	va-Ra	va-ra	ADJ	f	s		0	0.07
+varan	va-R@	va-ran	NOM	m	s		0.01	0.07
+varans	va-R@	va-rans	NOM	m	p	varan	0.01	0
+varappe	va-Rap	va-rap-pe	NOM	f	s		0.06	0.07
+varapper	va-Ra-pe	va-rap-per	VER				0	0.07
+varappeur	va-Ra-p9R	va-rap-peur	NOM	m	s		0	0.07
+varech	va-REk	va-re-ch	NOM	m	s		0.25	2.43
+varechs	va-REk	va-re-chs	NOM	m	p	varech	0	0.27
+varenne	va-REn	va-ren-ne	NOM	f	s		0	4.12
+varennes	va-REn	va-ren-nes	NOM	f	p	varenne	0	0.41
+vareuse	va-R2z	va-reu-se	NOM	f	s		0.56	6.82
+vareuses	va-R2z	va-reu-ses	NOM	f	p	vareuse	0.25	1.42
+varia	va-Rja	va-ria	NOM	m	p		0.02	0.07
+variabilité	va-Rja-bi-li-te	va-ria-bi-li-té	NOM	f	s		0.05	0.14
+variable	va-Rjabl	va-ria-ble	ADJ		s		0.81	1.76
+variable	va-Rjabl	va-ria-ble	NOM	f	s		0.31	0.14
+variables	va-Rjabl	va-ria-bles	ADJ		p	variable	0.17	0.88
+variables	va-Rjabl	va-ria-bles	NOM	f	p	variable	0.74	0
+variaient	va-RjE	va-riaient	VER			varier	0.01	0.61
+variais	va-RjE	va-riais	VER			varier	0	0.14
+variait	va-RjE	va-riait	VER			varier	0.03	1.22
+variance	va-Rj@s		NOM	f	s		0.03	0
+variant	va-Rj@	va-riant	VER			varier	0.03	0.81
+variant	va-Rj@	va-riant	ADJ	m	s		0.01	0.07
+variante	va-Rj@t	va-rian-te	NOM	f	s		0.77	0.81
+variante	va-Rj@t	va-rian-te	ADJ	f	s	variant	0.13	0.2
+variantes	va-Rj@t	va-rian-tes	NOM	f	p	variante	0.18	2.43
+variantes	va-Rj@t	va-rian-tes	ADJ	f	p	variant	0	0.14
+variât	va-Rja	va-riât	VER			varier	0	0.07
+variateur	va-Rja-t9R	va-ria-teur	NOM	m	s		0.02	0.14
+variation	va-Rja-sj§	va-ria-tion	NOM	f	s		0.5	1.08
+variations	va-Rja-sj§	va-ria-tions	NOM	f	p	variation	1.33	5.2
+varice	va-Ris		NOM	f	s		0.01	0
+varicelle	va-Ri-sEl	va-ri-cel-le	NOM	f	s		1.03	0.74
+varices	va-Ris	va-ri-ces	NOM	f	p	varice	0.66	1.76
+varie	va-Ri	va-rie	VER			varier	0.91	1.08
+varié	va-Rje	va-rié	VER	m	s	varier	0.23	1.01
+varié	va-Rje	va-rié	ADJ	m	s		0.47	0.61
+variée	va-Rje	va-riée	ADJ	f	s	varié	0.22	0.74
+variée	va-Rje	va-riée	VER	f	s	varier	0.23	0.41
+variées	va-Rje	va-riées	ADJ	f	p	varié	0.43	1.69
+variées	va-Rje	va-riées	VER	f	p	varier	0.05	0.47
+varient	va-Ri	va-rient	VER			varier	0.46	0.61
+varier	va-Rje	va-rier	VER				0.66	1.76
+varierai	va-Ri-RE	va-rie-rai	VER			varier	0.01	0.07
+varieraient	va-Ri-RE	va-rie-raient	VER			varier	0	0.07
+varierait	va-Ri-RE	va-rie-rait	VER			varier	0	0.14
+varieront	va-Ri-R§	va-rie-ront	VER			varier	0	0.07
+variés	va-Rje	va-riés	ADJ	m	p	varié	0.41	2.7
+variés	va-Rje	va-riés	VER	m	p	varier	0.08	0.41
+variétal	va-Rje-tal		ADJ	m	s		0.01	0
+variété	va-Rje-te	va-rié-té	NOM	f	s		2.17	6.42
+variétés	va-Rje-te	va-rié-tés	NOM	f	p	variété	1.25	3.31
+variole	va-RjOl	va-rio-le	NOM	f	s		2.42	0.34
+variorum	va-Rjo-ROm	va-rio-rum	NOM	m	s		0	0.07
+variqueuses	va-Ri-k2z	va-ri-queu-ses	ADJ	f	p	variqueux	0	0.14
+variqueux	va-Ri-k2	va-ri-queux	ADJ	m			0	0.34
+varlet	vaR-lE	var-let	NOM	m	s		0.01	0.07
+varlope	vaR-lOp	var-lo-pe	NOM	f	s		0	0.41
+varon	va-R§		NOM	m	s		0.12	0
+varsovien	vaR-sO-vj5		NOM	m	s		0.1	0
+vas	va	vas	VER			aller	1009.22	136.35
+vasa	va-za	va-sa	VER			vaser	0.02	0.2
+vasais	va-zE	va-sais	NOM	m			0	0.2
+vasait	va-zE	va-sait	VER			vaser	0	0.07
+vasards	va-zaR	va-sard-s	ADJ	m	p	vasard	0	0.14
+vasculaire	vas-ky-lER	vas-cu-lai-re	ADJ		s		1.01	0.07
+vasculaires	vas-ky-lER	vas-cu-lai-res	ADJ	m	p	vasculaire	0.25	0.2
+vascularisé	vas-ky-la-Ri-ze		ADJ	m	s		0.02	0
+vasculo-nerveux	vas-ky-lo-nER-v2		NOM	m			0.01	0
+vase	vaz	va-se	NOM		s		9.83	26.76
+vasectomie	va-zEk-to-mi	va-sec-to-mie	NOM	f	s		0.38	0
+vaseline	va-z°-lin	va-se-li-ne	NOM	f	s		0.94	1.28
+vaseliné	va-z°-li-ne	va-se-li-né	VER	m	s	vaseliner	0	0.07
+vaseliner	va-z°-li-ne		VER				0.01	0
+vaselinez	va-zE-li-ne	va-se-li-nez	VER			vaseliner	0.01	0
+vaser	va-ze	va-ser	VER				0	0.14
+vases	vaz	va-ses	NOM		p	vase	0.91	6.22
+vaseuse	va-z2z	va-seu-se	ADJ	f	s	vaseux	0.14	0.54
+vaseuses	va-z2z	va-seu-ses	ADJ	f	p	vaseux	0.03	0.2
+vaseux	va-z2	va-seux	ADJ	m			0.25	1.69
+vasière	va-zjER	va-siè-re	NOM	f	s		0	0.07
+vasières	va-zjER	va-siè-res	NOM	f	p	vasière	0	0.81
+vasistas	va-zis-tas	va-sis-tas	NOM	m			0.08	3.85
+vasoconstricteur	va-zo-k§s-tRik-t9R		ADJ	m	s		0.14	0
+vasoconstriction	va-zo-k§s-tRik-sj§		NOM	f	s		0.03	0
+vasodilatateur	va-zo-di-la-ta-t9R		ADJ	m	s		0.01	0
+vasodilatation	va-zo-di-la-ta-sj§	va-so-di-la-ta-tion	NOM	f	s		0.01	0
+vasomoteurs	va-zo-mo-t9R	va-so-mo-teurs	ADJ	m	p	vasomoteur	0.02	0
+vasopressine	va-zo-pRe-sin		NOM	f	s		0.01	0
+vasouillard	va-zu-jaR	va-souil-lard	ADJ	m	s		0	0.27
+vasouillarde	va-zu-jaRd	va-souil-lar-de	ADJ	f	s	vasouillard	0	0.07
+vasouille	va-zuj	va-souil-le	VER			vasouiller	0.01	0.07
+vasouiller	va-zu-je	va-souil-ler	VER				0.1	0.14
+vasouilles	va-zuj	va-souil-les	VER			vasouiller	0.01	0
+vasque	vask	vas-que	NOM	f	s		0.01	2.91
+vasques	vask	vas-ques	NOM	f	p	vasque	0.24	1.08
+vassal	va-sal	vas-sal	NOM	m	s		1.77	1.49
+vassale	va-sal	vas-sa-le	NOM	f	s	vassal	0	0.14
+vassalité	va-sa-li-te	vas-sa-li-té	NOM	f	s		0	0.2
+vassaux	va-so	vas-saux	NOM	m	p	vassal	0.47	2.77
+vaste	vast	vas-te	ADJ		s		8.44	55.61
+vastes	vast	vas-tes	ADJ		p	vaste	1.88	16.15
+vastité	vas-ti-te		NOM	f	s		0	0.07
+vastitude	vas-ti-tyd	vas-ti-tu-de	NOM	f	s		0	0.2
+vastitudes	vas-ti-tyd	vas-ti-tu-des	NOM	f	p	vastitude	0	0.07
+vater	va-t9R	va-ter	NOM	m	s		0	0.07
+vatères	va-tER		NOM	m	p	vatère	0	0.14
+vaticane	va-ti-kan	va-ti-ca-ne	ADJ	f	s		0	0.2
+vaticanesque	va-ti-ka-nEsk		ADJ		s		0	0.07
+vaticinait	va-ti-si-nE	va-ti-ci-nait	VER			vaticiner	0	0.14
+vaticinant	va-ti-si-n@	va-ti-ci-nant	VER			vaticiner	0	0.27
+vaticination	va-ti-si-na-sj§	va-ti-ci-na-tion	NOM	f	s		0	0.07
+vaticinations	va-ti-si-na-sj§	va-ti-ci-na-tions	NOM	f	p	vaticination	0	0.41
+vaticine	va-ti-sin	va-ti-ci-ne	VER			vaticiner	0	0.07
+vaticiner	va-ti-si-ne	va-ti-ci-ner	VER				0	0.14
+vau	vo	vau	NOM	m	s		0.01	0.2
+vau-l'eau	vo-lo	vau-l'eau	NOM	m	s		0	0.14
+vauclusien	vo-kly-zj5		ADJ	m	s		0.14	0
+vauclusiennes	vo-kly-zjEn	vau-clu-sien-nes	ADJ	f	p	vauclusien	0	0.07
+vaudeville	vo-d°-vil	vau-de-vil-le	NOM	m	s		0.35	1.55
+vaudevilles	vo-d°-vil	vau-de-vil-les	NOM	m	p	vaudeville	0.05	0.27
+vaudevillesque	vo-d°-vi-lEsk	vau-de-vil-les-que	ADJ		s		0.03	0.07
+vaudevillesques	vo-d°-vi-lEsk	vau-de-vil-les-ques	ADJ		p	vaudevillesque	0	0.07
+vaudois	vo-dwa	vau-dois	ADJ	m			0	0.68
+vaudois	vo-dwa	vau-dois	NOM	m			0	0.14
+vaudoise	vo-dwaz	vau-doi-se	ADJ	f	s	vaudois	0	0.07
+vaudou	vo-du	vau-dou	NOM	m	s		2.92	0.41
+vaudou	vo-du	vau-dou	ADJ	m	s		1.33	0.41
+vaudoue	vo-du	vau-doue	ADJ	f	s	vaudou	0.03	0.07
+vaudoues	vo-du	vau-doues	ADJ	f	p	vaudou	0	0.14
+vaudouisme	vo-du-izm	vau-douis-me	NOM	m	s		0.02	0
+vaudous	vo-du	vau-dous	ADJ	m	p	vaudou	0.12	0.07
+vaudous	vo-du	vau-dous	NOM	m	p	vaudou	0.01	0
+vaudra	vo-dRa	vau-dra	VER			valoir	4.34	3.51
+vaudrai	vo-dRE	vau-drai	VER			valoir	0.07	0.07
+vaudraient	vo-dRE	vau-draient	VER			valoir	0.29	0.14
+vaudrais	vo-dRE	vau-drais	VER			valoir	0.07	0.14
+vaudrait	vo-dRE	vau-drait	VER			valoir	14.23	11.08
+vaudras	vo-dRa	vau-dras	VER			valoir	0.21	0.07
+vaudrez	vo-dRe	vau-drez	VER			valoir	0.03	0
+vaudrions	vo-dRi-§	vau-drions	VER			valoir	0.02	0
+vaudrons	vo-dR§	vau-drons	VER			valoir	0	0.07
+vaudront	vo-dR§	vau-dront	VER			valoir	0.42	0.47
+vaurien	vo-Rj5	vau-rien	NOM	m	s		7.06	1.89
+vaurienne	vo-RjEn	vau-rien-ne	NOM	f	s	vaurien	0.21	0.07
+vauriens	vo-Rj5	vau-riens	NOM	m	p	vaurien	2.94	0.41
+vaut	vo	vaut	VER			valoir	161.53	69.39
+vautour	vo-tuR	vau-tour	NOM	m	s		2.41	2.57
+vautours	vo-tuR	vau-tours	NOM	m	p	vautour	3.48	1.82
+vautra	vo-tRa	vau-tra	VER			vautrer	0	0.07
+vautraient	vo-tRE	vau-traient	VER			vautrer	0	0.27
+vautrais	vo-tRE	vau-trais	VER			vautrer	0.02	0.41
+vautrait	vo-tRE	vau-trait	VER			vautrer	0.03	0.54
+vautrant	vo-tR@	vau-trant	VER			vautrer	0.12	0.14
+vautre	votR	vau-tre	VER			vautrer	0.31	1.15
+vautre	votR	vau-tre	NOM	m	s		0	0.07
+vautré	vo-tRe	vau-tré	VER	m	s	vautrer	0.6	2.16
+vautré	vo-tRe	vau-tré	ADJ	m	s		0.11	0
+vautrée	vo-tRe	vau-trée	VER	f	s	vautrer	0.22	1.28
+vautrée	vo-tRe	vau-trée	ADJ	f	s	vautré	0	0.27
+vautrées	vo-tRe	vau-trées	VER	f	p	vautrer	0.01	0.2
+vautrées	vo-tRe	vau-trées	ADJ	f	p	vautré	0	0.07
+vautrent	votR	vau-trent	VER			vautrer	0.04	0.14
+vautrer	vo-tRe	vau-trer	VER				1.07	1.62
+vautreraient	vo-tR°-RE	vau-tre-raient	VER			vautrer	0	0.14
+vautrerais	vo-tR°-RE	vau-tre-rais	VER			vautrer	0	0.07
+vautrèrent	vo-tRER	vau-trè-rent	VER			vautrer	0	0.07
+vautrés	vo-tRe	vau-trés	VER	m	p	vautrer	0.16	1.96
+vautrés	vo-tRe	vau-trés	ADJ	m	p	vautré	0	0.2
+vautrez	vo-tRe	vau-trez	VER			vautrer	0.16	0.07
+vauvert	vo-vER	vau-vert	NOM		s		0	0.14
+vaux	vo	vaux	VER			valoir	10.79	2.97
+vaux	vo	vaux	NOM	m	p	val	0.88	1.35
+vauxhall	vok-sol		NOM	m	s		0.06	0.07
+veau	vo	veau	NOM	m	s		7.69	13.92
+veaux	vo	veaux	NOM	m	p	veau	0.97	3.04
+vécés	ve-se	vé-cés	NOM	m	p		0.01	1.08
+vecteur	vEk-t9R	vec-teur	NOM	m	s		0.62	0.2
+vecteur	vEk-t9R	vec-teur	ADJ	m	s		0.17	0.07
+vecteurs	vEk-t9R	vec-teurs	NOM	m	p	vecteur	0.3	0.07
+vecteurs	vEk-t9R	vec-teurs	ADJ	m	p	vecteur	0.05	0.07
+vectoriel	vEk-to-RjEl		ADJ	m	s		0.03	0
+vectorielle	vEk-to-RjEl	vec-to-riel-le	ADJ	f	s	vectoriel	0.21	0.07
+vécu	ve-ky	vé-cu	VER	m	s	vivre	51.14	56.62
+vécu	ve-ky	vé-cu	ADJ	m	s		0.83	2.03
+vécu	ve-ky	vé-cu	NOM	m	s		0.73	1.49
+vécue	ve-ky	vé-cue	VER	f	s	vivre	2.26	4.26
+vécue	ve-ky	vé-cue	ADJ	f	s	vécu	0.62	1.28
+vécues	ve-ky	vé-cues	VER	f	p	vivre	0.79	1.62
+vécues	ve-ky	vé-cues	ADJ	f	p	vécu	0.11	1.28
+vécûmes	ve-kym	vé-cû-mes	VER			vivre	0.04	0.41
+vécurent	ve-kyR	vé-cu-rent	VER			vivre	1.65	1.15
+vécus	ve-ky	vé-cus	VER	m	p	vivre	1.1	2.43
+vécus	ve-ky	vé-cus	ADJ	m	p	vécu	0.02	0.74
+vécus	ve-ky	vé-cus	NOM	m	p	vécu	0	0.07
+vécussent	ve-kys	vé-cus-sent	VER			vivre	0	0.14
+vécut	ve-ky	vé-cut	VER			vivre	1.43	4.19
+vécût	ve-ky	vé-cût	VER			vivre	0	0.54
+vedettariat	v°-dE-ta-Rja	ve-det-ta-riat	NOM	m	s		0.07	0.14
+vedette	v°-dEt	ve-det-te	NOM	f	s		11.18	13.92
+vedettes	v°-dEt	ve-det-tes	NOM	f	p	vedette	2.37	6.96
+végéta	ve-Ze-ta	vé-gé-ta	VER			végéter	0.01	0
+végétaient	ve-Ze-tE	vé-gé-taient	VER			végéter	0	0.41
+végétais	ve-Ze-tE	vé-gé-tais	VER			végéter	0	0.07
+végétait	ve-Ze-tE	vé-gé-tait	VER			végéter	0	0.74
+végétal	ve-Ze-tal	vé-gé-tal	ADJ	m	s		0.18	2.97
+végétal	ve-Ze-tal	vé-gé-tal	NOM	m	s		0.18	1.01
+végétale	ve-Ze-tal	vé-gé-ta-le	ADJ	f	s	végétal	0.51	3.85
+végétales	ve-Ze-tal	vé-gé-ta-les	ADJ	f	p	végétal	0.03	0.95
+végétalien	ve-Ze-ta-lj5	vé-gé-ta-lien	ADJ	m	s		0.11	0
+végétalien	ve-Ze-ta-lj5	vé-gé-ta-lien	NOM	m	s		0.03	0
+végétalienne	ve-Ze-ta-ljEn	vé-gé-ta-lien-ne	ADJ	f	s	végétalien	0.11	0.07
+végétalienne	ve-Ze-ta-ljEn	vé-gé-ta-lien-ne	NOM	f	s	végétalien	0.05	0
+végétalisme	ve-Ze-ta-lism		NOM	m	s		0.01	0
+végétarien	ve-Ze-ta-Rj5	vé-gé-ta-rien	ADJ	m	s		2.31	0.88
+végétarien	ve-Ze-ta-Rj5	vé-gé-ta-rien	NOM	m	s		0.43	0.2
+végétarienne	ve-Ze-ta-RjEn	vé-gé-ta-rien-ne	ADJ	f	s	végétarien	1.32	0.68
+végétariennes	ve-Ze-ta-RjEn	vé-gé-ta-rien-nes	ADJ	f	p	végétarien	0.07	0
+végétariens	ve-Ze-ta-Rj5	vé-gé-ta-riens	NOM	m	p	végétarien	0.47	0.07
+végétariens	ve-Ze-ta-Rj5	vé-gé-ta-riens	ADJ	m	p	végétarien	0.24	0.27
+végétarisme	ve-Ze-ta-Rizm	vé-gé-ta-ris-me	NOM	m	s		0.03	0
+végétât	ve-Ze-ta	vé-gé-tât	VER			végéter	0	0.07
+végétatif	ve-Ze-ta-tif	vé-gé-ta-tif	ADJ	m	s		0.4	0.41
+végétatifs	ve-Ze-ta-tif	vé-gé-ta-tif-s	ADJ	m	p	végétatif	0.01	0.07
+végétation	ve-Ze-ta-sj§	vé-gé-ta-tion	NOM	f	s		0.78	8.85
+végétations	ve-Ze-ta-sj§	vé-gé-ta-tions	NOM	f	p	végétation	0.69	0.68
+végétative	ve-Ze-ta-tiv	vé-gé-ta-ti-ve	ADJ	f	s	végétatif	0.04	1.01
+végétatives	ve-Ze-ta-tiv	vé-gé-ta-ti-ves	ADJ	f	p	végétatif	0.02	0.07
+végétaux	ve-Ze-to	vé-gé-taux	NOM	m	p	végétal	0.26	0.88
+végétaux	ve-Ze-to	vé-gé-taux	ADJ	m	p	végétal	0.05	1.08
+végète	ve-ZEt	vé-gè-te	VER			végéter	0.16	0.34
+végété	ve-Ze-te	vé-gé-té	VER	m	s	végéter	0.01	0.14
+végètent	ve-ZEt	vé-gè-tent	VER			végéter	0.1	0.14
+végéter	ve-Ze-te	vé-gé-ter	VER				0.26	0.88
+végéteras	ve-Ze-t°-Ra	vé-gé-te-ras	VER			végéter	0.01	0
+végéterez	ve-Ze-t°-Re	vé-gé-te-rez	VER			végéter	0	0.07
+végètes	ve-ZEt	vé-gè-tes	VER			végéter	0.02	0
+végétons	ve-Ze-t§	vé-gé-tons	VER			végéter	0	0.07
+véhémence	ve-e-m@s	vé-hé-men-ce	NOM	f	s		0.31	5.07
+véhément	ve-e-m@	vé-hé-ment	ADJ	m	s		0.02	1.49
+véhémente	ve-e-m@t	vé-hé-men-te	ADJ	f	s	véhément	0.28	1.89
+véhémentement	ve-e-m@-t°-m@	vé-hé-men-te-ment	ADV				0.01	0.34
+véhémentes	ve-e-m@t	vé-hé-men-tes	ADJ	f	p	véhément	0	1.22
+véhéments	ve-e-m@	vé-hé-ments	ADJ	m	p	véhément	0	1.28
+véhiculaient	ve-i-ky-lE	vé-hi-cu-laient	VER			véhiculer	0.02	0.07
+véhiculait	ve-i-ky-lE	vé-hi-cu-lait	VER			véhiculer	0.03	0.2
+véhiculant	ve-i-ky-l@	vé-hi-cu-lant	VER			véhiculer	0.04	0.2
+véhicule	ve-i-kyl	vé-hi-cu-le	NOM	m	s		17.04	14.86
+véhicule	ve-i-kyl	vé-hi-cu-le	VER			véhiculer	0.32	0.47
+véhiculé	ve-i-ky-le	vé-hi-cu-lé	VER	m	s	véhiculer	0	0.14
+véhiculée	ve-i-ky-le	vé-hi-cu-lée	VER	f	s	véhiculer	0.04	0.2
+véhiculent	ve-i-kyl	vé-hi-cu-lent	VER			véhiculer	0.14	0.07
+véhiculer	ve-i-ky-le	vé-hi-cu-ler	VER				0.12	0.95
+véhicules	ve-i-kyl	vé-hi-cu-les	NOM	m	p	véhicule	5.04	7.23
+véhicules	ve-i-kyl	vé-hi-cu-les	VER			véhiculer	0.02	0
+véhiculez	ve-i-ky-le	vé-hi-cu-lez	VER			véhiculer	0.01	0
+veilla	vE-ja	veil-la	VER			veiller	0.01	0.54
+veillai	vE-jE	veil-lai	VER			veiller	0.1	0.07
+veillaient	vE-jE	veil-laient	VER			veiller	0.18	2.7
+veillais	vE-jE	veil-lais	VER			veiller	0.48	0.54
+veillait	vE-jE	veil-lait	VER			veiller	0.79	8.92
+veillâmes	vE-jam	veil-lâ-mes	VER			veiller	0	0.07
+veillant	vE-j@	veil-lant	VER			veiller	0.25	1.76
+veillât	vE-ja	veil-lât	VER			veiller	0	0.07
+veille	vEj	veil-le	NOM	f	s		16.84	87.36
+veille	vEj	veil-le	VER			veiller	8.1	5.14
+veillé	ve-je	veil-lé	VER	m	s	veiller	2.71	3.18
+veillé	ve-je	veil-lé	ADJ	m	s		0	0.14
+veillée	ve-je	veil-lée	NOM	f	s		2.34	4.73
+veillée	ve-je	veil-lée	VER	f	s	veiller	0.24	0.54
+veillée	ve-je	veil-lée	ADJ	f	s	veillé	0.19	0.2
+veillées	ve-je	veil-lées	NOM	f	p	veillée	0.22	3.58
+veillées	ve-je	veil-lées	ADJ	f	p	veillé	0	0.14
+veillent	vEj	veil-lent	VER			veiller	1.14	1.96
+veiller	ve-je	veil-ler	VER				10.18	12.91
+veillera	vE-j°-Ra	veil-le-ra	VER			veiller	1.66	0.61
+veillerai	vE-j°-RE	veil-le-rai	VER			veiller	4.61	0.34
+veillerais	vE-j°-RE	veil-le-rais	VER			veiller	0.23	0.07
+veillerait	vE-j°-RE	veil-le-rait	VER			veiller	0.23	0.34
+veilleras	vE-j°-Ra	veil-le-ras	VER			veiller	0.27	0.07
+veillèrent	vE-jER	veil-lè-rent	VER			veiller	0.01	0.07
+veillerez	vE-j°-Re	veil-le-rez	VER			veiller	0.27	0.07
+veillerons	vE-j°-R§	veil-le-rons	VER			veiller	0.3	0.14
+veilleront	vE-j°-R§	veil-le-ront	VER			veiller	0.23	0.2
+veilles	vEj	veil-les	NOM	f	p	veille	0.23	1.69
+veilles	vEj	veil-les	VER			veiller	1.19	0.27
+veillés	ve-je	veil-lés	VER	m	p	veiller	0	0.2
+veilleur	vE-j9R	veil-leur	NOM	m	s		2.1	3.31
+veilleurs	vE-j9R	veil-leurs	NOM	m	p	veilleur	0.05	0.68
+veilleuse	vE-j2z	veil-leu-se	NOM	f	s		1.53	6.89
+veilleuses	vE-j2z	veil-leu-ses	NOM	f	p	veilleuse	0.17	1.69
+veillez	vE-je	veil-lez	VER			veiller	5.11	0.68
+veillions	vEj-j§	veil-lions	VER			veiller	0.02	0.07
+veillons	vE-j§	veil-lons	VER			veiller	0.1	0.14
+veinaient	vE-nE	vei-naient	VER			veiner	0	0.14
+veinait	vE-nE	vei-nait	VER			veiner	0.01	0
+veinard	vE-naR	vei-nard	NOM	m	s		4.33	0.88
+veinard	vE-naR	vei-nard	ADJ	m	s		1.28	0.81
+veinarde	vE-naRd	vei-nar-de	NOM	f	s	veinard	0.9	0.14
+veinarde	vE-naRd	vei-nar-de	ADJ	f	s	veinard	0.23	0.34
+veinardes	vE-naRd	vei-nar-des	ADJ	f	p	veinard	0.04	0
+veinardes	vE-naRd	vei-nar-des	NOM	f	p	veinard	0.03	0
+veinards	vE-naR	vei-nard-s	NOM	m	p	veinard	0.53	0.88
+veinards	vE-naR	vei-nard-s	ADJ	m	p	veinard	0.21	0.07
+veine	vEn	vei-ne	NOM	f	s		10.75	15.27
+veiné	ve-ne	vei-né	ADJ	m	s		0	0.88
+veiné	ve-ne	vei-né	VER	m	s	veiner	0	0.74
+veinée	ve-ne	vei-née	VER	f	s	veiner	0	0.2
+veinée	ve-ne	vei-née	ADJ	f	s	veiné	0.11	0
+veinées	ve-ne	vei-nées	VER	f	p	veiner	0	0.27
+veinées	ve-ne	vei-nées	ADJ	f	p	veiné	0	0.07
+veinent	vEn	vei-nent	VER			veiner	0	0.07
+veines	vEn	vei-nes	NOM	f	p	veine	8.99	20.14
+veinés	ve-ne	vei-nés	VER	m	p	veiner	0	0.14
+veinés	ve-ne	vei-nés	ADJ	m	p	veiné	0	0.07
+veineuse	vE-n2z	vei-neu-se	ADJ	f	s	veineux	0.06	0.2
+veineux	vE-n2	vei-neux	ADJ	m	s		0.14	0.07
+veinule	ve-nyl	vei-nu-le	NOM	f	s		0	0.07
+veinulé	ve-ny-le		ADJ	m	s		0	0.14
+veinules	ve-nyl	vei-nu-les	NOM	f	p	veinule	0	1.08
+veinures	ve-nyR	vei-nu-res	NOM	f	p	veinure	0	0.14
+vêlage	vE-laZ	vê-la-ge	NOM	m	s		0	0.14
+vêlages	vE-laZ	vê-la-ges	NOM	m	p	vêlage	0	0.07
+vélaires	ve-lER	vé-lai-res	NOM	f	p	vélaire	0	0.07
+vélar	ve-laR		NOM	m	s		0.04	0
+velcro	vEl-kRo	vel-cro	NOM	m	s		0.39	0
+veld	vEld		NOM	m	s		0.01	0
+veldt	vElt	veldt	NOM	m	s		0.04	0
+vêlé	ve-le	vê-lé	VER	m	s	vêler	0.01	0.07
+vêler	ve-le	vê-ler	VER				0.01	0.47
+vélin	ve-l5	vé-lin	NOM	m	s		0	0.61
+vélin	ve-l5	vé-lin	ADJ	m	s		0.02	0.07
+vélins	ve-l5	vé-lins	NOM	m	p	vélin	0	0.07
+véliplanchiste	ve-li-pl@-Sist		NOM		s		0.01	0
+vélique	ve-lik	vé-li-que	ADJ	f	s		0	0.07
+vellave	vE-lav	vel-la-ve	ADJ	f	s		0	0.07
+velléitaire	vE-le-i-tER	vel-léi-tai-re	ADJ		s		0.04	0.95
+velléité	vE-le-i-te	vel-léi-té	NOM	f	s		0.1	1.55
+velléités	vE-le-i-te	vel-léi-tés	NOM	f	p	velléité	0.1	2.36
+vélo	ve-lo	vé-lo	NOM	m	s		32.95	24.32
+vélo-cross	ve-lo-kROs		NOM	m			0	0.07
+vélo-pousse	ve-lo-pus	vélo-pousse	NOM	m	s		0.01	0
+véloce	ve-lOs	vé-lo-ce	ADJ		s		0.04	0.54
+vélocement	ve-lO-s°-m@		ADV				0.01	0
+véloces	ve-lOs	vé-lo-ces	ADJ	f	p	véloce	0.02	0.2
+vélocipède	ve-lo-si-pEd	vé-lo-ci-pè-de	NOM	m	s		0.11	0.27
+vélocipèdes	ve-lo-si-pEd	vé-lo-ci-pè-des	NOM	m	p	vélocipède	0.02	0.14
+vélocipédique	ve-lo-si-pe-dik	vé-lo-ci-pé-di-que	ADJ		s		0	0.14
+vélocipédiques	ve-lo-si-pe-dik	vé-lo-ci-pé-di-ques	ADJ	f	p	vélocipédique	0	0.07
+vélocipédistes	ve-lo-si-pe-dist	vé-lo-ci-pé-dis-tes	NOM		p	vélocipédiste	0	0.07
+vélocité	ve-lo-si-te	vé-lo-ci-té	NOM	f	s		0.25	1.08
+vélodrome	ve-lo-dRom	vé-lo-dro-me	NOM	m	s		0	0.68
+vélodromes	ve-lo-dRom	vé-lo-dro-mes	NOM	m	p	vélodrome	0	0.2
+vélomoteur	ve-lo-mo-t9R	vé-lo-mo-teur	NOM	m	s		0.23	1.22
+vélomoteurs	ve-lo-mo-t9R	vé-lo-mo-teurs	NOM	m	p	vélomoteur	0	0.27
+vélos	ve-lo	vé-los	NOM	m	p	vélo	2.64	4.12
+velours	v°-luR	ve-lours	NOM	m			4.31	35.88
+veloutaient	v°-lu-tE	ve-lou-taient	VER			velouter	0	0.07
+veloutait	v°-lu-tE	ve-lou-tait	VER			velouter	0	0.07
+veloute	v°-lut	ve-lou-te	VER			velouter	0	0.14
+velouté	v°-lu-te	ve-lou-té	ADJ	m	s		0.3	2.36
+velouté	v°-lu-te	ve-lou-té	NOM	m	s		0.14	1.69
+velouté	v°-lu-te	ve-lou-té	VER	m	s	velouter	0.02	0.07
+veloutée	v°-lu-te	ve-lou-tée	ADJ	f	s	velouté	0.05	1.15
+veloutée	v°-lu-te	ve-lou-tée	VER	f	s	velouter	0	0.41
+veloutées	v°-lu-te	ve-lou-tées	ADJ	f	p	velouté	0	0.61
+veloutées	v°-lu-te	ve-lou-tées	VER	f	p	velouter	0.01	0.2
+veloutent	v°-lut	ve-lou-tent	VER			velouter	0	0.07
+velouter	v°-lu-te	ve-lou-ter	VER				0	0.07
+veloutés	v°-lu-te	ve-lou-tés	ADJ	m	p	velouté	0	0.81
+veloutés	v°-lu-te	ve-lou-tés	NOM	m	p	velouté	0.14	0.07
+velouteuse	v2-lu-t2z		ADJ	f	s	velouteux	0.01	0
+velouteux	v°-lu-t2	ve-lou-teux	ADJ	m	s		0	0.07
+velte	vElt		NOM	f	s		0.01	0
+velu	v°-ly	ve-lu	ADJ	m	s		0.47	2.43
+velue	v°-ly	ve-lue	ADJ	f	s	velu	0.25	2.5
+velues	v°-ly	ve-lues	ADJ	f	p	velu	0.22	1.76
+velum	ve-lOm	ve-lum	NOM	m	s		0.03	0
+vélum	ve-lOm	vé-lum	NOM	m	s		0.02	0.27
+vélums	ve-lOm	vé-lum-s	NOM	m	p	vélum	0	0.14
+velus	v°-ly	ve-lus	ADJ	m	p	velu	0.1	0.74
+velux	v2-luks		NOM	m	s		0.01	0
+velvet	vEl-vEt	vel-vet	NOM	m	s		0.15	0.27
+venaient	v°-nE	ve-naient	VER			venir	9.96	73.65
+venais	v°-nE	ve-nais	VER			venir	23.32	29.86
+venaison	v°-nE-z§	ve-nai-son	NOM	f	s		0.08	0.41
+venaisons	v°-nE-z§	ve-nai-sons	NOM	f	p	venaison	0	0.14
+venait	v°-nE	ve-nait	VER			venir	50.25	271.89
+vénal	ve-nal	vé-nal	ADJ	m	s		0.45	0.81
+vénale	ve-nal	vé-na-le	ADJ	f	s	vénal	0.09	0.41
+vénales	ve-nal	vé-na-les	ADJ	f	p	vénal	0	0.41
+vénalité	ve-na-li-te	vé-na-li-té	NOM	f	s		0.02	0.41
+venant	v°-n@	ve-nant	VER			venir	17.66	32.36
+venant	v°-n@	ve-nant	NOM	m	s		0.23	0.07
+vénaux	ve-no	vé-naux	ADJ	m	p	vénal	0	0.14
+vend	v@	vend	VER			vendre	22.75	8.65
+vendable	v@-dabl	ven-da-ble	ADJ		s		0.02	0.07
+vendables	v@-dabl	ven-da-bles	ADJ		p	vendable	0.02	0.07
+vendaient	v@-dE	ven-daient	VER			vendre	0.56	2.23
+vendais	v@-dE	ven-dais	VER			vendre	1.96	0.95
+vendait	v@-dE	ven-dait	VER			vendre	4.46	9.93
+vendange	v@-d@Z	ven-dan-ge	NOM	f	s		0.17	0.95
+vendange	v@-d@Z	ven-dan-ge	VER			vendanger	0.14	0.07
+vendangé	v@-d@-Ze	ven-dan-gé	VER	m	s	vendanger	0	0.07
+vendangeait	v@-d@-ZE	ven-dan-geait	VER			vendanger	0	0.07
+vendanger	v@-d@-Ze	ven-dan-ger	VER				0.47	0
+vendanges	v@-d@Z	ven-dan-ges	NOM	f	p	vendange	1.37	2.43
+vendanges	v@-d@Z	ven-dan-ges	VER			vendanger	0.14	0
+vendangeur	v@-d@-Z9R	ven-dan-geur	NOM	m	s		0	0.14
+vendangeurs	v@-d@-Z9R	ven-dan-geurs	NOM	m	p	vendangeur	0	0.34
+vendangeuses	v@-d@-Z2z	ven-dan-geu-ses	NOM	f	p	vendangeur	0	0.07
+vendant	v@-d@	ven-dant	VER			vendre	2.11	2.3
+vende	v@d	ven-de	VER			vendre	1.93	0.61
+vendéen	v@-de-5	ven-déen	ADJ	m	s		0	0.14
+vendéen	v@-de-5	ven-déen	NOM	m	s		0	0.14
+vendéenne	v@-de-En	ven-déen-ne	ADJ	f	s	vendéen	0	0.07
+vendéennes	v@-de-En	ven-déen-nes	ADJ	f	p	vendéen	0	0.07
+vendéens	v@-de-5	ven-déens	ADJ	m	p	vendéen	0	0.07
+vendémiaire	v@-de-mjER	ven-dé-miai-re	NOM	m	s		0	0.34
+vendent	v@d	ven-dent	VER			vendre	6.09	3.04
+vendes	v@d	ven-des	VER			vendre	0.29	0
+vendetta	v@-dE-ta	ven-det-ta	NOM	f	s		1.2	0.74
+vendettas	v@-dE-ta	ven-det-tas	NOM	f	p	vendetta	0.05	0.07
+vendeur	v@-d9R	ven-deur	NOM	m	s		11.3	4.93
+vendeurs	v@-d9R	ven-deurs	NOM	m	p	vendeur	2.71	4.59
+vendeuse	v@-d2z	ven-deu-se	NOM	f	s	vendeur	2.04	7.09
+vendeuses	v@-d2z	ven-deu-ses	NOM	f	p	vendeur	0.79	2.03
+vendez	v@-de	ven-dez	VER			vendre	6.11	1.22
+vendiez	v@-dje	ven-diez	VER			vendre	0.34	0.07
+vendions	v@-dj§	ven-dions	VER			vendre	0.13	1.01
+vendirent	v@-diR	ven-di-rent	VER			vendre	0.16	0.07
+vendis	v@-di	ven-dis	VER			vendre	0.31	0.2
+vendisse	v@-dis	ven-dis-se	VER			vendre	0	0.07
+vendit	v@-di	ven-dit	VER			vendre	0.26	1.96
+vendît	v@-di	ven-dît	VER			vendre	0	0.07
+vendômois	v@-do-mwa	ven-dô-mois	ADJ	m			0	0.07
+vendons	v@-d§	ven-dons	VER			vendre	1.34	0.2
+vendra	v@-dRa	ven-dra	VER			vendre	3.03	0.61
+vendrai	v@-dRE	ven-drai	VER			vendre	3.15	0.54
+vendraient	v@-dRE	ven-draient	VER			vendre	0.23	0.27
+vendrais	v@-dRE	ven-drais	VER			vendre	1.68	0.47
+vendrait	v@-dRE	ven-drait	VER			vendre	1.34	1.08
+vendras	v@-dRa	ven-dras	VER			vendre	0.48	0.07
+vendre	v@dR	ven-dre	VER				73.62	30.81
+vendredi	v@-dR°-di	ven-dre-di	NOM	m	s		31.36	18.31
+vendredis	v@-dR°-di	ven-dre-dis	NOM	m	p	vendredi	1.13	0.74
+vendrez	v@-dRe	ven-drez	VER			vendre	0.65	0.41
+vendriez	v@-dRi-e	ven-driez	VER			vendre	0.3	0
+vendrons	v@-dR§	ven-drons	VER			vendre	0.44	0.07
+vendront	v@-dR§	ven-dront	VER			vendre	0.53	0.27
+vends	v@	vend-s	VER			vendre	23.35	4.86
+vendu	v@-dy	ven-du	VER	m	s	vendre	37.62	14.73
+vendu	v@-dy	ven-du	NOM	m	s		3.01	1.35
+vendu	v@-dy	ven-du	ADJ	m	s		1.75	0.68
+vendue	v@-dy	ven-due	VER	f	s	vendre	7.17	2.97
+vendue	v@-dy	ven-due	ADJ	f	s	vendu	0.4	0.74
+vendue	v@-dy	ven-due	NOM	f	s	vendu	0.29	0.2
+vendues	v@-dy	ven-dues	VER	f	p	vendre	1.09	1.08
+vendues	v@-dy	ven-dues	ADJ	f	p	vendu	0.23	0.14
+vendues	v@-dy	ven-dues	NOM	f	p	vendu	0.23	0.07
+vendus	v@-dy	ven-dus	VER	m	p	vendre	3.47	1.82
+vendus	v@-dy	ven-dus	ADJ	m	p	vendu	0.59	0.74
+vendus	v@-dy	ven-dus	NOM	m	p	vendu	0.49	0.68
+venelle	v°-nEl	ve-nel-le	NOM	f	s		0.21	1.82
+venelles	v°-nEl	ve-nel-les	NOM	f	p	venelle	0	1.76
+vénéneuse	ve-ne-n2z	vé-né-neu-se	ADJ	f	s	vénéneux	0.09	0.74
+vénéneuses	ve-ne-n2z	vé-né-neu-ses	ADJ	f	p	vénéneux	0.06	0.41
+vénéneux	ve-ne-n2	vé-né-neux	ADJ	m			0.55	1.22
+vénérable	ve-ne-Rabl	vé-né-ra-ble	ADJ		s		2.2	4.8
+vénérable	ve-ne-Rabl	vé-né-ra-ble	NOM	m	s		0.16	0.68
+vénérables	ve-ne-Rabl	vé-né-ra-bles	ADJ		p	vénérable	0.36	1.55
+vénérables	ve-ne-Rabl	vé-né-ra-bles	NOM	m	p	vénérable	0.01	0.27
+vénérai	ve-ne-RE	vé-né-rai	VER			vénérer	0	0.07
+vénéraient	ve-ne-RE	vé-né-raient	VER			vénérer	0.21	0.14
+vénérais	ve-ne-RE	vé-né-rais	VER			vénérer	0.19	0.27
+vénérait	ve-ne-RE	vé-né-rait	VER			vénérer	0.47	1.35
+vénérant	ve-ne-R@	vé-né-rant	VER			vénérer	0.15	0.14
+vénéras	ve-ne-Ra	vé-né-ras	VER			vénérer	0.01	0
+vénération	ve-ne-Ra-sj§	vé-né-ra-tion	NOM	f	s		0.23	2.7
+vénérations	ve-ne-Ra-sj§	vé-né-ra-tions	NOM	f	p	vénération	0	0.14
+vénère	ve-nER	vé-nè-re	VER			vénérer	1.53	0.47
+vénéré	ve-ne-Re	vé-né-ré	ADJ	m	s		0.91	0.81
+vénéré	ve-ne-Re	vé-né-ré	VER	m	s	vénérer	0.52	0.34
+vénéré	ve-ne-Re	vé-né-ré	ADJ	m	s	vénére	0	0.07
+vénérée	ve-ne-Re	vé-né-rée	VER	f	s	vénérer	0.08	0.27
+vénérée	ve-ne-Re	vé-né-rée	ADJ	f	s	vénéré	0.12	0.14
+vénérées	ve-ne-Re	vé-né-rées	VER	f	p	vénérer	0.14	0.07
+vénérées	ve-ne-Re	vé-né-rées	ADJ	f	p	vénéré	0.03	0.14
+vénèrent	ve-nER	vé-nè-rent	VER			vénérer	0.67	0.2
+vénéréologie	ve-ne-Re-o-lo-Zi	vé-né-réo-lo-gie	NOM	f	s		0.01	0
+vénérer	ve-ne-Re	vé-né-rer	VER				0.94	0.88
+vénérera	ve-ne-R°-Ra	vé-né-re-ra	VER			vénérer	0.01	0
+vénéreraient	ve-ne-R°-RE	vé-né-re-raient	VER			vénérer	0	0.07
+vénérerais	ve-ne-R°-RE	vé-né-re-rais	VER			vénérer	0.01	0
+vénères	ve-nER	vé-nè-res	VER			vénérer	0.27	0.07
+vénérés	ve-ne-Re	vé-né-rés	ADJ	m	p	vénéré	0.04	0.54
+vénérés	ve-ne-Re	vé-né-rés	VER	m	p	vénérer	0.06	0.2
+vénérez	ve-ne-Re	vé-né-rez	VER			vénérer	0.27	0
+vénerie	vE-n°-Ri	vé-ne-rie	NOM	f	s		0	0.61
+vénérien	ve-ne-Rj5	vé-né-rien	ADJ	m	s		0.02	0.14
+vénérienne	ve-ne-RjEn	vé-né-rien-ne	ADJ	f	s	vénérien	0.28	0.2
+vénériennes	ve-ne-RjEn	vé-né-rien-nes	ADJ	f	p	vénérien	0.31	0.54
+vénériens	ve-ne-Rj5	vé-né-riens	ADJ	m	p	vénérien	0	0.07
+vénérions	ve-ne-Rj§	vé-né-rions	VER			vénérer	0.03	0.14
+vénérons	ve-ne-R§	vé-né-rons	VER			vénérer	0.32	0
+venette	v°-nEt	ve-net-te	NOM	f	s		0.01	0.07
+veneur	v°-n9R	ve-neur	NOM	m	s		0	2.57
+veneurs	v°-n9R	ve-neurs	NOM	m	p	veneur	0	0.34
+venez	v°-ne	ve-nez	VER			venir	304.03	41.42
+vénézuélien	ve-ne-z8e-lj5	vé-né-zué-lien	ADJ	m	s		0.07	0.2
+vénézuélien	ve-ne-z8e-lj5	vé-né-zué-lien	NOM	m	s		0.03	0
+vénézuélienne	ve-ne-zy-E-ljEn		ADJ	f	s	vénézuélien	0.26	0
+vénézuéliens	ve-ne-z8e-lj5	vé-né-zué-liens	ADJ	m	p	vénézuélien	0.16	0.07
+vénézuéliens	ve-ne-z8e-lj5	vé-né-zué-liens	NOM	m	p	vénézuélien	0	0.07
+venge	v@Z	ven-ge	VER			venger	3.89	2.7
+vengé	v@-Ze	ven-gé	VER	m	s	venger	3.19	2.03
+vengea	v@-Za	ven-gea	VER			venger	0.17	0.34
+vengeai	v@-ZE	ven-geai	VER			venger	0	0.07
+vengeaient	v@-ZE	ven-geaient	VER			venger	0	0.41
+vengeais	v@-ZE	ven-geais	VER			venger	0.03	0.2
+vengeait	v@-ZE	ven-geait	VER			venger	0.16	2.3
+vengeance	v@-Z@s	ven-gean-ce	NOM	f	s		27.85	15.88
+vengeances	v@-Z@s	ven-gean-ces	NOM	f	p	vengeance	0.42	1.15
+vengeant	v@-Z@	ven-geant	VER			venger	0.25	0.34
+vengeât	v@-Za	ven-geât	VER			venger	0	0.07
+vengée	v@-Ze	ven-gée	VER	f	s	venger	1.23	0.68
+vengées	v@-Ze	ven-gées	VER	f	p	venger	0.15	0.07
+vengent	v@Z	ven-gent	VER			venger	0.71	0.88
+vengeons	v@-Z§	ven-geons	VER			venger	0.32	0.07
+venger	v@-Ze	ven-ger	VER				20.93	12.09
+vengera	v@-Z°-Ra	ven-ge-ra	VER			venger	0.97	0.34
+vengerai	v@-Z°-RE	ven-ge-rai	VER			venger	1.88	0.41
+vengerais	v@-Z°-RE	ven-ge-rais	VER			venger	0.31	0.14
+vengerait	v@-Z°-RE	ven-ge-rait	VER			venger	0.21	0.2
+vengèrent	v@-ZER	ven-gè-rent	VER			venger	0	0.2
+vengeresse	v@-Z°-REs	ven-ge-res-se	ADJ	f	s	vengeur	0.35	0.81
+vengeresse	v@-Z°-REs	ven-ge-res-se	NOM	f	s	vengeur	0.03	0.07
+vengeresses	v@-Z°-REs	ven-ge-res-ses	ADJ	f	p	vengeur	0.01	0.27
+vengerez	v@-Z°-Re	ven-ge-rez	VER			venger	0.24	0
+vengerons	v@-Z°-R§	ven-ge-rons	VER			venger	0.44	0.07
+vengeront	v@-Z°-R§	ven-ge-ront	VER			venger	0.58	0
+venges	v@Z	ven-ges	VER			venger	0.59	0.14
+vengés	v@-Ze	ven-gés	VER	m	p	venger	0.6	0.54
+vengeur	v@-Z9R	ven-geur	ADJ	m	s		0.94	1.89
+vengeur	v@-Z9R	ven-geur	NOM	m	s		1.15	0.68
+vengeurs	v@-Z9R	ven-geurs	ADJ	m	p	vengeur	0.23	0.88
+vengeurs	v@-Z9R	ven-geurs	NOM	m	p	vengeur	0.09	0.34
+vengez	v@-Ze	ven-gez	VER			venger	0.77	0.2
+vengiez	v@-Zje	ven-giez	VER			venger	0.11	0
+véniel	ve-njEl	vé-niel	ADJ	m	s		0.3	0.2
+vénielle	ve-njEl	vé-niel-le	ADJ	f	s	véniel	0	0.07
+vénielles	ve-njEl	vé-niel-les	ADJ	f	p	véniel	0	0.14
+véniels	ve-njEl	vé-niels	ADJ	m	p	véniel	0.01	0.41
+veniez	v°-nje	ve-niez	VER			venir	9.37	3.24
+venimeuse	v°-ni-m2z	ve-ni-meu-se	ADJ	f	s	venimeux	0.77	0.74
+venimeusement	ve-ni-m2-z°-m@		ADV				0	0.07
+venimeuses	v°-ni-m2z	ve-ni-meu-ses	ADJ	f	p	venimeux	0.32	0.34
+venimeux	v°-ni-m2	ve-ni-meux	ADJ	m			1.58	1.69
+venin	v°-n5	ve-nin	NOM	m	s		3.57	2.97
+venins	v°-n5	ve-nins	NOM	m	p	venin	0.02	0.14
+venions	v°-nj§	ve-nions	VER			venir	2.07	5.88
+venir	v°-niR	ve-nir	VER				367.13	196.01
+venise	v2-niz		NOM	f	s		0.03	0.07
+vénitien	ve-ni-sj5	vé-ni-tien	ADJ	m	s		0.86	2.43
+vénitien	ve-ni-sj5	vé-ni-tien	NOM	m	s		0.12	0.68
+vénitienne	ve-ni-sjEn	vé-ni-tien-ne	ADJ	f	s	vénitien	0.04	1.49
+vénitienne	ve-ni-sjEn	vé-ni-tien-ne	NOM	f	s		0.14	0.34
+vénitiennes	ve-ni-sjEn	vé-ni-tien-nes	ADJ	f	p	vénitien	0.03	1.28
+vénitiennes	ve-ni-sjEn	vé-ni-tien-nes	NOM	f	p	vénitienne	0	0.2
+vénitiens	ve-ni-sj5	vé-ni-tiens	ADJ	m	p	vénitien	0.02	1.76
+vénitiens	ve-ni-sj5	vé-ni-tiens	NOM	m	p	vénitien	0.24	1.15
+venons	v°-n§	ve-nons	VER			venir	17.22	8.18
+vent	v@	vent	NOM	m	s		71.5	207.64
+venta	v@-ta	ven-ta	VER			venter	0.26	0.41
+ventail	v@-taj		NOM	m	s		0.01	0
+ventas	v@-ta	ven-tas	VER			venter	0	0.14
+vente	v@t	ven-te	NOM	f	s		20.93	12.97
+vente	v@t	ven-te	VER			venter	0.46	0.07
+venté	v@-te	ven-té	ADJ	m	s		0.02	0.07
+ventée	v@-te		ADJ	f	s	venté	0.03	0
+ventées	v@-te	ven-tées	ADJ	f	p	venté	0	0.07
+venter	v@-te	ven-ter	VER				0.03	0.14
+ventes	v@t	ven-tes	NOM	f	p	vente	6.61	6.01
+ventés	v@-te	ven-tés	VER	m	p	venter	0	0.07
+venteuse	v@-t2z	ven-teu-se	ADJ	f	s	venteux	0.04	0.2
+venteuses	v@-t2z	ven-teu-ses	ADJ	f	p	venteux	0	0.27
+venteux	v@-t2	ven-teux	ADJ	m			0.11	0.47
+ventilant	v@-ti-l@	ven-ti-lant	VER			ventiler	0	0.14
+ventilateur	v@-ti-la-t9R	ven-ti-la-teur	NOM	m	s		2.43	2.09
+ventilateurs	v@-ti-la-t9R	ven-ti-la-teurs	NOM	m	p	ventilateur	0.59	0.54
+ventilation	v@-ti-la-sj§	ven-ti-la-tion	NOM	f	s		2.84	0.47
+ventilations	v@-ti-la-sj§	ven-ti-la-tions	NOM	f	p	ventilation	0.05	0
+ventile	v@-til	ven-ti-le	VER			ventiler	0.32	0
+ventilé	v@-ti-le	ven-ti-lé	ADJ	m	s		0.17	0.14
+ventilé	v@-ti-le	ven-ti-lé	VER	m	s	ventiler	0.08	0.07
+ventilée	v@-ti-le	ven-ti-lée	VER	f	s	ventiler	0.01	0.34
+ventilée	v@-ti-le	ven-ti-lée	ADJ	f	s	ventilé	0.01	0
+ventilées	v@-ti-le	ven-ti-lées	ADJ	f	p	ventilé	0.14	0.2
+ventiler	v@-ti-le	ven-ti-ler	VER				0.23	0.14
+ventilés	v@-ti-le	ven-ti-lés	ADJ	m	p	ventilé	0.02	0
+ventilés	v@-ti-le	ven-ti-lés	VER	m	p	ventiler	0.01	0
+ventilez	v@-ti-le	ven-ti-lez	VER			ventiler	0.07	0
+ventilo	v@-ti-lo	ven-ti-lo	NOM	m	s		0.32	0.07
+ventilos	v@-ti-lo	ven-ti-los	NOM	m	p	ventilo	0.22	0.07
+ventis	v@-ti	ven-tis	NOM	m			0.01	0.07
+ventôse	v@-toz	ven-tô-se	NOM	m	s		0.14	0.88
+ventouse	v@-tuz	ven-tou-se	NOM	f	s		0.44	1.76
+ventousé	v@-tu-ze	ven-tou-sé	VER	m	s	ventouser	0	0.07
+ventousée	v@-tu-ze	ven-tou-sée	VER	f	s	ventouser	0.01	0
+ventousent	v@-tuz	ven-tou-sent	VER			ventouser	0	0.07
+ventouses	v@-tuz	ven-tou-ses	NOM	f	p	ventouse	0.25	2.91
+ventral	v@-tRal	ven-tral	ADJ	m	s		0.09	0.27
+ventrale	v@-tRal	ven-tra-le	ADJ	f	s	ventral	0.08	1.01
+ventre	v@tR	ven-tre	NOM	m	s		46.07	136.62
+ventre-saint-gris	v@-tR°-s5-gRi	ventre-saint-gris	ONO				0	0.07
+ventrebleu	v@-tR°-bl2		ONO				0.02	0
+ventrée	v@-tRe	ven-trée	NOM	f	s		0.01	0.41
+ventrées	v@-tRe	ven-trées	NOM	f	p	ventrée	0.1	0.14
+ventres	v@tR	ven-tres	NOM	m	p	ventre	0.84	5.34
+ventriculaire	v@-tRi-ky-lER	ven-tri-cu-lai-re	ADJ		s		0.61	0
+ventricule	v@-tRi-kyl	ven-tri-cu-le	NOM	m	s		0.55	0
+ventricules	v@-tRi-kyl	ven-tri-cu-les	NOM	m	p	ventricule	0.23	0.07
+ventrière	v@-tRi-jER	ven-triè-re	NOM	f	s		0.01	0.14
+ventriloque	v@-tRi-lOk	ven-tri-lo-que	NOM		s		1.05	0.47
+ventriloques	v@-tRi-lOk	ven-tri-lo-ques	NOM		p	ventriloque	0.08	0
+ventriloquie	v@-tRi-lo-ki	ven-tri-lo-quie	NOM	f	s		0.04	0
+ventripotent	v@-tRi-po-t@	ven-tri-po-tent	ADJ	m	s		0.01	0.74
+ventripotent	v@-tRi-po-t@	ven-tri-po-tent	NOM	m	s		0	0.07
+ventripotents	v@-tRi-po-t@	ven-tri-po-tents	ADJ	m	p	ventripotent	0	0.14
+ventru	v@-tRy	ven-tru	ADJ	m	s		0.08	1.82
+ventrue	v@-tRy	ven-true	ADJ	f	s	ventru	0.01	0.47
+ventrues	v@-tRy	ven-trues	ADJ	f	p	ventru	0	0.34
+ventrus	v@-tRy	ven-trus	ADJ	m	p	ventru	0.03	0.88
+vents	v@	vents	NOM	m	p	vent	5.84	12.64
+venu	v°-ny	ve-nu	VER	m	s	venir	244.7	135.14
+venu	v°-ny	ve-nu	ADJ	m	s		13.93	23.24
+venue	v°-ny	ve-nue	VER	f	s	venir	93.14	60.47
+venue	v°-ny	ve-nue	ADJ	f	s	venu	9.35	11.69
+venue	v°-ny	ve-nue	NOM	f	s		8.34	11.49
+venues	v°-ny	ve-nues	VER	f	p	venir	5.49	6.96
+venues	v°-ny	ve-nues	NOM	f	p	venue	1.26	10.27
+venues	v°-ny	ve-nues	ADJ	f	p	venu	1.02	4.26
+venus	v°-ny	ve-nus	VER	m	p	venir	53.34	40.41
+venus	v°-ny	ve-nus	ADJ	m	p	venu	3.37	5.2
+venus	v°-ny	ve-nus	NOM	m	p	venu	2.88	4.59
+vénus	ve-nys	vé-nus	NOM	f			0.56	0.41
+vénusien	ve-ny-zj5	vé-nu-sien	ADJ	m	s		0.01	0.14
+vénusienne	ve-ny-zjEn	vé-nu-sien-ne	ADJ	f	s	vénusien	0.04	0
+vénusiens	ve-ny-zj5	vé-nu-siens	ADJ	m	p	vénusien	0.06	0.07
+vénusté	ve-nys-te	vé-nus-té	NOM	f	s		0	0.34
+vêpre	vEpR		NOM	m	s	vêpres	0	0.07
+vêpres	vEpR	vê-pres	NOM	f	p	vêpre	0.64	2.36
+ver	vER	ver	NOM	m	s		10.21	5.61
+ver	vER	ver	ADJ				0.02	0
+vérace	ve-Ras	vé-ra-ce	ADJ	f	s		0	0.07
+véraces	ve-Ras	vé-ra-ces	ADJ		p	vérace	0	0.07
+véracité	ve-Ra-si-te	vé-ra-ci-té	NOM	f	s		0.58	0.74
+véranda	ve-R@-da	vé-ran-da	NOM	f	s		1.86	9.12
+vérandas	ve-R@-da	vé-ran-das	NOM	f	p	véranda	0.03	1.08
+verbal	vER-bal	ver-bal	ADJ	m	s		0.92	1.89
+verbale	vER-bal	ver-ba-le	ADJ	f	s	verbal	0.71	2.57
+verbalement	vER-ba-l°-m@	ver-ba-le-ment	ADV				0.53	0.54
+verbales	vER-bal	ver-ba-les	ADJ	f	p	verbal	0.39	1.76
+verbalisation	vER-ba-li-za-sj§	ver-ba-li-sa-tion	NOM	f	s		0.04	0
+verbalise	vER-ba-liz	ver-ba-li-se	VER			verbaliser	0.27	0
+verbalisé	vER-ba-li-ze	ver-ba-li-sé	VER	m	s	verbaliser	0.08	0
+verbalisée	vER-ba-li-ze	ver-ba-li-sée	VER	f	s	verbaliser	0.01	0
+verbaliser	vER-ba-li-ze	ver-ba-li-ser	VER				0.42	0.14
+verbalisez	vER-ba-li-ze	ver-ba-li-sez	VER			verbaliser	0.02	0
+verbalisme	vER-ba-lizm	ver-ba-lis-me	NOM	m	s		0	0.41
+verbaliste	vER-ba-list	ver-ba-lis-te	NOM		s		0	0.07
+verbatim	vER-ba-tim		NOM	m	s		0.01	0
+verbaux	vER-bo	ver-baux	ADJ	m	p	verbal	0.25	0.54
+verbe	vERb	ver-be	NOM	m	s		1.66	8.38
+verbes	vERb	ver-bes	NOM	m	p	verbe	0.36	1.55
+verbeuse	vER-b2z	ver-beu-se	ADJ	f	s	verbeux	0.01	0.07
+verbeuses	vER-b2z	ver-beu-ses	ADJ	f	p	verbeux	0	0.14
+verbeux	vER-b2	ver-beux	ADJ	m			0.17	0.27
+verbiage	vER-bjaZ	ver-bia-ge	NOM	m	s		0.18	0.74
+verbosité	vER-bo-zi-te	ver-bo-si-té	NOM	f	s		0	0.2
+verbosités	vER-bo-zi-te	ver-bo-si-tés	NOM	f	p	verbosité	0	0.07
+verdâtre	vER-datR	ver-dâ-tre	ADJ		s		0.08	6.62
+verdâtres	vER-datR	ver-dâ-tres	ADJ		p	verdâtre	0.03	3.11
+verdelet	vER-d°-lE	ver-de-let	ADJ	m	s		0	0.07
+verdeur	vER-d9R	ver-deur	NOM	f	s		0	1.01
+verdeurs	vER-d9R	ver-deurs	NOM	f	p	verdeur	0	0.07
+verdi	vER-di	ver-di	VER	m	s	verdir	0	0.81
+verdi	vER-di	ver-di	ADJ	m	s		0.02	0.34
+verdict	vER-dikt	ver-dict	NOM	m	s		8.57	5
+verdicts	vER-dikt	ver-dicts	NOM	m	p	verdict	0.07	0.47
+verdie	vER-di	ver-die	VER	f	s	verdir	0	0.41
+verdie	vER-di	ver-die	ADJ	f	s	verdi	0	0.2
+verdier	vER-dje	ver-dier	NOM	m	s		0	0.07
+verdiers	vER-dje	ver-diers	NOM	m	p	verdier	0.03	0.07
+verdies	vER-di	ver-dies	ADJ	f	p	verdi	0	0.2
+verdies	vER-di	ver-dies	VER	f	p	verdir	0	0.07
+verdine	vER-din		NOM	f	s	verdin	0	0.07
+verdir	vER-diR	ver-dir	VER				0.16	0.2
+verdis	vER-di	ver-dis	ADJ	m	p	verdi	0	0.27
+verdis	vER-di	ver-dis	VER	m	p	verdir	0.01	0.14
+verdissaient	vER-di-sE	ver-dis-saient	VER			verdir	0	0.27
+verdissait	vER-di-sE	ver-dis-sait	VER			verdir	0	0.41
+verdissant	vER-di-s@	ver-dis-sant	ADJ	m	s		0	0.2
+verdissante	vER-di-s@t	ver-dis-san-te	ADJ	f	s	verdissant	0	0.27
+verdissants	vER-di-s@	ver-dis-sants	ADJ	m	p	verdissant	0	0.14
+verdissent	vER-dis	ver-dis-sent	VER			verdir	0.02	0.2
+verdit	vER-di	ver-dit	VER			verdir	0.02	0.47
+verdoie	vER-dwa	ver-doie	VER			verdoyer	0.11	0.2
+verdoiement	vER-dwa-m@	ver-doie-ment	NOM	m	s		0.14	0.07
+verdoient	vER-dwa	ver-doient	VER			verdoyer	0.02	0.14
+verdoyant	vER-dwa-j@	ver-doyant	ADJ	m	s		0.13	0.95
+verdoyant	vER-dwa-j@	ver-doyant	VER			verdoyer	0	0.14
+verdoyante	vER-dwa-j@t	ver-doyan-te	ADJ	f	s	verdoyant	0.06	0.68
+verdoyantes	vER-dwa-j@t	ver-doyan-tes	ADJ	f	p	verdoyant	0.46	0.47
+verdoyants	vER-dwa-j@	ver-doyants	ADJ	m	p	verdoyant	0.02	0.34
+verdoyer	vER-dwa-je	ver-doyer	VER				0	0.2
+verdure	vER-dyR	ver-du-re	NOM	f	s		1.05	10.14
+verdures	vER-dyR	ver-du-res	NOM	f	p	verdure	0.1	0.81
+véreuse	ve-R2z	vé-reu-se	ADJ	f	s	véreux	0.35	0.14
+véreuses	ve-R2z	vé-reu-ses	ADJ	f	p	véreux	0.1	0.27
+véreux	ve-R2	vé-reux	ADJ	m			1.23	1.22
+verge	vERZ	ver-ge	NOM	f	s		0.69	3.65
+vergé	vER-Ze	ver-gé	ADJ	m	s		0	0.27
+vergence	vER-Z@s		NOM	f	s		0.02	0
+verger	vER-Ze	ver-ger	NOM	m	s		2.54	5.88
+vergers	vER-Ze	ver-gers	NOM	m	p	verger	0.59	5.81
+verges	vERZ	ver-ges	NOM	f	p	verge	0.13	1.76
+vergés	vER-Ze	ver-gés	ADJ	m	p	vergé	0.01	0.07
+vergeture	vER-Z°-tyR		NOM	f	s		0.01	0
+vergetures	vER-Z°-tyR	ver-ge-tu-res	NOM	f	p	vergeture	0.41	0.41
+verglacé	vER-gla-se	ver-gla-cé	ADJ	m	s		0	0.2
+verglacé	vER-gla-se	ver-gla-cé	VER	m	s	verglacer	0.03	0
+verglacée	vER-gla-se	ver-gla-cée	ADJ	f	s	verglacé	0.03	0.07
+verglacée	vER-gla-se	ver-gla-cée	VER	f	s	verglacer	0.01	0.07
+verglacées	vER-gla-se	ver-gla-cées	ADJ	f	p	verglacé	0.02	0.14
+verglacées	vER-gla-se	ver-gla-cées	VER	f	p	verglacer	0.02	0.07
+verglas	vER-gla	ver-glas	NOM	m			0.94	1.62
+vergne	vERN	ver-gne	NOM	m	s		0	0.27
+vergnes	vERN	ver-gnes	NOM	m	p	vergne	0	0.07
+vergogne	vER-gON	ver-go-gne	NOM	f	s		0.51	4.05
+vergogneux	vER-go-N2	ver-go-gneux	ADJ	m			0	0.27
+vergue	vERg	ver-gue	NOM	f	s		0.38	0.27
+vergues	vERg	ver-gues	NOM	f	p	vergue	0.03	0.2
+véridique	ve-Ri-dik	vé-ri-di-que	ADJ		s		0.66	1.69
+véridiquement	ve-Ri-di-k°-m@	vé-ri-di-que-ment	ADV				0.01	0.14
+véridiques	ve-Ri-dik	vé-ri-di-ques	ADJ		p	véridique	0.16	0.54
+vérif	ve-Rif		NOM	f	s		0.1	0.27
+vérifia	ve-Ri-fja	vé-ri-fia	VER			vérifier	0.04	2.91
+vérifiable	ve-Ri-fjabl	vé-ri-fia-ble	ADJ		s		0.18	0.14
+vérifiables	ve-Ri-fjabl	vé-ri-fia-bles	ADJ	f	p	vérifiable	0.03	0.07
+vérifiai	ve-Ri-fjE	vé-ri-fiai	VER			vérifier	0.01	0.2
+vérifiaient	ve-Ri-fjE	vé-ri-fiaient	VER			vérifier	0.05	0.27
+vérifiais	ve-Ri-fjE	vé-ri-fiais	VER			vérifier	1.33	0.68
+vérifiait	ve-Ri-fjE	vé-ri-fiait	VER			vérifier	0.73	2.5
+vérifiant	ve-Ri-fj@	vé-ri-fiant	VER			vérifier	0.2	1.49
+vérificateur	ve-Ri-fi-ka-t9R	vé-ri-fi-ca-teur	NOM	m	s		0.33	0
+vérificateurs	ve-Ri-fi-ka-t9R	vé-ri-fi-ca-teurs	NOM	m	p	vérificateur	0.03	0.07
+vérification	ve-Ri-fi-ka-sj§	vé-ri-fi-ca-tion	NOM	f	s		3.4	2.5
+vérifications	ve-Ri-fi-ka-sj§	vé-ri-fi-ca-tions	NOM	f	p	vérification	0.68	0.95
+vérificatrice	ve-Ri-fi-ka-tRis	vé-ri-fi-ca-tri-ce	NOM	f	s	vérificateur	0.07	0
+vérifie	ve-Ri-fi	vé-ri-fie	VER			vérifier	20.47	3.92
+vérifié	ve-Ri-fje	vé-ri-fié	VER	m	s	vérifier	21.64	4.19
+vérifié	ve-Ri-fje	vé-ri-fié	ADJ	m	s		0.57	0.34
+vérifiée	ve-Ri-fje	vé-ri-fiée	VER	f	s	vérifier	0.5	0.14
+vérifiée	ve-Ri-fje	vé-ri-fiée	ADJ	f	s	vérifié	0.13	0.07
+vérifiées	ve-Ri-fje	vé-ri-fiées	VER	f	p	vérifier	0.37	0
+vérifiées	ve-Ri-fje	vé-ri-fiées	ADJ	f	p	vérifié	0.11	0.07
+vérifient	ve-Ri-fi	vé-ri-fient	VER			vérifier	1.27	0.27
+vérifier	ve-Ri-fje	vé-ri-fier	VER				45.69	22.09
+vérifiera	ve-Ri-fi-Ra	vé-ri-fie-ra	VER			vérifier	0.55	0.2
+vérifierai	ve-Ri-fi-RE	vé-ri-fie-rai	VER			vérifier	1.35	0.2
+vérifierais	ve-Ri-fi-RE	vé-ri-fie-rais	VER			vérifier	0.1	0.07
+vérifierait	ve-Ri-fi-RE	vé-ri-fie-rait	VER			vérifier	0.03	0.07
+vérifieras	ve-Ri-fi-Ra	vé-ri-fie-ras	VER			vérifier	0.17	0.07
+vérifièrent	ve-Ri-fjER	vé-ri-fiè-rent	VER			vérifier	0.01	0.14
+vérifierons	ve-Ri-fi-R§	vé-ri-fie-rons	VER			vérifier	0.32	0.07
+vérifieront	ve-Ri-fi-R§	vé-ri-fie-ront	VER			vérifier	0.22	0
+vérifies	ve-Ri-fi	vé-ri-fies	VER			vérifier	0.94	0.14
+vérifiés	ve-Ri-fje	vé-ri-fiés	VER	m	p	vérifier	0.57	0
+vérifiés	ve-Ri-fje	vé-ri-fiés	ADJ	m	p	vérifié	0.14	0.14
+vérifieur	ve-Ri-fj9R	vé-ri-fieur	NOM	m	s		0.02	0
+vérifiez	ve-Ri-fje	vé-ri-fiez	VER			vérifier	12.16	0.47
+vérifiions	ve-Ri-fi-j§	vé-ri-fiions	VER			vérifier	0	0.07
+vérifions	ve-Ri-fj§	vé-ri-fions	VER			vérifier	2.15	0.14
+vérin	ve-R5	vé-rin	NOM	m	s		0.05	0.07
+vérins	ve-R5	vé-rins	NOM	m	p	vérin	0.01	0.27
+vériste	ve-Rist	vé-ris-te	ADJ	m	s		0	0.07
+véritable	ve-Ri-tabl	vé-ri-ta-ble	ADJ		s		26.78	48.51
+véritablement	ve-Ri-ta-bl°-m@	vé-ri-ta-ble-ment	ADV				2.03	5.88
+véritables	ve-Ri-tabl	vé-ri-ta-bles	ADJ		p	véritable	2.58	7.57
+vérité	ve-Ri-te	vé-ri-té	NOM	f	s		190.21	133.38
+vérités	ve-Ri-te	vé-ri-tés	NOM	f	p	vérité	3.03	7.5
+verjus	vER-Zy	ver-jus	NOM	m			0.01	0.27
+verlan	vER-l@	ver-lan	NOM	m	s		0.07	0.34
+vermeil	vER-mEj	ver-meil	ADJ	m	s		1.25	0.88
+vermeil	vER-mEj	ver-meil	NOM	m	s		0.26	1.35
+vermeille	vER-mEj	ver-meil-le	ADJ	f	s	vermeil	0.27	0.81
+vermeilles	vER-mEj	ver-meil-les	ADJ	f	p	vermeil	0.03	1.08
+vermeils	vER-mEj	ver-meils	ADJ	m	p	vermeil	0.1	0.34
+vermicelle	vER-mi-sEl	ver-mi-cel-le	NOM	m	s		0.15	0.54
+vermicelles	vER-mi-sEl	ver-mi-cel-les	NOM	m	p	vermicelle	0.14	0.27
+vermiculaire	vER-mi-ky-lER	ver-mi-cu-lai-re	ADJ		s		0	0.07
+vermiculaires	vER-mi-ky-lER	ver-mi-cu-lai-res	ADJ		p	vermiculaire	0	0.07
+vermiculées	vER-mi-ky-le	ver-mi-cu-lées	ADJ	f	p	vermiculé	0	0.07
+vermifuge	vER-mi-fyZ	ver-mi-fu-ge	NOM	m	s		0.03	0.14
+vermifuge	vER-mi-fyZ	ver-mi-fu-ge	ADJ		s		0.01	0
+vermillon	vER-mi-j§	ver-mil-lon	ADJ				0.02	1.15
+vermillon	vER-mi-j§	ver-mil-lon	NOM	m	s		0.02	0.95
+vermillonnait	vER-mi-jo-nE	ver-mil-lon-nait	VER			vermillonner	0	0.07
+vermillonnée	vER-mi-jo-ne	ver-mil-lon-née	VER	f	s	vermillonner	0	0.14
+vermillonnés	vER-mi-jo-ne	ver-mil-lon-nés	VER	m	p	vermillonner	0	0.07
+vermillons	vER-mi-j§	ver-mil-lons	NOM	m	p	vermillon	0	0.14
+vermine	vER-min	ver-mi-ne	NOM	f	s		6.77	4.46
+vermines	vER-min	ver-mi-nes	NOM	f	p	vermine	0.54	0.47
+vermineux	vER-mi-n2	ver-mi-neux	ADJ	m			0	0.14
+vermisseau	vER-mi-so	ver-mis-seau	NOM	m	s		0.29	0.07
+vermisseaux	vER-mi-so	ver-mis-seaux	NOM	m	p	vermisseau	0.2	0
+vermoulu	vER-mu-ly	ver-mou-lu	ADJ	m	s		0.01	1.15
+vermoulue	vER-mu-ly	ver-mou-lue	ADJ	f	s	vermoulu	0.02	1.22
+vermoulues	vER-mu-ly	ver-mou-lues	ADJ	f	p	vermoulu	0.01	0.47
+vermoulure	vER-mu-lyR	ver-mou-lu-re	NOM	f	s		0	0.2
+vermoulures	vER-mu-lyR	ver-mou-lu-res	NOM	f	p	vermoulure	0	0.14
+vermoulus	vER-mu-ly	ver-mou-lus	ADJ	m	p	vermoulu	0.14	0.47
+vermout	vER-mut		NOM	m	s		0.01	0
+vermouth	vER-mut	ver-mou-th	NOM	m	s		1.18	1.28
+vermouths	vER-mut	ver-mou-ths	NOM	m	p	vermouth	0.01	0.2
+vernaculaire	vER-na-ky-lER		ADJ		s		0.01	0
+vernal	vER-nal		ADJ	m	s		0.01	0
+verne	vERn		NOM	m	s		0.14	0
+verni	vER-ni	ver-ni	ADJ	m	s		0.26	3.78
+verni	vER-ni	ver-ni	VER	m	s	vernir	0.66	1.96
+vernie	vER-ni	ver-nie	ADJ	f	s	verni	0.07	1.22
+vernie	vER-ni	ver-nie	VER	f	s	vernir	0.14	0.95
+vernier	vER-nje	ver-nier	NOM	m	s		0	0.07
+vernies	vER-ni	ver-nies	ADJ	f	p	verni	0.15	1.62
+vernies	vER-ni	ver-nies	VER	f	p	vernir	0	0.68
+vernir	vER-niR	ver-nir	VER				0.16	0.61
+vernis	vER-ni	ver-nis	NOM	m			2.81	9.8
+vernis	vER-ni	ver-nis	VER	m	p	vernir	0.68	3.72
+vernissage	vER-ni-saZ	ver-nis-sa-ge	NOM	m	s		1.88	1.35
+vernissages	vER-ni-saZ	ver-nis-sa-ges	NOM	m	p	vernissage	0.33	0.47
+vernissaient	vER-ni-sE	ver-nis-saient	VER			vernir	0	0.07
+vernissait	vER-ni-sE	ver-nis-sait	VER			vernir	0.01	0
+vernissant	vER-ni-s@	ver-nis-sant	VER			vernir	0	0.07
+vernissé	vER-ni-se	ver-nis-sé	VER	m	s	vernisser	0	0.34
+vernissé	vER-ni-se	ver-nis-sé	ADJ	m	s		0	0.34
+vernissée	vER-ni-se	ver-nis-sée	VER	f	s	vernisser	0	0.47
+vernissée	vER-ni-se	ver-nis-sée	ADJ	f	s	vernissé	0	0.41
+vernissées	vER-ni-se	ver-nis-sées	ADJ	f	p	vernissé	0	1.08
+vernissées	vER-ni-se	ver-nis-sées	VER	f	p	vernisser	0	0.41
+vernissent	vER-nis	ver-nis-sent	VER			vernir	0	0.07
+vernisser	vER-ni-se	ver-nis-ser	VER				0	0.07
+vernissés	vER-ni-se	ver-nis-sés	ADJ	m	p	vernissé	0	0.54
+vernissés	vER-ni-se	ver-nis-sés	VER	m	p	vernisser	0	0.2
+vernisseur	vER-ni-s9R		NOM	m	s		0.1	0
+vernit	vER-ni	ver-nit	VER			vernir	0.13	0.41
+vérole	ve-ROl	vé-ro-le	NOM	f	s		0.79	3.45
+vérolé	ve-Ro-le	vé-ro-lé	ADJ	m	s		0.02	1.42
+vérolé	ve-Ro-le	vé-ro-lé	VER	m	s	véroler	0	0.14
+vérolée	ve-Ro-le	vé-ro-lée	ADJ	f	s	vérolé	0.17	0
+vérolée	ve-Ro-le	vé-ro-lée	VER	f	s	véroler	0.01	0
+vérolées	ve-Ro-le	vé-ro-lées	ADJ	f	p	vérolé	0	0.34
+vérolées	ve-Ro-le	vé-ro-lées	VER	f	p	véroler	0	0.07
+véroles	ve-ROl	vé-ro-les	NOM	f	p	vérole	0	0.14
+vérolés	ve-Ro-le	vé-ro-lés	ADJ	m	p	vérolé	0.14	0.2
+vérolés	ve-Ro-le	vé-ro-lés	VER	m	p	véroler	0	0.07
+véronaise	ve-Ro-nEz	vé-ro-nai-se	ADJ	f	s	véronais	0	0.07
+véronal	ve-Ro-nal		NOM	m	s		0.04	0
+véronique	ve-Ro-nik	vé-ro-ni-que	NOM	f	s		0.1	0.54
+véroniques	ve-Ro-nik	vé-ro-ni-ques	NOM	f	p	véronique	0	0.2
+verra	vE-Ra	ver-ra	VER			voir	78.66	26.28
+verrai	vE-RE	ver-rai	VER			voir	31.76	10.54
+verraient	vE-RE	ver-raient	VER			voir	1.01	2.23
+verrais	vE-RE	ver-rais	VER			voir	9.03	6.49
+verrait	vE-RE	ver-rait	VER			voir	6.58	16.76
+verras	vE-Ra	ver-ras	VER			voir	51.34	23.78
+verrat	vE-Ra	ver-rat	NOM	m	s		0.08	0.68
+verrats	vE-Ra	ver-rats	NOM	m	p	verrat	0	0.07
+verre	vER	ver-re	NOM	m	s		154.13	175.2
+verrerie	vE-R°-Ri	ver-re-rie	NOM	f	s		0.93	0.47
+verreries	vE-R°-Ri	ver-re-ries	NOM	f	p	verrerie	0.21	0.27
+verres	vER	ver-res	NOM	m	p	verre	22.45	54.86
+verrez	vE-Re	ver-rez	VER			voir	35.5	18.51
+verrier	vE-Rje	ver-rier	ADJ	m	s		0	0.07
+verrière	vE-RjER	ver-riè-re	NOM	f	s		0.42	4.53
+verrière	vE-RjER	ver-riè-re	ADJ	f	s		0	0.07
+verrières	vE-RjER	ver-riè-res	NOM	f	p	verrière	0	1.42
+verrières	vE-RjER	ver-riè-res	ADJ	f	p	verrière	0	0.14
+verriers	vE-Rje	ver-riers	ADJ	m	p	verrier	0	0.07
+verriers	vE-Rje	ver-riers	NOM	m	p	verrier	0	0.07
+verriez	vE-Rje	ver-riez	VER			voir	1.84	0.81
+verrions	vE-Rj§	ver-rions	VER			voir	0.12	1.01
+verrons	ve-R§	ver-rons	VER			voir	13.26	7.57
+verront	ve-R§	ver-ront	VER			voir	6.54	2.7
+verroterie	ve-RO-t°-Ri	ver-ro-te-rie	NOM	f	s		0.04	1.01
+verroteries	ve-RO-t°-Ri	ver-ro-te-ries	NOM	f	p	verroterie	0.01	0.41
+verrou	ve-Ru	ver-rou	NOM	m	s		3.54	7.64
+verrouilla	ve-Ru-ja	ver-rouil-la	VER			verrouiller	0.11	0.61
+verrouillage	ve-Ru-jaZ	ver-rouil-la-ge	NOM	m	s		1.23	0.54
+verrouillai	ve-Ru-jE	ver-rouil-lai	VER			verrouiller	0	0.07
+verrouillait	ve-Ru-jE	ver-rouil-lait	VER			verrouiller	0.15	0.34
+verrouillant	ve-Ru-j@	ver-rouil-lant	VER			verrouiller	0	0.2
+verrouille	ve-Ruj	ver-rouil-le	VER			verrouiller	1.98	0.27
+verrouillé	ve-Ru-je	ver-rouil-lé	VER	m	s	verrouiller	1.85	0.61
+verrouillé	ve-Ru-je	ver-rouil-lé	ADJ	m	s		0.98	0.2
+verrouillée	ve-Ru-je	ver-rouil-lée	VER	f	s	verrouiller	1.24	0.61
+verrouillée	ve-Ru-je	ver-rouil-lée	ADJ	f	s	verrouillé	0.6	0.61
+verrouillées	ve-Ru-je	ver-rouil-lées	VER	f	p	verrouiller	0.33	0.14
+verrouillées	ve-Ru-je	ver-rouil-lées	ADJ	f	p	verrouillé	0.23	0.07
+verrouillent	ve-Ruj	ver-rouil-lent	VER			verrouiller	0.28	0
+verrouiller	ve-Ru-je	ver-rouil-ler	VER				1.36	0.47
+verrouillèrent	ve-Ru-jER	ver-rouil-lè-rent	VER			verrouiller	0	0.07
+verrouilles	ve-Ruj	ver-rouil-les	VER			verrouiller	0.09	0.14
+verrouillés	ve-Ru-je	ver-rouil-lés	VER	m	p	verrouiller	0.09	0.2
+verrouillés	ve-Ru-je	ver-rouil-lés	ADJ	m	p	verrouillé	0.08	0.2
+verrouillez	ve-Ru-je	ver-rouil-lez	VER			verrouiller	1.27	0
+verrouillons	ve-Ru-j§	ver-rouil-lons	VER			verrouiller	0.02	0
+verrous	ve-Ru	ver-rous	NOM	m	p	verrou	1.74	4.39
+verrue	ve-Ry	ver-rue	NOM	f	s		0.66	1.76
+verrues	ve-Ry	ver-rues	NOM	f	p	verrue	0.54	1.35
+verruqueuse	ve-Ry-k2z	ver-ru-queu-se	ADJ	f	s	verruqueux	0	0.14
+vers	vER	vers	PRE				227.77	956.15
+vers	vER	vers	NOM	m	p		29.91	43.04
+versa	vER-sa	ver-sa	VER			verser	1.88	10.68
+versai	vER-sE	ver-sai	VER			verser	0.01	1.08
+versaient	vER-sE	ver-saient	VER			verser	0.06	1.55
+versaillais	vER-sa-jE	ver-sail-lais	NOM	m			0	0.54
+versaillais	vER-sa-jE	ver-sail-lais	ADJ	m			0	0.14
+versaillaise	vER-sa-jEz	ver-sail-lai-se	ADJ	f	s	versaillais	0	0.2
+versais	vER-sE	ver-sais	VER			verser	0.21	0.47
+versait	vER-sE	ver-sait	VER			verser	0.64	5.61
+versâmes	vER-sam	ver-sâ-mes	VER			verser	0	0.07
+versant	vER-s@	ver-sant	NOM	m	s		0.53	8.92
+versant	vER-s@	ver-sant	VER			verser	0.43	4.66
+versant	vER-s@	ver-sant	ADJ	m	s		0.04	0.34
+versants	vER-s@	ver-sants	NOM	m	p	versant	0.06	1.76
+versants	vER-s@	ver-sants	ADJ	m	p	versant	0	0.07
+versât	vER-sa	ver-sât	VER			verser	0	0.14
+versatile	vER-sa-til	ver-sa-ti-le	ADJ		s		0.33	0.2
+versatiles	vER-sa-til	ver-sa-ti-les	ADJ	f	p	versatile	0.01	0.14
+versatilité	vER-sa-ti-li-te	ver-sa-ti-li-té	NOM	f	s		0.02	0.34
+verse	vERs	ver-se	VER			verser	7.5	7.57
+verse	vERs	ver-se	NOM	f	s		1.42	1.42
+versé	vER-se	ver-sé	VER	m	s	verser	7.5	7.7
+versé	vER-se	ver-sé	ADJ	m	s		0.96	1.15
+verseau	vER-so		NOM	m	s		0.02	0
+versée	vER-se	ver-sée	VER	f	s	verser	0.86	0.81
+versée	vER-se	ver-sée	ADJ	f	s	versé	0.05	0.07
+versées	vER-se	ver-sées	VER	f	p	verser	0.36	0.54
+versées	vER-se	ver-sées	ADJ	f	p	versé	0.01	0.34
+versement	vER-s°-m@	ver-se-ment	NOM	m	s		1.91	0.61
+versements	vER-s°-m@	ver-se-ments	NOM	m	p	versement	0.85	0.27
+versent	vERs	ver-sent	VER			verser	0.29	0.95
+verser	vER-se	ver-ser	VER				4.62	9.86
+versera	vER-s°-Ra	ver-se-ra	VER			verser	0.6	0.41
+verserai	vER-s°-RE	ver-se-rai	VER			verser	0.62	0
+verserais	vER-s°-RE	ver-se-rais	VER			verser	0.08	0.07
+verserait	vER-s°-RE	ver-se-rait	VER			verser	0.14	0.07
+verseras	vER-s°-Ra	ver-se-ras	VER			verser	0.16	0.07
+versèrent	vER-sER	ver-sè-rent	VER			verser	0.01	0.47
+verserez	vER-s°-Re	ver-se-rez	VER			verser	0.04	0.07
+verseriez	vER-s°-Rje	ver-se-riez	VER			verser	0.02	0
+verserons	vER-s°-R§	ver-se-rons	VER			verser	0.18	0
+verseront	vER-s°-R§	ver-se-ront	VER			verser	0.04	0.14
+verses	vERs	ver-ses	VER			verser	0.93	0.07
+verses	vERs	ver-ses	NOM	f	p	verse	0.02	0
+versés	vER-se	ver-sés	VER	m	p	verser	0.17	0.54
+versés	vER-se	ver-sés	ADJ	m	p	versé	0	0.07
+verset	vER-sE	ver-set	NOM	m	s		1.43	2.03
+versets	vER-sE	ver-sets	NOM	m	p	verset	1.03	2.36
+verseur	vER-s9R	ver-seur	ADJ	m	s		0.03	0
+verseurs	vER-s9R	ver-seurs	ADJ	m	p	verseur	0	0.07
+verseuse	vER-s2z	ver-seu-se	NOM	f	s	verseur	0.04	0.2
+verseuses	vER-s2z	ver-seu-ses	NOM	f	p	verseur	0.04	0.07
+versez	vER-se	ver-sez	VER			verser	3.6	0.27
+versicolores	vER-si-ko-lOR	ver-si-co-lo-res	ADJ		p	versicolore	0	0.27
+versiculets	vER-si-ky-lE	ver-si-cu-lets	NOM	m	p	versiculet	0	0.07
+versiez	vER-sje	ver-siez	VER			verser	0.02	0
+versificateur	vER-si-fi-ka-t9R	ver-si-fi-ca-teur	NOM	m	s		0	0.07
+versification	vER-si-fi-ka-sj§		NOM	f	s		0.01	0
+versifiées	vER-si-fje	ver-si-fiées	ADJ	f	p	versifié	0	0.14
+versifier	vER-si-fje	ver-si-fier	VER				0	0.07
+version	vER-sj§	ver-sion	NOM	f	s		19.1	11.01
+versions	vER-sj§	ver-sions	NOM	f	p	version	0.98	1.96
+versions	vER-sj§	ver-sions	VER			verser	0.01	0
+verso	vER-so	ver-so	NOM	m	s		0.61	1.82
+versons	vER-s§	ver-sons	VER			verser	0.22	0.14
+versos	vER-so	ver-sos	NOM	m	p	verso	0.01	0.14
+verstes	vERst	vers-tes	NOM	f	p	verste	0.47	0.14
+versus	vER-sys	ver-sus	PRE				0.07	0.07
+vert	vER	vert	ADJ	m	s		24.74	59.12
+vert	vER	vert	NOM	m	s		10.07	31.89
+vert-de-gris	vER-d°-gRi	vert-de-gris	ADJ				0.02	0.81
+vert-de-gris	vER-d°-gRi	vert-de-gris	NOM	m			0.01	0.81
+vert-de-grisé	vER-d°-gRi-ze	vert-de-grisé	ADJ	m	s		0	0.07
+vert-de-grisée	vER-d°-gRi-ze	vert-de-grisée	ADJ	f	s	vert-de-grisé	0	0.07
+vert-de-grisées	vER-d°-gRi-ze	vert-de-grisées	ADJ	f	p	vert-de-grisé	0	0.14
+vert-de-grisés	vER-d°-gRi-ze	vert-de-grisés	ADJ	m	p	vert-de-grisé	0	0.07
+vert-galant	vER-ga-l@	vert-galant	NOM	m	s		0	0.2
+vert-jaune	vER-Zon		ADJ	m	s		0.02	0.07
+vert-jaune	vER-Zon		NOM	m	s		0.02	0.07
+verte	vERt	ver-te	ADJ	f	s	vert	14.24	38.45
+vertébral	vER-te-bRal		ADJ	m	s		0.06	0
+vertébrale	vER-te-bRal	ver-té-bra-le	ADJ	f	s	vertébral	3.09	2.36
+vertébrales	vER-te-bRal	ver-té-bra-les	ADJ	f	p	vertébral	0.06	0
+vertébraux	vER-te-bRo		ADJ	m	p	vertébral	0.01	0
+vertèbre	vER-tEbR	ver-tè-bre	NOM	f	s		0.68	0.81
+vertébré	vER-te-bRe	ver-té-bré	ADJ	m	s		0.03	0.47
+vertébré	vER-te-bRe	ver-té-bré	NOM	m	s		0.13	0.07
+vertèbres	vER-tEbR	ver-tè-bres	NOM	f	p	vertèbre	0.59	2.57
+vertébrés	vER-te-bRe	ver-té-brés	NOM	m	p	vertébré	0.23	0.07
+vertébrés	vER-te-bRe	ver-té-brés	ADJ	m	p	vertébré	0.1	0
+vertement	vER-t°-m@	ver-te-ment	ADV				0.14	1.08
+vertes	vERt	ver-tes	ADJ	f	p	vert	4.29	23.72
+vertex	vER-tEks	ver-tex	NOM	m			0	1.22
+vertical	vER-ti-kal	ver-ti-cal	ADJ	m	s		0.61	3.85
+vertical	vER-ti-kal	ver-ti-cal	NOM	m	s		0.18	0.07
+verticale	vER-ti-kal	ver-ti-ca-le	ADJ	f	s	vertical	0.67	5.88
+verticale	vER-ti-kal	ver-ti-ca-le	NOM	f	s		1.44	4.46
+verticalement	vER-ti-ka-l°-m@	ver-ti-ca-le-ment	ADV				0.17	3.31
+verticales	vER-ti-kal	ver-ti-ca-les	ADJ	f	p	vertical	0.18	2.91
+verticales	vER-ti-kal	ver-ti-ca-les	NOM	f	p	verticale	0.41	0.61
+verticalité	vER-ti-ka-li-te	ver-ti-ca-li-té	NOM	f	s		0	0.2
+verticaux	vER-ti-ko	ver-ti-caux	ADJ	m	p	vertical	0.08	2.77
+verticille	vER-ti-sil		NOM	m	s		0.01	0
+vertige	vER-tiZ	ver-ti-ge	NOM	m	s		6.14	24.26
+vertiges	vER-tiZ	ver-ti-ges	NOM	m	p	vertige	2.91	2.36
+vertigineuse	vER-ti-Zi-n2z	ver-ti-gi-neu-se	ADJ	f	s	vertigineux	0.14	4.86
+vertigineusement	vER-ti-Zi-n2-z°-m@	ver-ti-gi-neu-se-ment	ADV				0.1	1.15
+vertigineuses	vER-ti-Zi-n2z	ver-ti-gi-neu-ses	ADJ	f	p	vertigineux	0.11	1.35
+vertigineux	vER-ti-Zi-n2	ver-ti-gi-neux	ADJ	m			0.45	4.19
+vertigo	vER-ti-go	ver-ti-go	NOM	m	s		0.13	0.14
+verts	vER	verts	ADJ	m	p	vert	9.32	23.85
+verts	vER	verts	NOM	m	p	vert	0.84	2.77
+vertu	vER-ty	ver-tu	NOM	f	s		13.49	24.05
+vertubleu	vER-ty-bl2		ONO				0.27	0
+vertueuse	vER-t82z	ver-tueu-se	ADJ	f	s	vertueux	1.92	1.42
+vertueusement	vER-t82-z°-m@	ver-tueu-se-ment	ADV				0	0.27
+vertueuses	vER-t82z	ver-tueu-ses	ADJ	f	p	vertueux	0.3	0.68
+vertueux	vER-t82	ver-tueux	ADJ	m			2.85	1.69
+vertugadin	vER-ty-ga-d5	ver-tu-ga-din	NOM	m	s		0.01	0.14
+vertus	vER-ty	ver-tus	NOM	f	p	vertu	4.26	14.39
+verve	vERv	ver-ve	NOM	f	s		0.4	3.04
+verveine	vER-vEn	ver-vei-ne	NOM	f	s		0.72	1.76
+verveux	vER-v2	ver-veux	ADJ	m			0	0.14
+vésanie	ve-za-ni	vé-sa-nie	NOM	f	s		0	0.2
+vésanies	ve-za-ni	vé-sa-nies	NOM	f	p	vésanie	0	0.07
+vesce	vEs		NOM	f	s		0.01	0
+vesces	vEs	ves-ces	NOM	f	p	vesce	0	0.2
+vésicale	ve-zi-kal		ADJ	f	s	vésical	0.01	0
+vésicante	ve-zi-k@t		ADJ	f	s	vésicant	0.1	0
+vésicatoire	ve-zi-ka-twaR		ADJ		s		0.1	0
+vésicatoires	ve-zi-ka-twaR	vé-si-ca-toi-res	ADJ	m	p	vésicatoire	0	0.07
+vésiculaire	ve-zi-ky-lER		ADJ		s		0.1	0
+vésicule	ve-zi-kyl	vé-si-cu-le	NOM	f	s		0.9	0.61
+vésicules	ve-zi-kyl	vé-si-cu-les	NOM	f	p	vésicule	0.11	0.14
+vespa	vEs-pa	ves-pa	NOM	f	s		1.19	0.61
+vespas	vEs-pa	ves-pas	NOM	f	p	vespa	0	0.07
+vespasienne	vEs-pa-zjEn	ves-pa-sien-ne	NOM	f	s		0	0.14
+vespasienne	vEs-pa-zjEn	ves-pa-sien-ne	NOM	f	s	vespasien	0.02	0
+vespasiennes	vEs-pa-zjEn	ves-pa-sien-nes	NOM	f	p	vespasien	0.1	0.41
+vespéral	vEs-pe-Ral	ves-pé-ral	ADJ	m	s		0	0.07
+vespérale	vEs-pe-Ral	ves-pé-ra-le	ADJ	f	s	vespéral	0	0.61
+vespérales	vEs-pe-Ral	ves-pé-ra-les	ADJ	f	p	vespéral	0.01	0.14
+vespéraux	vEs-pe-Ro	ves-pé-raux	ADJ	m	p	vespéral	0	0.07
+vesprée	vEs-pRe	ves-prée	NOM	f	s		0	0.07
+vesse-de-loup	vEs-d°-lu	vesse-de-loup	NOM	f	s		0	0.14
+vesses	vEs	ves-ses	NOM	f	p	vesse	0	0.14
+vesses-de-loup	vEs-d°-lu	vesses-de-loup	NOM	f	p	vesse-de-loup	0.02	0.07
+vessie	ve-si	ves-sie	NOM	f	s		3.21	2.23
+vessies	ve-si	ves-sies	NOM	f	p	vessie	0.13	0.34
+vestalat	ves-ta-la	ves-ta-lat	NOM	m	s		0	0.07
+vestale	vEs-tal	ves-ta-le	NOM	f	s		0.54	0.41
+vestales	vEs-tal	ves-ta-les	NOM	f	p	vestale	0.16	0.41
+veste	vEst	ves-te	NOM	f	s		36	55.68
+vestes	vEst	ves-tes	NOM	f	p	veste	1.71	5.95
+vestiaire	vEs-tjER	ves-tiai-re	NOM	m	s		4.04	9.86
+vestiaires	vEs-tjER	ves-tiai-res	NOM	m	p	vestiaire	1.67	2.57
+vestibule	vEs-ti-byl	ves-ti-bu-le	NOM	m	s		0.96	12.43
+vestibules	vEs-ti-byl	ves-ti-bu-les	NOM	m	p	vestibule	0	0.34
+vestige	vEs-tiZ	ves-ti-ge	NOM	m	s		0.54	1.62
+vestiges	vEs-tiZ	ves-ti-ges	NOM	m	p	vestige	0.94	6.15
+vestimentaire	vEs-ti-m@-tER	ves-ti-men-tai-re	ADJ		s		0.63	1.76
+vestimentaires	vEs-ti-m@-tER	ves-ti-men-tai-res	ADJ		p	vestimentaire	0.27	1.08
+veston	vEs-t§	ves-ton	NOM	m	s		1.66	15.27
+vestons	vEs-t§	ves-tons	NOM	m	p	veston	0.02	1.28
+vésuviennes	ve-zy-vjEn	vé-su-vien-nes	ADJ	f	p	vésuvien	0	0.07
+vêt	vE	vêt	VER			vêtir	0.02	0.14
+vêtaient	vE-tE	vê-taient	VER			vêtir	0	0.07
+vêtait	vE-tE	vê-tait	VER			vêtir	0.14	0.41
+vêtant	vE-t@	vê-tant	VER			vêtir	0	0.14
+vête	vEt	vê-te	VER			vêtir	0	0.07
+vêtement	vE-t°-m@	vê-te-ment	NOM	m	s		3.84	15.34
+vêtements	vE-t°-m@	vê-te-ments	NOM	m	p	vêtement	57.65	74.8
+vêtent	vEt	vê-tent	VER			vêtir	0.11	0.34
+vétéran	ve-te-R@	vé-té-ran	NOM	m	s		1.86	1.28
+vétérans	ve-te-R@	vé-té-rans	NOM	m	p	vétéran	1.98	1.15
+vétérinaire	ve-te-Ri-nER	vé-té-ri-nai-re	NOM		s		3.74	3.72
+vétérinaire	ve-te-Ri-nER	vé-té-ri-nai-re	ADJ		s		2.03	0.88
+vétérinaires	ve-te-Ri-nER	vé-té-ri-nai-res	NOM		p	vétérinaire	0.19	0.14
+vétérinaires	ve-te-Ri-nER	vé-té-ri-nai-res	ADJ		p	vétérinaire	0.06	0.07
+vêtez	vE-te	vê-tez	VER			vêtir	0.01	0.34
+vétille	ve-tij	vé-til-le	NOM	f	s		0.22	0.2
+vétilles	ve-tij	vé-til-les	NOM	f	p	vétille	0.16	1.01
+vétilleuse	ve-ti-j2z	vé-til-leu-se	ADJ	f	s	vétilleux	0	0.27
+vétilleuses	ve-ti-j2z	vé-til-leu-ses	ADJ	f	p	vétilleux	0	0.07
+vétilleux	ve-ti-j2	vé-til-leux	ADJ	m			0	0.34
+vêtir	ve-tiR	vê-tir	VER				1.55	3.18
+vêtira	vE-ti-Ra	vê-ti-ra	VER			vêtir	0.02	0.07
+vêtirais	vE-ti-RE	vê-ti-rais	VER			vêtir	0	0.07
+vêtirait	vE-ti-RE	vê-ti-rait	VER			vêtir	0	0.07
+vêtirons	vE-ti-R§	vê-ti-rons	VER			vêtir	0	0.07
+vêtis	vE-ti	vê-tis	VER			vêtir	0	0.07
+vêtit	vE-ti	vê-tit	VER			vêtir	0	0.2
+vétiver	ve-ti-ve	vé-ti-ver	NOM	m	s		0	0.27
+veto	ve-to	ve-to	NOM	m			1.94	0.74
+vêtons	vE-t§	vê-tons	VER			vêtir	0	0.07
+vêts	vE	vêts	VER			vêtir	0	0.54
+vêtu	ve-ty	vê-tu	VER	m	s	vêtir	3.47	26.96
+vêtu	ve-ty	vê-tu	ADJ	m	s		0.99	3.72
+vêtue	ve-ty	vê-tue	VER	f	s	vêtir	1.23	15.27
+vêtue	ve-ty	vê-tue	ADJ	f	s	vêtu	0.71	2.97
+vêtues	vE-ty	vê-tues	VER	f	p	vêtir	0.28	4.73
+vêtues	vE-ty	vê-tues	ADJ	f	p	vêtu	0.05	0.74
+vêture	vE-tyR	vê-tu-re	NOM	f	s		0	0.54
+vêtures	vE-tyR	vê-tu-res	NOM	f	p	vêture	0	0.07
+vêtus	ve-ty	vê-tus	VER	m	p	vêtir	0.83	11.08
+vêtus	ve-ty	vê-tus	ADJ	m	p	vêtu	0.11	2.97
+vétuste	ve-tyst	vé-tus-te	ADJ		s		0.05	2.03
+vétusté	ve-tys-te	vé-tus-té	NOM	f	s		0.02	0.68
+vétustes	ve-tyst	vé-tus-tes	ADJ		p	vétuste	0.2	1.15
+vétyver	ve-ti-vER		NOM	m	s		0	0.07
+veuf	v9f	veuf	ADJ	m	s		1.65	3.11
+veuf	v9f	veuf	NOM	m	s		0.82	1.62
+veufs	v9f	veuf-s	ADJ	m	p	veuf	0	0.47
+veufs	v9f	veuf-s	NOM	m	p	veuf	0.06	0.2
+veuille	v9j	veuil-le	VER			vouloir	10.13	8.45
+veuillent	v9j	veuil-lent	VER			vouloir	1.15	1.08
+veuilles	v9j	veuil-les	VER			vouloir	6.72	1.28
+veuillez	v9-je	veuil-lez	VER			vouloir	45.84	8.99
+veule	v2l	veu-le	ADJ		s		0.16	1.42
+veulent	v9l	veu-lent	VER			vouloir	142.38	39.05
+veulerie	v2-l°-Ri	veu-le-rie	NOM	f	s		0.21	2.36
+veuleries	v2-l°-Ri	veu-le-ries	NOM	f	p	veulerie	0	0.14
+veules	v2l	veu-les	ADJ	m	p	veule	0.02	0.34
+veut	v2	veut	VER			vouloir	701.19	210.61
+veuvage	v9-vaZ	veu-va-ge	NOM	m	s		0.78	2.5
+veuvages	v9-vaZ	veu-va-ges	NOM	m	p	veuvage	0	0.34
+veuve	v9v	veu-ve	NOM	f	s	veuf	15.64	26.89
+veuve	v9v	veu-ve	ADJ	f	s	veuf	6.56	5.81
+veuves	v9v	veu-ves	NOM	f	p	veuf	1.89	3.99
+veuves	v9v	veu-ves	ADJ	f	p	veuf	0.18	0.74
+veux	v2	veux	VER			vouloir	2486.93	377.97
+vexa	vEk-sa	vexa	VER			vexer	0	0.34
+vexai	vEk-sE	vexai	VER			vexer	0	0.07
+vexait	vEk-sE	vexait	VER			vexer	0.02	0.54
+vexant	vEk-s@	vexant	ADJ	m	s		0.39	0.74
+vexant	vEk-s@	vexant	VER			vexer	0.01	0.14
+vexante	vEk-s@t	vexan-te	ADJ	f	s	vexant	0.01	0.14
+vexantes	vEk-s@t	vexan-tes	ADJ	f	p	vexant	0	0.07
+vexants	vEk-s@	vexants	ADJ	m	p	vexant	0	0.07
+vexation	vEk-sa-sj§	vexa-tion	NOM	f	s		0.12	0.68
+vexations	vEk-sa-sj§	vexa-tions	NOM	f	p	vexation	0.05	1.15
+vexatoire	vEk-sa-twaR	vexa-toi-re	ADJ		s		0	0.14
+vexatoires	vEk-sa-twaR	vexa-toi-res	ADJ	f	p	vexatoire	0	0.07
+vexe	vEks	vexe	VER			vexer	1.65	1.76
+vexé	vEk-se	vexé	VER	m	s	vexer	5.21	4.19
+vexé	vEk-se	vexé	ADJ	m	s		0.25	4.32
+vexée	vEk-se	vexée	VER	f	s	vexer	2.34	1.08
+vexée	vEk-se	vexée	ADJ	f	s	vexé	0.3	1.35
+vexées	vEk-se	vexées	ADJ	f	p	vexé	0	0.07
+vexées	vEk-se	vexées	VER	f	p	vexer	0.01	0
+vexent	vEks	vexent	VER			vexer	0.12	0.07
+vexer	vEk-se	vexer	VER				4.3	2.57
+vexera	vEk-s°-Ra	vexe-ra	VER			vexer	0.26	0
+vexerai	vEk-s°-RE	vexe-rai	VER			vexer	0.3	0
+vexerait	vEk-s°-RE	vexe-rait	VER			vexer	0.02	0.41
+vexeras	vEk-s°-Ra	vexe-ras	VER			vexer	0.14	0.07
+vexerez	vEk-s°-Re	vexe-rez	VER			vexer	0.01	0
+vexerions	vEk-s°-Rj§	vexe-rions	VER			vexer	0	0.07
+vexes	vEks	vexes	VER			vexer	0.34	0.14
+vexés	vEk-se	vexés	VER	m	p	vexer	0.36	0.34
+vexés	vEk-se	vexés	ADJ	m	p	vexé	0.12	0.54
+vexez	vEk-se	vexez	VER			vexer	0.41	0
+vexons	vEk-s§	vexons	VER			vexer	0.04	0
+via	vja	via	PRE				6.53	5.41
+viabilité	vja-bi-li-te	via-bi-li-té	NOM	f	s		0.1	0.07
+viable	vjabl	via-ble	ADJ		s		1.27	0.95
+viables	vjabl	via-bles	ADJ		p	viable	0.29	0.27
+viaduc	vja-dyk	via-duc	NOM	m	s		0.17	0.88
+viager	vja-Ze	via-ger	NOM	m	s		0.14	0.27
+viagère	vja-ZER	via-gè-re	ADJ	f	s	viager	0.03	0.14
+viagra	vja-gRa	via-gra	NOM	m	s		0.45	0
+viandard	vj@-daR	vian-dard	NOM	m	s		0	0.07
+viandasse	vj@-das	vian-das-se	VER			viander	0	0.2
+viande	vj@d	vian-de	NOM	f	s		43.78	41.35
+viandé	vj@-de	vian-dé	VER	m	s	viander	0.04	0.07
+viander	vj@-de	vian-der	VER				0.01	0.14
+viandes	vj@d	vian-des	NOM	f	p	viande	0.65	3.65
+viandeuse	vj@-d2z	vian-deu-se	ADJ	f	s	viandeux	0	0.07
+viandox	vj@-dOks		NOM	m			0.02	0.68
+viatique	vja-tik	via-ti-que	NOM	m	s		0.01	1.28
+vibra	vi-bRa	vi-bra	VER			vibrer	0	0.95
+vibraient	vi-bRE	vi-braient	VER			vibrer	0.06	0.68
+vibrais	vi-bRE	vi-brais	VER			vibrer	0.01	0.2
+vibrait	vi-bRE	vi-brait	VER			vibrer	0.22	6.22
+vibrant	vi-bR@	vi-brant	VER			vibrer	0.27	2.64
+vibrant	vi-bR@	vi-brant	ADJ	m	s		0.56	1.89
+vibrante	vi-bR@t	vi-bran-te	ADJ	f	s	vibrant	0.22	3.78
+vibrantes	vi-bR@t	vi-bran-tes	ADJ	f	p	vibrant	0.03	0.88
+vibrants	vi-bR@	vi-brants	ADJ	m	p	vibrant	0.05	0.34
+vibraphone	vi-bRa-fOn	vi-bra-pho-ne	NOM	m	s		0.03	0.07
+vibraphones	vi-bRa-fOn	vi-bra-pho-nes	NOM	m	p	vibraphone	0	0.07
+vibrateur	vi-bRa-t9R	vi-bra-teur	NOM	m	s		0.14	0
+vibrateurs	vi-bRa-t9R	vi-bra-teurs	NOM	m	p	vibrateur	0.01	0.07
+vibratile	vi-bRa-til	vi-bra-ti-le	ADJ	f	s		0.01	0.2
+vibratiles	vi-bRa-til	vi-bra-ti-les	ADJ	m	p	vibratile	0.14	0.14
+vibration	vi-bRa-sj§	vi-bra-tion	NOM	f	s		1.28	8.58
+vibrations	vi-bRa-sj§	vi-bra-tions	NOM	f	p	vibration	3.21	4.05
+vibrato	vi-bRa-to	vi-bra-to	NOM	m	s		0.12	0.34
+vibratoire	vi-bRa-twaR	vi-bra-toi-re	ADJ		s		0.1	0.34
+vibratoires	vi-bRa-twaR	vi-bra-toi-res	ADJ		p	vibratoire	0.01	0.14
+vibratos	vi-bRa-to	vi-bra-tos	NOM	m	p	vibrato	0	0.2
+vibre	vibR	vi-bre	VER			vibrer	1.79	3.78
+vibré	vi-bRe	vi-bré	VER	m	s	vibrer	0.04	0.95
+vibrée	vi-bRe	vi-brée	VER	f	s	vibrer	0.01	0.07
+vibrées	vi-bRe	vi-brées	VER	f	p	vibrer	0	0.07
+vibrent	vibR	vi-brent	VER			vibrer	0.23	0.68
+vibrer	vi-bRe	vi-brer	VER				2.06	8.31
+vibrera	vi-bR°-Ra	vi-bre-ra	VER			vibrer	0.03	0
+vibreur	vi-bR9R	vi-breur	NOM	m	s		0.25	0
+vibrez	vi-bRe	vi-brez	VER			vibrer	0.01	0
+vibrionnaient	vi-bRi-jo-nE	vi-brion-naient	VER			vibrionner	0	0.07
+vibrionnait	vi-bRi-jo-nE	vi-brion-nait	VER			vibrionner	0	0.14
+vibrionnant	vi-bRi-jo-n@	vi-brion-nant	VER			vibrionner	0	0.07
+vibrionne	vi-bRi-jOn	vi-brion-ne	VER			vibrionner	0	0.07
+vibrions	vi-bRi-j§	vi-brions	NOM	m	p	vibrion	0.14	0.2
+vibrisses	vi-bRis	vi-bris-ses	NOM	f	p	vibrisse	0	0.14
+vibro-masseur	vi-bRo-ma-s9R	vi-bro-mas-seur	NOM	m	s		0.08	0.07
+vibromasseur	vi-bRo-ma-s9R	vi-bro-mas-seur	NOM	m	s		0.85	0
+vibromasseurs	vi-bRo-ma-s9R	vi-bro-mas-seurs	NOM	m	p	vibromasseur	0.08	0
+vibura	vi-by-Ra	vi-bu-ra	VER			viburer	0	0.07
+viburait	vi-by-RE	vi-bu-rait	VER			viburer	0	0.07
+vibure	vi-byR	vi-bu-re	VER			viburer	0	0.68
+vicaire	vi-kER	vi-cai-re	NOM	m	s		0.68	2.23
+vicaires	vi-kER	vi-cai-res	NOM	m	p	vicaire	0.04	0.34
+vice	vis	vi-ce	NOM	m	s		7.78	13.45
+vice-amiral	vi-sa-mi-Ral	vice-amiral	NOM	m	s		0.1	0.61
+vice-chancelier	vi-s°-S@-s2-lje		NOM	m	s		0.07	0
+vice-consul	vis-k§-syl	vice-consul	NOM	m	s		0.18	0.54
+vice-ministre	vis-mi-nistR	vice-ministre	NOM		s		0.27	0.2
+vice-ministres	vis-mi-nistR	vice-ministres	NOM		p	vice-ministre	0	0.07
+vice-premier	vis-pR°-mje	vice-premier	NOM	m	s		0.01	0
+vice-présidence	vis-pRe-zi-d@s	vice-présidence	NOM	f	s		0.57	0
+vice-président	vis-pRe-zi-d@	vice-président	NOM	m	s		7.91	0.54
+vice-présidente	vis-pRe-zi-d@t	vice-présidente	NOM	f	s	vice-président	0.6	0
+vice-présidents	vis-pRe-zi-d@	vice-présidents	NOM	m	p	vice-président	0.12	0.07
+vice-recteur	vi-sREk-t9R	vice-recteur	NOM	m	s		0.1	0
+vice-roi	vis-Rwa	vice-roi	NOM	m	s		0.84	0.54
+vice-rois	vis-Rwa	vice-rois	NOM	m	p	vice-roi	0.1	0
+vice-versa	vis-vER-sa	vice-versa	ADV				0.85	0.27
+vicelard	vi-s°-laR	vi-ce-lard	ADJ	m	s		0.6	1.49
+vicelarde	vi-s°-laRd	vi-ce-lar-de	ADJ	f	s	vicelard	0.07	0.81
+vicelardes	vi-s°-laRd	vi-ce-lar-des	ADJ	f	p	vicelard	0.01	0.27
+vicelardise	vi-s°-laR-diz	vi-ce-lar-di-se	NOM	f	s		0	0.14
+vicelardises	vi-s°-laR-diz	vi-ce-lar-di-ses	NOM	f	p	vicelardise	0	0.07
+vicelards	vi-s°-laR	vi-ce-lard-s	ADJ	m	p	vicelard	0.2	0.81
+vices	vis	vi-ces	NOM	m	p	vice	4.52	5
+vichy	vi-Si	vi-chy	NOM	m	s		0.69	1.22
+vichysme	vi-Sism		NOM	m	s		0	0.07
+vichyssois	vi-Si-swa	vi-chys-sois	ADJ	m			0	0.07
+vichyssois	vi-Si-swa	vi-chys-sois	NOM	m			0	0.07
+vichyssoise	vi-Si-swaz	vi-chys-soi-se	ADJ	f	s	vichyssois	0.06	0
+vichyste	vi-Sist	vi-chys-te	ADJ		s		0.01	0.14
+vichystes	vi-Sist	vi-chys-tes	ADJ		p	vichyste	0.02	0.14
+vichystes	vi-Sist	vi-chys-tes	NOM		p	vichyste	0	0.14
+vicié	vi-sje	vi-cié	ADJ	m	s		0.23	0.41
+vicié	vi-sje	vi-cié	VER	m	s	vicier	0.22	0.2
+viciée	vi-sje	vi-ciée	VER	f	s	vicier	0	0.14
+vicier	vi-sje	vi-cier	VER				0	0.07
+viciés	vi-sje	vi-ciés	ADJ	m	p	vicié	0	0.14
+vicieuse	vi-sj2z	vi-cieu-se	ADJ	f	s	vicieux	1.11	1.96
+vicieuse	vi-sj2z	vi-cieu-se	NOM	f	s	vicieux	0.57	0.54
+vicieusement	vi-sj2-z°-m@	vi-cieu-se-ment	ADV				0.07	0.27
+vicieuses	vi-sj2z	vi-cieu-ses	ADJ	f	p	vicieux	0.45	0.27
+vicieuses	vi-sj2z	vi-cieu-ses	NOM	f	p	vicieux	0.02	0.2
+vicieux	vi-sj2	vi-cieux	ADJ	m			4.19	4.8
+vicieux	vi-sj2	vi-cieux	NOM	m			1.61	1.96
+vicinal	vi-si-nal	vi-ci-nal	ADJ	m	s		0	0.47
+vicinales	vi-si-nal	vi-ci-na-les	ADJ	f	p	vicinal	0	0.07
+vicinalité	vi-si-na-li-te	vi-ci-na-li-té	NOM	f	s		0	0.07
+vicinaux	vi-si-no	vi-ci-naux	ADJ	m	p	vicinal	0	0.27
+vicissitude	vi-si-si-tyd	vi-cis-si-tu-de	NOM	f	s		0.02	0.14
+vicissitudes	vi-si-si-tyd	vi-cis-si-tu-des	NOM	f	p	vicissitude	0.04	2.03
+vicomte	vi-k§t	vi-com-te	NOM	m	s		0.41	5.61
+vicomté	vi-k§-te	vi-com-té	NOM	f	s		0	0.41
+vicomtes	vi-k§t	vi-com-tes	NOM	m	p	vicomte	0	0.2
+vicomtesse	vi-k§-tEs	vi-com-tes-se	NOM	f	s	vicomte	0.03	0.41
+vicomtesses	vi-k§-tEs	vi-com-tes-ses	NOM	f	p	vicomte	0.01	0.07
+victimaire	vik-ti-mER	vic-ti-mai-re	NOM	m	s		0	0.07
+victime	vik-tim	vic-ti-me	NOM	f	s		66.47	28.45
+victimes	vik-tim	vic-ti-mes	NOM	f	p	victime	39.78	17.77
+victimologie	vik-ti-mO-lO-Zi		NOM	f	s		0.04	0
+victoire	vik-twaR	vic-toi-re	NOM	f	s		31.31	57.23
+victoires	vik-twaR	vic-toi-res	NOM	f	p	victoire	3.65	6.01
+victoria	vik-to-Rja	vic-to-ria	NOM		s		0.02	0.34
+victorias	vik-to-Rja	vic-to-rias	NOM		p	victoria	0	0.14
+victorien	vik-to-Rj5	vic-to-rien	ADJ	m	s		0.12	0.41
+victorienne	vik-to-RjEn	vic-to-rien-ne	ADJ	f	s	victorien	0.25	0.81
+victoriennes	vik-to-RjEn	vic-to-rien-nes	ADJ	f	p	victorien	0.04	0.14
+victoriens	vik-to-Rj5	vic-to-riens	ADJ	m	p	victorien	0.08	0
+victorieuse	vik-to-Rj2z	vic-to-rieu-se	ADJ	f	s	victorieux	0.22	4.73
+victorieusement	vik-to-Rj2-z°-m@	vic-to-rieu-se-ment	ADV				0	1.82
+victorieuses	vik-to-Rj2z	vic-to-rieu-ses	ADJ	f	p	victorieux	0.19	1.35
+victorieux	vik-to-Rj2	vic-to-rieux	ADJ	m			2.54	3.24
+victuaille	vik-t8aj	vic-tuail-le	NOM	f	s		0.01	0.07
+victuailles	vik-t8aj	vic-tuail-les	NOM	f	p	victuaille	0.41	4.19
+vida	vi-da	vi-da	VER			vider	1.06	9.32
+vidage	vi-daZ	vi-da-ge	NOM	m	s		0.04	0.14
+vidai	vi-dE	vi-dai	VER			vider	0	1.22
+vidaient	vi-dE	vi-daient	VER			vider	0.08	1.76
+vidais	vi-dE	vi-dais	VER			vider	0.47	0.34
+vidait	vi-dE	vi-dait	VER			vider	0.43	5.95
+vidame	vi-dam	vi-da-me	NOM	m	s		0	0.07
+vidange	vi-d@Z	vi-dan-ge	NOM	f	s		1.09	1.35
+vidange	vi-d@Z	vi-dan-ge	VER			vidanger	0.04	0.07
+vidangé	vi-d@-Ze	vi-dan-gé	VER	m	s	vidanger	0.02	0.07
+vidangée	vi-d@-Ze	vi-dan-gée	VER	f	s	vidanger	0.02	0
+vidanger	vi-d@-Ze	vi-dan-ger	VER				0.2	0.14
+vidanges	vi-d@Z	vi-dan-ges	NOM	f	p	vidange	0.2	0.2
+vidangeur	vi-d@-Z9R	vi-dan-geur	NOM	m	s		0.01	0.07
+vidangeurs	vi-d@-Z9R	vi-dan-geurs	NOM	m	p	vidangeur	0	0.2
+vidangez	vi-d@-Ze	vi-dan-gez	VER			vidanger	0.02	0.07
+vidant	vi-d@	vi-dant	VER			vider	0.24	2.84
+vidas	vi-da	vi-das	VER			vider	0.1	0.07
+vide	vid	vi-de	ADJ		s		48.53	102.84
+vide	vid	vi-de	NOM	m	s		16.7	75.74
+vide	vid	vi-de	VER			vider	5.39	9.32
+vidé	vi-de	vi-dé	VER	m	s	vider	7.22	11.89
+vidé	vi-de	vi-dé	ADJ	m	s		0.73	1.96
+vide-gousset	vi-d°-gu-sE		NOM	m	s		0.27	0
+vide-greniers	vid-gR2-nje		NOM	m			0.04	0
+vide-ordure	vi-dOR-dyR	vide-ordure	NOM	m	s		0.06	0
+vide-ordures	vi-dOR-dyR	vide-ordures	NOM	m			0.55	1.22
+vide-poche	vid-pOS	vide-poche	NOM	m	s		0.04	0.14
+vide-poches	vid-pOS	vide-poches	NOM	m			0	0.27
+vidéaste	vi-de-ast	vi-déas-te	NOM		s		0.07	0
+vidéastes	vi-de-ast	vi-déas-tes	NOM		p	vidéaste	0.01	0
+vidée	vi-de	vi-dée	VER	f	s	vider	1.42	3.45
+vidée	vi-de	vi-dée	ADJ	f	s	vidé	0.26	0.81
+vidées	vi-de	vi-dées	VER	f	p	vider	0.23	1.28
+vidées	vi-de	vi-dées	ADJ	f	p	vidé	0.15	0.14
+vident	vid	vi-dent	VER			vider	0.81	1.49
+vidéo	vi-de-o	vi-déo	ADJ				23.61	0.74
+vidéo	vi-de-o	vi-déo	NOM	f	s		15.23	0.2
+vidéo-clip	vi-de-o-klip	vi-déo-clip	NOM	m	s		0.14	0.2
+vidéo-clips	vi-de-o-klip	vidéo-clips	NOM	m	p	vidéo-clip	0.04	0.07
+vidéo-club	vi-de-o-kl9b	vi-déo-club	NOM	f	s		0.44	0
+vidéo-club	vi-de-o-kl9b	vi-déo-club	ADJ	m	s		0.02	0
+vidéo-espion	vi-de-o-Es-pj§	vidéo-espion	NOM	m	s		0	0.07
+vidéocassette	vi-de-o-ka-sEt	vi-déo-cas-set-te	NOM	f	s		0.06	0
+vidéocassettes	vi-de-o-ka-sEt	vi-déo-cas-set-tes	NOM	f	p	vidéocassette	0.04	0
+vidéoclip	vi-de-o-klip	vi-déo-clip	NOM	m	s		0.02	0
+vidéoclub	vi-de-o-kl9b	vi-déo-club	NOM	m	s		1.34	0
+vidéoconférence	vi-de-o-k§-fe-R@s		NOM	f	s		0.05	0
+vidéogramme	vi-de-O-gRam		NOM	m	s		0.01	0
+vidéophone	vi-de-o-fOn	vi-déo-pho-ne	NOM	m	s		0.04	0
+vidéophonie	vi-de-O-fO-ni		NOM	f	s		0.01	0
+vidéos	vi-de-o	vi-déos	NOM	f	p	vidéo	6.1	0.2
+vidéosurveillance	vi-de-o-syR-vE-j@s	vi-déo-sur-veil-lan-ce	NOM	f	s		0.42	0
+vidéothèque	vi-de-o-tEk	vi-déo-thè-que	NOM	f	s		0.36	0
+vider	vi-de	vi-der	VER				8.31	16.82
+videra	vi-d°-Ra	vi-de-ra	VER			vider	0.16	0.14
+viderai	vi-d°-RE	vi-de-rai	VER			vider	0.11	0.14
+viderais	vi-d°-RE	vi-de-rais	VER			vider	0.15	0.07
+viderait	vi-d°-RE	vi-de-rait	VER			vider	0.47	0.47
+videras	vi-d°-Ra	vi-de-ras	VER			vider	0	0.07
+vidèrent	vi-dER	vi-dè-rent	VER			vider	0.11	1.35
+viderions	vi-d°-Rj§	vi-de-rions	VER			vider	0.01	0
+videront	vi-d°-R§	vi-de-ront	VER			vider	0.14	0.07
+vides	vid	vi-des	ADJ		p	vide	11.8	44.66
+vides	vid	vi-des	NOM	m	p	vide	1.13	3.11
+vides	vid	vi-des	VER			vider	0.4	0.14
+vidés	vi-de	vi-dés	VER	m	p	vider	0.46	2.23
+vidés	vi-de	vi-dés	ADJ	m	p	vidé	0.19	0.41
+videur	vi-d9R	vi-deur	NOM	m	s		1.24	0.74
+videurs	vi-d9R	vi-deurs	NOM	m	p	videur	0.24	0.47
+videz	vi-de	vi-dez	VER			vider	2.71	0.27
+vidicon	vi-di-k§		NOM	m	s		0.01	0
+vidiez	vi-dje	vi-diez	VER			vider	0.12	0
+vidons	vi-d§	vi-dons	VER			vider	0.09	0.14
+viduité	vi-d8i-te	vi-dui-té	NOM	f	s		0.01	0
+vidures	vi-dyR	vi-du-res	NOM	f	p	vidure	0	0.07
+vie	vi	vie	NOM	f	s		986.59	835.47
+vieil	vjEj	vieil	ADJ	m	s		34.69	51.22
+vieillard	vjE-jaR	vieil-lard	NOM	m	s		7.62	37.77
+vieillarde	vjE-jaRd	vieil-lar-de	NOM	f	s	vieillard	0.16	0.34
+vieillardes	vjE-jaRd	vieil-lar-des	NOM	f	p	vieillard	0	0.34
+vieillards	vjE-jaR	vieil-lard-s	NOM	m	p	vieillard	3.96	16.69
+vieille	vjEj	vieil-le	ADJ	f	s	vieux	84.59	184.12
+vieille	vjEj	vieil-le	NOM	f	s	vieux	17.95	48.31
+vieillerie	vjE-j°-Ri	vieil-le-rie	NOM	f	s		0.54	0.68
+vieilleries	vjE-j°-Ri	vieil-le-ries	NOM	f	p	vieillerie	1.37	1.62
+vieilles	vjEj	vieil-les	ADJ	f	p	vieux	17.52	55.47
+vieilles	vjEj	vieil-les	NOM	f	p	vieux	3.24	7.7
+vieillesse	vjE-jEs	vieil-les-se	NOM	f	s		4.75	14.39
+vieillesses	vjE-jEs	vieil-les-ses	NOM	f	p	vieillesse	0.14	0.14
+vieilli	vje-ji	vieil-li	VER	m	s	vieillir	4.28	9.39
+vieilli	vje-ji	vieil-li	ADJ	m	s		0.38	2.84
+vieillie	vje-ji	vieil-lie	ADJ	f	s	vieilli	0.16	1.55
+vieillie	vje-ji	vieil-lie	VER	f	s	vieillir	0.3	0.61
+vieillies	vje-ji	vieil-lies	ADJ	f	p	vieilli	0	0.2
+vieillies	vje-ji	vieil-lies	VER	f	p	vieillir	0.01	0
+vieillir	vje-jiR	vieil-lir	VER				5.49	8.58
+vieillira	vjE-ji-Ra	vieil-li-ra	VER			vieillir	0.12	0.41
+vieillirai	vjE-ji-RE	vieil-li-rai	VER			vieillir	0.23	0.14
+vieilliraient	vjE-ji-RE	vieil-li-raient	VER			vieillir	0.01	0.07
+vieillirais	vjE-ji-RE	vieil-li-rais	VER			vieillir	0.01	0
+vieillirait	vjE-ji-RE	vieil-li-rait	VER			vieillir	0.07	0.41
+vieilliras	vjE-ji-Ra	vieil-li-ras	VER			vieillir	0.33	0.14
+vieillirent	vjE-jiR	vieil-li-rent	VER			vieillir	0.02	0
+vieillirez	vjE-ji-Re	vieil-li-rez	VER			vieillir	0.06	0.07
+vieillirons	vjE-ji-R§	vieil-li-rons	VER			vieillir	0.07	0.07
+vieilliront	vjE-ji-R§	vieil-li-ront	VER			vieillir	0.3	0.07
+vieillis	vje-ji	vieil-lis	VER	m	p	vieillir	2.74	1.89
+vieillis	vje-ji	vieil-lis	ADJ	m	p	vieilli	0.22	0.47
+vieillissaient	vjE-ji-sE	vieil-lis-saient	VER			vieillir	0.01	0.47
+vieillissais	vjE-ji-sE	vieil-lis-sais	VER			vieillir	0.11	0.34
+vieillissait	vjE-ji-sE	vieil-lis-sait	VER			vieillir	0.48	2.5
+vieillissant	vje-ji-s@	vieil-lis-sant	VER			vieillir	1.38	2.23
+vieillissant	vje-ji-s@	vieil-lis-sant	ADJ	m	s		0.07	0.88
+vieillissante	vje-ji-s@t	vieil-lis-san-te	ADJ	f	s	vieillissant	0.18	0.81
+vieillissantes	vje-ji-s@t	vieil-lis-san-tes	ADJ	f	p	vieillissant	0.12	0.2
+vieillissants	vje-ji-s@	vieil-lis-sants	ADJ	m	p	vieillissant	0.04	0.41
+vieillisse	vjE-jis	vieil-lis-se	VER			vieillir	0.13	0.27
+vieillissement	vje-ji-s°-m@	vieil-lis-se-ment	NOM	m	s		1.04	2.5
+vieillissent	vjE-jis	vieil-lis-sent	VER			vieillir	0.76	0.88
+vieillissez	vjE-ji-se	vieil-lis-sez	VER			vieillir	0.29	0.14
+vieillissiez	vjE-ji-sje	vieil-lis-siez	VER			vieillir	0	0.07
+vieillissions	vjE-ji-sj§	vieil-lis-sions	VER			vieillir	0	0.07
+vieillissons	vjE-ji-s§	vieil-lis-sons	VER			vieillir	0.08	0
+vieillit	vjE-ji	vieil-lit	VER			vieillir	3.19	3.45
+vieillot	vjE-jo	vieil-lot	ADJ	m	s		0.25	1.28
+vieillots	vjE-jo	vieil-lots	ADJ	m	p	vieillot	0.01	0.27
+vieillotte	vjE-jOt	vieil-lot-te	ADJ	f	s	vieillot	0.04	0.74
+vieillottes	vjE-jOt	vieil-lot-tes	ADJ	f	p	vieillot	0.03	0.27
+vielle	vjEl	viel-le	NOM	f	s		1.49	0.47
+vielles	vjEl	viel-les	NOM	f	p	vielle	0.52	0.2
+vielleux	vjE-l2	viel-leux	NOM	m			0.14	0.07
+viendra	vj5-dRa	vien-dra	VER			venir	52.92	23.11
+viendrai	vj5-dRE	vien-drai	VER			venir	21.68	5.95
+viendraient	vj5-dRE	vien-draient	VER			venir	1.68	6.35
+viendrais	vj5-dRE	vien-drais	VER			venir	11.8	2.7
+viendrait	vj5-dRE	vien-drait	VER			venir	9.89	20.27
+viendras	vj5-dRa	vien-dras	VER			venir	13.72	3.85
+viendrez	vj5-dRe	vien-drez	VER			venir	5.73	4.05
+viendriez	vj5-dRi-je	vien-driez	VER			venir	3.04	1.15
+viendrions	vj5-dRi-j§	vien-drions	VER			venir	0.13	0.34
+viendrons	vj5-dR§	vien-drons	VER			venir	1.67	0.74
+viendront	vj5-dR§	vien-dront	VER			venir	14.25	8.31
+vienne	vjEn	vien-ne	VER			venir	34.52	25
+viennent	vjEn	vien-nent	VER			venir	76.48	62.77
+viennes	vjEn	vien-nes	VER			venir	11.59	3.11
+viennois	vjE-nwa	vien-nois	ADJ	m			0.18	0.88
+viennois	vjE-nwa	vien-nois	NOM	m			0.11	0.68
+viennoise	vjE-nwaz	vien-noi-se	ADJ	f	s	viennois	0.08	0.81
+viennoiserie	vjE-nwa-z°-Ri	vien-noi-se-rie	NOM	f	s		0.52	0
+viennoiseries	vjE-nwa-z°-Ri	vien-noi-se-ries	NOM	f	p	viennoiserie	0.14	0
+viennoises	vjE-nwaz	vien-noi-ses	ADJ	f	p	viennois	0.01	0.54
+viens	vj5	viens	VER			venir	944.81	126.49
+vient	vj5	vient	VER			venir	352.24	206.22
+vierge	vjERZ	vier-ge	ADJ		s		24.22	21.82
+vierge	vjERZ	vier-ge	NOM	f	s		19.41	23.18
+vierges	vjERZ	vier-ges	NOM	f	p	vierge	4.38	2.43
+vierges	vjERZ	vier-ges	ADJ		p	vierge	1.81	3.31
+vies	vi	vies	NOM	f	p	vie	34.63	17.84
+vietnamien	vjEt-na-mj5	viet-na-mien	NOM	m	s		0.37	0.61
+vietnamien	vjEt-na-mj5	viet-na-mien	ADJ	m	s		0.45	0.41
+vietnamienne	vjEt-na-mjEn	viet-na-mien-ne	ADJ	f	s	vietnamien	0.28	0.14
+vietnamiennes	vjEt-na-mjEn	viet-na-mien-nes	ADJ	f	p	vietnamien	0.2	0.07
+vietnamiens	vjEt-na-mj5	viet-na-miens	NOM	m	p	vietnamien	0.81	0.14
+vietnamiens	vjEt-na-mj5	viet-na-miens	ADJ	m	p	vietnamien	0.12	0.07
+vieux	vj2	vieux	ADJ	m			180.08	273.31
+vieux	vj2	vieux	NOM	m			124.54	129.8
+vieux-rose	vj2-Roz		ADJ	m			0	0.2
+vieux-rose	vj2-Roz		NOM	m			0	0.14
+vif	vif	vif	ADJ	m	s		9.27	41.62
+vif	vif	vif	NOM	m	s		2.2	12.3
+vif-argent	vi-faR-Z@	vif-argent	NOM	m	s		0.21	0.2
+vifs	vif	vif-s	ADJ	m	p	vif	2.88	10.14
+vifs	vif	vif-s	NOM	m	p	vif	0.06	0.27
+vigie	vi-Zi	vi-gie	NOM	f	s		0.51	1.35
+vigies	vi-Zi	vi-gies	NOM	f	p	vigie	0.17	0.34
+vigil	vi-Zil	vi-gil	ADJ	m	s		0.04	0
+vigilance	vi-Zi-l@s	vi-gi-lan-ce	NOM	f	s		0.88	7.97
+vigilances	vi-Zi-l@s	vi-gi-lan-ces	NOM	f	p	vigilance	0	0.2
+vigilant	vi-Zi-l@	vi-gi-lant	ADJ	m	s		1.73	1.82
+vigilant	vi-Zi-l@	vi-gi-lant	VER			vigiler	0.23	0.27
+vigilante	vi-Zi-l@t	vi-gi-lan-te	ADJ	f	s	vigilant	1.04	1.49
+vigilantes	vi-Zi-l@t	vi-gi-lan-tes	ADJ	f	p	vigilant	0.03	0.41
+vigilants	vi-Zi-l@	vi-gi-lants	ADJ	m	p	vigilant	1.8	0.95
+vigile	vi-Zil	vi-gi-le	NOM		s		2.09	0.68
+vigile	vi-Zil	vi-gi-le	ADJ	f	s	vigil	0.26	0
+vigiler	vi-Zi-le		VER				0.01	0
+vigiles	vi-Zil	vi-gi-les	NOM		p	vigile	1.35	0.74
+vigiles	vi-Zil	vi-gi-les	ADJ	f	p	vigil	0.04	0
+vigne	viN	vi-gne	NOM	f	s		4.97	10.61
+vigneaux	vi-No	vi-gneaux	NOM	m	p	vigneau	0	0.07
+vigneron	vi-N°-R§	vi-gne-ron	NOM	m	s		0.36	0.61
+vigneronne	vi-N°-ROn	vi-gne-ron-ne	NOM	f	s	vigneron	0.14	0
+vigneronnes	vi-N°-ROn	vi-gne-ron-nes	NOM	f	p	vigneron	0	0.07
+vignerons	vi-N°-R§	vi-gne-rons	NOM	m	p	vigneron	0.68	1.28
+vignes	viN	vi-gnes	NOM	f	p	vigne	1.9	9.8
+vignette	vi-NEt	vi-gnet-te	NOM	f	s		0.19	0.41
+vignettes	vi-NEt	vi-gnet-tes	NOM	f	p	vignette	0.07	1.35
+vignoble	vi-NObl	vi-gno-ble	NOM	m	s		1.1	0.74
+vignobles	vi-NObl	vi-gno-bles	NOM	m	p	vignoble	0.43	1.22
+vigogne	vi-gON	vi-go-gne	NOM	f	s		0.12	0.2
+vigoureuse	vi-gu-R2z	vi-gou-reu-se	ADJ	f	s	vigoureux	0.56	3.18
+vigoureusement	vi-gu-R2-z°-m@	vi-gou-reu-se-ment	ADV				0.55	3.92
+vigoureuses	vi-gu-R2z	vi-gou-reu-ses	ADJ	f	p	vigoureux	0.01	1.01
+vigoureux	vi-gu-R2	vi-gou-reux	ADJ	m			2.05	6.35
+vigousse	vi-gus		ADJ	m	s		0	0.07
+vigueur	vi-g9R	vi-gueur	NOM	f	s		3.61	15.54
+vigueurs	vi-g9R	vi-gueurs	NOM	f	p	vigueur	0	0.07
+viguier	vi-gje	vi-guier	NOM	m	s		0	0.81
+viguiers	vi-gje	vi-guiers	NOM	m	p	viguier	0	0.07
+viking	vi-kiG	vi-king	ADJ	m	s		0.2	0.07
+viking	vi-kiG	vi-king	NOM	m	s		0.25	0
+vikings	vi-kiG	vi-king-s	NOM	m	p	viking	0.19	0.2
+vikings	vi-kiG	vi-king-s	ADJ	m	p	viking	0.03	0.07
+vil	vil	vil	ADJ	m	s		3.54	2.16
+vilain	vi-l5	vi-lain	ADJ	m	s		11.03	8.72
+vilain	vi-l5	vi-lain	NOM	m	s		3.53	1.22
+vilaine	vi-lEn	vi-lai-ne	ADJ	f	s	vilain	6.23	6.22
+vilainement	vi-lE-n°-m@	vi-lai-ne-ment	ADV				0.04	0.47
+vilaines	vi-lEn	vi-lai-nes	ADJ	f	p	vilain	1.81	2.57
+vilains	vi-l5	vi-lains	ADJ	m	p	vilain	1.61	1.82
+vilains	vi-l5	vi-lains	NOM	m	p	vilain	0.68	0.74
+vile	vil	vi-le	ADJ	f	s	vil	1.72	0.47
+vilebrequin	vi-l°-bR°-k5	vi-le-bre-quin	NOM	m	s		0.12	0.68
+vilebrequins	vi-l°-bR°-k5	vi-le-bre-quins	NOM	m	p	vilebrequin	0.01	0
+vilement	vi-l°-m@	vi-le-ment	ADV				0.14	0
+vilenie	vi-le-ni	vi-le-nie	NOM	f	s		0.46	0.74
+vilenies	vi-le-ni	vi-le-nies	NOM	f	p	vilenie	0.13	0.41
+viles	vil	vi-les	ADJ	f	p	vil	0.22	0.2
+vilipendaient	vi-li-p@-dE	vi-li-pen-daient	VER			vilipender	0.01	0
+vilipendant	vi-li-p@-d@	vi-li-pen-dant	VER			vilipender	0.01	0.07
+vilipendé	vi-li-p@-de	vi-li-pen-dé	VER	m	s	vilipender	0.03	0.27
+vilipendé	vi-li-p@-de	vi-li-pen-dé	ADJ	m	s		0	0.07
+vilipendées	vi-li-p@-de	vi-li-pen-dées	VER	f	p	vilipender	0	0.07
+vilipendées	vi-li-p@-de	vi-li-pen-dées	ADJ	f	p	vilipendé	0	0.07
+vilipender	vi-li-p@-de	vi-li-pen-der	VER				0.15	0.07
+vilipendés	vi-li-p@-de	vi-li-pen-dés	VER	m	p	vilipender	0	0.14
+villa	vil-la	vil-la	NOM	f	s		15.3	24.8
+village	vi-laZ	vil-la-ge	NOM	m	s		87.6	118.24
+villageois	vi-la-Zwa	vil-la-geois	NOM	m			4.59	2.36
+villageois	vi-la-Zwa	vil-la-geois	ADJ	m			0.28	0.74
+villageoise	vi-la-Zwaz	vil-la-geoi-se	ADJ	f	s	villageois	0.02	0.61
+villageoise	vi-la-Zwaz	vil-la-geoi-se	NOM	f	s	villageois	0.07	0.27
+villageoises	vi-la-Zwaz	vil-la-geoi-ses	NOM	f	p	villageois	0.17	0.27
+villageoises	vi-la-Zwaz	vil-la-geoi-ses	ADJ	f	p	villageois	0.02	0.14
+villages	vi-laZ	vil-la-ges	NOM	m	p	village	8.22	25.74
+villas	vil-la	vil-las	NOM	f	p	villa	1.31	8.92
+ville	vil	vil-le	NOM	f	s		277.98	311.69
+ville-champignon	vil-S@-pi-N§	ville-champignon	NOM	f	s		0.02	0
+ville-dortoir	vil-dOR-twaR	ville-dortoir	NOM	f	s		0	0.07
+villégiaturait	vi-le-Zja-ty-RE	vil-lé-gia-tu-rait	VER			villégiaturer	0	0.07
+villégiature	vi-le-Zja-tyR	vil-lé-gia-tu-re	NOM	f	s		0.1	2.16
+villégiaturé	vi-le-Zja-ty-Re	vil-lé-gia-tu-ré	VER	m	s	villégiaturer	0	0.07
+villégiaturer	vi-le-Zja-ty-Re	vil-lé-gia-tu-rer	VER				0.01	0
+villégiatures	vi-le-Zja-tyR	vil-lé-gia-tu-res	NOM	f	p	villégiature	0	0.54
+villes	vil	vil-les	NOM	f	p	ville	17.17	41.28
+villes-clés	vil-kle	villes-clés	NOM	f	p	villes-clé	0.01	0
+villette	vi-lEt	vil-let-te	NOM	f	s		0.18	0.88
+vils	vil	vils	ADJ	m	p	vil	0.59	0.34
+vîmes	vim	vî-mes	VER			voir	0.66	4.73
+vin	v5	vin	NOM	m	s		80.92	99.93
+vina	vi-na		NOM	f			0.11	0
+vinaigre	vi-nEgR	vi-nai-gre	NOM	m	s		2.91	5.54
+vinaigre	vi-nEgR	vi-nai-gre	VER			vinaigrer	0	0.14
+vinaigré	vi-nE-gRe	vi-nai-gré	VER	m	s	vinaigrer	0.01	0
+vinaigrée	vi-nE-gRe	vi-nai-grée	VER	f	s	vinaigrer	0	0.2
+vinaigrer	vi-nE-gRe	vi-nai-grer	VER				0	0.14
+vinaigres	vi-nEgR	vi-nai-gres	NOM	m	p	vinaigre	0	0.07
+vinaigrette	vi-nE-gREt	vi-nai-gret-te	NOM	f	s		0.59	0.68
+vinasse	vi-nas	vi-nas-se	NOM	f	s		0.21	1.62
+vindicatif	v5-di-ka-tif	vin-di-ca-tif	ADJ	m	s		0.79	1.28
+vindicatifs	v5-di-ka-tif	vin-di-ca-tif-s	ADJ	m	p	vindicatif	0.07	0.47
+vindicative	v5-di-ka-tiv	vin-di-ca-ti-ve	ADJ	f	s	vindicatif	0.12	0.41
+vindicativement	v5-di-ka-ti-v°-m@	vin-di-ca-ti-ve-ment	ADV				0	0.07
+vindicatives	v5-di-ka-tiv	vin-di-ca-ti-ves	ADJ	f	p	vindicatif	0.12	0.07
+vindicte	v5-dikt	vin-dic-te	NOM	f	s		0.19	1.15
+vine	vin	vi-ne	VER			viner	0.04	0
+viner	vi-ne	vi-ner	VER				0.01	0.07
+vines	vin	vi-nes	VER			viner	0	0.07
+vineuse	vi-n2z	vi-neu-se	ADJ	f	s	vineux	0	0.88
+vineuses	vi-n2z	vi-neu-ses	ADJ	f	p	vineux	0	0.27
+vineux	vi-n2	vi-neux	ADJ	m			0	0.61
+vinez	vi-ne	vi-nez	VER			viner	0.01	0.07
+vingt	v5	vingt	ADJ:num				29.47	154.59
+vingt-cinq	v5t-s5k	vingt-cinq	ADJ:num				3.53	28.18
+vingt-cinquième	v5t-s5-kjEm	vingt-cinquième	ADJ				0.01	0.34
+vingt-deux	v5t-d2	vingt-deux	ADJ:num				1.25	8.99
+vingt-deuxième	v5t-d2-zjEm	vingt-deuxième	ADJ				0.03	0.27
+vingt-et-un	v5-te-1	vingt-et-un	NOM	m			0.28	0.68
+vingt-et-une	v5-te-yn	vingt-et-une	NOM	f	s	vingt-et-un	0.01	0.07
+vingt-et-unième	v5-te-y-njEm	vingt-et-unième	ADJ				0.01	0.07
+vingt-huit	v5-t8it	vingt-huit	ADJ:num				0.97	5.34
+vingt-huitième	v5-t8i-tjEm	vingt-huitième	ADJ				0	0.74
+vingt-neuf	v5t-n9f	vingt-neuf	ADJ:num				0.96	2.77
+vingt-neuvième	v5t-n9-vjEm	vingt-neuvième	ADJ				0.01	0
+vingt-quatre	v5t-katR	vingt-quatre	ADJ:num				2.13	17.36
+vingt-quatrième	v5t-ka-tRi-jEm	vingt-quatrième	ADJ				0.01	0.27
+vingt-sept	v5t-sEt	vingt-sept	ADJ:num				0.67	4.59
+vingt-septième	v5t-sE-tjEm	vingt-septième	ADJ				0	0.54
+vingt-six	v5t-sis	vingt-six	ADJ:num				1.09	7.5
+vingt-sixième	v5t-si-zjEm	vingt-sixième	ADJ				0.01	0.2
+vingt-trois	v5t-tRwa	vingt-trois	ADJ:num				2.08	7.57
+vingt-troisième	v5t-tRwa-zjEm	vingt-troisième	ADJ				0.01	0.61
+vingtaine	v5-tEn	ving-tai-ne	NOM	f	s		4.11	15.34
+vingtaines	v5-tEn	ving-tai-nes	NOM	f	p	vingtaine	0	0.14
+vingtième	v5-tjEm	ving-tiè-me	ADJ				0.34	3.18
+vingtième	v5-tjEm	ving-tiè-me	NOM		s		0.28	1.01
+vingtièmes	v5-tjEm	ving-tiè-mes	ADJ			vingtième	0	0.07
+vinicole	vi-ni-kOl		ADJ		s		0.04	0
+vinificatrice	vi-ni-fi-ka-tRis		NOM	f	s	vinificateur	0.01	0
+vinrent	v5R	vin-rent	VER			venir	1.53	10.54
+vins	v5	vins	NOM	m	p	vin	5.95	10.54
+vins	v5	vins	VER			venir	0.58	1.49
+vins	v5	vins	ADJ	f	s		0.01	0
+vinsse	v5s	vins-se	VER			venir	0	0.2
+vinssent	v5s	vins-sent	VER			venir	0	1.08
+vint	v5	vint	VER			venir	7.58	88.72
+vînt	v5	vînt	VER			venir	0.3	6.62
+vintage	v5-taZ	vin-ta-ge	NOM	m	s		0.17	0.07
+vinyle	vi-nil	vi-ny-le	NOM	m	s		0.34	0.74
+vinyles	vi-nil	vi-ny-les	NOM	m	p	vinyle	0.35	0
+vinylique	vi-ni-lik	vi-ny-li-que	ADJ	m	s		0	0.07
+vioc	vjOk	vioc	NOM	m	s		0.03	0.34
+viocard	vjO-kaR		NOM	m	s		0	0.14
+viocque	vjOk		NOM		s		0	0.07
+viocs	vjOk	viocs	NOM	m	p	vioc	0.01	0.07
+viol	vjOl	viol	NOM	m	s		13.43	7.23
+viola	vjo-la	vio-la	VER			violer	1.49	0.54
+violaçait	vjo-la-sE	vio-la-çait	VER			violacer	0	0.07
+violacé	vjo-la-se	vio-la-cé	ADJ	m	s		0.01	1.89
+violacé	vjo-la-se	vio-la-cé	VER	m	s	violacer	0.01	0.54
+violacée	vjo-la-se	vio-la-cée	ADJ	f	s	violacé	0.02	1.55
+violacée	vjo-la-se	vio-la-cée	VER	f	s	violacer	0	0.27
+violacées	vjo-la-se	vio-la-cées	ADJ	f	p	violacé	0	1.69
+violacées	vjo-la-se	vio-la-cées	VER	f	p	violacer	0.02	0.47
+violacer	vjo-la-se	vio-la-cer	VER				0	0.07
+violacés	vjo-la-se	vio-la-cés	ADJ	m	p	violacé	0.01	0.74
+violacés	vjo-la-se	vio-la-cés	VER	m	p	violacer	0	0.2
+violaient	vjo-lE	vio-laient	VER			violer	0.19	0.27
+violais	vjo-lE	vio-lais	VER			violer	0.04	0
+violait	vjo-lE	vio-lait	VER			violer	1.01	0.81
+violant	vjo-l@	vio-lant	VER			violer	0.68	0.61
+violation	vjo-la-sj§	vio-la-tion	NOM	f	s		4.09	1.62
+violations	vjo-la-sj§	vio-la-tions	NOM	f	p	violation	0.46	0.34
+violâtre	vjo-latR	vio-lâ-tre	ADJ		s		0	0.47
+violâtres	vjo-latR	vio-lâ-tres	ADJ		p	violâtre	0	0.41
+viole	vjOl	vio-le	VER			violer	3	1.49
+viole	vjOl	vio-le	NOM	f	s		0.28	0.81
+violé	vjo-le	vio-lé	VER	m	s	violer	9.36	2.97
+violée	vjo-le	vio-lée	VER	f	s	violer	10.97	3.99
+violées	vjo-le	vio-lées	VER	f	p	violer	1.18	1.89
+violemment	vjo-la-m@	vio-lem-ment	ADV				2.8	20.88
+violence	vjo-l@s	vio-len-ce	NOM	f	s		39.66	53.11
+violences	vjo-l@s	vio-len-ces	NOM	f	p	violence	1.79	3.38
+violent	vjo-l@	vio-lent	ADJ	m	s		12.84	19.39
+violent	vjOl	vio-lent	NOM	m	s		1.08	2.36
+violent	vjOl	vio-lent	VER			violer	0.61	0.81
+violentaient	vjo-l@-tE	vio-len-taient	VER			violenter	0	0.07
+violentait	vjo-l@-tE	vio-len-tait	VER			violenter	0.01	0.2
+violente	vjo-l@t	vio-len-te	ADJ	f	s	violent	5.17	18.04
+violente	vjo-l@t	vio-len-te	VER			violenter	0.17	0.47
+violenté	vjo-l@-te	vio-len-té	VER	m	s	violenter	0.2	0.07
+violentée	vjo-l@-te	vio-len-tée	VER	f	s	violenter	0.07	0.14
+violenter	vjo-l@-te	vio-len-ter	VER				0.16	0.47
+violentes	vjo-l@t	vio-len-tes	ADJ	f	p	violent	2.44	7.84
+violents	vjo-l@	vio-lents	ADJ	m	p	violent	4.54	6.22
+violents	vjo-l@	vio-lents	NOM	m	p	violent	0.53	0.47
+violer	vjo-le	vio-ler	VER				8.36	4.93
+violerai	vjO-l°-RE	vio-le-rai	VER			violer	0.03	0.07
+violerais	vjO-l°-RE	vio-le-rais	VER			violer	0.1	0
+violerait	vjO-l°-RE	vio-le-rait	VER			violer	0.21	0.2
+violeras	vjO-l°-Ra	vio-le-ras	VER			violer	0.02	0
+violeront	vjO-l°-R§	vio-le-ront	VER			violer	0.05	0.07
+violes	vjOl	vio-les	VER			violer	0.55	0.07
+violes	vjOl	vio-les	NOM	f	p	viole	0.29	0.14
+violés	vjo-le	vio-lés	VER	m	p	violer	0.7	0.41
+violet	vjo-lE	vio-let	ADJ	m	s		2.29	7.91
+violet	vjo-lE	vio-let	NOM	m	s		1.77	4.19
+violeta	vjo-l°-ta	vio-le-ta	VER			violeter	0.44	0
+violets	vjo-lE	vio-lets	ADJ	m	p	violet	0.39	4.39
+violets	vjo-lE	vio-lets	NOM	m	p	violet	0.07	0.47
+violette	vjo-lEt	vio-let-te	ADJ	f	s	violet	1.04	9.12
+violette	vjo-lEt	vio-let-te	NOM	f	s		0.77	2.5
+violettes	vjo-lEt	vio-let-tes	NOM	f	p	violette	1.17	4.39
+violettes	vjo-lEt	vio-let-tes	ADJ	f	p	violet	0.66	4.86
+violeur	vjo-l9R	vio-leur	NOM	m	s		4.52	1.35
+violeurs	vjo-l9R	vio-leurs	NOM	m	p	violeur	1.89	0.88
+violeuses	vjo-l2z	vio-leu-ses	NOM	f	p	violeur	0	0.07
+violez	vjo-le	vio-lez	VER			violer	0.6	0
+violine	vjo-lin	vio-li-ne	NOM	m	s		0	0.2
+violine	vjo-lin	vio-li-ne	ADJ		s		0	0.07
+violines	vjo-lin	vio-li-nes	ADJ		p	violine	0	0.07
+violon	vjo-l§	vio-lon	NOM	m	s		11.56	9.73
+violoncelle	vjo-l§-sEl	vio-lon-cel-le	NOM	m	s		3.04	3.31
+violoncelles	vjo-l§-sEl	vio-lon-cel-les	NOM	m	p	violoncelle	0.24	0.07
+violoncelliste	vjo-l§-se-list	vio-lon-cel-lis-te	NOM		s		0.79	0.07
+violoncellistes	vjo-l§-se-list	vio-lon-cel-lis-tes	NOM		p	violoncelliste	0.02	0.07
+violone	vjo-lOn	vio-lo-ne	VER			violoner	0	0.07
+violoneux	vjo-lo-n2	vio-lo-neux	NOM	m			0	0.41
+violoniste	vjo-lo-nist	vio-lo-nis-te	NOM		s		2.91	1.82
+violonistes	vjo-lo-nist	vio-lo-nis-tes	NOM		p	violoniste	0.16	0.61
+violons	vjo-l§	vio-lons	NOM	m	p	violon	2.09	3.58
+violons	vjo-l§	vio-lons	VER			violer	0.27	0.07
+viols	vjOl	viols	NOM	m	p	viol	1.9	1.28
+vioque	vjOk	vio-que	NOM	f	s		0.4	4.32
+vioque	vjOk	vio-que	ADJ	f	s		0.02	0.88
+vioques	vjOk	vio-ques	NOM	f	p	vioque	0.38	0.61
+vioques	vjOk	vio-ques	ADJ	f	p	vioque	0	0.14
+viorne	vjORn	vior-ne	NOM	f	s		0	0.2
+viornes	vjORn	vior-nes	NOM	f	p	viorne	0	0.2
+vipère	vi-pER	vi-pè-re	NOM	f	s		3.42	3.31
+vipéreau	vi-pe-Ro	vi-pé-reau	NOM	m	s		0	0.07
+vipères	vi-pER	vi-pè-res	NOM	f	p	vipère	1.42	2.09
+vipérine	vi-pe-Rin	vi-pé-ri-ne	ADJ	f	s	vipérin	0.14	0.14
+vipérines	vi-pe-Rin	vi-pé-ri-nes	ADJ	f	p	vipérin	0	0.07
+vira	vi-Ra	vi-ra	VER			virer	0.03	1.82
+virage	vi-RaZ	vi-ra-ge	NOM	m	s		5.98	8.72
+virages	vi-RaZ	vi-ra-ges	NOM	m	p	virage	0.77	4.19
+virago	vi-Ra-go	vi-ra-go	NOM	f	s		0.01	0.07
+viragos	vi-Ra-go	vi-ra-gos	NOM	f	p	virago	0.01	0.14
+virai	vi-RE	vi-rai	VER			virer	0	0.07
+viraient	vi-RE	vi-raient	VER			virer	0.05	1.08
+virais	vi-RE	vi-rais	VER			virer	0.19	0.07
+virait	vi-RE	vi-rait	VER			virer	0.21	2.3
+viral	vi-Ral	vi-ral	ADJ	m	s		0.35	0.07
+virale	vi-Ral	vi-ra-le	ADJ	f	s	viral	0.73	0.47
+virales	vi-Ral	vi-ra-les	ADJ	f	p	viral	0.1	0.07
+virant	vi-R@	vi-rant	VER			virer	0.15	1.49
+virât	vi-Ra	vi-rât	VER			virer	0	0.07
+viraux	vi-Ro	vi-raux	ADJ	m	p	viral	0.01	0
+vire	viR	vi-re	VER			virer	13.27	4.05
+vire	viR	vi-re	NOM	f	s		0.33	0.07
+viré	vi-Re	vi-ré	VER	m	s	virer	25.59	6.28
+virée	vi-Re	vi-rée	VER	f	s	virer	6.23	0.61
+virée	vi-Re	vi-rée	NOM	f	s		3.42	2.64
+virées	vi-Re	vi-rées	NOM	f	p	virée	0.7	1.28
+virées	vi-Re	vi-rées	VER	f	p	virer	0.1	0.14
+virement	vi-R°-m@	vi-re-ment	NOM	m	s		1.48	0.14
+virements	vi-R°-m@	vi-re-ments	NOM	m	p	virement	0.27	0.2
+virent	viR	vi-rent	VER			virer	2.04	11.62
+virer	vi-Re	vi-rer	VER				25.74	6.76
+virera	vi-R°-Ra	vi-re-ra	VER			virer	0.44	0.07
+virerai	vi-R°-RE	vi-re-rai	VER			virer	0.2	0
+virerais	vi-R°-RE	vi-re-rais	VER			virer	0.21	0
+virerait	vi-R°-RE	vi-re-rait	VER			virer	0.14	0.2
+vireras	vi-R°-Ra	vi-re-ras	VER			virer	0.05	0
+virèrent	vi-RER	vi-rè-rent	VER			virer	0	0.07
+virerez	vi-R°-Re	vi-re-rez	VER			virer	0.09	0
+vireront	vi-R°-R§	vi-re-ront	VER			virer	0.11	0
+vires	viR	vi-res	VER			virer	1.39	0.34
+vires	viR	vi-res	NOM	f	p	vire	0.04	0.07
+virés	vi-Re	vi-rés	VER	m	p	virer	3.21	0.81
+vireuse	vi-R2z	vi-reu-se	ADJ	f	s	vireux	0	0.07
+virevolta	vi-R°-vOl-ta	vi-re-vol-ta	VER			virevolter	0	0.14
+virevoltaient	vi-R°-vOl-tE	vi-re-vol-taient	VER			virevolter	0.11	0.47
+virevoltait	vi-R°-vOl-tE	vi-re-vol-tait	VER			virevolter	0.04	0.34
+virevoltant	vi-R°-vOl-t@	vi-re-vol-tant	VER			virevolter	0.06	0.27
+virevoltant	vi-R°-vOl-t@	vi-re-vol-tant	ADJ	m	s		0	0.14
+virevoltante	vi-R°-vOl-t@t	vi-re-vol-tan-te	ADJ	f	s	virevoltant	0.01	0.2
+virevoltantes	vi-R°-vOl-t@t	vi-re-vol-tan-tes	ADJ	f	p	virevoltant	0	0.07
+virevolte	vi-R°-vOlt	vi-re-vol-te	VER			virevolter	0.04	0.88
+virevolte	vi-R°-vOlt	vi-re-vol-te	NOM	f	s		0	0.07
+virevolté	vi-R°-vOl-te	vi-re-vol-té	VER	m	s	virevolter	0	0.07
+virevoltent	vi-R°-vOlt	vi-re-vol-tent	VER			virevolter	0.04	0.41
+virevolter	vi-R°-vOl-te	vi-re-vol-ter	VER				0.18	0.41
+virevoltes	vi-R°-vOlt	vi-re-vol-tes	NOM	f	p	virevolte	0	0.2
+virevoltes	vi-R°-vOlt	vi-re-vol-tes	VER			virevolter	0.01	0
+virez	vi-Re	vi-rez	VER			virer	6.47	0
+virgilien	viR-Zi-lj5	vir-gi-lien	ADJ	m	s		0	0.14
+virgilienne	viR-Zi-ljEn	vir-gi-lien-ne	ADJ	f	s	virgilien	0	0.27
+virginal	viR-Zi-nal	vir-gi-nal	ADJ	m	s		0.23	0.95
+virginal	viR-Zi-nal	vir-gi-nal	NOM	m	s		0.1	0.47
+virginale	viR-Zi-nal	vir-gi-na-le	ADJ	f	s	virginal	0.35	0.81
+virginalement	viR-Zi-na-l°-m@	vir-gi-na-le-ment	ADV				0	0.07
+virginales	viR-Zi-nal	vir-gi-na-les	ADJ	f	p	virginal	0	0.2
+virginaux	viR-Zi-no	vir-gi-naux	ADJ	m	p	virginal	0	0.34
+virginie	viR-Zi-ni	vir-gi-nie	NOM	m	s		0.11	31.28
+virginien	viR-Zi-nj5	vir-gi-nien	NOM	m	s		0.04	0.07
+virginiens	viR-Zi-nj5	vir-gi-niens	NOM	m	p	virginien	0.04	0.27
+virginiens	viR-Zi-nj5	vir-gi-niens	ADJ	m	p	virginien	0.01	0
+virginité	viR-Zi-ni-te	vir-gi-ni-té	NOM	f	s		4.25	3.51
+virginités	viR-Zi-ni-te	vir-gi-ni-tés	NOM	f	p	virginité	0.01	0.07
+virgule	viR-gyl	vir-gu-le	NOM	f	s		4.44	3.04
+virgules	viR-gyl	vir-gu-les	NOM	f	p	virgule	0.25	1.69
+viriez	vi-Rje	vi-riez	VER			virer	0.07	0
+viril	vi-Ril	vi-ril	ADJ	m	s		2.81	4.53
+virile	vi-Ril	vi-ri-le	ADJ	f	s	viril	1.31	3.72
+virilement	vi-Ri-l°-m@	vi-ri-le-ment	ADV				0.01	0.61
+viriles	vi-Ril	vi-ri-les	ADJ	f	p	viril	0.25	1.15
+virilise	vi-Ri-liz	vi-ri-li-se	VER			viriliser	0	0.07
+virilisé	vi-Ri-li-ze	vi-ri-li-sé	VER	m	s	viriliser	0	0.14
+viriliser	vi-Ri-li-ze	vi-ri-li-ser	VER				0.01	0.07
+virilisés	vi-Ri-li-ze	vi-ri-li-sés	VER	m	p	viriliser	0	0.07
+virilité	vi-Ri-li-te	vi-ri-li-té	NOM	f	s		2.46	6.35
+virilités	vi-Ri-li-te	vi-ri-li-tés	NOM	f	p	virilité	0	0.34
+virils	vi-Ril	vi-rils	ADJ	m	p	viril	0.45	1.28
+viroles	vi-ROl	vi-ro-les	NOM	f	p	virole	0	0.07
+virolet	vi-RO-lE		NOM	m	s		0	0.07
+virologie	vi-Ro-lo-Zi	vi-ro-lo-gie	NOM	f	s		0.28	0
+virologiste	vi-RO-lO-Zist		NOM		s		0.12	0
+virologue	vi-Ro-lOg	vi-ro-lo-gue	NOM		s		0.13	0
+virologues	vi-Ro-lOg	vi-ro-lo-gues	NOM		p	virologue	0.01	0
+virons	vi-R§	vi-rons	VER			virer	0.33	0
+virtualité	viR-t8a-li-te	vir-tua-li-té	NOM	f	s		0.03	0.2
+virtualités	viR-t8a-li-te	vir-tua-li-tés	NOM	f	p	virtualité	0	0.2
+virtuel	viR-t8El	vir-tuel	ADJ	m	s		1.44	0.81
+virtuelle	viR-t8El	vir-tuel-le	ADJ	f	s	virtuel	1.17	0.54
+virtuellement	viR-t8E-l°-m@	vir-tuel-le-ment	ADV				0.6	1.15
+virtuelles	viR-t8El	vir-tuel-les	ADJ	f	p	virtuel	0.09	0.47
+virtuels	viR-t8El	vir-tuels	ADJ	m	p	virtuel	0.09	0.34
+virtuose	viR-t8oz	vir-tuo-se	NOM		s		0.52	1.55
+virtuose	viR-t8oz	vir-tuo-se	ADJ		s		0.18	0.68
+virtuoses	viR-t8oz	vir-tuo-ses	NOM		p	virtuose	0.28	0.68
+virtuoses	viR-t8oz	vir-tuo-ses	ADJ		p	virtuose	0.02	0.14
+virtuosité	viR-t8o-zi-te	vir-tuo-si-té	NOM	f	s		0.2	1.82
+virulence	vi-Ry-l@s	vi-ru-len-ce	NOM	f	s		0.12	0.95
+virulent	vi-Ry-l@	vi-ru-lent	ADJ	m	s		0.23	0.41
+virulente	vi-Ry-l@t	vi-ru-len-te	ADJ	f	s	virulent	0.55	0.81
+virulentes	vi-Ry-l@t	vi-ru-len-tes	ADJ	f	p	virulent	0.14	0.07
+virulents	vi-Ry-l@	vi-ru-lents	ADJ	m	p	virulent	0.03	0.34
+virus	vi-Rys	vi-rus	NOM	m			23.98	6.42
+vis	vi	vis	VER			voir	54.62	38.24
+vis	vi	vis	VER			vivre	9.63	17.77
+vis	vis	vis	NOM	f			6.89	6.15
+vis-à-vis	vi-za-vi	vis-à-vis	PRE				0	19.39
+vis-à-vis	vi-za-vi	vis-à-vis	NOM	m			0	0.95
+visa	vi-za	vi-sa	NOM	m	s		6.14	2.5
+visa	vi-za	vi-sa	VER			viser	0.12	0.74
+visage	vi-zaZ	vi-sa-ge	NOM	m	s		125.52	490.54
+visages	vi-zaZ	vi-sa-ges	NOM	m	p	visage	15.71	74.46
+visagiste	vi-za-Zist	vi-sa-gis-te	NOM		s		0.01	0.14
+visai	vi-zE	vi-sai	VER			viser	0	0.2
+visaient	vi-zE	vi-saient	VER			viser	0.48	2.03
+visais	vi-zE	vi-sais	VER			viser	1.1	0.61
+visait	vi-zE	vi-sait	VER			viser	1.65	3.18
+visant	vi-z@	vi-sant	VER			viser	1.23	3.38
+visas	vi-za	vi-sas	NOM	m	p	visa	1.25	0.88
+visas	vi-za	vi-sas	VER			viser	0	0.07
+viscéral	vi-se-Ral	vis-cé-ral	ADJ	m	s		0.23	0.61
+viscérale	vi-se-Ral	vis-cé-ra-le	ADJ	f	s	viscéral	0.11	1.22
+viscéralement	vi-se-Ra-l°-m@	vis-cé-ra-le-ment	ADV				0.07	0
+viscérales	vi-se-Ral	vis-cé-ra-les	ADJ	f	p	viscéral	0.01	0.07
+viscéraux	vi-se-Ro	vis-cé-raux	ADJ	m	p	viscéral	0.01	0.07
+viscère	vi-sER	vis-cè-re	NOM	m	s		0.03	0.2
+viscères	vi-sER	vis-cè-res	NOM	m	p	viscère	0.4	2.77
+viscose	vis-koz	vis-co-se	NOM	f	s		0.03	0.07
+viscoses	vis-koz	vis-co-ses	NOM	f	p	viscose	0	0.07
+viscosité	vis-ko-zi-te	vis-co-si-té	NOM	f	s		0.06	0.68
+viscosités	vis-ko-zi-te	vis-co-si-tés	NOM	f	p	viscosité	0	0.07
+vise	viz	vi-se	VER			viser	13.96	7.5
+visé	vi-ze	vi-sé	VER	m	s	viser	3.7	2.23
+visé	vi-ze	vi-sé	ADJ	m	s		1.54	0.61
+visé	vi-ze	vi-sé	NOM	m	s		0.02	0.14
+visée	vi-ze	vi-sée	NOM	f	s		0.73	1.49
+visée	vi-ze	vi-sée	ADJ	f	s	visé	0.14	0.54
+visée	vi-ze	vi-sée	VER	f	s	viser	0.4	0.2
+visées	vi-ze	vi-sées	NOM	f	p	visée	0.2	1.08
+visées	vi-ze	vi-sées	VER	f	p	viser	0.02	0.27
+visées	vi-ze	vi-sées	ADJ	f	p	visé	0.07	0.14
+visent	viz	vi-sent	VER			viser	1.32	0.88
+viser	vi-ze	vi-ser	VER				5.87	4.05
+visera	vi-z°-Ra	vi-se-ra	VER			viser	0.14	0
+viserai	vi-z°-RE	vi-se-rai	VER			viser	0.07	0.07
+viseraient	vi-z°-RE	vi-se-raient	VER			viser	0.01	0.14
+viserais	vi-z°-RE	vi-se-rais	VER			viser	0.14	0
+viserait	vi-z°-RE	vi-se-rait	VER			viser	0.02	0.2
+viseront	vi-z°-R§	vi-se-ront	VER			viser	0.05	0.07
+vises	viz	vi-ses	VER			viser	1.44	0.27
+visés	vi-ze	vi-sés	ADJ	m	p	visé	0.3	0.34
+visés	vi-ze	vi-sés	VER	m	p	viser	0.3	0.2
+visés	vi-ze	vi-sés	NOM	m	p	visé	0	0.07
+viseur	vi-z9R	vi-seur	NOM	m	s		1.48	1.08
+viseurs	vi-z9R	vi-seurs	NOM	m	p	viseur	0.45	0.14
+visez	vi-ze	vi-sez	VER			viser	5.69	1.22
+vishnouisme	viS-nu-ism		NOM	m	s		0.02	0
+visibilité	vi-zi-bi-li-te	vi-si-bi-li-té	NOM	f	s		1.27	1.55
+visible	vi-zibl	vi-si-ble	ADJ		s		7.41	24.05
+visiblement	vi-zi-bl°-m@	vi-si-ble-ment	ADV				6.94	23.99
+visibles	vi-zibl	vi-si-bles	ADJ		p	visible	1.57	6.55
+visière	vi-zjER	vi-siè-re	NOM	f	s		0.33	9.19
+visières	vi-zjER	vi-siè-res	NOM	f	p	visière	0.04	0.95
+visiez	vi-zje	vi-siez	VER			viser	0.17	0
+visioconférence	vi-zjo-k§-fe-R@s	vi-sio-con-fé-ren-ce	NOM	f	s		0.01	0
+vision	vi-zj§	vi-sion	NOM	f	s		25.81	33.78
+visionna	vi-zjo-na	vi-sion-na	VER			visionner	0.01	0
+visionnage	vi-zjo-naZ	vi-sion-na-ge	NOM	m	s		0.16	0.07
+visionnaire	vi-zjo-nER	vi-sion-nai-re	NOM	m	s		1.08	0.88
+visionnaire	vi-zjo-nER	vi-sion-nai-re	ADJ		s		0.38	0.41
+visionnaires	vi-zjo-nER	vi-sion-nai-res	NOM	m	p	visionnaire	0.38	0.27
+visionnaires	vi-zjo-nER	vi-sion-nai-res	ADJ		p	visionnaire	0.04	0.2
+visionnant	vi-zjo-n@	vi-sion-nant	VER			visionner	0.04	0
+visionne	vi-zjOn	vi-sion-ne	VER			visionner	0.13	0.47
+visionné	vi-zjo-ne	vi-sion-né	VER	m	s	visionner	0.51	0
+visionnent	vi-zjOn	vi-sion-nent	VER			visionner	0.01	0
+visionner	vi-zjo-ne	vi-sion-ner	VER				0.56	0.34
+visionnera	vi-zjO-n°-Ra	vi-sion-ne-ra	VER			visionner	0.04	0
+visionneront	vi-zjO-n°-R§	vi-sion-ne-ront	VER			visionner	0.02	0
+visionnés	vi-zjo-ne	vi-sion-nés	VER	m	p	visionner	0	0.07
+visionneuse	vi-zjo-n2z	vi-sion-neu-se	NOM	f	s	visionneur	0.06	0.14
+visionnez	vi-zjo-ne	vi-sion-nez	VER			visionner	0.2	0
+visionnons	vi-zjo-n§	vi-sion-nons	VER			visionner	0.04	0
+visions	vi-zj§	vi-sions	NOM	f	p	vision	9.66	8.04
+visions	vi-zj§	vi-sions	VER			viser	0	0.07
+visiophone	vi-zjo-fOn	vi-sio-pho-ne	NOM	m	s		0.01	0
+visita	vi-zi-ta	vi-si-ta	VER			visiter	0.26	2.16
+visitai	vi-zi-tE	vi-si-tai	VER			visiter	0	1.01
+visitaient	vi-zi-tE	vi-si-taient	VER			visiter	0.04	0.95
+visitais	vi-zi-tE	vi-si-tais	VER			visiter	0.46	0.54
+visitait	vi-zi-tE	vi-si-tait	VER			visiter	0.33	2.77
+visitâmes	vi-zi-tam	vi-si-tâ-mes	VER			visiter	0	0.47
+visitandines	vi-zi-t@-din	vi-si-tan-di-nes	NOM	f	p	visitandine	0	0.07
+visitant	vi-zi-t@	vi-si-tant	VER			visiter	0.24	1.96
+visitât	vi-zi-ta	vi-si-tât	VER			visiter	0	0.27
+visitation	vi-zi-ta-sj§	vi-si-ta-tion	NOM	f	s		0.15	0.95
+visite	vi-zit	vi-si-te	NOM	f	s		86.34	80.61
+visite	vi-zit	vi-si-te	VER			visiter	4.19	5.74
+visité	vi-zi-te	vi-si-té	VER	m	s	visiter	4.15	6.01
+visite-éclair	vi-zi-te-klER	visite-éclair	NOM	f	s		0	0.07
+visitée	vi-zi-te	vi-si-tée	VER	f	s	visiter	0.32	1.42
+visitées	vi-zi-te	vi-si-tées	VER	f	p	visiter	0.3	0.54
+visitent	vi-zit	vi-si-tent	VER			visiter	0.52	0.54
+visiter	vi-zi-te	vi-si-ter	VER				21.23	23.18
+visitera	vi-zi-t°-Ra	vi-si-te-ra	VER			visiter	0.05	0
+visiterai	vi-zi-t°-RE	vi-si-te-rai	VER			visiter	0.33	0.07
+visiteraient	vi-zi-t°-RE	vi-si-te-raient	VER			visiter	0	0.07
+visiterait	vi-zi-t°-RE	vi-si-te-rait	VER			visiter	0.02	0.27
+visiteras	vi-zi-t°-Ra	vi-si-te-ras	VER			visiter	0.03	0.14
+visitèrent	vi-zi-tER	vi-si-tè-rent	VER			visiter	0.01	0.61
+visiterez	vi-zi-t°-Re	vi-si-te-rez	VER			visiter	0.06	0.34
+visiterons	vi-zi-t°-R§	vi-si-te-rons	VER			visiter	0.17	0.27
+visites	vi-zit	vi-si-tes	NOM	f	p	visite	13.6	18.72
+visites	vi-zit	vi-si-tes	VER			visiter	0.26	0.14
+visités	vi-zi-te	vi-si-tés	VER	m	p	visiter	0.27	0.95
+visiteur	vi-zi-t9R	vi-si-teur	NOM	m	s		4.74	15.07
+visiteurs	vi-zi-t9R	vi-si-teurs	NOM	m	p	visiteur	7.55	16.76
+visiteuse	vi-zi-t2z	vi-si-teu-se	NOM	f	s	visiteur	0.16	2.97
+visiteuses	vi-zi-t2z	vi-si-teu-ses	NOM	f	p	visiteur	0.16	0.74
+visitez	vi-zi-te	vi-si-tez	VER			visiter	1.14	0.74
+visitiez	vi-zi-tje	vi-si-tiez	VER			visiter	0.13	0.07
+visitions	vi-zi-tj§	vi-si-tions	VER			visiter	0.02	0.61
+visitons	vi-zi-t§	vi-si-tons	VER			visiter	0.4	0.34
+vison	vi-z§	vi-son	NOM	m	s		1.56	2.3
+visons	vi-z§	vi-sons	NOM	m	p	vison	0.1	0.68
+visons	vi-z§	vi-sons	VER			viser	0.16	0
+visqueuse	vis-k2z	vis-queu-se	ADJ	f	s	visqueux	0.53	2.57
+visqueuses	vis-k2z	vis-queu-ses	ADJ	f	p	visqueux	0.24	0.74
+visqueux	vis-k2	vis-queux	ADJ	m			0.94	4.12
+vissa	vi-sa	vis-sa	VER			visser	0	0.61
+vissaient	vi-sE	vis-saient	VER			visser	0	0.07
+vissait	vi-sE	vis-sait	VER			visser	0.01	0.68
+vissant	vi-s@	vis-sant	VER			visser	0.1	0.34
+visse	vis	vis-se	VER			visser	0.33	0.54
+vissé	vi-se	vis-sé	VER	m	s	visser	0.42	2.84
+vissé	vi-se	vis-sé	ADJ	m	s		0.03	0.07
+vissée	vi-se	vis-sée	VER	f	s	visser	0.17	0.81
+vissée	vi-se	vis-sée	ADJ	f	s	vissé	0.03	0
+vissées	vi-se	vis-sées	VER	f	p	visser	0	0.61
+vissées	vi-se	vis-sées	ADJ	f	p	vissé	0.01	0.07
+vissent	vis	vis-sent	VER			voir	0	0.2
+vissent	vis	vis-sent	VER			visser	0.11	0
+visser	vi-se	vis-ser	VER				1.45	0.88
+visserait	vi-s°-RE	vis-se-rait	VER			visser	0	0.07
+vissèrent	vi-sER	vis-sè-rent	VER			visser	0	0.07
+visserie	vi-s°-Ri	vis-se-rie	NOM	f	s		0.02	0
+vissés	vi-se	vis-sés	VER	m	p	visser	0.14	0.74
+vissés	vi-se	vis-sés	ADJ	m	p	vissé	0.03	0.07
+vissez	vi-se	vis-sez	VER			visser	0.17	0
+vista	vis-ta	vis-ta	NOM	f	s		0.86	0.14
+visualisaient	vi-z8a-li-zE	vi-sua-li-saient	VER			visualiser	0	0.07
+visualisais	vi-zy-a-li-zE	vi-sua-li-sais	VER			visualiser	0.05	0
+visualisant	vi-z8a-li-z@		VER			visualiser	0.01	0
+visualisation	vi-z8a-li-za-sj§	vi-sua-li-sa-tion	NOM	f	s		0.21	0
+visualise	vi-z8a-liz	vi-sua-li-se	VER			visualiser	0.25	0.14
+visualisé	vi-z8a-li-ze	vi-sua-li-sé	VER	m	s	visualiser	0.04	0
+visualisée	vi-z8a-li-ze	vi-sua-li-sée	VER	f	s	visualiser	0	0.07
+visualisées	vi-zy-a-li-ze	vi-sua-li-sées	VER	f	p	visualiser	0.01	0
+visualiser	vi-z8a-li-ze	vi-sua-li-ser	VER				0.48	0
+visualiserai	vi-zy-a-li-z°-RE	vi-sua-li-se-rai	VER			visualiser	0.01	0
+visualises	vi-z8a-liz	vi-sua-li-ses	VER			visualiser	0.29	0.07
+visualisés	vi-z8a-li-ze	vi-sua-li-sés	VER	m	p	visualiser	0.01	0
+visualisez	vi-zy-a-li-ze	vi-sua-li-sez	VER			visualiser	0.25	0
+visuel	vi-z8El	vi-suel	ADJ	m	s		4.38	1.96
+visuelle	vi-z8El	vi-suel-le	ADJ	f	s	visuel	1.34	0.68
+visuellement	vi-z8E-l°-m@	vi-suel-le-ment	ADV				0.32	0.14
+visuelles	vi-z8El	vi-suel-les	ADJ	f	p	visuel	0.26	0.2
+visuels	vi-z8El	vi-suels	ADJ	m	p	visuel	0.73	0.41
+vit	vi	vit	VER			voir	14.7	113.11
+vit	vi	vit	VER			vivre	74.42	39.8
+vît	vi	vît	VER			voir	0.03	4.05
+vital	vi-tal	vi-tal	ADJ	m	s		4.17	4.86
+vitale	vi-tal	vi-ta-le	ADJ	f	s	vital	4.11	3.11
+vitales	vi-tal	vi-ta-les	ADJ	f	p	vital	1.13	0.95
+vitaliser	vi-ta-li-ze		VER				0.01	0
+vitalité	vi-ta-li-te	vi-ta-li-té	NOM	f	s		1.08	6.49
+vitamine	vi-ta-min	vi-ta-mi-ne	NOM	f	s		1.31	0.34
+vitaminé	vi-ta-mi-ne		ADJ	m	s		0.03	0
+vitaminée	vi-ta-mi-ne	vi-ta-mi-née	ADJ	f	s	vitaminé	0.07	0.14
+vitaminées	vi-ta-mi-ne	vi-ta-mi-nées	ADJ	f	p	vitaminé	0.02	0
+vitaminer	vi-ta-mi-ne		VER				0	0.07
+vitamines	vi-ta-min	vi-ta-mi-nes	NOM	f	p	vitamine	4.46	1.96
+vitaminés	vi-ta-mi-ne	vi-ta-mi-nés	ADJ	m	p	vitaminé	0	0.07
+vitaux	vi-to	vi-taux	ADJ	m	p	vital	2.84	0.88
+vite	vit	vi-te	ADV				491.64	351.89
+vite	vit	vi-te	ADJ	m	s		0.03	0
+vitellin	vi-te-l5		ADJ	m	s		0.01	0
+vitement	vi-t°-m@	vi-te-ment	ADV				0	0.07
+vitesse	vi-tEs	vi-tes-se	NOM	f	s		37.89	54.59
+vitesses	vi-tEs	vi-tes-ses	NOM	f	p	vitesse	2.23	3.24
+viticole	vi-ti-kOl		ADJ		s		0.04	0
+viticulteur	vi-ti-kyl-t9R	vi-ti-cul-teur	NOM	m	s		0.05	0.34
+viticulteurs	vi-ti-kyl-t9R	vi-ti-cul-teurs	NOM	m	p	viticulteur	0.16	0.34
+viticultrice	vi-ti-kyl-tRis	vi-ti-cul-tri-ce	NOM	f	s	viticulteur	0.4	0
+viticulture	vi-ti-kyl-tyR	vi-ti-cul-tu-re	NOM	f	s		0.03	0
+vitiligo	vi-ti-li-go		NOM	m	s		0.01	0
+vitrage	vi-tRaZ	vi-tra-ge	NOM	m	s		0.14	0.54
+vitrages	vi-tRaZ	vi-tra-ges	NOM	m	p	vitrage	0.1	0.27
+vitrail	vi-tRaj	vi-trail	NOM	m	s		1.38	3.58
+vitrauphanie	vi-tRo-fa-ni		NOM	f	s		0	0.07
+vitraux	vi-tRo	vi-traux	NOM	m	p	vitrail	0.4	4.19
+vitre	vitR	vi-tre	NOM	f	s		10.21	41.28
+vitre	vitR	vi-tre	VER			vitrer	0	0.07
+vitré	vi-tRe	vi-tré	ADJ	m	s		0.06	1.62
+vitré	vi-tRe	vi-tré	VER	m	s	vitrer	0	0.47
+vitrée	vi-tRe	vi-trée	ADJ	f	s	vitré	0.3	11.22
+vitrée	vi-tRe	vi-trée	VER	f	s	vitrer	0.15	2.97
+vitrées	vi-tRe	vi-trées	ADJ	f	p	vitré	0.21	2.36
+vitrées	vi-tRe	vi-trées	VER	f	p	vitrer	0.01	0.68
+vitres	vitR	vi-tres	NOM	f	p	vitre	6.14	34.93
+vitres	vitR	vi-tres	VER			vitrer	0.02	0.07
+vitrés	vi-tRe	vi-trés	ADJ	m	p	vitré	0	0.41
+vitrés	vi-tRe	vi-trés	VER	m	p	vitrer	0	0.2
+vitreuse	vi-tR2z	vi-treu-se	ADJ	f	s	vitreux	0	0.47
+vitreuses	vi-tR2z	vi-treu-ses	ADJ	f	p	vitreux	0.01	0.14
+vitreux	vi-tR2	vi-treux	ADJ	m			0.33	3.92
+vitrier	vi-tRi-je	vi-trier	NOM	m	s		0.17	0.68
+vitriers	vi-tRi-je	vi-triers	NOM	m	p	vitrier	0.03	0.07
+vitrifia	vi-tRi-fja	vi-tri-fia	VER			vitrifier	0	0.07
+vitrifie	vi-tRi-fi	vi-tri-fie	VER			vitrifier	0.01	0.07
+vitrifié	vi-tRi-fje	vi-tri-fié	VER	m	s	vitrifier	0.01	0.88
+vitrifiée	vi-tRi-fje	vi-tri-fiée	VER	f	s	vitrifier	0.01	0.2
+vitrifiées	vi-tRi-fje	vi-tri-fiées	VER	f	p	vitrifier	0	0.07
+vitrifient	vi-tRi-fi	vi-tri-fient	VER			vitrifier	0	0.07
+vitrifier	vi-tRi-fje	vi-tri-fier	VER				0.01	0.14
+vitrifiés	vi-tRi-fje	vi-tri-fiés	VER	m	p	vitrifier	0.01	0.2
+vitrine	vi-tRin	vi-tri-ne	NOM	f	s		5.09	20.68
+vitrines	vi-tRin	vi-tri-nes	NOM	f	p	vitrine	1.75	13.31
+vitriol	vi-tRi-jOl	vi-triol	NOM	m	s		0.43	0.68
+vitriolé	vi-tRi-jo-le	vi-trio-lé	VER	m	s	vitrioler	0	0.2
+vitrioler	vi-tRi-o-le	vi-trio-ler	VER				0.01	0
+vitrioleurs	vi-tRi-jo-l9R	vi-trio-leurs	NOM	m	p	vitrioleur	0	0.07
+vitriolique	vi-tRi-jO-lik		ADJ	f	s		0	0.07
+vitriols	vi-tRi-jOl	vi-triols	NOM	m	p	vitriol	0	0.07
+vitrophanie	vi-tRo-fa-ni	vi-tro-pha-nie	NOM	f	s		0	0.07
+vits	vi	vits	NOM	m	p	vit	0	0.14
+vitupéraient	vi-ty-pe-RE	vi-tu-pé-raient	VER			vitupérer	0	0.07
+vitupérait	vi-ty-pe-RE	vi-tu-pé-rait	VER			vitupérer	0	0.41
+vitupérant	vi-ty-pe-R@	vi-tu-pé-rant	VER			vitupérer	0	0.27
+vitupérations	vi-ty-pe-Ra-sj§	vi-tu-pé-ra-tions	NOM	f	p	vitupération	0	0.07
+vitupère	vi-ty-pER	vi-tu-pè-re	VER			vitupérer	0	0.07
+vitupérer	vi-ty-pe-Re	vi-tu-pé-rer	VER				0.02	0.27
+vivable	vi-vabl	vi-va-ble	ADJ		s		0.4	1.08
+vivables	vi-vabl	vi-va-bles	ADJ		p	vivable	0.01	0.27
+vivace	vi-vas	vi-va-ce	ADJ		s		0.35	3.58
+vivaces	vi-vas	vi-va-ces	ADJ		p	vivace	0.17	1.08
+vivacité	vi-va-si-te	vi-va-ci-té	NOM	f	s		0.74	8.51
+vivacités	vi-va-si-te	vi-va-ci-tés	NOM	f	p	vivacité	0	0.07
+vivaient	vi-vE	vi-vaient	VER			vivre	6.18	15.74
+vivais	vi-vE	vi-vais	VER			vivre	8.91	10.81
+vivait	vi-vE	vi-vait	VER			vivre	20.5	53.18
+vivandier	vi-v@-dje		NOM	m	s		0.1	0
+vivandière	vi-v@-djER	vi-van-diè-re	NOM	f	s	vivandier	0	0.14
+vivandières	vi-v@-djER	vi-van-diè-res	NOM	f	p	vivandier	0.01	0.07
+vivandiers	vi-v@-dje	vi-van-diers	NOM	m	p	vivandier	0	0.14
+vivant	vi-v@	vi-vant	ADJ	m	s		76.38	41.15
+vivant	vi-v@	vi-vant	NOM	m	s		8.07	12.43
+vivant	vi-v@	vi-vant	VER			vivre	7.94	8.65
+vivante	vi-v@t	vi-van-te	ADJ	f	s	vivant	28.12	29.32
+vivantes	vi-v@t	vi-van-tes	ADJ	f	p	vivant	3.31	6.35
+vivants	vi-v@	vi-vants	ADJ	m	p	vivant	17.16	15.41
+vivants	vi-v@	vi-vants	NOM	m	p	vivant	9.82	14.93
+vivarium	vi-va-RjOm	vi-va-rium	NOM	m	s		0.03	0.41
+vivat	vi-va	vi-vat	NOM	m	s		0.84	0
+vivats	vi-va	vi-vats	NOM	m	p		0.06	1.82
+vive	viv	vi-ve	ONO				35.95	12.09
+vive	viv	vi-ve	ADJ	f	s	vif	9.09	30.61
+vive	viv	vi-ve	VER			vivre	11.71	5.47
+vive	viv	vi-ve	NOM	f	s		0.65	1.28
+vivement	vi-v°-m@	vi-ve-ment	ADV				5.85	29.86
+vivent	viv	vi-vent	VER			vivre	30.5	19.39
+vives	viv	vi-ves	ADJ	f	p	vif	1.71	12.7
+vives	viv	vi-ves	VER			vivre	1.48	0.14
+vives	viv	vi-ves	NOM	f	p	vive	0.01	0.41
+viveur	vi-v9R	vi-veur	NOM	m	s		0.03	0.34
+viveurs	vi-v9R	vi-veurs	NOM	m	p	viveur	0	0.07
+vivez	vi-ve	vi-vez	VER			vivre	15.09	2.84
+vivier	vi-vje	vi-vier	NOM	m	s		0.07	1.15
+viviers	vi-vje	vi-viers	NOM	m	p	vivier	0.02	0.27
+viviez	vi-vje	vi-viez	VER			vivre	1.94	0.74
+vivifiait	vi-vi-fjE	vi-vi-fiait	VER			vivifier	0.02	0.14
+vivifiant	vi-vi-fj@	vi-vi-fiant	ADJ	m	s		0.29	0.81
+vivifiant	vi-vi-fj@	vi-vi-fiant	VER			vivifier	0.03	0.27
+vivifiante	vi-vi-fj@t	vi-vi-fian-te	ADJ	f	s	vivifiant	0.17	0.47
+vivifiantes	vi-vi-fj@t	vi-vi-fian-tes	ADJ	f	p	vivifiant	0.1	0
+vivifiants	vi-vi-fj@	vi-vi-fiants	ADJ	m	p	vivifiant	0.01	0
+vivification	vi-vi-fi-ka-sj§	vi-vi-fi-ca-tion	NOM	f	s		0.01	0
+vivifie	vi-vi-fi	vi-vi-fie	VER			vivifier	0.01	0.07
+vivifié	vi-vi-fje	vi-vi-fié	VER	m	s	vivifier	0.11	0.14
+vivifiée	vi-vi-fje	vi-vi-fiée	VER	f	s	vivifier	0.01	0.34
+vivifiées	vi-vi-fje	vi-vi-fiées	VER	f	p	vivifier	0.02	0.14
+vivifier	vi-vi-fje	vi-vi-fier	VER				0.01	0.07
+vivions	vi-vj§	vi-vions	VER			vivre	2.69	7.64
+vivisecteur	vi-vi-sek-t9R	vi-vi-sec-teur	NOM	m	s		0.04	0
+vivisection	vi-vi-sek-sj§	vi-vi-sec-tion	NOM	f	s		0.34	0.14
+vivisections	vi-vi-sek-sj§	vi-vi-sec-tions	NOM	f	p	vivisection	0	0.27
+vivons	vi-v§	vi-vons	VER			vivre	12.4	7.64
+vivota	vi-vo-ta	vi-vo-ta	VER			vivoter	0	0.07
+vivotaient	vi-vo-tE	vi-vo-taient	VER			vivoter	0	0.07
+vivotais	vi-vo-tE	vi-vo-tais	VER			vivoter	0.01	0.07
+vivotait	vi-vo-tE	vi-vo-tait	VER			vivoter	0.14	0.47
+vivotant	vi-vo-t@	vi-vo-tant	VER			vivoter	0	0.14
+vivote	vi-vOt	vi-vo-te	VER			vivoter	0.27	0.2
+vivoté	vi-vo-te	vi-vo-té	VER	m	s	vivoter	0.03	0
+vivotent	vi-vOt	vi-vo-tent	VER			vivoter	0	0.07
+vivoter	vi-vo-te	vi-vo-ter	VER				0.02	0.14
+vivotèrent	vi-vo-tER	vi-vo-tè-rent	VER			vivoter	0	0.07
+vivra	vi-vRa	vi-vra	VER			vivre	7.86	2.64
+vivrai	vi-vRE	vi-vrai	VER			vivre	5.25	1.62
+vivraient	vi-vRE	vi-vraient	VER			vivre	0.65	0.68
+vivrais	vi-vRE	vi-vrais	VER			vivre	1.58	1.49
+vivrait	vi-vRE	vi-vrait	VER			vivre	2.56	3.38
+vivras	vi-vRa	vi-vras	VER			vivre	3.84	0.27
+vivre	vivR	vi-vre	VER				218.52	186.82
+vivre	vivR	vi-vre	NOM	m	s		5.24	3.45
+vivres	vivR	vi-vres	NOM	m	p	vivre	7.37	6.89
+vivrez	vi-vRe	vi-vrez	VER			vivre	3.24	0.41
+vivriers	vi-vRi-je	vi-vriers	ADJ	m	p	vivrier	0	0.07
+vivriez	vi-vRi-je	vi-vriez	VER			vivre	0.05	0.07
+vivrions	vi-vRi-j§	vi-vrions	VER			vivre	0.32	0
+vivrons	vi-vR§	vi-vrons	VER			vivre	3.28	1.42
+vivront	vi-vR§	vi-vront	VER			vivre	1.22	0.41
+vizir	vi-ziR	vi-zir	NOM	m	s		0.15	7.03
+vizirs	vi-ziR	vi-zirs	NOM	m	p	vizir	0	0.95
+vlan	vl@	v-lan	ONO				1.05	3.18
+vlouf	vluf		ONO				0	0.54
+vocable	vo-kabl	vo-ca-ble	NOM	m	s		0.02	1.08
+vocables	vo-kabl	vo-ca-bles	NOM	m	p	vocable	0.2	1.08
+vocabulaire	vo-ka-by-lER	vo-ca-bu-lai-re	NOM	m	s		3.02	10.27
+vocabulaires	vo-ka-by-lER	vo-ca-bu-lai-res	NOM	m	p	vocabulaire	0	0.14
+vocal	vo-kal	vo-cal	ADJ	m	s		1.13	0.68
+vocale	vo-kal	vo-ca-le	ADJ	f	s	vocal	2.45	0.68
+vocalement	vo-ka-l°-m@	vo-ca-le-ment	ADV				0.01	0.07
+vocales	vo-kal	vo-ca-les	ADJ	f	p	vocal	0.84	2.23
+vocalique	vo-ka-lik	vo-ca-li-que	ADJ	f	s		0	0.07
+vocalisait	vo-ka-li-zE	vo-ca-li-sait	VER			vocaliser	0	0.14
+vocalisant	vo-ka-li-z@	vo-ca-li-sant	VER			vocaliser	0.01	0.07
+vocalisation	vo-ka-li-za-sj§	vo-ca-li-sa-tion	NOM	f	s		0.02	0.14
+vocalisations	vo-ka-li-za-sj§	vo-ca-li-sa-tions	NOM	f	p	vocalisation	0	0.14
+vocalise	vo-ka-liz	vo-ca-li-se	NOM	f	s		0	0.27
+vocalise	vo-ka-liz	vo-ca-li-se	VER			vocaliser	0	0.14
+vocaliser	vo-ka-li-ze		VER				0.01	0
+vocalises	vo-ka-liz	vo-ca-li-ses	NOM	f	p	vocalise	0.05	1.01
+vocaliste	vo-ka-list	vo-ca-lis-te	NOM		s		0.02	0.07
+vocatif	vo-ka-tif		NOM	m	s		0.01	0
+vocatifs	vo-ka-tif	vo-ca-tif-s	NOM	m	p	vocatif	0	0.14
+vocation	vo-ka-sj§	vo-ca-tion	NOM	f	s		8.87	21.82
+vocations	vo-ka-sj§	vo-ca-tions	NOM	f	p	vocation	0.39	1.01
+vocaux	vo-ko	vo-caux	ADJ	m	p	vocal	0.21	0.14
+vociféra	vo-si-fe-Ra	vo-ci-fé-ra	VER			vociférer	0	0.54
+vociférai	vo-si-fe-RE	vo-ci-fé-rai	VER			vociférer	0	0.07
+vociféraient	vo-si-fe-RE	vo-ci-fé-raient	VER			vociférer	0	0.14
+vociférais	vo-si-fe-RE	vo-ci-fé-rais	VER			vociférer	0	0.14
+vociférait	vo-si-fe-RE	vo-ci-fé-rait	VER			vociférer	0.01	0.68
+vociférant	vo-si-fe-R@	vo-ci-fé-rant	VER			vociférer	0.03	0.88
+vociférant	vo-si-fe-R@	vo-ci-fé-rant	ADJ	m	s		0.14	0.34
+vociférante	vo-si-fe-R@t	vo-ci-fé-ran-te	ADJ	f	s	vociférant	0	0.14
+vociférantes	vo-si-fe-R@t	vo-ci-fé-ran-tes	ADJ	f	p	vociférant	0	0.34
+vociférants	vo-si-fe-R@	vo-ci-fé-rants	ADJ	m	p	vociférant	0	0.14
+vocifération	vo-si-fe-Ra-sj§	vo-ci-fé-ra-tion	NOM	f	s		0	0.14
+vociférations	vo-si-fe-Ra-sj§	vo-ci-fé-ra-tions	NOM	f	p	vocifération	0.02	1.89
+vocifère	vo-si-fER	vo-ci-fè-re	VER			vociférer	0.16	0.74
+vocifèrent	vo-si-fER	vo-ci-fè-rent	VER			vociférer	0	0.14
+vociférer	vo-si-fe-Re	vo-ci-fé-rer	VER				0.29	0.54
+vociférés	vo-si-fe-Re	vo-ci-fé-rés	VER	m	p	vociférer	0	0.07
+vocodeur	vO-kO-d9R		NOM	m	s		0.01	0
+vodka	vOd-ka	vod-ka	NOM	f	s		16.93	8.24
+vodkas	vOd-ka	vod-kas	NOM	f	p	vodka	0.14	0.07
+vodou	vo-du		NOM	m	s		0.03	0
+vodous	vo-du	vo-dous	NOM	m	p	vodou	0.01	0
+voeu	v2	voeu	NOM	m	s		10.72	10.61
+voeux	v2	voeux	NOM	m	p	voeu	17.86	10.68
+vogua	vo-ga	vo-gua	VER			voguer	0.14	0.07
+voguaient	vo-gE	vo-guaient	VER			voguer	0	0.14
+voguais	vo-gE	vo-guais	VER			voguer	0.02	0
+voguait	vo-gE	vo-guait	VER			voguer	0.28	1.35
+voguant	vo-g@	vo-guant	VER			voguer	0.13	0.54
+vogue	vOg	vo-gue	NOM	f	s		2.43	3.51
+vogue	vOg	vo-gue	VER			voguer	0.38	1.28
+vogué	vo-ge	vo-gué	VER	m	s	voguer	0.02	0.34
+voguent	vOg	vo-guent	VER			voguer	0.26	0.61
+voguer	vo-ge	vo-guer	VER				1.18	1.15
+voguera	vO-g°-Ra	vo-gue-ra	VER			voguer	0.03	0.07
+voguerai	vO-g°-RE	vo-gue-rai	VER			voguer	0.04	0
+voguerait	vO-g°-RE	vo-gue-rait	VER			voguer	0	0.07
+voguerions	vO-g°-Rj§	vo-gue-rions	VER			voguer	0	0.07
+voguerons	vO-g°-R§	vo-gue-rons	VER			voguer	0.12	0.07
+vogues	vOg	vo-gues	VER			voguer	0.01	0.07
+vogues	vOg	vo-gues	NOM	f	p	vogue	0	0.07
+voguions	vo-gj§	vo-guions	VER			voguer	0.01	0.41
+voguons	vo-g§	vo-guons	VER			voguer	0.09	0.14
+voici	vwa-si	voi-ci	PRE				277.59	97.3
+voie	vwa	voie	NOM	f	s		47.01	53.58
+voie	vwa	voie	VER			voir	34.25	17.03
+voient	vwa	voient	VER			voir	26.16	20.2
+voies	vwa	voies	NOM	f	p	voie	9.05	17.43
+voies	vwa	voies	VER			voir	7.48	1.42
+voila	vwa-la	voi-la	VER			voiler	35.54	1.35
+voilà	vwa-la	voi-là	PRE				726.44	329.12
+voilage	vwa-laZ	voi-la-ge	NOM	m	s		0	0.27
+voilages	vwa-laZ	voi-la-ges	NOM	m	p	voilage	0	0.47
+voilaient	vwa-lE	voi-laient	VER			voiler	0	0.88
+voilais	vwa-lE	voi-lais	VER			voiler	0.02	0.07
+voilait	vwa-lE	voi-lait	VER			voiler	0.02	1.69
+voilant	vwa-l@	voi-lant	VER			voiler	0	0.74
+voile	vwal	voi-le	NOM		s		15.49	30.27
+voile	vwal	voi-le	VER			voiler	2.05	1.69
+voilé	vwa-le	voi-lé	VER	m	s	voiler	0.3	2.09
+voilé	vwa-le	voi-lé	ADJ	m	s		0.19	1.55
+voilée	vwa-le	voi-lée	ADJ	f	s	voilé	0.9	2.3
+voilée	vwa-le	voi-lée	VER	f	s	voiler	0.4	1.55
+voilées	vwa-le	voi-lées	ADJ	f	p	voilé	0.1	1.28
+voilées	vwa-le	voi-lées	VER	f	p	voiler	0	1.28
+voilent	vwal	voi-lent	VER			voiler	0.13	0.47
+voiler	vwa-le	voi-ler	VER				0.82	1.42
+voilera	vwa-l°-Ra	voi-le-ra	VER			voiler	0.14	0
+voilèrent	vwa-lER	voi-lè-rent	VER			voiler	0	0.07
+voileront	vwa-l°-R§	voi-le-ront	VER			voiler	0.01	0
+voiles	vwal	voi-les	NOM		p	voile	5.02	18.04
+voiles	vwal	voi-les	VER			voiler	0.1	0
+voilés	vwa-le	voi-lés	VER	m	p	voiler	0.13	1.22
+voilés	vwa-le	voi-lés	ADJ	m	p	voilé	0.31	0.95
+voilette	vwa-lEt	voi-let-te	NOM	f	s		0.05	2.57
+voilettes	vwa-lEt	voi-let-tes	NOM	f	p	voilette	0.01	0.41
+voilez	vwa-le	voi-lez	VER			voiler	0.08	0.07
+voilier	vwa-lje	voi-lier	NOM	m	s		1.67	2.77
+voiliers	vwa-lje	voi-liers	NOM	m	p	voilier	0.27	2.09
+voilons	vwa-l§	voi-lons	VER			voiler	0.06	0.14
+voilure	vwa-lyR	voi-lu-re	NOM	f	s		0.16	0.47
+voilures	vwa-lyR	voi-lu-res	NOM	f	p	voilure	0.01	0.27
+voir	vwaR	voir	VER				1401.1	716.55
+voire	vwaR	voi-re	ADV				7.42	16.89
+voirie	vwa-Ri	voi-rie	NOM	f	s		0.77	1.22
+vois	vwa	vois	VER			voir	689.75	253.72
+voisin	vwa-z5	voi-sin	NOM	m	s		19.55	28.85
+voisin	vwa-z5	voi-sin	ADJ	m	s		3.31	14.12
+voisinage	vwa-zi-naZ	voi-si-na-ge	NOM	m	s		5.16	10.34
+voisinages	vwa-zi-naZ	voi-si-na-ges	NOM	m	p	voisinage	0.01	0.07
+voisinaient	vwa-zi-nE	voi-si-naient	VER			voisiner	0	1.08
+voisinait	vwa-zi-nE	voi-si-nait	VER			voisiner	0	0.47
+voisinant	vwa-zi-n@	voi-si-nant	VER			voisiner	0	0.41
+voisine	vwa-zin	voi-si-ne	ADJ	f	s	voisin	3.19	23.72
+voisine	vwa-zin	voi-si-ne	NOM	f	s	voisin	10.92	15.07
+voisine	vwa-zin	voi-si-ne	VER			voisiner	0.01	0.41
+voisiné	vwa-zi-ne		VER	m	s	voisiner	0.01	0
+voisinent	vwa-zin	voi-si-nent	VER			voisiner	0.01	0.61
+voisiner	vwa-zi-ne	voi-si-ner	VER				0.01	0.34
+voisines	vwa-zin	voi-si-nes	ADJ	f	p	voisin	1.67	5.54
+voisines	vwa-zin	voi-si-nes	NOM	f	p	voisin	1.2	4.59
+voisins	vwa-z5	voi-sins	NOM	m	p	voisin	24.33	33.31
+voisins	vwa-z5	voi-sins	ADJ	m	p	voisin	6.14	6.35
+voit	vwa	voit	VER			voir	181.98	158.78
+voituraient	vwa-ty-RE	voi-tu-raient	VER			voiturer	0	0.07
+voiturait	vwa-ty-RE	voi-tu-rait	VER			voiturer	0	0.07
+voiture	vwa-tyR	voi-tu-re	NOM		s		388.87	221.15
+voiture	vwa-tyR	voi-tu-re	VER			voiturer	1.89	0.47
+voituré	vwa-ty-Re	voi-tu-ré	VER	m	s	voiturer	0	0.07
+voiture-balai	vwa-tyR-ba-lE	voiture-balai	NOM	f	s		0.23	0
+voiture-bar	vwa-tyR-baR		NOM	f	s		0.01	0
+voiture-lit	vwa-tyR-li	voiture-lit	NOM	f	s		0.01	0
+voiture-restaurant	vwa-tyR-REs-tO-R@		NOM	f	s		0.05	0
+voiturer	vwa-ty-Re	voi-tu-rer	VER				0.02	0.14
+voitureront	vwa-ty-R°-R§	voi-tu-re-ront	VER			voiturer	0	0.07
+voitures	vwa-tyR	voi-tu-res	NOM	f	p	voiture	40.53	61.96
+voitures	vwa-tyR	voi-tu-res	VER			voiturer	0.13	0
+voitures-balais	vwa-tyR-ba-lE	voitures-balais	NOM	f	p	voiture-balai	0	0.07
+voiturette	vwa-ty-REt	voi-tu-ret-te	NOM	f	s		0.35	0.34
+voiturettes	vwa-ty-REt	voi-tu-ret-tes	NOM	f	p	voiturette	0.02	0.41
+voiturier	vwa-ty-Rje	voi-tu-rier	NOM	m	s		0.7	0.47
+voituriers	vwa-ty-Rje	voi-tu-riers	NOM	m	p	voiturier	0.16	0
+voiturin	vwa-ty-R5	voi-tu-rin	NOM	m	s		0	0.07
+voïvodie	voj-vO-di	voï-vo-die	NOM	f	s		0.27	0
+voïvodies	voj-vO-di	voï-vo-dies	NOM	f	p	voïvodie	0.14	0
+voix	vwa	voix	NOM	f			130.83	612.7
+voix-off	vwa-Of	voix-off	NOM	f			0.04	0
+vol	vOl	vol	NOM	m	s		74.14	41.22
+vol-au-vent	vo-lo-v@	vol-au-vent	NOM	m			0.02	0.14
+vola	vo-la	vo-la	VER			voler	0.93	1.96
+volage	vo-laZ	vo-la-ge	ADJ		s		1.69	1.62
+volages	vo-laZ	vo-la-ges	ADJ		p	volage	0.1	0
+volai	vo-lE	vo-lai	VER			voler	0.14	0.27
+volaient	vo-lE	vo-laient	VER			voler	1.14	5.2
+volaille	vo-laj	vo-lail-le	NOM	f	s		2.31	3.45
+volailler	vo-la-je	vo-lail-ler	NOM	m	s		0.02	0.07
+volaillers	vo-la-je	vo-lail-lers	NOM	m	p	volailler	0	0.14
+volailles	vo-laj	vo-lail-les	NOM	f	p	volaille	0.3	3.04
+volais	vo-lE	vo-lais	VER			voler	2.02	1.08
+volait	vo-lE	vo-lait	VER			voler	4.45	5.95
+volant	vo-l@	vo-lant	NOM	m	s		19.23	33.51
+volant	vo-l@	vo-lant	VER			voler	3.65	4.12
+volant	vo-l@	vo-lant	ADJ	m	s		2.26	4.05
+volante	vo-l@t	vo-lan-te	ADJ	f	s	volant	2.81	1.62
+volante	vo-l@t	vo-lan-te	VER			volanter	0.05	0
+volanté	vO-l@-te		VER	m	s	volanter	0	0.07
+volantes	vo-l@t	vo-lan-tes	ADJ	f	p	volant	1.24	1.96
+volantes	vo-l@t	vo-lan-tes	VER			volanter	0	0.07
+volants	vo-l@	vo-lants	ADJ	m	p	volant	2.47	2.03
+volants	vo-l@	vo-lants	NOM	m	p	volant	0.41	3.78
+volapük	vo-la-pyk	vo-lapük	NOM	m	s		0	0.07
+volassent	vo-las	vo-las-sent	VER			voler	0	0.07
+volât	vo-la	vo-lât	VER			voler	0	0.14
+volatil	vo-la-til	vo-la-til	ADJ	m	s		0.06	0.34
+volatile	vo-la-til	vo-la-ti-le	NOM	m	s		0.17	1.35
+volatile	vo-la-til	vo-la-ti-le	ADJ	f	s	volatil	0.49	0.61
+volatiles	vo-la-til	vo-la-ti-les	NOM	m	p	volatile	0.3	1.22
+volatiles	vo-la-til	vo-la-ti-les	ADJ	f	p	volatil	0.07	0.34
+volatilisa	vo-la-ti-li-za	vo-la-ti-li-sa	VER			volatiliser	0	0.14
+volatilisaient	vo-la-ti-li-zE	vo-la-ti-li-saient	VER			volatiliser	0	0.14
+volatilisait	vo-la-ti-li-zE	vo-la-ti-li-sait	VER			volatiliser	0.02	0.14
+volatilisant	vo-la-ti-li-z@	vo-la-ti-li-sant	VER			volatiliser	0	0.07
+volatilisation	vo-la-ti-li-za-sj§		NOM	f	s		0.01	0
+volatilise	vo-la-ti-liz	vo-la-ti-li-se	VER			volatiliser	0.07	0.14
+volatilisé	vo-la-ti-li-ze	vo-la-ti-li-sé	VER	m	s	volatiliser	0.95	0.68
+volatilisée	vo-la-ti-li-ze	vo-la-ti-li-sée	VER	f	s	volatiliser	0.56	0.54
+volatilisées	vo-la-ti-li-ze	vo-la-ti-li-sées	VER	f	p	volatiliser	0.02	0.2
+volatilisent	vo-la-ti-liz	vo-la-ti-li-sent	VER			volatiliser	0.05	0.14
+volatiliser	vo-la-ti-li-ze	vo-la-ti-li-ser	VER				0.13	0.27
+volatilisés	vo-la-ti-li-ze	vo-la-ti-li-sés	VER	m	p	volatiliser	0.2	0.54
+volatilité	vo-la-ti-li-te	vo-la-ti-li-té	NOM	f	s		0.04	0
+volatils	vo-la-til	vo-la-tils	ADJ	m	p	volatil	0.01	0.2
+volcan	vOl-k@	vol-can	NOM	m	s		4.52	3.85
+volcanique	vOl-ka-nik	vol-ca-ni-que	ADJ		s		0.69	1.15
+volcaniques	vOl-ka-nik	vol-ca-ni-ques	ADJ		p	volcanique	0.22	0.54
+volcanologique	vOl-ka-no-lo-Zik	vol-ca-no-lo-gi-que	ADJ	m	s		0.01	0
+volcanologue	vOl-ka-no-lOg	vol-ca-no-lo-gue	NOM		s		0.02	0
+volcans	vOl-k@	vol-cans	NOM	m	p	volcan	0.98	1.49
+vole	vOl	vo-le	VER			voler	35.31	10.07
+vole	vOl	vo-le	NOM	f	s		1.93	0.2
+volé	vo-le	vo-lé	VER	m	s	voler	79.01	19.26
+volé	vo-le	vo-lé	ADJ	m	s		4.3	3.31
+volée	vo-le	vo-lée	NOM	f	s		1.68	14.8
+volée	vo-le	vo-lée	VER	f	s	voler	10.14	2.23
+volée	vo-le	vo-lée	ADJ	f	s	volé	3.37	3.45
+volées	vo-le	vo-lées	VER	f	p	voler	2.24	0.81
+volées	vo-le	vo-lées	ADJ	f	p	volé	1.61	1.01
+volées	vo-le	vo-lées	NOM	f	p	volée	0.19	1.62
+volémie	vO-le-mi		NOM	f	s		0.01	0
+volent	vOl	vo-lent	VER			voler	9.53	5.61
+voler	vo-le	vo-ler	VER				67.88	26.01
+volera	vO-l°-Ra	vo-le-ra	VER			voler	2.68	0.47
+volerai	vO-l°-RE	vo-le-rai	VER			voler	1	0.07
+voleraient	vO-l°-RE	vo-le-raient	VER			voler	0.07	0.07
+volerais	vO-l°-RE	vo-le-rais	VER			voler	0.44	0.07
+volerait	vO-l°-RE	vo-le-rait	VER			voler	0.94	0.68
+voleras	vO-l°-Ra	vo-le-ras	VER			voler	0.57	0
+volèrent	vo-lER	vo-lè-rent	VER			voler	0.04	0.68
+volerez	vO-l°-Re	vo-le-rez	VER			voler	0.25	0.07
+volerie	vO-l°-Ri		NOM	f	s		0.01	0
+voleriez	vO-l°-Rje	vo-le-riez	VER			voler	0.05	0
+volerons	vO-l°-R§	vo-le-rons	VER			voler	0.5	0
+voleront	vO-l°-R§	vo-le-ront	VER			voler	0.89	0.34
+voles	vOl	vo-les	VER			voler	4.82	0.68
+voles	vOl	vo-les	NOM	f	p	vole	0.06	0
+volés	vo-le	vo-lés	VER	m	p	voler	4.93	2.09
+volés	vo-le	vo-lés	ADJ	m	p	volé	2.97	0.95
+volet	vo-lE	vo-let	NOM	m	s		2.21	6.89
+voleta	vO-l°-ta	vo-le-ta	VER			voleter	0	0.2
+voletaient	vO-l°-tE	vo-le-taient	VER			voleter	0.01	1.82
+voletait	vO-l°-tE	vo-le-tait	VER			voleter	0	1.22
+voletant	vO-l°-t@	vo-le-tant	VER			voleter	0.03	1.42
+voletant	vO-l°-t@	vo-le-tant	ADJ	m	s		0.01	0.34
+voletante	vO-l°-t@t	vo-le-tan-te	ADJ	f	s	voletant	0	0.27
+voletantes	vO-l°-t@t	vo-le-tan-tes	ADJ	f	p	voletant	0	0.2
+voleter	vO-l°-te	vo-le-ter	VER				0.14	1.35
+voletez	vO-l°-te	vo-le-tez	VER			voleter	0.02	0
+volets	vo-lE	vo-lets	NOM	m	p	volet	3.72	34.66
+volette	vo-lEt	vo-let-te	VER			voleter	0.14	0.54
+volettent	vo-lEt	vo-let-tent	VER			voleter	0.1	0.68
+voleur	vo-l9R	vo-leur	NOM	m	s		41.39	11.15
+voleur	vo-l9R	vo-leur	ADJ	m	s		4.94	2.3
+voleurs	vo-l9R	vo-leurs	NOM	m	p	voleur	21.91	9.86
+voleurs	vo-l9R	vo-leurs	ADJ	m	p	voleur	2.54	2.23
+voleuse	vo-l2z	vo-leu-se	NOM	f	s	voleur	4.71	1.55
+voleuse	vo-l2z	vo-leu-se	ADJ	f	s	voleur	0.85	1.22
+voleuses	vo-l2z	vo-leu-ses	NOM	f	p	voleur	0.17	0.14
+voleuses	vo-l2z	vo-leu-ses	ADJ	f	p	voleur	0.02	0.2
+volez	vo-le	vo-lez	VER			voler	3.59	0.27
+volière	vo-ljER	vo-liè-re	NOM	f	s		0.34	2.97
+volières	vo-ljER	vo-liè-res	NOM	f	p	volière	0.02	0.27
+voliez	vo-lje	vo-liez	VER			voler	0.65	0.07
+volige	vo-liZ	vo-li-ge	NOM	f	s		0	0.14
+voliges	vo-liZ	vo-li-ges	NOM	f	p	volige	0.01	0.41
+volions	vo-lj§	vo-lions	VER			voler	0.19	0.14
+volition	vo-li-sj§	vo-li-tion	NOM	f	s		0	0.14
+volitions	vo-li-sj§	vo-li-tions	NOM	f	p	volition	0	0.14
+volley	vo-lE	vol-ley	NOM	m	s		1.51	0.07
+volley-ball	vo-lE-bOl	volley-ball	NOM	m	s		0.25	0.68
+volleyeur	vo-lE-j9R	vol-leyeur	NOM	m	s		0.14	0.07
+volleyeurs	vo-lE-j9R	vol-leyeurs	NOM	m	p	volleyeur	0	0.07
+volons	vo-l§	vo-lons	VER			voler	0.79	0.2
+volontaire	vo-l§-tER	vo-lon-tai-re	ADJ		s		11.54	10.74
+volontaire	vo-l§-tER	vo-lon-tai-re	NOM		s		2.98	1.01
+volontairement	vo-l§-tE-R°-m@	vo-lon-tai-re-ment	ADV				3.59	9.12
+volontaires	vo-l§-tER	vo-lon-tai-res	NOM		p	volontaire	5.05	5.27
+volontaires	vo-l§-tER	vo-lon-tai-res	ADJ		p	volontaire	2.95	3.24
+volontariat	vo-l§-ta-Rja	vo-lon-ta-riat	NOM	m	s		0.6	0.2
+volontarisme	vo-l§-ta-Rizm	vo-lon-ta-ris-me	NOM	m	s		0	0.14
+volontariste	vo-l§-ta-Rist	vo-lon-ta-ris-te	ADJ		s		0	0.14
+volontaristes	vo-l§-ta-Rist	vo-lon-ta-ris-tes	ADJ		p	volontariste	0	0.07
+volonté	vo-l§-te	vo-lon-té	NOM	f	s		44.41	70.54
+volontés	vo-l§-te	vo-lon-tés	NOM	f	p	volonté	2.67	4.39
+volontiers	vo-l§-tje	vo-lon-tiers	ADV				19.41	40.61
+vols	vOl	vols	NOM	m	p	vol	8.28	7.09
+volt	vOlt	volt	NOM	m	s		0.4	0
+voltage	vOl-taZ	vol-ta-ge	NOM	m	s		0.41	0.34
+voltaient	vOl-tE	vol-taient	VER			volter	0	0.07
+voltaïque	vOl-ta-ik		ADJ	f	s		0.01	0
+voltaire	vOl-tER	vol-tai-re	NOM	m	s		0	0.07
+voltaires	vOl-tER	vol-tai-res	NOM	m	p	voltaire	0	0.07
+voltairien	vOl-tE-Rj5		ADJ	m	s		0.01	0
+volte	vOlt	vol-te	NOM	f	s		0.67	0.74
+volte-face	vOl-t°-fas	volte-face	NOM	f			0.26	3.31
+volter	vOl-te	vol-ter	VER				0.01	0.07
+voltes	vOlt	vol-tes	NOM	f	p	volte	0	0.61
+voltige	vOl-tiZ	vol-ti-ge	NOM	f	s		0.45	1.96
+voltige	vOl-tiZ	vol-ti-ge	VER			voltiger	0.21	0.34
+voltigé	vOl-ti-Ze	vol-ti-gé	VER	m	s	voltiger	0.03	0.07
+voltigea	vOl-ti-Za	vol-ti-gea	VER			voltiger	0	0.27
+voltigeaient	vOl-ti-ZE	vol-ti-geaient	VER			voltiger	0	1.28
+voltigeait	vOl-ti-ZE	vol-ti-geait	VER			voltiger	0	0.07
+voltigeant	vOl-ti-Z@	vol-ti-geant	VER			voltiger	0.14	0.68
+voltigement	vOl-ti-Z°-m@	vol-ti-ge-ment	NOM	m	s		0	0.07
+voltigent	vOl-tiZ	vol-ti-gent	VER			voltiger	0.81	0.47
+voltiger	vOl-ti-Ze	vol-ti-ger	VER				0.21	0.95
+voltigèrent	vOl-ti-ZER	vol-ti-gè-rent	VER			voltiger	0	0.34
+voltiges	vOl-tiZ	vol-ti-ges	NOM	f	p	voltige	0	0.14
+voltigeur	vOl-ti-Z9R	vol-ti-geur	NOM	m	s		0.14	2.09
+voltigeurs	vOl-ti-Z9R	vol-ti-geurs	NOM	m	p	voltigeur	0.01	2.91
+voltmètre	vOl-tmEtR	volt-mè-tre	NOM	m	s		0.23	0.07
+volts	vOlt	volts	NOM	m	p	volt	1.6	0.27
+volubile	vo-ly-bil	vo-lu-bi-le	ADJ		s		0.05	3.72
+volubilement	vo-ly-bi-l°-m@	vo-lu-bi-le-ment	ADV				0	0.74
+volubiles	vo-ly-bil	vo-lu-bi-les	ADJ		p	volubile	0.02	1.01
+volubilis	vo-ly-bi-lis	vo-lu-bi-lis	NOM	m			0	1.35
+volubilité	vo-ly-bi-li-te	vo-lu-bi-li-té	NOM	f	s		0	1.55
+volume	vo-lym	vo-lu-me	NOM	m	s		5.45	16.35
+volumes	vo-lym	vo-lu-mes	NOM	m	p	volume	1.03	11.49
+volumétrique	vo-ly-me-tRik	vo-lu-mé-tri-que	ADJ		s		0.02	0
+volumineuse	vo-ly-mi-n2z	vo-lu-mi-neu-se	ADJ	f	s	volumineux	0.04	1.55
+volumineuses	vo-ly-mi-n2z	vo-lu-mi-neu-ses	ADJ	f	p	volumineux	0.1	0.47
+volumineux	vo-ly-mi-n2	vo-lu-mi-neux	ADJ	m			0.22	3.38
+volumique	vO-ly-mik		ADJ	f	s		0.01	0
+volupté	vo-lyp-te	vo-lup-té	NOM	f	s		3.27	10.2
+voluptés	vo-lyp-te	vo-lup-tés	NOM	f	p	volupté	0	1.22
+voluptueuse	vo-lyp-t82z	vo-lup-tueu-se	ADJ	f	s	voluptueux	0.41	1.96
+voluptueusement	vo-lyp-t82-z°-m@	vo-lup-tueu-se-ment	ADV				0.01	3.11
+voluptueuses	vo-lyp-t82z	vo-lup-tueu-ses	ADJ	f	p	voluptueux	0.11	0.95
+voluptueux	vo-lyp-t82	vo-lup-tueux	ADJ	m			0.1	4.46
+volute	vo-lyt	vo-lu-te	NOM	f	s		0	0.41
+volutes	vo-lyt	vo-lu-tes	NOM	f	p	volute	0.03	6.28
+volvaires	vol-vER	vol-vai-res	NOM	f	p	volvaire	0	0.07
+volve	vOlv	vol-ve	NOM	f	s		0.01	0.07
+vomi	vo-mi	vo-mi	VER	m	s	vomir	5.19	2.7
+vomi	vo-mi	vo-mi	NOM	m	s		2.98	1.42
+vomie	vo-mi	vo-mie	VER	f	s	vomir	0.24	0.27
+vomies	vo-mi	vo-mies	VER	f	p	vomir	0.14	0.14
+vomique	vo-mik	vo-mi-que	ADJ	m	s		0	0.07
+vomir	vo-miR	vo-mir	VER				13.75	11.62
+vomira	vo-mi-Ra	vo-mi-ra	VER			vomir	0.09	0.14
+vomirai	vo-mi-RE	vo-mi-rai	VER			vomir	0.05	0
+vomirais	vo-mi-RE	vo-mi-rais	VER			vomir	0.18	0.07
+vomirait	vo-mi-RE	vo-mi-rait	VER			vomir	0.03	0.14
+vomiras	vo-mi-Ra	vo-mi-ras	VER			vomir	0.03	0.07
+vomirent	vo-miR	vo-mi-rent	VER			vomir	0	0.07
+vomirez	vo-mi-Re	vo-mi-rez	VER			vomir	0.04	0
+vomiront	vo-mi-R§	vo-mi-ront	VER			vomir	0.01	0.07
+vomis	vo-mi	vo-mis	VER	m	p	vomir	1.94	0.88
+vomis	vo-mi	vo-mis	NOM	m	p	vomi	0.53	0.07
+vomissaient	vo-mi-sE	vo-mis-saient	VER			vomir	0.28	0.41
+vomissais	vo-mi-sE	vo-mis-sais	VER			vomir	0.06	0.27
+vomissait	vo-mi-sE	vo-mis-sait	VER			vomir	0.33	2.3
+vomissant	vo-mi-s@	vo-mis-sant	VER			vomir	0.11	0.81
+vomissant	vo-mi-s@	vo-mis-sant	ADJ	m	s		0.04	0.27
+vomisse	vo-mis	vo-mis-se	VER			vomir	0.43	0.34
+vomissement	vo-mi-s°-m@	vo-mis-se-ment	NOM	m	s		0.44	0.61
+vomissements	vo-mi-s°-m@	vo-mis-se-ments	NOM	m	p	vomissement	0.88	0.95
+vomissent	vo-mis	vo-mis-sent	VER			vomir	0.61	0.2
+vomisseur	vo-mi-s9R	vo-mis-seur	ADJ	m	s		0.03	0.07
+vomissez	vo-mi-se	vo-mis-sez	VER			vomir	0.16	0.07
+vomissions	vo-mi-sj§	vo-mis-sions	VER			vomir	0	0.14
+vomissure	vo-mi-syR	vo-mis-su-re	NOM	f	s		0.2	0.34
+vomissures	vo-mi-syR	vo-mis-su-res	NOM	f	p	vomissure	0.33	0.81
+vomit	vo-mi	vo-mit	VER			vomir	2.45	2.64
+vomitif	vo-mi-tif	vo-mi-tif	NOM	m	s		0.04	0.2
+vomitif	vo-mi-tif	vo-mi-tif	ADJ	m	s		0.05	0.07
+vomitifs	vo-mi-tif	vo-mi-tif-s	ADJ	m	p	vomitif	0	0.07
+vomitifs	vo-mi-tif	vo-mi-tif-s	NOM	m	p	vomitif	0	0.07
+vomitives	vo-mi-tiv	vo-mi-ti-ves	ADJ	f	p	vomitif	0	0.14
+vomito negro	vo-mi-to-ne-gRo		NOM	m	s		0.01	0
+vomitoire	vo-mi-twaR		NOM	m	s		0.02	0
+vomitoires	vo-mi-twaR	vo-mi-toi-res	NOM	m	p	vomitoire	0.01	0.07
+vont	v§	vont	VER			aller	281.35	116.62
+vopo	vo-po		NOM	m	s		0	0.07
+vorace	vo-Ras	vo-ra-ce	ADJ		s		0.56	2.64
+voracement	vo-Ra-s°-m@	vo-ra-ce-ment	ADV				0.03	0.81
+voraces	vo-Ras	vo-ra-ces	ADJ		p	vorace	0.38	1.55
+voracité	vo-Ra-si-te	vo-ra-ci-té	NOM	f	s		0.07	1.69
+vortex	vOR-tEks	vor-tex	NOM	m			6.14	0.14
+vos	vo	vos	ADJ:pos				649.07	180.27
+vosgien	vo-Zj5	vos-gien	NOM	m	s		0	0.14
+vosgienne	vo-ZjEn	vos-gien-ne	ADJ	f	s	vosgien	0	0.14
+vota	vo-ta	vo-ta	VER			voter	0	0.27
+votaient	vo-tE	vo-taient	VER			voter	0.1	0.41
+votais	vo-tE	vo-tais	VER			voter	0.02	0
+votait	vo-tE	vo-tait	VER			voter	0.28	0.34
+votant	vo-t@	vo-tant	VER			voter	0.2	0.07
+votant	vo-t@	vo-tant	ADJ	m	s		0.01	0.07
+votant	vo-t@	vo-tant	NOM	m	s		0.03	0
+votants	vo-t@	vo-tants	NOM	m	p	votant	0.15	0.2
+votants	vo-t@	vo-tants	ADJ	m	p	votant	0.15	0
+vote	vOt	vo-te	NOM	m	s		11.62	3.72
+vote	vOt	vo-te	VER			voter	4.31	1.22
+voté	vo-te	vo-té	VER	m	s	voter	7.11	1.76
+votée	vo-te	vo-tée	VER	f	s	voter	0.9	0.34
+votées	vo-te	vo-tées	VER	f	p	voter	0.03	0.07
+votent	vOt	vo-tent	VER			voter	1.48	0.41
+voter	vo-te	vo-ter	VER				7.96	2.64
+votera	vO-t°-Ra	vo-te-ra	VER			voter	0.67	0.14
+voterai	vO-t°-RE	vo-te-rai	VER			voter	0.43	0
+voterais	vO-t°-RE	vo-te-rais	VER			voter	0.2	0
+voterait	vO-t°-RE	vo-te-rait	VER			voter	0.21	0
+voteras	vO-t°-Ra	vo-te-ras	VER			voter	0.02	0
+votèrent	vo-tER	vo-tè-rent	VER			voter	0.02	0
+voterez	vO-t°-Re	vo-te-rez	VER			voter	0.12	0.14
+voterons	vO-t°-R§	vo-te-rons	VER			voter	0.17	0.07
+voteront	vO-t°-R§	vo-te-ront	VER			voter	0.34	0
+votes	vOt	vo-tes	NOM	m	p	vote	3.42	0.74
+votes	vOt	vo-tes	VER			voter	0.36	0.41
+votés	vo-te	vo-tés	VER	m	p	voter	0.01	0.2
+votez	vo-te	vo-tez	VER			voter	3.66	0
+votiez	vo-tje	vo-tiez	VER			voter	0.02	0
+votif	vo-tif	vo-tif	ADJ	m	s		0.01	0
+votifs	vo-tif	vo-tif-s	ADJ	m	p	votif	0	0.07
+votions	vo-tj§	vo-tions	VER			voter	0.03	0.07
+votive	vo-tiv	vo-ti-ve	ADJ	f	s	votif	0.11	0.34
+votives	vo-tiv	vo-ti-ves	ADJ	f	p	votif	0.01	0.41
+votons	vo-t§	vo-tons	VER			voter	0.95	0
+votre	vOtR	vo-tre	ADJ:pos				1894.09	427.91
+votre	vOtR	vo-tre	PRO:pos		s		0.32	0
+vôtre	votR	vô-tre	PRO:pos		s		33.05	11.69
+vôtre	votR	vô-tre	ADJ:pos		s		1.61	0.95
+vôtres	votR	vô-tres	PRO:pos		p		12.14	4.39
+vôtres	votR	vô-tres	ADJ:pos		p		0.34	0
+voua	vwa	voua	VER			vouer	0.03	0.41
+vouai	vwE	vouai	VER			vouer	0	0.07
+vouaient	vwE	vouaient	VER			vouer	0.17	0.41
+vouais	vwE	vouais	VER			vouer	0.71	0.41
+vouait	vwE	vouait	VER			vouer	0.15	1.82
+vouant	vw@	vouant	VER			vouer	0.01	0.14
+voudra	vu-dRa	vou-dra	VER			vouloir	21.62	12.03
+voudrai	vu-dRE	vou-drai	VER			vouloir	4.06	1.62
+voudraient	vu-dRE	vou-draient	VER			vouloir	6.02	6.42
+voudrais	vu-dRE	vou-drais	VER			vouloir	194.56	92.09
+voudrait	vu-dRE	vou-drait	VER			vouloir	44.48	43.45
+voudras	vu-dRa	vou-dras	VER			vouloir	26.03	10.27
+voudrez	vu-dRe	vou-drez	VER			vouloir	19.77	10.41
+voudriez	vu-dRi-je	vou-driez	VER			vouloir	19.29	4.19
+voudrions	vu-dRi-j§	vou-drions	VER			vouloir	5.14	1.82
+voudrons	vu-dR§	vou-drons	VER			vouloir	0.32	0.27
+voudront	vu-dR§	vou-dront	VER			vouloir	6.93	3.38
+voue	vu	voue	VER			vouer	0.51	0.95
+voué	vwe	voué	VER	m	s	vouer	2.47	5.14
+voué	vwe	voué	ADJ	m	s		0.05	0.14
+vouée	vwe	vouée	VER	f	s	vouer	1.42	4.12
+vouée	vwe	vouée	ADJ	f	s	voué	0	0.14
+vouées	vwe	vouées	VER	f	p	vouer	0.14	0.81
+vouées	vwe	vouées	ADJ	f	p	voué	0	0.07
+vouent	vu	vouent	VER			vouer	0.25	0.07
+vouer	vwe	vouer	VER				0.42	2.43
+vouera	vu-Ra	voue-ra	VER			vouer	0.01	0.07
+vouerait	vu-RE	voue-rait	VER			vouer	0	0.07
+vouèrent	vwER	vouè-rent	VER			vouer	0	0.07
+voués	vwe	voués	VER	m	p	vouer	0.27	1.82
+voués	vwe	voués	ADJ	m	p	voué	0.01	0.14
+vouge	vuZ	vou-ge	NOM	f	s		0.01	0.14
+vouivre	vwivR	voui-vre	NOM	f	s		0	3.04
+vouivres	vwivR	voui-vres	NOM	f	p	vouivre	0	0.14
+voulaient	vu-lE	vou-laient	VER			vouloir	28.88	30.2
+voulais	vu-lE	vou-lais	VER			vouloir	415.76	107.3
+voulait	vu-lE	vou-lait	VER			vouloir	192.15	225.34
+voulant	vu-l@	vou-lant	VER			vouloir	4.28	18.45
+voulez	vu-le	vou-lez	VER			vouloir	553.4	113.58
+voulez	vu-le	vou-lez	VER			vouler	0.01	0
+vouliez	vu-lje	vou-liez	VER			vouloir	43.78	5.81
+voulions	vu-lj§	vou-lions	VER			vouloir	9.07	6.08
+vouloir	vu-lwaR	vou-loir	VER				63.87	62.97
+vouloir	vu-lwaR	vou-loir	NOM	m	s		1.28	2.43
+vouloirs	vu-lwaR	vou-loirs	NOM	m	p	vouloir	0	0.14
+voulons	vu-l§	vou-lons	VER			vouloir	40.38	9.53
+voulu	vu-ly	vou-lu	VER	m	s	vouloir	151.04	174.19
+voulu	vu-ly	vou-lu	ADJ	m	s		3.75	5.2
+voulue	vu-ly	vou-lue	VER	f	s	vouloir	0.91	2.7
+voulue	vu-ly	vou-lue	ADJ	f	s	voulu	0.34	2.03
+voulues	vu-ly	vou-lues	ADJ	f	p	voulu	0.18	0.68
+voulues	vu-ly	vou-lues	VER	f	p	vouloir	0.05	0.68
+voulûmes	vu-lym	vou-lû-mes	VER			vouloir	0	0.07
+voulurent	vu-lyR	vou-lu-rent	VER			vouloir	0.4	2.3
+voulus	vu-ly	vou-lus	VER	m	p	vouloir	0.36	6.22
+voulus	vu-ly	vou-lus	ADJ	m	p	voulu	0.15	1.22
+voulusse	vu-lys	vou-lus-se	VER			vouloir	0	0.34
+voulussent	vu-lys	vou-lus-sent	VER			vouloir	0	0.41
+voulut	vu-ly	vou-lut	VER			vouloir	2.42	36.89
+voulût	vu-ly	vou-lût	VER			vouloir	0	3.72
+vouons	vw§	vouons	VER			vouer	0.31	0.14
+vous	vu	vous	PRO:per		p		13589.7	3507.16
+vous-même	vu-mEm	vous-même	PRO:per		p		28.2	17.84
+vous-mêmes	vu-mEm	vous-mêmes	PRO:per		p		4.3	1.55
+vousoyait	vu-swa-jE	vou-soyait	VER			vousoyer	0	0.07
+vousoyez	vu-swa-je	vou-soyez	VER			vousoyer	0	0.07
+voussoie	vu-swa	vous-soie	VER			voussoyer	0	0.07
+voussoiement	vu-swa-m@	vous-soie-ment	NOM	m	s		0	0.34
+voussoient	vu-swa	vous-soient	VER			voussoyer	0	0.07
+voussoyait	vu-swa-jE	vous-soyait	VER			voussoyer	0	0.14
+voussoyer	vu-swa-je	vous-soyer	VER				0	0.2
+voussoyez	vu-swa-je	vous-soyez	VER			voussoyer	0.02	0
+voussure	vu-syR	vous-su-re	NOM	f	s		0	0.54
+voussures	vu-syR	vous-su-res	NOM	f	p	voussure	0	0.27
+voûta	vu-ta	voû-ta	VER			voûter	0	0.2
+voûtaient	vu-tE	voû-taient	VER			voûter	0	0.14
+voûtait	vu-tE	voû-tait	VER			voûter	0	0.54
+voûtant	vu-t@	voû-tant	VER			voûter	0	0.14
+voûtât	vu-ta	voû-tât	VER			voûter	0	0.07
+voûte	vut	voû-te	NOM	f	s		1.71	18.85
+voûte	vut	voû-te	VER			voûter	0.02	0.54
+voûté	vu-te	voû-té	ADJ	m	s		0.35	6.89
+voûté	vu-te	voû-té	VER	m	s	voûter	0.01	1.69
+voûtée	vu-te	voû-tée	ADJ	f	s	voûté	0.01	2.5
+voûtée	vu-te	voû-tée	VER	f	s	voûter	0	1.22
+voûtées	vu-te	voû-tées	ADJ	f	p	voûté	0.01	1.42
+voûtées	vu-te	voû-tées	VER	f	p	voûter	0	0.27
+voûtent	vut	voû-tent	VER			voûter	0	0.14
+voûter	vu-te	voû-ter	VER				0.01	0.34
+voûtèrent	vu-tER	voû-tè-rent	VER			voûter	0	0.14
+voûtes	vut	voû-tes	NOM	f	p	voûte	0.5	8.24
+voûtes	vut	voû-tes	VER			voûter	0.14	0
+voûtés	vu-te	voû-tés	ADJ	m	p	voûté	0.04	1.01
+voûtés	vu-te	voû-tés	VER	m	p	voûter	0	0.14
+vouvoie	vu-vwa	vou-voie	VER			vouvoyer	0.27	0.14
+vouvoiement	vu-vwa-m@	vou-voie-ment	NOM	m	s		0	0.41
+vouvoiements	vu-vwa-m@	vou-voie-ments	NOM	m	p	vouvoiement	0	0.07
+vouvoient	vu-vwa	vou-voient	VER			vouvoyer	0	0.07
+vouvoies	vu-vwa	vou-voies	VER			vouvoyer	0.02	0.07
+vouvoya	vu-vwa-ja	vou-voya	VER			vouvoyer	0	0.07
+vouvoyait	vu-vwa-jE	vou-voyait	VER			vouvoyer	0.01	0.81
+vouvoyant	vu-vwa-j@	vou-voyant	VER			vouvoyer	0	0.14
+vouvoyer	vu-vwa-je	vou-voyer	VER				0.49	0.07
+vouvray	vu-vRE	vou-vray	NOM	m	s		0	0.07
+vox populi	vOk-spo-py-li	vox po-pu-li	NOM	f			0.05	0.27
+vox populi	vOk-spo-py-li	vox po-pu-li	ADV				0.02	0.14
+voyage	vwa-jaZ	voya-ge	NOM	m	s		112.19	110.54
+voyage	vwa-jaZ	voya-ge	VER			voyager	10.01	4.59
+voyagé	vwa-ja-Ze	voya-gé	VER	m	s	voyager	5.9	4.93
+voyagea	vwa-ja-Za	voya-gea	VER			voyager	0.06	0.54
+voyageaient	vwa-ja-ZE	voya-geaient	VER			voyager	0.3	1.49
+voyageais	vwa-ja-ZE	voya-geais	VER			voyager	0.62	0.47
+voyageait	vwa-ja-ZE	voya-geait	VER			voyager	1.27	2.91
+voyageant	vwa-ja-Z@	voya-geant	VER			voyager	0.71	0.54
+voyagent	vwa-jaZ	voya-gent	VER			voyager	1.71	1.22
+voyageons	vwa-ja-Z§	voya-geons	VER			voyager	0.62	0.27
+voyager	vwa-ja-Ze	voya-ger	VER				19.45	9.19
+voyagera	vwa-ja-Z°-Ra	voya-ge-ra	VER			voyager	0.41	0
+voyagerai	vwa-ja-Z°-RE	voya-ge-rai	VER			voyager	0.16	0.07
+voyagerais	vwa-ja-Z°-RE	voya-ge-rais	VER			voyager	0.08	0.07
+voyagerait	vwa-ja-Z°-RE	voya-ge-rait	VER			voyager	0.22	0.27
+voyageras	vwa-ja-Z°-Ra	voya-ge-ras	VER			voyager	0.28	0.07
+voyagèrent	vwa-ja-ZER	voya-gè-rent	VER			voyager	0.01	0.14
+voyagerez	vwa-ja-Z°-Re	voya-ge-rez	VER			voyager	0.07	0
+voyageriez	vwa-ja-Z°-Rje	voya-ge-riez	VER			voyager	0.02	0
+voyagerons	vwa-ja-Z°-R§	voya-ge-rons	VER			voyager	0.24	0.07
+voyageront	vwa-ja-Z°-R§	voya-ge-ront	VER			voyager	0.02	0
+voyages	vwa-jaZ	voya-ges	NOM	m	p	voyage	10.98	29.53
+voyages	vwa-jaZ	voya-ges	VER			voyager	1.27	0.2
+voyages-éclair	vwa-ja-Ze-klER	voyages-éclair	NOM	m	p	voyage-éclair	0	0.07
+voyageur	vwa-ja-Z9R	voya-geur	NOM	m	s		3.17	20.88
+voyageur	vwa-ja-Z9R	voya-geur	ADJ	m	s		1.91	2.77
+voyageurs	vwa-ja-Z9R	voya-geurs	NOM	m	p	voyageur	4.68	20.74
+voyageurs	vwa-ja-Z9R	voya-geurs	ADJ	m	p	voyageur	1.11	1.62
+voyageuse	vwa-ja-Z2z	voya-geu-se	NOM	f	s	voyageur	0.26	1.08
+voyageuse	vwa-ja-Z2z	voya-geu-se	ADJ	f	s	voyageur	0.01	0.2
+voyageuses	vwa-ja-Z2z	voya-geu-ses	NOM	f	p	voyageur	0	0.68
+voyageuses	vwa-ja-Z2z	voya-geu-ses	ADJ	f	p	voyageur	0	0.07
+voyagez	vwa-ja-Ze	voya-gez	VER			voyager	1.69	0.14
+voyagiez	vwa-ja-Zje	voya-giez	VER			voyager	0.28	0
+voyagions	vwa-ja-Zj§	voya-gions	VER			voyager	0.34	0.34
+voyaient	vwa-jE	voyaient	VER			voir	3.03	21.35
+voyais	vwa-jE	voyais	VER			voir	31.14	90.27
+voyait	vwa-jE	voyait	VER			voir	25.32	180.95
+voyance	vwa-j@s	voyan-ce	NOM	f	s		0.71	0.68
+voyances	vwa-j@s	voyan-ces	NOM	f	p	voyance	0	0.07
+voyant	vwa-j@	voyant	VER			voir	17.16	42.64
+voyant	vwa-j@	voyant	ADJ	m	s		1.96	4.73
+voyant	vwa-j@	voyant	NOM	m	s		1.97	3.45
+voyante	vwa-j@t	voyan-te	NOM	f	s	voyant	1.6	2.57
+voyante	vwa-j@t	voyan-te	ADJ	f	s	voyant	1.21	1.96
+voyantes	vwa-j@t	voyan-tes	ADJ	f	p	voyant	0.22	0.88
+voyantes	vwa-j@t	voyan-tes	NOM	f	p	voyant	0.13	0.74
+voyants	vwa-j@	voyants	NOM	m	p	voyant	0.56	1.89
+voyants	vwa-j@	voyants	ADJ	m	p	voyant	0.16	1.01
+voyelle	vwa-jEl	voyel-le	NOM	f	s		0.36	0.47
+voyelles	vwa-jEl	voyel-les	NOM	f	p	voyelle	0.35	1.28
+voyer	vwa-je	voyer	NOM	m	s		0.16	0
+voyer	vwa-je	voyer	ADJ	m	s		0.01	0
+voyeur	vwa-j9R	voyeur	NOM	m	s		2.94	2.77
+voyeurisme	vwa-j9-Rizm	voyeu-ris-me	NOM	m	s		0.13	0.34
+voyeurs	vwa-j9R	voyeurs	NOM	m	p	voyeur	0.76	1.35
+voyeuse	vwa-j2z	voyeu-se	NOM	f	s	voyeur	0.02	0.14
+voyez	vwa-je	voyez	VER			voir	191.63	83.65
+voyiez	vwaj-je	voyiez	VER			voir	4.47	1.96
+voyions	vwaj-j§	voyions	VER			voir	0.88	4.8
+voyons	vwa-j§	voyons	VER			voir	127.93	44.8
+voyou	vwa-ju	voyou	NOM	m	s		11.69	14.59
+voyoucratie	vwa-ju-kRa-si	voyou-cra-tie	NOM	f	s		0	0.27
+voyous	vwa-ju	voyous	NOM	m	p	voyou	9.41	10.47
+voyoute	vwa-jut	voyou-te	ADJ	f	s	voyou	0	0.27
+voyoute	vwa-jut	voyou-te	NOM	f	s	voyou	0	0.07
+voyouterie	vwa-ju-t°-Ri	voyou-te-rie	NOM	f	s		0	0.34
+voyoutes	vwa-jut	voyou-tes	ADJ	f	p	voyou	0	0.2
+voyoutisme	vwa-ju-tizm	voyou-tis-me	NOM	m	s		0	0.07
+vrac	vRak	vrac	NOM	m	s		1.17	5.2
+vrai	vRE	vrai	ADJ	m	s		678.47	311.89
+vrai	vRE	vrai	NOM	m	s		34.59	32.7
+vrai-faux	vRE-fo		ADJ	m	s		0	0.07
+vraie	vRE	vraie	ADJ	f	s	vrai	83.64	77.57
+vraies	vRE	vraies	ADJ	f	p	vrai	13.91	16.76
+vraiment	vRE-m@	vrai-ment	ADV				968.57	274.32
+vrais	vRE	vrais	ADJ	m	p	vrai	31.01	23.85
+vrais	vRE	vrais	NOM	m	p	vrai	2.98	5.07
+vraisemblable	vRE-s@-blabl	vrai-sem-bla-ble	ADJ		s		0.89	5.54
+vraisemblablement	vRE-s@-bla-bl°-m@	vrai-sem-bla-ble-ment	ADV				1.39	5.68
+vraisemblables	vRE-s@-blabl	vrai-sem-bla-bles	ADJ	m	p	vraisemblable	0	0.2
+vraisemblance	vRE-s@-bl@s	vrai-sem-blan-ce	NOM	f	s		0.09	2.77
+vraisemblances	vRE-s@-bl@s	vrai-sem-blan-ces	NOM	f	p	vraisemblance	0.03	0.14
+vraquier	vRa-kje	vra-quier	NOM	m	s		0	0.07
+vrilla	vRi-ja	vril-la	VER			vriller	0	0.41
+vrillaient	vRi-jE	vril-laient	VER			vriller	0	0.14
+vrillait	vRi-jE	vril-lait	VER			vriller	0	0.54
+vrillant	vRi-j@	vril-lant	VER			vriller	0.01	0.61
+vrille	vRij	vril-le	NOM	f	s		0.65	1.82
+vrille	vRij	vril-le	VER			vriller	0.02	0.68
+vrillé	vRi-je	vril-lé	VER	m	s	vriller	0.09	0.2
+vrillé	vRi-je	vril-lé	ADJ	m	s		0.01	0.07
+vrillées	vRi-je	vril-lées	VER	f	p	vriller	0	0.14
+vrillement	vRi-j°-m@		NOM	m	s		0	0.07
+vrillent	vRij	vril-lent	VER			vriller	0	0.14
+vriller	vRi-je	vril-ler	VER				0	0.14
+vrillèrent	vRi-jER	vril-lè-rent	VER			vriller	0	0.07
+vrilles	vRij	vril-les	NOM	f	p	vrille	0.07	0.74
+vrilles	vRij	vril-les	VER			vriller	0.01	0
+vrillés	vRi-je	vril-lés	VER	m	p	vriller	0	0.14
+vrillés	vRi-je	vril-lés	ADJ	m	p	vrillé	0	0.07
+vrillette	vRi-jEt		NOM	f	s		0.01	0
+vrillettes	vRi-jEt	vril-let-tes	NOM	f	p	vrillette	0	0.07
+vrombir	vR§-biR	vrom-bir	VER				0.02	0.27
+vrombis	vR§-bi	vrom-bis	VER			vrombir	0	0.07
+vrombissaient	vR§-bi-sE	vrom-bis-saient	VER			vrombir	0.02	0.07
+vrombissait	vR§-bi-sE	vrom-bis-sait	VER			vrombir	0	0.27
+vrombissant	vR§-bi-s@	vrom-bis-sant	VER			vrombir	0.01	0.27
+vrombissant	vR§-bi-s@	vrom-bis-sant	ADJ	m	s		0.01	0.07
+vrombissante	vR§-bi-s@t	vrom-bis-san-te	ADJ	f	s	vrombissant	0	0.27
+vrombissantes	vR§-bi-s@t	vrom-bis-san-tes	ADJ	f	p	vrombissant	0	0.34
+vrombissement	vR§-bi-s°-m@	vrom-bis-se-ment	NOM	m	s		0.47	1.15
+vrombissements	vR§-bi-s°-m@	vrom-bis-se-ments	NOM	m	p	vrombissement	0	0.2
+vrombissent	vR§-bis	vrom-bis-sent	VER			vrombir	0	0.14
+vrombissions	vR§-bi-sj§	vrom-bis-sions	VER			vrombir	0	0.07
+vrombit	vR§-bi	vrom-bit	VER			vrombir	0.21	0.81
+vroom	vRum	vroom	ONO				0.07	0.41
+vroum	vRum	vroum	ONO				0.38	0.34
+vu	vy	vu	VER	m	s	voir	905.21	393.45
+vu	vy	vu	ADJ	m	s		43.03	22.43
+vu	vy	vu	NOM	m	s		2.62	1.49
+vue	vy	vue	NOM	f	s		84.42	136.01
+vue	vy	vue	VER	f	s	voir	109.21	56.35
+vue	vy	vue	ADJ	f	s	vu	4.38	7.57
+vues	vy	vues	VER	f	p	voir	9.31	8.11
+vues	vy	vues	NOM	f	p	vue	3.42	8.38
+vues	vy	vues	ADJ	f	p	vu	1	1.28
+vulcain	vyl-k5	vul-cain	NOM	m	s		0.06	0
+vulcanienne	vyl-ka-njEn	vul-ca-nien-ne	ADJ	f	s		0.01	0
+vulcanisait	vyl-ka-ni-zE	vul-ca-ni-sait	VER			vulcaniser	0	0.07
+vulcanisation	vyl-ka-ni-za-sj§	vul-ca-ni-sa-tion	NOM	f	s		0	0.07
+vulcanisé	vyl-ka-ni-ze	vul-ca-ni-sé	ADJ	m	s		0.01	0.14
+vulcaniser	vyl-ka-ni-ze		VER				0.01	0
+vulcanologue	vyl-ka-no-lOg	vul-ca-no-lo-gue	NOM		s		0	0.07
+vulgaire	vyl-gER	vul-gai-re	ADJ		s		8.48	12.84
+vulgaire	vyl-gER	vul-gai-re	NOM	m	s		1.42	1.96
+vulgairement	vyl-gE-R°-m@	vul-gai-re-ment	ADV				0.4	1.22
+vulgaires	vyl-gER	vul-gai-res	ADJ		p	vulgaire	1.88	3.92
+vulgaires	vyl-gER	vul-gai-res	NOM	m	p	vulgaire	0.35	0.27
+vulgarisateurs	vyl-ga-Ri-za-t9R	vul-ga-ri-sa-teurs	NOM	m	p	vulgarisateur	0	0.07
+vulgarisation	vyl-ga-Ri-za-sj§	vul-ga-ri-sa-tion	NOM	f	s		0.01	0.34
+vulgarisations	vyl-ga-Ri-za-sj§	vul-ga-ri-sa-tions	NOM	f	p	vulgarisation	0	0.07
+vulgarisée	vyl-ga-Ri-ze	vul-ga-ri-sée	ADJ	f	s	vulgarisé	0	0.07
+vulgariser	vyl-ga-Ri-ze	vul-ga-ri-ser	VER				0.01	0.14
+vulgarité	vyl-ga-Ri-te	vul-ga-ri-té	NOM	f	s		1.59	5.34
+vulgarités	vyl-ga-Ri-te	vul-ga-ri-tés	NOM	f	p	vulgarité	0.17	0.34
+vulgate	vyl-gat	vul-ga-te	NOM	f	s		0	0.2
+vulgum pecus	vyl-gOm-pe-kys	vul-gum pe-cus	NOM	m			0.01	0.07
+vulnérabilité	vyl-ne-Ra-bi-li-te	vul-né-ra-bi-li-té	NOM	f	s		0.77	1.01
+vulnérable	vyl-ne-Rabl	vul-né-ra-ble	ADJ		s		6	6.35
+vulnérables	vyl-ne-Rabl	vul-né-ra-bles	ADJ		p	vulnérable	1.77	1.62
+vulnéraire	vyl-ne-RER	vul-né-rai-re	NOM		s		0	0.14
+vulnéraire	vyl-ne-RER	vul-né-rai-re	ADJ		s		0	0.07
+vulnéraires	vyl-ne-RER	vul-né-rai-res	NOM		p	vulnéraire	0	0.07
+vulnérant	vyl-ne-R@	vul-né-rant	ADJ	m	s		0	0.07
+vulpin	vyl-p5	vul-pin	NOM	m	s		0	0.07
+vulvaire	vyl-vER		NOM	f	s		0.03	0
+vulvaires	vyl-vER	vul-vai-res	NOM	f	p	vulvaire	0	0.07
+vulve	vylv	vul-ve	NOM	f	s		0.32	0.95
+vulves	vylv	vul-ves	NOM	f	p	vulve	0	0.41
+vus	vy	vus	VER	m	p	voir	47.81	28.72
+vus	vy	vus	ADJ	m	p	vu	1.12	0.95

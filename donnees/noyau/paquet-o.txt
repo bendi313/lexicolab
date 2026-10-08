@@ -1,0 +1,2581 @@
+o	o	o	NOM	m			57.07	11.49
+o	o	o					0.01	0
+ô	o	ô	ONO				16.08	33.11
+oaristys	o-a-Ris-tis	oa-ris-tys	NOM	f			0	0.07
+oasis	o-a-zis	oa-sis	NOM	f			1.61	6.42
+ob	Ob		NOM	m	s		0.25	0.07
+obédience	o-be-dj@s	o-bé-dien-ce	NOM	f	s		0.14	2.3
+obédiences	o-be-dj@s	o-bé-dien-ces	NOM	f	p	obédience	0	0.07
+obéi	o-be-i	o-béi	VER	m	s	obéir	3.38	4.59
+obéie	o-be-i	o-béie	VER	f	s	obéir	0.01	0.27
+obéîmes	o-be-im	o-béî-mes	VER			obéir	0.01	0.07
+obéir	o-be-iR	o-béir	VER				13.76	14.26
+obéira	o-be-i-Ra	o-béi-ra	VER			obéir	0.86	0.61
+obéirai	o-be-i-RE	o-béi-rai	VER			obéir	1.47	0.2
+obéiraient	o-be-i-RE	o-béi-raient	VER			obéir	0.01	0.07
+obéirais	o-be-i-RE	o-béi-rais	VER			obéir	0.06	0.07
+obéirait	o-be-i-RE	o-béi-rait	VER			obéir	0.03	0.07
+obéiras	o-be-i-Ra	o-béi-ras	VER			obéir	0.32	0.14
+obéirent	o-be-iR	o-béi-rent	VER			obéir	0	0.54
+obéirez	o-be-i-Re	o-béi-rez	VER			obéir	0.33	0.07
+obéiriez	o-be-i-Rje	o-béi-riez	VER			obéir	0.03	0.07
+obéirons	o-be-i-R§	o-béi-rons	VER			obéir	0.24	0.07
+obéiront	o-be-i-R§	o-béi-ront	VER			obéir	0.21	0.07
+obéis	o-be-i	o-béis	VER	m	p	obéir	10.93	2.91
+obéissaient	o-be-i-sE	o-béis-saient	VER			obéir	0.46	1.15
+obéissais	o-be-i-sE	o-béis-sais	VER			obéir	0.36	0.54
+obéissait	o-be-i-sE	o-béis-sait	VER			obéir	0.36	4.05
+obéissance	o-be-i-s@s	o-béis-san-ce	NOM	f	s		4.24	5.07
+obéissant	o-be-i-s@	o-béis-sant	VER			obéir	0.71	3.58
+obéissant	o-be-i-s@	o-béis-sant	ADJ	m	s		0.99	1.15
+obéissante	o-be-i-s@t	o-béis-san-te	ADJ	f	s	obéissant	1.1	0.41
+obéissantes	o-be-i-s@t	o-béis-san-tes	ADJ	f	p	obéissant	0.11	0.34
+obéissants	o-be-i-s@	o-béis-sants	ADJ	m	p	obéissant	0.39	0.41
+obéisse	o-be-is	o-béis-se	VER			obéir	0.39	0.41
+obéissent	o-be-is	o-béis-sent	VER			obéir	2.04	1.55
+obéisses	o-be-is	o-béis-ses	VER			obéir	0.05	0.07
+obéissez	o-be-i-se	o-béis-sez	VER			obéir	4.88	0.27
+obéissiez	o-be-i-sje	o-béis-siez	VER			obéir	0.19	0.07
+obéissions	o-be-i-sj§	o-béis-sions	VER			obéir	0	0.41
+obéissons	o-be-i-s§	o-béis-sons	VER			obéir	0.49	0.07
+obéit	o-be-i	o-béit	VER			obéir	3.54	9.66
+obélisque	o-be-lisk	o-bé-lis-que	NOM	m	s		0.1	0.74
+obélisques	o-be-lisk	o-bé-lis-ques	NOM	m	p	obélisque	0.27	0.47
+obérant	o-be-R@	o-bé-rant	VER			obérer	0	0.07
+obère	o-bER	o-bè-re	VER			obérer	0	0.07
+obérer	o-be-Re	o-bé-rer	VER				0	0.07
+obèse	o-bEz	o-bè-se	ADJ		s		1.11	2.57
+obèse	o-bEz	o-bè-se	NOM		s		0.62	0.95
+obèses	o-bEz	o-bè-ses	ADJ		p	obèse	0.29	1.01
+obèses	o-bEz	o-bè-ses	NOM		p	obèse	0.28	0.34
+obésité	o-be-zi-te	o-bé-si-té	NOM	f	s		0.73	0.95
+obésités	o-be-zi-te	o-bé-si-tés	NOM	f	p	obésité	0	0.14
+obi	o-bi	o-bi	NOM	f	s		0.3	0.07
+obituaire	o-bi-t8ER	o-bi-tuai-re	ADJ		s		0	0.07
+objecta	Ob-ZEk-ta	ob-jec-ta	VER			objecter	0	2.43
+objectai	Ob-ZEk-tE	ob-jec-tai	VER			objecter	0	0.47
+objectais	Ob-ZEk-tE	ob-jec-tais	VER			objecter	0.01	0.07
+objectait	Ob-ZEk-tE	ob-jec-tait	VER			objecter	0.01	0.68
+objectal	Ob-ZEk-tal	ob-jec-tal	ADJ	m	s		0	0.07
+objectale	Ob-ZEk-tal		ADJ	f	s	objectal	0.01	0
+objectant	Ob-ZEk-t@	ob-jec-tant	VER			objecter	0	0.14
+objecte	Ob-ZEkt	ob-jec-te	VER			objecter	0.46	1.08
+objecté	Ob-ZEk-te	ob-jec-té	VER	m	s	objecter	0.04	0.81
+objectent	Ob-ZEkt	ob-jec-tent	VER			objecter	0	0.07
+objecter	Ob-ZEk-te	ob-jec-ter	VER				0.28	0.54
+objectera	Ob-ZEk-t°-Ra	ob-jec-te-ra	VER			objecter	0.01	0.07
+objectèrent	Ob-ZEk-tER	ob-jec-tè-rent	VER			objecter	0	0.07
+objecterez	Ob-ZEk-t°-Re	ob-jec-te-rez	VER			objecter	0.01	0.07
+objecteront	Ob-ZEk-t°-R§	ob-jec-te-ront	VER			objecter	0.01	0
+objecteur	Ob-ZEk-t9R	ob-jec-teur	NOM	m	s		0.36	0.2
+objecteurs	Ob-ZEk-t9R	ob-jec-teurs	NOM	m	p	objecteur	0.07	0
+objectez	Ob-ZEk-te	ob-jec-tez	VER			objecter	0.03	0
+objectif	Ob-ZEk-tif	ob-jec-tif	NOM	m	s		15.44	9.19
+objectif	Ob-ZEk-tif	ob-jec-tif	ADJ	m	s		2.21	1.69
+objectifs	Ob-ZEk-tif	ob-jec-tif-s	NOM	m	p	objectif	3.46	3.24
+objectifs	Ob-ZEk-tif	ob-jec-tif-s	ADJ	m	p	objectif	0.55	0.2
+objection	Ob-ZEk-sj§	ob-jec-tion	NOM	f	s		12.07	3.78
+objections	Ob-ZEk-sj§	ob-jec-tions	NOM	f	p	objection	2.1	4.19
+objections	Ob-ZEk-tj§	ob-jec-tions	VER			objecter	0.01	0
+objectivation	Ob-ZEk-ti-va-sj§		NOM	f	s		0.11	0
+objective	Ob-ZEk-tiv	ob-jec-ti-ve	ADJ	f	s	objectif	1.34	1.42
+objective	Ob-ZEk-tiv	ob-jec-ti-ve	VER			objectiver	0.17	0
+objectivement	Ob-ZEk-ti-v°-m@	ob-jec-ti-ve-ment	ADV				0.41	1.82
+objectivent	Ob-ZEk-tiv	ob-jec-ti-vent	VER			objectiver	0.01	0.07
+objectives	Ob-ZEk-tiv	ob-jec-ti-ves	ADJ	f	p	objectif	0.2	0.41
+objectivité	Ob-ZEk-ti-vi-te	ob-jec-ti-vi-té	NOM	f	s		0.89	0.68
+objet	Ob-ZE	ob-jet	NOM	m	s		26.88	67.09
+objets	Ob-ZE	ob-jets	NOM	m	p	objet	19.06	57.23
+objurgation	Ob-ZyR-ga-sj§	ob-jur-ga-tion	NOM	f	s		0	0.14
+objurgations	Ob-ZyR-ga-sj§	ob-jur-ga-tions	NOM	f	p	objurgation	0	1.89
+objurgua	Ob-ZyR-ga	ob-jur-gua	VER			objurguer	0	0.07
+objurguant	Ob-ZyR-g@	ob-jur-guant	VER			objurguer	0	0.07
+oblatif	o-bla-tif	o-bla-tif	ADJ	m	s		0	0.07
+oblation	o-bla-sj§	o-bla-tion	NOM	f	s		0	0.2
+oblative	o-bla-tiv	o-bla-ti-ve	ADJ	f	s	oblatif	0	0.14
+oblats	o-bla	o-blats	NOM	m	p	oblat	0	0.07
+obligado	o-bli-ga-do	o-bli-ga-do	ADV				0	0.14
+obligataire	o-bli-ga-tER	o-bli-ga-tai-re	ADJ	m	s		0.01	0
+obligataires	o-bli-ga-tER	o-bli-ga-tai-res	ADJ	m	p	obligataire	0.01	0
+obligation	o-bli-ga-sj§	o-bli-ga-tion	NOM	f	s		6.66	9.12
+obligations	o-bli-ga-sj§	o-bli-ga-tions	NOM	f	p	obligation	4.69	6.62
+obligatoire	o-bli-ga-twaR	o-bli-ga-toi-re	ADJ		s		5.18	6.49
+obligatoirement	o-bli-ga-twa-R°-m@	o-bli-ga-toi-re-ment	ADV				1.13	3.04
+obligatoires	o-bli-ga-twaR	o-bli-ga-toi-res	ADJ		p	obligatoire	0.39	1.49
+oblige	o-bliZ	o-bli-ge	VER			obliger	14.74	12.97
+obligé	o-bli-Ze	o-bli-gé	VER	m	s	obliger	36.43	35.07
+obligé	o-bli-Ze	o-bli-gé	ADJ	m	s		5.48	4.39
+obligé	o-bli-Ze	o-bli-gé	NOM	m	s		1.24	1.15
+obligea	o-bli-Za	o-bli-gea	VER			obliger	0.47	4.39
+obligeai	o-bli-ZE	o-bli-geai	VER			obliger	0	0.34
+obligeaient	o-bli-ZE	o-bli-geaient	VER			obliger	0.17	2.43
+obligeais	o-bli-ZE	o-bli-geais	VER			obliger	0.04	0.47
+obligeait	o-bli-ZE	o-bli-geait	VER			obliger	1.4	9.32
+obligeamment	o-bli-Za-m@	o-bli-geam-ment	ADV				0	0.68
+obligeance	o-bli-Z@s	o-bli-gean-ce	NOM	f	s		0.84	1.55
+obligeances	o-bli-Z@s	o-bli-gean-ces	NOM	f	p	obligeance	0.01	0.07
+obligeant	o-bli-Z@	o-bli-geant	VER			obliger	0.45	4.19
+obligeant	o-bli-Z@	o-bli-geant	ADJ	m	s		0.17	1.08
+obligeante	o-bli-Z@t	o-bli-gean-te	ADJ	f	s	obligeant	0.14	0.14
+obligeantes	o-bli-Z@t	o-bli-gean-tes	ADJ	f	p	obligeant	0.01	0.2
+obligeants	o-bli-Z@	o-bli-geants	ADJ	m	p	obligeant	0.03	0.14
+obligeât	o-bli-Za	o-bli-geât	VER			obliger	0	0.54
+obligée	o-bli-Ze	o-bli-gée	VER	f	s	obliger	12.01	11.96
+obligée	o-bli-Ze	o-bli-gée	ADJ	f	s	obligé	3.36	1.69
+obligée	o-bli-Ze	o-bli-gée	NOM	f	s	obligé	0.14	0.27
+obligées	o-bli-Ze	o-bli-gées	VER	f	p	obliger	0.75	0.88
+obligées	o-bli-Ze	o-bli-gées	ADJ	f	p	obligé	0.08	0.27
+obligées	o-bli-Ze	o-bli-gées	NOM	f	p	obligé	0.01	0
+obligent	o-bliZ	o-bli-gent	VER			obliger	1.93	2.3
+obligeons	o-bli-Z§	o-bli-geons	VER			obliger	0.06	0.07
+obliger	o-bli-Ze	o-bli-ger	VER				6.3	9.39
+obligera	o-bli-Z°-Ra	o-bli-ge-ra	VER			obliger	0.84	0.2
+obligerai	o-bli-Z°-RE	o-bli-ge-rai	VER			obliger	0.77	0.07
+obligerais	o-bli-Z°-RE	o-bli-ge-rais	VER			obliger	0.18	0.07
+obligerait	o-bli-Z°-RE	o-bli-ge-rait	VER			obliger	0.78	1.08
+obligeras	o-bli-Z°-Ra	o-bli-ge-ras	VER			obliger	0.15	0.14
+obligèrent	o-bli-ZER	o-bli-gè-rent	VER			obliger	0.2	0.61
+obligerez	o-bli-Z°-Re	o-bli-ge-rez	VER			obliger	0.04	0.07
+obligeriez	o-bli-Z°-Rje	o-bli-ge-riez	VER			obliger	0.05	0.14
+obligeront	o-bli-Z°-R§	o-bli-ge-ront	VER			obliger	0.06	0.07
+obliges	o-bliZ	o-bli-ges	VER			obliger	1.28	0.34
+obligés	o-bli-Ze	o-bli-gés	VER	m	p	obliger	9.56	10.27
+obligés	o-bli-Ze	o-bli-gés	ADJ	m	p	obligé	1.32	1.76
+obligés	o-bli-Ze	o-bli-gés	NOM	m	p	obligé	0.26	0.41
+obligez	o-bli-Ze	o-bli-gez	VER			obliger	2.81	0.2
+obligiez	o-bli-Zje	o-bli-giez	VER			obliger	0.16	0
+obliqua	o-bli-ka	o-bli-qua	VER			obliquer	0	2.3
+obliquaient	o-bli-kE	o-bli-quaient	VER			obliquer	0	0.14
+obliquait	o-bli-kE	o-bli-quait	VER			obliquer	0	0.2
+obliquâmes	o-bli-kam	o-bli-quâ-mes	VER			obliquer	0	0.07
+obliquant	o-bli-k@	o-bli-quant	VER			obliquer	0.1	0.54
+oblique	o-blik	o-bli-que	ADJ		s		0.81	7.7
+oblique	o-blik	o-bli-que	NOM		s		0.21	2.57
+oblique	o-blik	o-bli-que	VER			obliquer	0.02	0.74
+obliqué	o-bli-ke	o-bli-qué	VER	m	s	obliquer	0	0.41
+obliquement	o-bli-k°-m@	o-bli-que-ment	ADV				0.02	2.23
+obliquent	o-blik	o-bli-quent	VER			obliquer	0.01	0.14
+obliquer	o-bli-ke	o-bli-quer	VER				0	0.54
+obliquèrent	o-bli-kER	o-bli-què-rent	VER			obliquer	0	0.34
+obliques	o-blik	o-bli-ques	ADJ		p	oblique	0.02	3.78
+obliques	o-blik	o-bli-ques	NOM		p	oblique	0.01	0.2
+obliquez	o-bli-ke	o-bli-quez	VER			obliquer	0.03	0
+obliquité	o-bli-k8i-te	o-bli-qui-té	NOM	f	s		0.01	0.07
+oblitéraient	o-bli-te-RE	o-bli-té-raient	VER			oblitérer	0	0.07
+oblitérait	o-bli-te-RE	o-bli-té-rait	VER			oblitérer	0	0.27
+oblitération	o-bli-te-Ra-sj§	o-bli-té-ra-tion	NOM	f	s		0.03	0.07
+oblitère	o-bli-tER	o-bli-tè-re	VER			oblitérer	0	0.27
+oblitéré	o-bli-te-Re	o-bli-té-ré	VER	m	s	oblitérer	0.04	0.14
+oblitéré	o-bli-te-Re	o-bli-té-ré	ADJ	m	s		0.02	0.07
+oblitérée	o-bli-te-Re	o-bli-té-rée	VER	f	s	oblitérer	0.02	0.14
+oblitérées	o-bli-te-Re	o-bli-té-rées	VER	f	p	oblitérer	0.01	0.14
+oblitèrent	o-bli-tER	o-bli-tè-rent	VER			oblitérer	0	0.07
+oblitérer	o-bli-te-Re	o-bli-té-rer	VER				0.07	0.2
+oblitérèrent	o-bli-te-RER	o-bli-té-rè-rent	VER			oblitérer	0	0.07
+oblitérés	o-bli-te-Re	o-bli-té-rés	VER	m	p	oblitérer	0.02	0.07
+oblitérés	o-bli-te-Re	o-bli-té-rés	ADJ	m	p	oblitéré	0.01	0.07
+oblitérons	o-bli-te-R§	o-bli-té-rons	VER			oblitérer	0.01	0
+oblong	o-bl§	ob-long	ADJ	m	s		0.02	1.01
+oblongs	o-bl§	ob-long-s	ADJ	m	p	oblong	0	0.27
+oblongue	o-bl§g	ob-lon-gue	ADJ	f	s	oblong	0.03	1.49
+oblongues	o-bl§g	ob-lon-gues	ADJ	f	p	oblong	0	0.47
+obnubila	Ob-ny-bi-la	ob-nu-bi-la	VER			obnubiler	0	0.07
+obnubilait	Ob-ny-bi-lE	ob-nu-bi-lait	VER			obnubiler	0.01	0
+obnubilant	Ob-ny-bi-l@	ob-nu-bi-lant	VER			obnubiler	0	0.07
+obnubilation	Ob-ny-bi-la-sj§	ob-nu-bi-la-tion	NOM	f	s		0	0.14
+obnubile	Ob-ny-bil	ob-nu-bi-le	VER			obnubiler	0.03	0.07
+obnubilé	Ob-ny-bi-le	ob-nu-bi-lé	VER	m	s	obnubiler	0.22	0.88
+obnubilé	Ob-ny-bi-le	ob-nu-bi-lé	ADJ	m	s		0.01	0.07
+obnubilée	Ob-ny-bi-le	ob-nu-bi-lée	VER	f	s	obnubiler	0.17	0.07
+obnubilée	Ob-ny-bi-le	ob-nu-bi-lée	ADJ	f	s	obnubilé	0	0.2
+obnubilées	Ob-ny-bi-le	ob-nu-bi-lées	VER	f	p	obnubiler	0	0.07
+obnubiler	Ob-ny-bi-le	ob-nu-bi-ler	VER				0.02	0.27
+obnubilés	Ob-ny-bi-le	ob-nu-bi-lés	VER	m	p	obnubiler	0.04	0.34
+obole	o-bOl	o-bo-le	NOM	f	s		0.11	1.01
+oboles	o-bOl	o-bo-les	NOM	f	p	obole	0	0.2
+obscène	Op-sEn	obs-cè-ne	ADJ		s		3.25	7.91
+obscènement	Op-sE-n°-m@		ADV				0.01	0.27
+obscènes	Op-sEn	obs-cè-nes	ADJ		p	obscène	1.23	5.14
+obscénité	Op-se-ni-te	obs-cé-ni-té	NOM	f	s		0.92	2.23
+obscénités	Op-se-ni-te	obs-cé-ni-tés	NOM	f	p	obscénité	0.71	1.55
+obscur	Op-skyR	obs-cur	ADJ	m	s		5	29.12
+obscurantisme	Op-sky-R@-tizm	obs-cu-ran-tis-me	NOM	m	s		0.14	0.74
+obscurantismes	Op-sky-R@-tizm	obs-cu-ran-tis-mes	NOM	m	p	obscurantisme	0	0.07
+obscurantiste	Op-sky-R@-tist	obs-cu-ran-tis-te	NOM		s		0.14	0
+obscurantiste	Op-sky-R@-tist	obs-cu-ran-tis-te	ADJ	f	s		0.01	0.07
+obscurci	Op-skyR-si	obs-cur-ci	VER	m	s	obscurcir	0.57	1.28
+obscurcie	Op-skyR-si	obs-cur-cie	VER	f	s	obscurcir	0.15	0.74
+obscurcies	Op-skyR-si	obs-cur-cies	VER	f	p	obscurcir	0	0.2
+obscurcir	Op-skyR-siR	obs-cur-cir	VER				0.24	0.88
+obscurcira	Op-skyR-si-Ra	obs-cur-ci-ra	VER			obscurcir	0.04	0.14
+obscurcirait	Op-skyR-si-RE	obs-cur-ci-rait	VER			obscurcir	0	0.07
+obscurcis	Op-skyR-si	obs-cur-cis	VER	m	p	obscurcir	0	0.27
+obscurcissaient	Op-skyR-si-sE	obs-cur-cis-saient	VER			obscurcir	0.01	0.47
+obscurcissait	Op-skyR-si-sE	obs-cur-cis-sait	VER			obscurcir	0.01	0.68
+obscurcissant	Op-skyR-si-s@	obs-cur-cis-sant	VER			obscurcir	0	0.14
+obscurcissement	Op-skyR-si-s°-m@	obs-cur-cis-se-ment	NOM	m	s		0.11	0.27
+obscurcissements	Op-skyR-si-s°-m@	obs-cur-cis-se-ments	NOM	m	p	obscurcissement	0	0.14
+obscurcissent	Op-skyR-sis	obs-cur-cis-sent	VER			obscurcir	0.06	0.47
+obscurcit	Op-skyR-si	obs-cur-cit	VER			obscurcir	0.34	1.28
+obscurcît	Op-skyR-si	obs-cur-cît	VER			obscurcir	0	0.07
+obscure	Op-skyR	obs-cu-re	ADJ	f	s	obscur	3.46	20.61
+obscurément	Op-sky-Re-m@	obs-cu-ré-ment	ADV				0.01	6.96
+obscures	Op-skyR	obs-cu-res	ADJ	f	p	obscur	1.32	9.53
+obscurité	Op-sky-Ri-te	obs-cu-ri-té	NOM	f	s		14.33	48.65
+obscurités	Op-sky-Ri-te	obs-cu-ri-tés	NOM	f	p	obscurité	0	0.74
+obscurs	Op-skyR	obs-curs	ADJ	m	p	obscur	1.28	8.31
+obséda	op-se-da	ob-sé-da	VER			obséder	0	0.14
+obsédaient	op-se-dE	ob-sé-daient	VER			obséder	0	0.34
+obsédais	op-se-dE	ob-sé-dais	VER			obséder	0.04	0
+obsédait	op-se-dE	ob-sé-dait	VER			obséder	0.4	1.82
+obsédant	op-se-d@	ob-sé-dant	ADJ	m	s		0.12	1.69
+obsédant	op-se-d@	ob-sé-dant	VER			obséder	0.03	0.34
+obsédante	op-se-d@t	ob-sé-dan-te	ADJ	f	s	obsédant	0.05	3.58
+obsédantes	op-se-d@t	ob-sé-dan-tes	ADJ	f	p	obsédant	0.02	0.54
+obsédants	op-se-d@	ob-sé-dants	ADJ	m	p	obsédant	0.03	0.47
+obsède	op-sEd	ob-sè-de	VER			obséder	2.15	1.42
+obsédé	op-se-de	ob-sé-dé	VER	m	s	obséder	5.12	2.57
+obsédé	op-se-de	ob-sé-dé	NOM	m	s		2.4	1.28
+obsédé	op-se-de	ob-sé-dé	ADJ	m	s		0.96	0.54
+obsédée	op-se-de	ob-sé-dée	VER	f	s	obséder	2.19	0.95
+obsédée	op-se-de	ob-sé-dée	ADJ	f	s	obsédé	0.39	0.34
+obsédées	op-se-de	ob-sé-dées	VER	f	p	obséder	0.1	0.2
+obsédées	op-se-de	ob-sé-dées	ADJ	f	p	obsédé	0	0.07
+obsèdent	op-sEd	ob-sè-dent	VER			obséder	0.19	0.27
+obséder	op-se-de	ob-sé-der	VER				0.12	0.61
+obsédèrent	op-se-dER	ob-sé-dè-rent	VER			obséder	0.14	0.07
+obsèdes	op-sEd	ob-sè-des	VER			obséder	0.08	0
+obsédés	op-se-de	ob-sé-dés	NOM	m	p	obsédé	1.33	0.95
+obsédés	op-se-de	ob-sé-dés	VER	m	p	obséder	0.99	0.41
+obsédés	op-se-de	ob-sé-dés	ADJ	m	p	obsédé	0.17	0.41
+obsèques	Op-sEk	ob-sè-ques	NOM	f	p		4.32	4.8
+obséquieuse	Op-se-kj2z	ob-sé-quieu-se	ADJ	f	s	obséquieux	0.02	0.2
+obséquieusement	Op-se-kj2-z°-m@	ob-sé-quieu-se-ment	ADV				0.01	0.14
+obséquieuses	Op-se-kj2z	ob-sé-quieu-ses	ADJ	f	p	obséquieux	0	0.14
+obséquieux	Op-se-kj2	ob-sé-quieux	ADJ	m	s		0.13	0.68
+obséquiosité	Op-se-kjo-zi-te	ob-sé-quio-si-té	NOM	f	s		0.01	0.54
+observa	op-sER-va	ob-ser-va	VER			observer	0.18	19.46
+observable	Op-sER-vabl		ADJ	m	s		0.03	0
+observai	op-sER-vE	ob-ser-vai	VER			observer	0.01	1.76
+observaient	op-sER-vE	ob-ser-vaient	VER			observer	0.26	3.85
+observais	op-sER-vE	ob-ser-vais	VER			observer	1.39	5.2
+observait	op-sER-vE	ob-ser-vait	VER			observer	1.23	19.73
+observâmes	op-sER-vam	ob-ser-vâ-mes	VER			observer	0	0.2
+observance	op-sER-v@s	ob-ser-van-ce	NOM	f	s		0.14	0.27
+observances	op-sER-v@s	ob-ser-van-ces	NOM	f	p	observance	0	0.07
+observant	op-sER-v@	ob-ser-vant	VER			observer	1.17	6.89
+observant	op-sER-v@	ob-ser-vant	NOM	m	s		0.04	0.2
+observant	op-sER-v@	ob-ser-vant	ADJ	m	s		0	0.14
+observateur	op-sER-va-t9R	ob-ser-va-teur	NOM	m	s		1.94	4.53
+observateur	op-sER-va-t9R	ob-ser-va-teur	ADJ	m	s		1.03	0.34
+observateurs	op-sER-va-t9R	ob-ser-va-teurs	NOM	m	p	observateur	1.05	1.35
+observateurs	op-sER-va-t9R	ob-ser-va-teurs	ADJ	m	p	observateur	0.27	0.27
+observation	op-sER-va-sj§	ob-ser-va-tion	NOM	f	s		6.91	11.08
+observations	op-sER-va-sj§	ob-ser-va-tions	NOM	f	p	observation	1.16	4.19
+observatoire	op-sER-va-twaR	ob-ser-va-toi-re	NOM	m	s		1.23	2.84
+observatoires	op-sER-va-twaR	ob-ser-va-toi-res	NOM	m	p	observatoire	0.02	0.34
+observatrice	op-sER-va-tRis	ob-ser-va-tri-ce	ADJ	f	s	observateur	0.24	0.07
+observatrice	op-sER-va-tRis	ob-ser-va-tri-ce	NOM	f	s	observateur	0.09	0.07
+observatrices	op-sER-va-tRis	ob-ser-va-tri-ces	NOM	f	p	observateur	0	0.14
+observe	op-sERv	ob-ser-ve	VER			observer	11.48	16.69
+observé	op-sER-ve	ob-ser-vé	VER	m	s	observer	5.53	6.96
+observé	op-sER-ve	ob-ser-vé	ADJ	m	s		0.77	0.74
+observée	op-sER-ve	ob-ser-vée	VER	f	s	observer	0.83	2.03
+observée	op-sER-ve	ob-ser-vée	ADJ	f	s	observé	0.15	0.34
+observées	op-sER-ve	ob-ser-vées	VER	f	p	observer	0.22	0.54
+observées	op-sER-ve	ob-ser-vées	ADJ	f	p	observé	0.01	0.34
+observent	op-sERv	ob-ser-vent	VER			observer	1.41	2.16
+observer	op-sER-ve	ob-ser-ver	VER				11.22	24.26
+observera	op-sER-v°-Ra	ob-ser-ve-ra	VER			observer	0.11	0.07
+observerai	op-sER-v°-RE	ob-ser-ve-rai	VER			observer	0.51	0.07
+observeraient	op-sER-v°-RE	ob-ser-ve-raient	VER			observer	0	0.14
+observerais	op-sER-v°-RE	ob-ser-ve-rais	VER			observer	0.02	0.07
+observerait	op-sER-v°-RE	ob-ser-ve-rait	VER			observer	0.04	0.2
+observèrent	op-sER-vER	ob-ser-vè-rent	VER			observer	0	1.69
+observerez	op-sER-v°-Re	ob-ser-ve-rez	VER			observer	0.05	0.07
+observerons	op-sER-v°-R§	ob-ser-ve-rons	VER			observer	0.18	0
+observeront	op-sER-v°-R§	ob-ser-ve-ront	VER			observer	0.03	0
+observes	op-sERv	ob-ser-ves	VER			observer	0.75	0.34
+observés	op-sER-ve	ob-ser-vés	VER	m	p	observer	0.86	1.08
+observés	op-sER-ve	ob-ser-vés	ADJ	m	p	observé	0.03	0
+observez	op-sER-ve	ob-ser-vez	VER			observer	3.63	1.35
+observiez	op-sER-vje	ob-ser-viez	VER			observer	0.15	0
+observions	op-sER-vj§	ob-ser-vions	VER			observer	0.13	0.74
+observons	op-sER-v§	ob-ser-vons	VER			observer	1.27	0.47
+obsessif	Op-sE-sif	ob-ses-sif	ADJ	m	s		0.13	0
+obsession	Op-se-sj§	ob-ses-sion	NOM	f	s		7.76	8.78
+obsessionnel	Op-se-sjo-nEl	ob-ses-sion-nel	ADJ	m	s		0.87	0.41
+obsessionnelle	Op-se-sjo-nEl	ob-ses-sion-nel-le	ADJ	f	s	obsessionnel	0.37	0.47
+obsessionnellement	Op-sE-sjo-nE-l°-m@	ob-ses-sion-nel-le-ment	ADV				0.01	0.41
+obsessionnelles	Op-se-sjo-nEl	ob-ses-sion-nel-les	ADJ	f	p	obsessionnel	0.06	0.07
+obsessionnels	Op-se-sjo-nEl	ob-ses-sion-nels	ADJ	m	p	obsessionnel	0.13	0.2
+obsessions	Op-se-sj§	ob-ses-sions	NOM	f	p	obsession	1.02	2.36
+obsessive	Op-sE-siv	ob-ses-si-ve	ADJ	f	s	obsessif	0.08	0
+obsidienne	Op-si-djEn	ob-si-dien-ne	NOM	f	s		0.03	0.74
+obsidional	Op-si-djo-nal	ob-si-dio-nal	ADJ	m	s		0	0.07
+obsidionale	Op-si-djo-nal	ob-si-dio-na-le	ADJ	f	s	obsidional	0	0.34
+obsolescence	Op-so-lE-s@s	ob-so-les-cen-ce	NOM	f	s		0.02	0.07
+obsolète	Op-so-lEt	ob-so-lè-te	ADJ		s		0.84	0.07
+obsolètes	Op-so-lEt	ob-so-lè-tes	ADJ		p	obsolète	0.35	0.07
+obstacle	Op-stakl	obs-ta-cle	NOM	m	s		6.58	14.12
+obstacles	Op-stakl	obs-ta-cles	NOM	m	p	obstacle	4.07	11.89
+obstétrical	Op-ste-tRi-kal		ADJ	m	s		0.01	0
+obstétricien	Op-ste-tRi-sj5	obs-té-tri-cien	NOM	m	s		0.28	0.07
+obstétricienne	Op-ste-tRi-sjEn	obs-té-tri-cien-ne	NOM	f	s	obstétricien	0.04	0
+obstétriciens	Op-ste-tRi-sj5	obs-té-tri-ciens	NOM	m	p	obstétricien	0.04	0
+obstétrique	Op-ste-tRik	obs-té-tri-que	NOM	f	s		0.83	0.14
+obstina	Op-sti-na	obs-ti-na	VER			obstiner	0.03	0.88
+obstinai	Op-sti-nE	obs-ti-nai	VER			obstiner	0	0.14
+obstinaient	Op-sti-nE	obs-ti-naient	VER			obstiner	0.02	0.74
+obstinais	Op-sti-nE	obs-ti-nais	VER			obstiner	0	0.68
+obstinait	Op-sti-nE	obs-ti-nait	VER			obstiner	0.03	4.66
+obstinant	Op-sti-n@	obs-ti-nant	VER			obstiner	0	0.88
+obstination	Op-sti-na-sj§	obs-ti-na-tion	NOM	f	s		1.26	12.09
+obstinations	Op-sti-na-sj§	obs-ti-na-tions	NOM	f	p	obstination	0	0.14
+obstine	Op-stin	obs-ti-ne	VER			obstiner	0.94	2.91
+obstiné	Op-sti-ne	obs-ti-né	ADJ	m	s		0.36	3.24
+obstiné	Op-sti-ne	obs-ti-né	VER	m	s	obstiner	0.51	1.15
+obstiné	Op-sti-ne	obs-ti-né	NOM	m	s		0.11	1.01
+obstinée	Op-sti-ne	obs-ti-née	ADJ	f	s	obstiné	0.13	2.23
+obstinée	Op-sti-ne	obs-ti-née	VER	f	s	obstiner	0.28	0.41
+obstinée	Op-sti-ne	obs-ti-née	NOM	f	s	obstiné	0.06	0.54
+obstinées	Op-sti-ne	obs-ti-nées	ADJ	f	p	obstiné	0.01	0.68
+obstinées	Op-sti-ne	obs-ti-nées	NOM	f	p	obstiné	0	0.07
+obstinément	Op-sti-ne-m@	obs-ti-né-ment	ADV				0.48	10.27
+obstinent	Op-stin	obs-ti-nent	VER			obstiner	0.16	0.81
+obstiner	Op-sti-ne	obs-ti-ner	VER				0.53	1.35
+obstinera	Op-sti-n°-Ra	obs-ti-ne-ra	VER			obstiner	0.01	0.07
+obstineraient	Op-sti-n°-RE	obs-ti-ne-raient	VER			obstiner	0	0.07
+obstinerait	Op-sti-n°-RE	obs-ti-ne-rait	VER			obstiner	0	0.07
+obstineras	Op-sti-n°-Ra	obs-ti-ne-ras	VER			obstiner	0	0.07
+obstinèrent	Op-sti-nER	obs-ti-nè-rent	VER			obstiner	0	0.14
+obstinerez	Op-sti-n°-Re	obs-ti-ne-rez	VER			obstiner	0	0.14
+obstineriez	Op-sti-n°-Rje	obs-ti-ne-riez	VER			obstiner	0	0.07
+obstineront	Op-sti-n°-R§	obs-ti-ne-ront	VER			obstiner	0	0.14
+obstines	Op-stin	obs-ti-nes	VER			obstiner	0.77	0.27
+obstinés	Op-sti-ne	obs-ti-nés	ADJ	m	p	obstiné	0.05	0.81
+obstinés	Op-sti-ne	obs-ti-nés	VER	m	p	obstiner	0.14	0.34
+obstinés	Op-sti-ne	obs-ti-nés	NOM	m	p	obstiné	0.01	0.41
+obstinez	Op-sti-ne	obs-ti-nez	VER			obstiner	0.34	0.27
+obstinions	Op-sti-nj§	obs-ti-nions	VER			obstiner	0	0.14
+obstinons	Op-sti-n§	obs-ti-nons	VER			obstiner	0.01	0.14
+obstrua	Op-stRy-a	obs-trua	VER			obstruer	0.01	0.14
+obstruaient	Op-stRy-E	obs-truaient	VER			obstruer	0.01	0.68
+obstruait	Op-stRy-E	obs-truait	VER			obstruer	0.03	0.61
+obstruant	Op-stRy-@	obs-truant	VER			obstruer	0.03	0.27
+obstructif	Op-stRyk-tif		ADJ	m	s		0.01	0
+obstruction	Op-stRyk-sj§	obs-truc-tion	NOM	f	s		3.2	0.47
+obstructionnisme	Op-stRyk-sjO-nism		NOM	m	s		0.01	0
+obstructions	Op-stRyk-sj§	obs-truc-tions	NOM	f	p	obstruction	0.44	0
+obstructive	Op-stRyk-tiv		ADJ	f	s	obstructif	0.01	0
+obstrue	Op-stRy	obs-true	VER			obstruer	0.55	0.54
+obstrué	Op-stRy-e	obs-trué	VER	m	s	obstruer	0.31	0.54
+obstrué	Op-stRy-e	obs-trué	ADJ	m	s		0.03	0.14
+obstruée	Op-stRy-e	obs-truée	VER	f	s	obstruer	0.07	0.81
+obstruée	Op-stRy-e	obs-truée	ADJ	f	s	obstrué	0	0.14
+obstruées	Op-stRy-e	obs-truées	VER	f	p	obstruer	0.01	0.27
+obstruent	Op-stRy	obs-truent	VER			obstruer	0	0.47
+obstruer	Op-stRy-e	obs-truer	VER				0.04	0.27
+obstrueraient	Op-stRy-RE	obs-true-raient	VER			obstruer	0	0.07
+obstrueront	Op-stRy-R§	obs-true-ront	VER			obstruer	0.1	0
+obstrués	Op-stRy-e	obs-trués	VER	m	p	obstruer	0.17	0.2
+obstrués	Op-stRy-e	obs-trués	ADJ	m	p	obstrué	0.03	0.14
+obstruez	Op-stRy-e	obs-truez	VER			obstruer	0.02	0
+obtempéra	Op-t@-pe-Ra	ob-tem-pé-ra	VER			obtempérer	0	0.47
+obtempérai	Op-t@-pe-RE	ob-tem-pé-rai	VER			obtempérer	0	0.07
+obtempéraient	Op-t@-pe-RE	ob-tem-pé-raient	VER			obtempérer	0.01	0.07
+obtempérait	Op-t@-pe-RE	ob-tem-pé-rait	VER			obtempérer	0	0.14
+obtempère	Op-t@-pER	ob-tem-pè-re	VER			obtempérer	0.18	0.34
+obtempéré	Op-t@-pe-Re	ob-tem-pé-ré	VER	m	s	obtempérer	0.04	0.2
+obtempérer	Op-t@-pe-Re	ob-tem-pé-rer	VER				0.82	0.74
+obtempérèrent	Op-t@-pe-RER	ob-tem-pé-rè-rent	VER			obtempérer	0	0.07
+obtempérez	Op-t@-pe-Re	ob-tem-pé-rez	VER			obtempérer	0.07	0
+obtempérions	Op-t@-pe-Rj§	ob-tem-pé-rions	VER			obtempérer	0	0.07
+obtenaient	Op-t°-nE	ob-te-naient	VER			obtenir	0.04	0.68
+obtenais	Op-t°-nE	ob-te-nais	VER			obtenir	0.51	1.08
+obtenait	Op-t°-nE	ob-te-nait	VER			obtenir	0.35	2.36
+obtenant	Op-t°-n@	ob-te-nant	VER			obtenir	0.19	1.22
+obtenez	Op-t°-ne	ob-te-nez	VER			obtenir	2.4	0.2
+obteniez	Op-t°-nje	ob-te-niez	VER			obtenir	0.27	0
+obtenions	Op-t°-nj§	ob-te-nions	VER			obtenir	0.06	0.2
+obtenir	Op-t°-niR	ob-te-nir	VER				36.7	37.77
+obtenons	Op-t°-n§	ob-te-nons	VER			obtenir	0.87	0.41
+obtention	Op-t@-sj§	ob-ten-tion	NOM	f	s		0.53	0.47
+obtenu	Op-t°-ny	ob-te-nu	VER	m	s	obtenir	20.36	14.73
+obtenue	Op-t°-ny	ob-te-nue	VER	f	s	obtenir	0.67	2.03
+obtenues	Op-t°-ny	ob-te-nues	VER	f	p	obtenir	0.55	0.68
+obtenus	Op-t°-ny	ob-te-nus	VER	m	p	obtenir	0.91	1.35
+obtiendra	Op-tj5-dRa	ob-tien-dra	VER			obtenir	1.24	0.41
+obtiendrai	Op-tj5-dRE	ob-tien-drai	VER			obtenir	1.62	0.2
+obtiendraient	Op-tj5-dRE	ob-tien-draient	VER			obtenir	0	0.34
+obtiendrais	Op-tj5-dRE	ob-tien-drais	VER			obtenir	0.86	0.2
+obtiendrait	Op-tj5-dRE	ob-tien-drait	VER			obtenir	0.66	1.22
+obtiendras	Op-tj5-dRa	ob-tien-dras	VER			obtenir	0.85	0.07
+obtiendrez	Op-tj5-dRe	ob-tien-drez	VER			obtenir	1.39	0.47
+obtiendriez	Op-tj5-dRi-je	ob-tien-driez	VER			obtenir	0.17	0
+obtiendrions	Op-tj5-dRi-j§	ob-tien-drions	VER			obtenir	0.03	0.07
+obtiendrons	Op-tj5-dR§	ob-tien-drons	VER			obtenir	0.53	0.41
+obtiendront	Op-tj5-dR§	ob-tien-dront	VER			obtenir	0.55	0.27
+obtienne	Op-tjEn	ob-tien-ne	VER			obtenir	1.44	0.88
+obtiennent	Op-tjEn	ob-tien-nent	VER			obtenir	1.23	0.47
+obtiennes	Op-tjEn	ob-tien-nes	VER			obtenir	0.33	0.07
+obtiens	Op-tj5	ob-tiens	VER			obtenir	5.46	0.47
+obtient	Op-tj5	ob-tient	VER			obtenir	6.75	3.18
+obtînmes	Op-t5m	ob-tîn-mes	VER			obtenir	0.01	0.07
+obtinrent	Op-t5R	ob-tin-rent	VER			obtenir	0.2	0.74
+obtins	Op-t5	ob-tins	VER			obtenir	0.16	2.57
+obtinsse	Op-t5s	ob-tins-se	VER			obtenir	0	0.07
+obtint	Op-t5	ob-tint	VER			obtenir	0.74	5.95
+obtînt	Op-t5	ob-tînt	VER			obtenir	0	0.14
+obtura	Op-ty-Ra	ob-tu-ra	VER			obturer	0	0.07
+obturait	Op-ty-RE	ob-tu-rait	VER			obturer	0	0.14
+obturateur	Op-ty-Ra-t9R	ob-tu-ra-teur	NOM	m	s		0.06	0.2
+obturateur	Op-ty-Ra-t9R	ob-tu-ra-teur	ADJ	m	s		0.12	0
+obturateurs	Op-ty-Ra-t9R	ob-tu-ra-teurs	NOM	m	p	obturateur	0.01	0.07
+obturateurs	Op-ty-Ra-t9R	ob-tu-ra-teurs	ADJ	m	p	obturateur	0.01	0
+obturation	Op-ty-Ra-sj§	ob-tu-ra-tion	NOM	f	s		0.06	0
+obture	Op-tyR	ob-tu-re	VER			obturer	0.01	0.2
+obturé	Op-ty-Re	ob-tu-ré	VER	m	s	obturer	0.03	0.07
+obturée	Op-ty-Re	ob-tu-rée	VER	f	s	obturer	0	0.07
+obturer	Op-ty-Re	ob-tu-rer	VER				0.08	0.07
+obturez	Op-ty-Re	ob-tu-rez	VER			obturer	0.01	0
+obtus	Op-ty	ob-tus	ADJ	m			0.85	2.7
+obtuse	Op-tyz	ob-tu-se	ADJ	f	s	obtus	0.32	1.89
+obtuses	Op-tyz	ob-tu-ses	ADJ	f	p	obtus	0	0.07
+obus	o-by	o-bus	NOM	m			5.13	31.82
+obusier	o-by-zje	o-bu-sier	NOM	m	s		0.01	0.07
+obusiers	o-by-zje	o-bu-siers	NOM	m	p	obusier	0.04	0.61
+obverse	Ob-vERs	ob-ver-se	NOM	f	s	obvers	0	0.07
+obvie	Ob-vi	ob-vie	ADJ		s		0	0.07
+obvier	Ob-vje	ob-vier	VER				0	0.14
+ocarina	o-ka-Ri-na	o-ca-ri-na	NOM	m	s		0.03	0.2
+ocarinas	o-ka-Ri-na	o-ca-ri-nas	NOM	m	p	ocarina	0	0.07
+occase	o-kaz	oc-ca-se	NOM	f	s		1.14	4.53
+occases	o-kaz	oc-ca-ses	NOM	f	p	occase	0.11	0.81
+occasion	o-ka-zj§	oc-ca-sion	NOM	f	s		55.39	92.09
+occasionna	o-ka-zjo-na	oc-ca-sion-na	VER			occasionner	0	0.07
+occasionnait	o-ka-zjo-nE	oc-ca-sion-nait	VER			occasionner	0	0.14
+occasionnant	o-ka-zjo-n@	oc-ca-sion-nant	VER			occasionner	0.02	0.07
+occasionne	o-ka-zjOn	oc-ca-sion-ne	VER			occasionner	0.02	0.34
+occasionné	o-ka-zjo-ne	oc-ca-sion-né	VER	m	s	occasionner	0.23	0.07
+occasionnée	o-ka-zjo-ne	oc-ca-sion-née	VER	f	s	occasionner	0.12	0.14
+occasionnées	o-ka-zjo-ne	oc-ca-sion-nées	VER	f	p	occasionner	0.03	0.2
+occasionnel	o-ka-zjo-nEl	oc-ca-sion-nel	ADJ	m	s		0.46	0.54
+occasionnelle	o-ka-zjo-nEl	oc-ca-sion-nel-le	ADJ	f	s	occasionnel	0.33	0.14
+occasionnellement	o-ka-zjo-nE-l°-m@	oc-ca-sion-nel-le-ment	ADV				0.59	0.27
+occasionnelles	o-ka-zjo-nEl	oc-ca-sion-nel-les	ADJ	f	p	occasionnel	0.06	0.14
+occasionnels	o-ka-zjo-nEl	oc-ca-sion-nels	ADJ	m	p	occasionnel	0.14	0.41
+occasionnent	o-ka-zjOn	oc-ca-sion-nent	VER			occasionner	0.01	0.07
+occasionner	o-ka-zjo-ne	oc-ca-sion-ner	VER				0.09	0.2
+occasionnèrent	o-ka-zjo-nER	oc-ca-sion-nè-rent	VER			occasionner	0	0.07
+occasionnés	o-ka-zjo-ne	oc-ca-sion-nés	VER	m	p	occasionner	0.19	0.34
+occasions	o-ka-zj§	oc-ca-sions	NOM	f	p	occasion	6.5	13.65
+occident	Ok-si-d@	oc-ci-dent	NOM	m	s		0.38	1.69
+occidental	Ok-si-d@-tal	oc-ci-den-tal	ADJ	m	s		1.5	3.65
+occidental	Ok-si-d@-tal	oc-ci-den-tal	NOM	m	s		0.52	0.74
+occidentale	Ok-si-d@-tal	oc-ci-den-ta-le	ADJ	f	s	occidental	2.15	8.65
+occidentale	Ok-si-d@-tal	oc-ci-den-ta-le	NOM	f	s	occidental	0.05	0.47
+occidentales	Ok-si-d@-tal	oc-ci-den-ta-les	ADJ	f	p	occidental	0.36	1.69
+occidentales	Ok-si-d@-tal	oc-ci-den-ta-les	NOM	f	p	occidental	0.01	0
+occidentalisation	Ok-si-d@-ta-li-za-sj§	oc-ci-den-ta-li-sa-tion	NOM	f	s		0.1	0.14
+occidentalise	Ok-si-d@-ta-liz	oc-ci-den-ta-li-se	VER			occidentaliser	0.01	0.07
+occidentalisme	Ok-si-d@-ta-lizm	oc-ci-den-ta-lis-me	NOM	m	s		0	0.07
+occidentaux	Ok-si-d@-to	oc-ci-den-taux	ADJ	m	p	occidental	1.06	1.62
+occidentaux	Ok-si-d@-to	oc-ci-den-taux	NOM	m	p	occidental	0.35	1.82
+occipital	Ok-si-pi-tal	oc-ci-pi-tal	ADJ	m	s		0.38	0.14
+occipitale	ok-si-pi-tal		ADJ	f	s	occipital	0.08	0
+occipitales	Ok-si-pi-tal	oc-ci-pi-ta-les	ADJ	f	p	occipital	0.01	0.07
+occipitaux	Ok-si-pi-to	oc-ci-pi-taux	ADJ	m	p	occipital	0.02	0
+occiput	Ok-si-pyt	oc-ci-put	NOM	m	s		0.19	1.69
+occire	Ok-siR	oc-ci-re	VER				0.1	0.41
+occis	Ok-si	oc-cis	ADJ	m			0.28	0.68
+occitan	Ok-si-t@	oc-ci-tan	NOM	m	s		0	0.34
+occitan	Ok-si-t@	oc-ci-tan	ADJ	m	s		0	0.07
+occitane	Ok-si-tan	oc-ci-ta-ne	ADJ	f	s	occitan	0.01	0.27
+occitans	Ok-si-t@	oc-ci-tans	ADJ	m	p	occitan	0	0.07
+occlusion	o-kly-zj§	oc-clu-sion	NOM	f	s		0.31	0.34
+occlut	o-kly	oc-clut	VER			occlure	0	0.07
+occulta	o-kyl-ta	oc-cul-ta	VER			occulter	0	0.07
+occultaient	o-kyl-tE	oc-cul-taient	VER			occulter	0	0.07
+occultait	o-kyl-tE	oc-cul-tait	VER			occulter	0.01	0.34
+occultant	O-kyl-t@		VER			occulter	0.04	0
+occultation	o-kyl-ta-sj§	oc-cul-ta-tion	NOM	f	s		0.28	0.2
+occultations	o-kyl-ta-sj§	oc-cul-ta-tions	NOM	f	p	occultation	0	0.07
+occulte	o-kylt	oc-cul-te	ADJ		s		0.96	1.76
+occulte	o-kylt	oc-cul-te	VER			occulter	0.03	0
+occulté	o-kyl-te	oc-cul-té	VER	m	s	occulter	0.22	0.14
+occultée	o-kyl-te	oc-cul-tée	VER	f	s	occulter	0.08	0
+occultement	o-kyl-t°-m@	oc-cul-te-ment	ADV				0	0.07
+occultent	o-kylt	oc-cul-tent	VER			occulter	0.12	0.07
+occulter	o-kyl-te	oc-cul-ter	VER				0.29	0.34
+occultera	o-kyl-t°-Ra	oc-cul-te-ra	VER			occulter	0.01	0
+occultes	o-kylt	oc-cul-tes	ADJ		p	occulte	1.33	1.49
+occultez	o-kyl-te	oc-cul-tez	VER			occulter	0.07	0
+occultisme	o-kyl-tizm	oc-cul-tis-me	NOM	m	s		0.33	0.27
+occultismes	o-kyl-tizm	oc-cul-tis-mes	NOM	m	p	occultisme	0	0.07
+occultiste	O-kyl-tist		NOM		s		0.01	0
+occultistes	o-kyl-tist	oc-cul-tis-tes	NOM		p	occultiste	0.1	0.14
+occultistes	o-kyl-tist	oc-cul-tis-tes	ADJ	m	p	occultiste	0	0.07
+occupa	o-ky-pa	oc-cu-pa	VER			occuper	0.1	3.78
+occupai	o-ky-pE	oc-cu-pai	VER			occuper	0.01	0.61
+occupaient	o-ky-pE	oc-cu-paient	VER			occuper	0.93	10.34
+occupais	o-ky-pE	oc-cu-pais	VER			occuper	3.37	3.45
+occupait	o-ky-pE	oc-cu-pait	VER			occuper	4.36	31.42
+occupant	o-ky-p@	oc-cu-pant	NOM	m	s		0.62	3.99
+occupant	o-ky-p@	oc-cu-pant	VER			occuper	0.53	3.24
+occupant	o-ky-p@	oc-cu-pant	ADJ	m	s		0.15	0.41
+occupante	o-ky-p@t	oc-cu-pan-te	NOM	f	s	occupant	0.03	0.14
+occupante	o-ky-p@t	oc-cu-pan-te	ADJ	f	s	occupant	0.01	0.07
+occupantes	o-ky-p@t	oc-cu-pan-tes	ADJ	f	p	occupant	0.01	0.07
+occupantes	o-ky-p@t	oc-cu-pan-tes	NOM	f	p	occupant	0	0.07
+occupants	o-ky-p@	oc-cu-pants	NOM	m	p	occupant	1.73	5.88
+occupants	o-ky-p@	oc-cu-pants	ADJ	m	p	occupant	0.01	0.27
+occupas	o-ky-pa	oc-cu-pas	VER			occuper	0	0.07
+occupât	o-ky-pa	oc-cu-pât	VER			occuper	0	0.88
+occupation	o-ky-pa-sj§	oc-cu-pa-tion	NOM	f	s		4.91	22.84
+occupations	o-ky-pa-sj§	oc-cu-pa-tions	NOM	f	p	occupation	1.8	7.77
+occupe	o-kyp	oc-cu-pe	VER			occuper	139.84	37.09
+occupé	o-ky-pe	oc-cu-pé	VER	m	s	occuper	41.37	25.47
+occupé	o-ky-pe	oc-cu-pé	ADJ	m	s		13.11	3.72
+occupée	o-ky-pe	oc-cu-pée	VER	f	s	occuper	15.71	13.31
+occupée	o-ky-pe	oc-cu-pée	ADJ	f	s	occupé	4.83	4.73
+occupées	o-ky-pe	oc-cu-pées	VER	f	p	occuper	1.67	3.31
+occupées	o-ky-pe	oc-cu-pées	ADJ	f	p	occupé	0.61	1.42
+occupent	o-kyp	oc-cu-pent	VER			occuper	6.45	7.3
+occuper	o-ky-pe	oc-cu-per	VER				97.22	56.69
+occupera	o-ky-p°-Ra	oc-cu-pe-ra	VER			occuper	10.27	2.5
+occuperai	o-ky-p°-RE	oc-cu-pe-rai	VER			occuper	10.51	1.69
+occuperaient	o-ky-p°-RE	oc-cu-pe-raient	VER			occuper	0.31	0.54
+occuperais	o-ky-p°-RE	oc-cu-pe-rais	VER			occuper	1.03	0.34
+occuperait	o-ky-p°-RE	oc-cu-pe-rait	VER			occuper	0.67	2.5
+occuperas	o-ky-p°-Ra	oc-cu-pe-ras	VER			occuper	1.09	0.41
+occupèrent	o-ky-pER	oc-cu-pè-rent	VER			occuper	0.16	1.08
+occuperez	o-ky-p°-Re	oc-cu-pe-rez	VER			occuper	0.56	0.2
+occuperions	o-ky-p°-Rj§	oc-cu-pe-rions	VER			occuper	0.03	0.07
+occuperons	o-ky-p°-R§	oc-cu-pe-rons	VER			occuper	0.79	0
+occuperont	o-ky-p°-R§	oc-cu-pe-ront	VER			occuper	1.61	0.61
+occupes	o-kyp	oc-cu-pes	VER			occuper	12.6	0.95
+occupés	o-ky-pe	oc-cu-pés	VER	m	p	occuper	5.24	7.36
+occupés	o-ky-pe	oc-cu-pés	ADJ	m	p	occupé	2.08	1.55
+occupez	o-ky-pe	oc-cu-pez	VER			occuper	15.36	2.23
+occupiez	o-ky-pje	oc-cu-piez	VER			occuper	1.08	0.07
+occupions	o-ky-pj§	oc-cu-pions	VER			occuper	0.06	1.35
+occupons	o-ky-p§	oc-cu-pons	VER			occuper	2.23	0.95
+occurrence	o-ky-R@s	oc-cur-ren-ce	NOM	f	s		1.56	7.16
+occurrences	o-ky-R@s	oc-cur-ren-ces	NOM	f	p	occurrence	0.01	0.27
+occurrentes	o-ky-R@t	oc-cur-ren-tes	ADJ	f	p	occurrent	0	0.07
+océan	o-se-@	o-céan	NOM	m	s		22.86	24.93
+océane	o-se-an	o-céa-ne	ADJ	f	s	océan	0.02	0.47
+océanienne	o-se-a-njEn	o-céa-nien-ne	ADJ	f	s	océanien	0	0.07
+océanique	o-se-a-nik	o-céa-ni-que	ADJ		s		0.22	0.68
+océaniques	o-se-a-nik	o-céa-ni-ques	ADJ	m	p	océanique	0.04	0.14
+océanographe	o-se-a-no-gRaf	o-céa-no-gra-phe	NOM		s		0.07	0
+océanographie	o-se-a-no-gRa-fi	o-céa-no-gra-phie	NOM	f	s		0.05	0
+océanographique	o-se-a-no-gRa-fik	o-céa-no-gra-phi-que	ADJ		s		0.3	0
+océanographiques	o-se-a-no-gRa-fik	o-céa-no-gra-phi-ques	ADJ	m	p	océanographique	0.03	0
+océanologie	O-se-a-nO-lO-Zi		NOM	f	s		0.01	0
+océanologue	O-se-a-nO-lOg		NOM		s		0.08	0
+océans	o-se-@	o-céans	NOM	m	p	océan	2.03	3.85
+ocellée	o-sE-le	o-cel-lée	ADJ	f	s	ocellé	0	0.2
+ocelles	o-sEl	o-cel-les	NOM	m	p	ocelle	0	0.14
+ocellés	o-sE-le	o-cel-lés	ADJ	m	p	ocellé	0	0.2
+ocelot	O-s°-lo	o-ce-lot	NOM	m	s		0.17	0.07
+ocelots	O-s°-lo	o-ce-lots	NOM	m	p	ocelot	0.03	0.07
+ocre	OkR	o-cre	ADJ				0.14	4.73
+ocre	OkR	o-cre	NOM		s		0.26	3.78
+ocré	o-kRe	o-cré	VER	m	s	ocrer	0	0.07
+ocrée	o-kRe	o-crée	ADJ	f	s	ocré	0	0.2
+ocrée	o-kRe	o-crée	VER	f	s	ocrer	0	0.07
+ocrées	o-kRe	o-crées	VER	f	p	ocrer	0	0.07
+ocres	OkR	o-cres	NOM		p	ocre	0.04	0.68
+ocrés	o-kRe	o-crés	VER	m	p	ocrer	0	0.14
+ocrés	o-kRe	o-crés	ADJ	m	p	ocré	0	0.07
+ocreux	o-kR2	o-creux	ADJ	m			0	0.2
+octane	Ok-tan	oc-ta-ne	NOM	m	s		0.09	0
+octant	Ok-t@	oc-tant	NOM	m	s		0	0.14
+octante	Ok-t@t	oc-tan-te	ADJ:num				0	0.14
+octave	Ok-tav	oc-ta-ve	NOM	f	s		1.07	1.42
+octaves	Ok-tav	oc-ta-ves	NOM	f	p	octave	0.03	0.41
+octavia	Ok-ta-vja	oc-ta-via	VER			octavier	0.28	0
+octavie	Ok-ta-vi	oc-ta-vie	VER			octavier	0.07	0
+octavo	Ok-ta-vo		ADV				0.01	0
+octet	Ok-tE	oc-tet	NOM	m	s		0.01	0
+octets	Ok-tE	oc-tets	NOM	m	p	octet	0.01	0
+octidi	Ok-ti-di	oc-ti-di	NOM	m	s		0	0.07
+octobre	Ok-tObR	oc-to-bre	NOM	m			11.78	36.28
+octogénaire	Ok-to-Ze-nER	oc-to-gé-nai-re	NOM		s		0.21	0.27
+octogénaire	Ok-to-Ze-nER	oc-to-gé-nai-re	ADJ		s		0.02	0.27
+octogénaires	Ok-to-Ze-nER	oc-to-gé-nai-res	NOM		p	octogénaire	0.01	0.14
+octogénaires	Ok-to-Ze-nER	oc-to-gé-nai-res	ADJ		p	octogénaire	0	0.07
+octogonal	Ok-to-go-nal	oc-to-go-nal	ADJ	m	s		0.2	0.74
+octogonale	Ok-to-go-nal	oc-to-go-na-le	ADJ	f	s	octogonal	0.03	0.95
+octogonales	Ok-to-go-nal	oc-to-go-na-les	ADJ	f	p	octogonal	0	0.07
+octogonaux	Ok-to-go-no	oc-to-go-naux	ADJ	m	p	octogonal	0	0.07
+octogone	Ok-to-gon	oc-to-go-ne	NOM	m	s		0.04	0.41
+octogones	Ok-to-gon	oc-to-go-nes	NOM	m	p	octogone	0	0.2
+octosyllabe	Ok-to-si-lab	oc-to-syl-la-be	NOM	m	s		0	0.07
+octosyllabes	Ok-to-si-lab	oc-to-syl-la-bes	NOM	m	p	octosyllabe	0.14	0.27
+octroi	Ok-tRwa	oc-troi	NOM	m	s		0.17	1.82
+octroie	Ok-tRwa	oc-troie	VER			octroyer	0.41	0.47
+octroient	Ok-tRwa	oc-troient	VER			octroyer	0.03	0.14
+octroiera	Ok-tRwa-Ra	oc-troie-ra	VER			octroyer	0.02	0.07
+octrois	Ok-tRwa	oc-trois	NOM	m	p	octroi	0.01	0.2
+octroya	Ok-tRwa-ja	oc-troya	VER			octroyer	0.01	0.47
+octroyaient	Ok-tRwa-jE	oc-troyaient	VER			octroyer	0	0.27
+octroyait	Ok-tRwa-jE	oc-troyait	VER			octroyer	0.01	0.2
+octroyant	Ok-tRwa-j@	oc-troyant	VER			octroyer	0.02	0.14
+octroyât	Ok-tRwa-ja	oc-troyât	VER			octroyer	0	0.07
+octroyé	Ok-tRwa-je	oc-troyé	VER	m	s	octroyer	0.59	0.88
+octroyée	Ok-tRwa-je	oc-troyée	VER	f	s	octroyer	0.13	0.27
+octroyées	Ok-tRwa-je	oc-troyées	VER	f	p	octroyer	0	0.14
+octroyer	Ok-tRwa-je	oc-troyer	VER				0.11	0.27
+octroyés	Ok-tRwa-je	oc-troyés	VER	m	p	octroyer	0	0.14
+octroyons	Ok-tRwa-j§	oc-troyons	VER			octroyer	0.01	0.07
+octuor	Ok-t8OR	oc-tuor	NOM	m	s		0.01	0.14
+octuple	Ok-typl		ADJ	f	s		0.02	0
+oculaire	o-ky-lER	o-cu-lai-re	ADJ		s		1.98	0.2
+oculaire	o-ky-lER	o-cu-lai-re	NOM	m	s		0.04	0.14
+oculaires	o-ky-lER	o-cu-lai-res	ADJ		p	oculaire	1.38	0.61
+oculaires	o-ky-lER	o-cu-lai-res	NOM	m	p	oculaire	0.03	0.2
+oculi	O-ky-li		NOM	m	p	oculus	0.01	0
+oculiste	o-ky-list	o-cu-lis-te	NOM		s		0.37	0.74
+oculistes	o-ky-list	o-cu-lis-tes	NOM		p	oculiste	0	0.07
+oculomoteur	O-ky-lo-mO-t9R		ADJ	m	s		0.01	0
+oculus	o-ky-lys	o-cu-lus	NOM	m			0.01	0
+ocytocine	O-si-tO-sin		NOM	f	s		0.03	0
+odalisque	o-da-lisk	o-da-lis-que	NOM	f	s		0.22	0.54
+odalisques	o-da-lisk	o-da-lis-ques	NOM	f	p	odalisque	0.16	0.74
+ode	Od	o-de	NOM	f	s		0.94	0.61
+odelette	o-d°-lEt	o-de-let-te	NOM	f	s		0.01	0
+odelettes	o-d°-lEt	o-de-let-tes	NOM	f	p	odelette	0	0.07
+odéon	o-de-§	o-déon	NOM	m	s		0	0.34
+odes	Od	o-des	NOM	f	p	ode	0.03	0.2
+odeur	o-d9R	o-deur	NOM	f	s		47.19	159.86
+odeurs	o-d9R	o-deurs	NOM	f	p	odeur	2.38	35.81
+odieuse	o-dj2z	o-dieu-se	ADJ	f	s	odieux	2.14	3.78
+odieusement	o-dj2-z°-m@	o-dieu-se-ment	ADV				0.03	0.61
+odieuses	o-dj2z	o-dieu-ses	ADJ	f	p	odieux	0.23	1.01
+odieux	o-dj2	o-dieux	ADJ	m			6.22	9.53
+odomètre	O-dO-mEtR		NOM	m	s		0.1	0
+odontologie	o-d§-to-lo-Zi		NOM	f	s		0.13	0
+odontologiste	O-d§-tO-lO-Zist		NOM		s		0.01	0
+odontologues	O-d§-to-lOg	o-don-to-lo-gues	NOM		p	odontologue	0.01	0
+odorant	o-do-R@	o-do-rant	ADJ	m	s		0.08	1.49
+odorant	o-do-R@	o-do-rant	VER			odorer	0	0.34
+odorante	o-do-R@t	o-do-ran-te	ADJ	f	s	odorant	0.16	3.11
+odorantes	o-do-R@t	o-do-ran-tes	ADJ	f	p	odorant	0.4	1.35
+odorants	o-do-R@	o-do-rants	ADJ	m	p	odorant	0.03	0.88
+odorat	o-do-Ra	o-do-rat	NOM	m	s		1.28	2.57
+odoriférant	o-do-Ri-fe-R@	o-do-ri-fé-rant	ADJ	m	s		0	0.14
+odoriférante	o-do-Ri-fe-R@t	o-do-ri-fé-ran-te	ADJ	f	s	odoriférant	0	0.2
+odoriférantes	o-do-Ri-fe-R@t	o-do-ri-fé-ran-tes	ADJ	f	p	odoriférant	0.01	0.14
+odoriférants	o-do-Ri-fe-R@	o-do-ri-fé-rants	ADJ	m	p	odoriférant	0	0.27
+odyssée	o-di-se	o-dys-sée	NOM	f	s		0.23	0.95
+odyssées	o-di-se	o-dys-sées	NOM	f	p	odyssée	0.01	0.07
+oecuménique	2-ky-me-nik	oe-cu-mé-ni-que	ADJ		s		0.33	0.34
+oecuméniques	2-ky-me-nik	oe-cu-mé-ni-ques	ADJ	f	p	oecuménique	0	0.07
+oecuménisme	2-ky-me-nizm	oe-cu-mé-nis-me	NOM	m	s		0.01	0.34
+oedémateuse	2-de-ma-t2z		ADJ	f	s	oedémateux	0.01	0
+oedème	2-dEm	oe-dè-me	NOM	m	s		1.25	0.54
+oedèmes	2-dEm	oe-dè-mes	NOM	m	p	oedème	0.01	0.07
+oedipe	2-dip	oe-di-pe	NOM	m	s		0.14	0.41
+oedipien	2-di-pj5	oe-di-pien	ADJ	m	s		0.06	0.14
+oedipienne	e-di-pjEn		ADJ	f	s	oedipien	0.01	0
+oeil	9j	oeil	NOM	m	s		97.13	278.51
+oeil-de-boeuf	9j-d°-b9f	oeil-de-boeuf	NOM	m	s		0	0.47
+oeillade	9-jad	oeil-la-de	NOM	f	s		0.02	0.74
+oeillades	9-jad	oeil-la-des	NOM	f	p	oeillade	0.03	1.08
+oeillère	9-jER	oeil-lè-re	NOM	f	s		0	0.07
+oeillères	9-jER	oeil-lè-res	NOM	f	p	oeillère	0.44	1.76
+oeillet	9-jE	oeil-let	NOM	m	s		0.39	2.09
+oeilleton	9-j°-t§	oeil-le-ton	NOM	m	s		0	1.15
+oeilletons	9-j°-t§	oeil-le-tons	NOM	m	p	oeilleton	0	0.2
+oeillets	9-jE	oeil-lets	NOM	m	p	oeillet	3.13	3.99
+oeillette	9-jEt	oeil-let-te	NOM	f	s		0	0.14
+oeils	9j	oeils	NOM	m	p	oeil	0.01	0.41
+oeils-de-boeuf	9j-d°-b9f	oeils-de-boeuf	NOM	m	p	oeil-de-boeuf	0	0.47
+oeils-de-perdrix	9j-d°-pER-dRi	oeils-de-perdrix	NOM	m	p	oeil-de-perdrix	0	0.14
+oenologie	2-no-lo-Zi	oe-no-lo-gie	NOM	f	s		0.01	0
+oenologique	2-no-lo-Zik	oe-no-lo-gi-que	ADJ	f	s		0	0.07
+oenologues	2-no-lOg	oe-no-lo-gues	NOM		p	oenologue	0	0.14
+oenophile	2-no-fil	oe-no-phi-le	ADJ		s		0	0.07
+oenothera	2-no-tRa	oe-no-the-ra	NOM	m	s		0.01	0
+oenothère	2-no-tER	oe-no-thè-re	NOM	m	s		0	0.07
+oesophage	2-zo-faZ	oe-so-pha-ge	NOM	m	s		0.48	1.08
+oesophages	2-zo-faZ	oe-so-pha-ges	NOM	m	p	oesophage	0	0.14
+oesophagien	2-zo-fa-Zj5		ADJ	m	s		0.02	0
+oesophagienne	2-zo-fa-ZjEn	oe-so-pha-gien-ne	ADJ	f	s	oesophagien	0.01	0
+oesophagiennes	2-zo-fa-ZjEn	oe-so-pha-gien-nes	ADJ	f	p	oesophagien	0.03	0
+oestrogène	2s-tRo-ZEn	oes-tro-gè-ne	NOM	m	s		0.04	0
+oestrogène	2s-tRo-ZEn	oes-tro-gè-ne	ADJ	m	s		0.01	0
+oestrogènes	2s-tRo-ZEn	oes-tro-gè-nes	NOM	m	p	oestrogène	0.24	0.14
+oestrogènes	2s-tRo-ZEn	oes-tro-gè-nes	ADJ	m	p	oestrogène	0.03	0
+oeuf	9f	oeuf	NOM	m	s		13.53	20.34
+oeufs	2	oeuf-s	NOM	m	p	oeuf	25.88	29.8
+oeuvraient	9-vRE	oeu-vraient	VER			oeuvrer	0	0.2
+oeuvrait	9-vRE	oeu-vrait	VER			oeuvrer	0.14	0.61
+oeuvrant	9-vR@	oeu-vrant	VER			oeuvrer	0.14	0.54
+oeuvre	9vR	oeu-vre	NOM		s		35.24	68.11
+oeuvre	9vR	oeu-vre	VER			oeuvrer	1.2	0.88
+oeuvré	9-vRe	oeu-vré	VER	m	s	oeuvrer	0.11	0.74
+oeuvrent	9vR	oeu-vrent	VER			oeuvrer	0.16	0.2
+oeuvrer	9-vRe	oeu-vrer	VER				0.41	1.01
+oeuvrera	9-vR°-Ra	oeu-vre-ra	VER			oeuvrer	0.03	0
+oeuvres	9vR	oeu-vres	NOM		p	oeuvre	6.72	24.12
+oeuvres	9vR	oeu-vres	VER			oeuvrer	0.04	0
+oeuvrette	9-vREt	oeu-vret-te	NOM	f	s		0	0.07
+oeuvrettes	9-vREt	oeu-vret-tes	NOM	f	p	oeuvrette	0	0.14
+oeuvrez	9-vRe	oeu-vrez	VER			oeuvrer	0.03	0
+oeuvrions	9-vRi-j§	oeu-vrions	VER			oeuvrer	0	0.07
+off	Of	off	ADJ				3.27	0.54
+off-shore	Of-SOR	off-sho-re	NOM	m	s		0.07	0
+offensa	o-f@-sa	of-fen-sa	VER			offenser	0.03	0.07
+offensaient	o-f@-sE	of-fen-saient	VER			offenser	0	0.2
+offensais	o-f@-sE	of-fen-sais	VER			offenser	0	0.07
+offensait	o-f@-sE	of-fen-sait	VER			offenser	0.13	0.54
+offensant	o-f@-s@	of-fen-sant	ADJ	m	s		0.82	0.34
+offensant	o-f@-s@	of-fen-sant	VER			offenser	0.04	0.07
+offensante	o-f@-s@t	of-fen-san-te	ADJ	f	s	offensant	0.07	0.41
+offensantes	o-f@-s@t	of-fen-san-tes	ADJ	f	p	offensant	0.01	0.07
+offensants	o-f@-s@	of-fen-sants	ADJ	m	p	offensant	0.02	0.2
+offense	o-f@s	of-fen-se	NOM	f	s		5.41	2.03
+offense	o-f@s	of-fen-se	VER			offenser	1.29	0.61
+offensé	o-f@-se	of-fen-sé	VER	m	s	offenser	4.09	1.55
+offensé	o-f@-se	of-fen-sé	ADJ	m	s		1.11	1.01
+offensé	o-f@-se	of-fen-sé	NOM	m	s		0.39	0.2
+offensée	o-f@-se	of-fen-sée	VER	f	s	offenser	0.97	0.47
+offensée	o-f@-se	of-fen-sée	ADJ	f	s	offensé	0.63	0.68
+offensées	o-f@-se	of-fen-sées	ADJ	f	p	offensé	0.17	0.14
+offensées	o-f@-se	of-fen-sées	VER	f	p	offenser	0.02	0
+offensent	o-f@s	of-fen-sent	VER			offenser	0.34	0.34
+offenser	o-f@-se	of-fen-ser	VER				6.6	1.76
+offensera	o-f@-s°-Ra	of-fen-se-ra	VER			offenser	0.04	0
+offenserai	o-f@-s°-RE	of-fen-se-rai	VER			offenser	0.01	0.07
+offenseraient	o-f@-s°-RE	of-fen-se-raient	VER			offenser	0.11	0.14
+offenserais	o-f@-s°-RE	of-fen-se-rais	VER			offenser	0.02	0.07
+offensèrent	o-f@-sER	of-fen-sè-rent	VER			offenser	0	0.07
+offenserez	o-f@-s°-Re	of-fen-se-rez	VER			offenser	0.01	0
+offenseront	o-f@-s°-R§	of-fen-se-ront	VER			offenser	0.01	0
+offenses	o-f@s	of-fen-ses	NOM	f	p	offense	2.04	1.22
+offenses	o-f@s	of-fen-ses	VER			offenser	0.28	0.07
+offensés	o-f@-se	of-fen-sés	VER	m	p	offenser	1.15	0.14
+offensés	o-f@-se	of-fen-sés	ADJ	m	p	offensé	0.28	0.27
+offensés	o-f@-se	of-fen-sés	NOM	m	p	offensé	0.16	0
+offenseur	o-f@-s9R	of-fen-seur	NOM	m	s		0.55	0.14
+offenseurs	o-f@-s9R	of-fen-seurs	NOM	m	p	offenseur	0.11	0
+offensez	o-f@-se	of-fen-sez	VER			offenser	0.64	0.07
+offensif	o-f@-sif	of-fen-sif	ADJ	m	s		0.32	0.61
+offensifs	o-f@-sif	of-fen-sif-s	ADJ	m	p	offensif	0.07	0.07
+offensive	o-f@-siv	of-fen-si-ve	NOM	f	s		2.91	11.96
+offensive	o-f@-siv	of-fen-si-ve	ADJ	f	s	offensif	0.37	1.15
+offensives	o-f@-siv	of-fen-si-ves	ADJ	f	p	offensif	0.08	0.54
+offensives	o-f@-siv	of-fen-si-ves	NOM	f	p	offensive	0.21	0.34
+offensons	o-f@-s§	of-fen-sons	VER			offenser	0	0.07
+offert	o-fER	of-fert	VER	m	s	offrir	34.01	28.51
+offerte	o-fERt	of-fer-te	VER	f	s	offrir	5.08	12.03
+offertes	o-fERt	of-fer-tes	VER	f	p	offrir	0.93	3.85
+offertoire	o-fER-twaR	of-fer-toi-re	NOM	m	s		0	0.34
+offerts	o-fER	of-ferts	VER	m	p	offrir	1.41	3.45
+office	o-fis	of-fi-ce	NOM		s		6.13	21.28
+offices	o-fis	of-fi-ces	NOM	m	p	office	0.25	3.72
+officiaient	o-fi-sjE	of-fi-ciaient	VER			officier	0	0.41
+officiais	o-fi-sjE	of-fi-ciais	VER			officier	0	0.14
+officiait	o-fi-sjE	of-fi-ciait	VER			officier	0.05	1.08
+official	O-fi-sjal		NOM	m	s		0.03	0
+officialisait	o-fi-sja-li-zE	of-fi-cia-li-sait	VER			officialiser	0	0.07
+officialise	o-fi-sja-liz	of-fi-cia-li-se	VER			officialiser	0.03	0
+officialisé	o-fi-sja-li-ze	of-fi-cia-li-sé	VER	m	s	officialiser	0.04	0
+officialiser	o-fi-sja-li-ze	of-fi-cia-li-ser	VER				0.14	0
+officialisez	o-fi-sja-li-ze	of-fi-cia-li-sez	VER			officialiser	0.01	0
+officialité	o-fi-sja-li-te	of-fi-cia-li-té	NOM	f	s		0	0.2
+officiant	o-fi-sj@	of-fi-ciant	NOM	m	s		0.21	1.08
+officiant	o-fi-sj@	of-fi-ciant	ADJ	m	s		0	0.14
+officiant	o-fi-sj@	of-fi-ciant	VER			officier	0	0.07
+officiants	o-fi-sj@	of-fi-ciants	NOM	m	p	officiant	0	0.54
+officiants	o-fi-sj@	of-fi-ciants	ADJ	m	p	officiant	0.01	0.07
+officie	o-fi-si	of-fi-cie	VER			officier	0.08	0.61
+officié	O-fi-sje		VER	m	s	officier	0.05	0
+officiel	o-fi-sjEl	of-fi-ciel	ADJ	m	s		9.54	11.89
+officiel	o-fi-sjEl	of-fi-ciel	NOM	m	s		0.92	1.22
+officielle	o-fi-sjEl	of-fi-ciel-le	ADJ	f	s	officiel	8.45	12.09
+officielle	o-fi-sjEl	of-fi-ciel-le	NOM	f	s	officiel	0.08	0.14
+officiellement	o-fi-sjE-l°-m@	of-fi-ciel-le-ment	ADV				10.41	7.36
+officielles	o-fi-sjEl	of-fi-ciel-les	ADJ	f	p	officiel	1.59	4.05
+officielles	o-fi-sjEl	of-fi-ciel-les	NOM	f	p	officiel	0	0.14
+officiels	o-fi-sjEl	of-fi-ciels	ADJ	m	p	officiel	1.78	4.8
+officiels	o-fi-sjEl	of-fi-ciels	NOM	m	p	officiel	1.43	1.22
+officient	o-fi-si	of-fi-cient	VER			officier	0.01	0.07
+officier	o-fi-sje	of-fi-cier	NOM	m	s		35.47	35.68
+officier	o-fi-sje	of-fi-cier	VER				6.92	4.32
+officière	O-fi-sjER		NOM	f	s	officier	0.01	0
+officiers	o-fi-sje	of-fi-ciers	NOM	m	p	officier	19.87	43.38
+officieuse	o-fi-sj2z	of-fi-cieu-se	ADJ	f	s	officieux	0.38	0.2
+officieusement	o-fi-sj2-z°-m@	of-fi-cieu-se-ment	ADV				1.13	0.54
+officieuses	o-fi-sj2z	of-fi-cieu-ses	ADJ	f	p	officieux	0.15	0.27
+officieux	o-fi-sj2	of-fi-cieux	ADJ	m			0.92	0.88
+officiez	o-fi-sje	of-fi-ciez	VER			officier	0.02	0
+officine	o-fi-sin	of-fi-ci-ne	NOM	f	s		0.17	1.96
+officines	o-fi-sin	of-fi-ci-nes	NOM	f	p	officine	0	0.68
+officions	o-fi-sj§	of-fi-cions	VER			officier	0.01	0
+offraient	o-fRE	of-fraient	VER			offrir	0.71	8.38
+offrais	o-fRE	of-frais	VER			offrir	0.81	1.96
+offrait	o-fRE	of-frait	VER			offrir	2.96	31.76
+offrande	o-fR@d	of-fran-de	NOM	f	s		3.97	4.53
+offrandes	o-fR@d	of-fran-des	NOM	f	p	offrande	0.57	2.36
+offrant	o-fR@	of-frant	VER			offrir	2.13	10.54
+offrant	o-fR@	of-frant	ADJ	m	s		1.06	0.41
+offrant	o-fR@	of-frant	NOM	m	s		0.08	0.34
+offrante	O-fR@t		ADJ	f	s	offrant	0.01	0
+offrantes	o-fR@t	of-fran-tes	ADJ	f	p	offrant	0	0.07
+offrants	o-fR@	of-frants	ADJ	m	p	offrant	0.02	0
+offrants	o-fR@	of-frants	NOM	m	p	offrant	0.01	0
+offre	OfR	of-fre	VER			offrir	51.81	29.8
+offre	OfR	of-fre	NOM	f	s		30.23	8.78
+offrent	OfR	of-frent	VER			offrir	4.29	4.53
+offres	OfR	of-fres	NOM	f	p	offre	4.32	2.77
+offres	OfR	of-fres	VER			offrir	4.78	0.68
+offrez	o-fRe	of-frez	VER			offrir	5.5	1.01
+offriez	o-fRi-je	of-friez	VER			offrir	0.26	0.14
+offrions	o-fRi-j§	of-frions	VER			offrir	0.07	0.34
+offrir	o-fRiR	of-frir	VER				52.06	50.34
+offrira	o-fRi-Ra	of-fri-ra	VER			offrir	1.15	1.15
+offrirai	o-fRi-RE	of-fri-rai	VER			offrir	1.92	0.81
+offriraient	o-fRi-RE	of-fri-raient	VER			offrir	0.02	0.54
+offrirais	o-fRi-RE	of-fri-rais	VER			offrir	1.23	0.34
+offrirait	o-fRi-RE	of-fri-rait	VER			offrir	0.7	2.43
+offriras	o-fRi-Ra	of-fri-ras	VER			offrir	0.73	0
+offrirent	o-fRiR	of-fri-rent	VER			offrir	0.02	1.35
+offrirez	o-fRi-Re	of-fri-rez	VER			offrir	0.13	0.2
+offririez	o-fRi-Rje	of-fri-riez	VER			offrir	0.06	0.07
+offrirons	o-fRi-R§	of-fri-rons	VER			offrir	0.37	0.07
+offriront	o-fRi-R§	of-fri-ront	VER			offrir	0.24	0.27
+offris	o-fRi	of-fris	VER			offrir	0.06	1.69
+offrit	o-fRi	of-frit	VER			offrir	1.55	16.55
+offrît	o-fRi	of-frît	VER			offrir	0	0.47
+offrons	o-fR§	of-frons	VER			offrir	2.81	0.74
+offset	Of-sEt	off-set	NOM		s		0.01	0.2
+offset	Of-sEt	off-set	ADJ	m	s		0.01	0
+offshore	Of-SOR	off-sho-re	ADJ				0.43	0
+offshore	Of-SOR	off-sho-re	NOM	m			0.01	0
+offuscation	o-fys-ka-sj§	of-fus-ca-tion	NOM	f	s		0	0.07
+offuscations	o-fys-ka-sj§	of-fus-ca-tions	NOM	f	p	offuscation	0	0.07
+offusqua	o-fys-ka	of-fus-qua	VER			offusquer	0.01	0.47
+offusquaient	o-fys-kE	of-fus-quaient	VER			offusquer	0	0.41
+offusquais	o-fys-kE	of-fus-quais	VER			offusquer	0.01	0.07
+offusquait	o-fys-kE	of-fus-quait	VER			offusquer	0.01	0.68
+offusquant	o-fys-k@	of-fus-quant	VER			offusquer	0.01	0.2
+offusquant	o-fys-k@	of-fus-quant	ADJ	m	s		0.03	0.07
+offusquât	o-fys-ka	of-fus-quât	VER			offusquer	0	0.07
+offusque	o-fysk	of-fus-que	VER			offusquer	0.3	0.61
+offusqué	o-fys-ke	of-fus-qué	VER	m	s	offusquer	0.27	0.34
+offusqué	o-fys-ke	of-fus-qué	ADJ	m	s		0.02	0.41
+offusquée	o-fys-ke	of-fus-quée	VER	f	s	offusquer	0.12	0.61
+offusquée	o-fys-ke	of-fus-quée	ADJ	f	s	offusqué	0.01	0.34
+offusquées	o-fys-ke	of-fus-quées	VER	f	p	offusquer	0	0.14
+offusquées	o-fys-ke	of-fus-quées	ADJ	f	p	offusqué	0	0.07
+offusquent	o-fysk	of-fus-quent	VER			offusquer	0.01	0.2
+offusquer	o-fys-ke	of-fus-quer	VER				0.23	0.74
+offusquerai	o-fys-k°-RE	of-fus-que-rai	VER			offusquer	0.04	0
+offusquerait	o-fys-k°-RE	of-fus-que-rait	VER			offusquer	0.01	0
+offusquèrent	o-fys-kER	of-fus-què-rent	VER			offusquer	0	0.14
+offusquerez	o-fys-k°-Re	of-fus-que-rez	VER			offusquer	0.01	0
+offusques	o-fysk	of-fus-ques	VER			offusquer	0	0.07
+offusqués	o-fys-ke	of-fus-qués	VER	m	p	offusquer	0	0.2
+offusqués	o-fys-ke	of-fus-qués	ADJ	m	p	offusqué	0	0.14
+oflag	O-flag	o-flag	NOM	m	s		0	0.2
+oflags	O-flag	o-flag-s	NOM	m	p	oflag	0	0.07
+ogival	o-Zi-val	o-gi-val	ADJ	m	s		0	0.41
+ogive	o-Ziv	o-gi-ve	NOM	f	s		1.4	1.69
+ogives	o-Ziv	o-gi-ves	NOM	f	p	ogive	0.95	1.76
+ognons	o-N§	o-gnons	NOM	m	p	ognon	0.11	0
+ogre	OgR	o-gre	NOM	m	s		2.52	4.66
+ogres	OgR	o-gres	NOM	m	p	ogre	0.3	1.28
+ogresse	o-gREs	o-gres-se	NOM	f	s		0.31	1.55
+ogresses	o-gREs	o-gres-ses	NOM	f	p	ogresse	0	0.34
+oh	o	oh	ONO				897.52	197.09
+oh	o	oh	NOM	m	s		0.01	0
+ohé	o-e	o-hé	ONO				5.24	1.28
+ohms	om	ohm-s	NOM	m	p	ohm	0.02	0.14
+oie	wa	oie	NOM	f	s		5.42	5.2
+oie	wa	oie	VER			ouïr	0.05	0.07
+oies	wa	oies	NOM	f	p	oie	3.73	4.12
+oies	wa	oies	VER			ouïr	0.02	0
+oignait	wa-NE	oi-gnait	VER			oindre	0	0.14
+oignant	wa-N@	oi-gnant	VER			oindre	0	0.07
+oigne	waN	oi-gne	VER			oindre	0.14	0.07
+oignes	waN	oi-gnes	VER			oindre	0	0.2
+oignez	wa-Ne	oi-gnez	VER			oindre	0.03	0
+oignit	wa-Ni	oi-gnit	VER			oindre	0	0.07
+oignon	O-N§	oi-gnon	NOM	m	s		4.35	5.34
+oignons	O-N§	oi-gnons	NOM	m	p	oignon	15.63	10.2
+oignons	O-N§	oi-gnons	VER			oindre	0.03	0.07
+oïl	Ojl	oïl	NOM	m			0.01	0
+oille	waj	oil-le	NOM	f	s		0	0.07
+oindra	w5-dRa	oin-dra	VER			oindre	0	0.07
+oindre	w5dR	oin-dre	VER				0.12	0.2
+oing	w5	oing	NOM	m	s		0	0.07
+oins	w5	oins	VER			oindre	0.16	0.07
+oint	w5	oint	NOM	m	s		0.1	0.14
+oint	w5	oint	VER	m	s	oindre	0.09	0.14
+ointe	w5t	oin-te	VER	f	s	oindre	0	0.2
+ointe	w5t	oin-te	ADJ	f	s	oint	0	0.07
+ointes	w5t	oin-tes	VER	f	p	oindre	0	0.27
+ointes	w5t	oin-tes	ADJ	f	p	oint	0	0.07
+oints	w5	oints	NOM	m	p	oint	0	0.14
+oints	w5	oints	VER	m	p	oindre	0	0.07
+oints	w5	oints	ADJ	m	p	oint	0	0.07
+ois	wa	ois	VER			ouïr	1.16	0.07
+oiseau	wa-zo	oi-seau	NOM	m	s		43.78	47.97
+oiseau-clé	wa-zo-kle	oiseau-clé	NOM	m	s		0.01	0
+oiseau-lyre	wa-zo-liR	oiseau-lyre	NOM	m	s		0	0.07
+oiseau-mouche	wa-zo-muS	oiseau-mouche	NOM	m	s		0.08	0.14
+oiseau-vedette	wa-zo-v°-dEt	oiseau-vedette	NOM	m	s		0.01	0
+oiseaux	wa-zo	oi-seaux	NOM	m	p	oiseau	33.96	65.07
+oiseaux-mouches	wa-zo-muS	oiseaux-mouches	NOM	m	p	oiseau-mouche	0.01	0.14
+oiselet	wa-z°-lE	oi-se-let	NOM	m	s		0.12	0.34
+oiselets	wa-z°-lE	oi-se-lets	NOM	m	p	oiselet	0.01	0.2
+oiseleur	wa-z°-l9R	oi-se-leur	NOM	m	s		0.06	0.47
+oiseleurs	wa-z°-l9R	oi-se-leurs	NOM	m	p	oiseleur	0.01	0.07
+oiselez	wa-z°-le	oi-se-lez	VER			oiseler	0	0.07
+oiselier	wa-z°-lje	oi-se-lier	NOM	m	s		0	0.07
+oiselière	wa-z°-ljER	oi-se-liè-re	NOM	f	s	oiselier	0	0.07
+oiseliers	wa-z°-lje	oi-se-liers	NOM	m	p	oiselier	0.01	0.07
+oiselle	wa-zEl	oi-sel-le	NOM	f	s		0.06	0.34
+oisellerie	wa-zE-l°-Ri	oi-sel-le-rie	NOM	f	s		0.04	0
+oiselles	wa-zEl	oi-sel-les	NOM	f	p	oiselle	0.02	0.07
+oiseuse	wa-z2z	oi-seu-se	ADJ	f	s	oiseux	0.01	0.47
+oiseuses	wa-z2z	oi-seu-ses	ADJ	f	p	oiseux	0.13	1.01
+oiseux	wa-z2	oi-seux	ADJ	m			0.14	0.88
+oisif	wa-zif	oi-sif	ADJ	m	s		0.36	0.41
+oisif	wa-zif	oi-sif	NOM	m	s		0.04	0.27
+oisifs	wa-zif	oi-sif-s	NOM	m	p	oisif	0.06	1.01
+oisifs	wa-zif	oi-sif-s	ADJ	m	p	oisif	0.06	0.47
+oisillon	wa-zi-j§	oi-sil-lon	NOM	m	s		0.3	0.68
+oisillons	wa-zi-j§	oi-sil-lons	NOM	m	p	oisillon	0.15	0.54
+oisive	wa-ziv	oi-si-ve	ADJ	f	s	oisif	0.35	0.95
+oisivement	wa-zi-v°-m@	oi-si-ve-ment	ADV				0.02	0
+oisives	wa-ziv	oi-si-ves	ADJ	f	p	oisif	0.08	0.2
+oisiveté	wa-zi-v°-te	oi-si-ve-té	NOM	f	s		0.59	3.65
+oison	wa-z§		NOM	m	s		0.02	0
+oisons	wa-z§	oi-sons	NOM	m	p	oison	0	0.07
+oit	wa	oit	VER			ouïr	0.13	0
+ok	o-ke	ok	ADJ				234.89	1.15
+ok	o-ke	ok	ADV				136.5	1.22
+oka	o-ka	o-ka	NOM	m	s		0	0.07
+okapi	O-ka-pi		NOM	m	s		0.08	0
+okoumé	o-ku-me	o-kou-mé	NOM	m	s		0	0.14
+ola	o-la	o-la	NOM	f	s		1.31	0
+olé	o-le	o-lé	ONO				2.37	0.47
+olé-olé	o-le-o-le	olé-olé	ADJ	m	p		0	0.14
+oléagineux	o-le-a-Zi-n2	o-léa-gi-neux	NOM	m			0	0.07
+olécrane	O-le-kRan		NOM	m	s		0.01	0
+olécrâne	o-le-kRan	o-lé-crâ-ne	NOM	m	s		0	0.07
+oléfine	O-le-fin		NOM	f	s		0.03	0
+oléiculteurs	o-le-i-kyl-t9R	o-léi-cul-teurs	NOM	m	p	oléiculteur	0	0.07
+oléine	o-le-in	o-léi-ne	NOM	f	s		0	0.07
+oléoduc	o-le-o-dyk	o-léo-duc	NOM	m	s		0.26	0
+oléoducs	o-le-o-dyk	o-léo-ducs	NOM	m	p	oléoduc	0.05	0.07
+olfactif	Ol-fak-tif	ol-fac-tif	ADJ	m	s		0.11	0.54
+olfactifs	Ol-fak-tif	ol-fac-tif-s	ADJ	m	p	olfactif	0.03	0.07
+olfactive	Ol-fak-tiv	ol-fac-ti-ve	ADJ	f	s	olfactif	0.06	0.27
+olfactives	Ol-fak-tiv	ol-fac-ti-ves	ADJ	f	p	olfactif	0.28	0.14
+olfactomètre	Ol-fak-tO-mEtR		NOM	m	s		0	0.07
+olibrius	o-li-bRi-jys	o-li-brius	NOM	m			0.03	0.2
+olifant	o-li-f@	o-li-fant	NOM	m	s		0.14	0.41
+oligarchie	o-li-gaR-Si	o-li-gar-chie	NOM	f	s		0.12	0.07
+oligo-éléments	o-li-go-e-le-m@	oligo-éléments	NOM	m	p	oligo-élément	0	0.14
+olivaies	o-li-vE	o-li-vaies	NOM	f	p	olivaie	0	0.07
+olivâtre	o-li-vatR	o-li-vâ-tre	ADJ		s		0	0.81
+olivâtres	o-li-vatR	o-li-vâ-tres	ADJ	f	p	olivâtre	0	0.34
+olive	o-liv	o-li-ve	NOM	f	s		2.54	4.12
+olive	o-liv	o-li-ve	ADJ				0.12	1.01
+oliver	O-li-ve		NOM	m	s		0.06	0
+oliveraie	o-li-v°-RE	o-li-ve-raie	NOM	f	s		1.08	0.07
+oliveraies	o-li-v°-RE	o-li-ve-raies	NOM	f	p	oliveraie	0	0.41
+olives	o-liv	o-li-ves	NOM	f	p	olive	2.88	4.73
+olivette	o-li-vEt	o-li-vet-te	NOM	f	s		0	0.07
+olivettes	o-li-vEt	o-li-vet-tes	NOM	f	p	olivette	0	0.61
+olivier	o-li-vje	o-li-vier	NOM	m	s		0.77	4.19
+oliviers	o-li-vje	o-li-viers	NOM	m	p	olivier	1.32	8.65
+olivine	O-li-vin		NOM	f	s		0.05	0
+olla podrida	o-la-po-dRi-da	ol-la po-dri-da	NOM	f		olla-podrida	0	0.07
+ollé	Ol-le		ONO				0.02	0
+olmèque	Ol-mEk		ADJ		s		0.01	0
+olmèques	Ol-mEk	ol-mè-ques	NOM		p	olmèque	0	0.07
+olographe	o-lo-gRaf	o-lo-gra-phe	ADJ	m	s		0	0.14
+olympe	o-l5p	o-lym-pe	NOM	m	s		0.01	0.14
+olympes	o-l5p	o-lym-pes	NOM	m	p	olympe	0	0.07
+olympiade	o-l5-pjad	o-lym-pia-de	NOM	f	s		0.1	0.07
+olympiades	o-l5-pjad	o-lym-pia-des	NOM	f	p	olympiade	0.26	0.14
+olympien	o-l5-pj5	o-lym-pien	ADJ	m	s		0.07	1.35
+olympienne	o-l5-pjEn	o-lym-pien-ne	ADJ	f	s	olympien	0	0.54
+olympiens	o-l5-pj5	o-lym-piens	ADJ	m	p	olympien	0.01	0.14
+olympique	o-l5-pik	o-lym-pi-que	ADJ		s		1.68	1.28
+olympiques	o-l5-pik	o-lym-pi-ques	ADJ		p	olympique	1.94	0.41
+omani	o-ma-ni	o-ma-ni	ADJ	m	s		0.01	0
+ombelle	§-bEl	om-bel-le	NOM	f	s		0	0.07
+ombelles	§-bEl	om-bel-les	NOM	f	p	ombelle	0.01	0.68
+ombellifères	§-bE-li-fER	om-bel-li-fè-res	NOM	f	p	ombellifère	0	0.2
+ombilic	§-bi-lik	om-bi-lic	NOM	m	s		0.07	0.2
+ombilical	§-bi-li-kal	om-bi-li-cal	ADJ	m	s		0.57	1.76
+ombilicale	§-bi-li-kal		ADJ	f	s	ombilical	0.19	0
+ombilicaux	§-bi-li-ko	om-bi-li-caux	ADJ	m	p	ombilical	0.02	0.14
+omble	§bl	om-ble	NOM	m	s		0.01	0.07
+ombles	§bl	om-bles	NOM	m	p	omble	0.02	0.07
+ombra	§-bRa	om-bra	VER			ombrer	0	0.07
+ombrage	§-bRaZ	om-bra-ge	NOM	m	s		0.46	1.28
+ombrage	§-bRaZ	om-bra-ge	VER			ombrager	0.02	0.2
+ombragé	§-bRa-Ze	om-bra-gé	ADJ	m	s		0.13	0.68
+ombragé	§-bRa-Ze	om-bra-gé	VER	m	s	ombrager	0.01	0.2
+ombragea	§-bRa-Za	om-bra-gea	VER			ombrager	0	0.07
+ombrageaient	§-bRa-ZE	om-bra-geaient	VER			ombrager	0	0.2
+ombrageait	§-bRa-ZE	om-bra-geait	VER			ombrager	0	0.27
+ombragée	§-bRa-Ze	om-bra-gée	VER	f	s	ombrager	0	0.74
+ombragée	§-bRa-Ze	om-bra-gée	ADJ	f	s	ombragé	0.01	0.2
+ombragées	§-bRa-Ze	om-bra-gées	VER	f	p	ombrager	0	0.27
+ombragées	§-bRa-Ze	om-bra-gées	ADJ	f	p	ombragé	0	0.07
+ombragent	§-bRaZ	om-bra-gent	VER			ombrager	0	0.27
+ombrager	§-bRa-Ze	om-bra-ger	VER				0	0.2
+ombrages	§-bRaZ	om-bra-ges	NOM	m	p	ombrage	0.11	1.35
+ombragés	§-bRa-Ze	om-bra-gés	VER	m	p	ombrager	0	0.34
+ombragés	§-bRa-Ze	om-bra-gés	ADJ	m	p	ombragé	0.03	0
+ombrageuse	§-bRa-Z2z	om-bra-geu-se	ADJ	f	s	ombrageux	0.14	0.81
+ombrageusement	§-bRa-Z2-z°-m@		ADV				0	0.07
+ombrageuses	§-bRa-Z2z	om-bra-geu-ses	ADJ	f	p	ombrageux	0	0.14
+ombrageux	§-bRa-Z2	om-bra-geux	ADJ	m			0.31	1.89
+ombraient	§-bRE	om-braient	VER			ombrer	0	0.07
+ombrait	§-bRE	om-brait	VER			ombrer	0	0.2
+ombrant	§-bR@	om-brant	VER			ombrer	0	0.14
+ombrant	§-bR@	om-brant	ADJ	m	s		0	0.07
+ombre	§bR	om-bre	NOM		s		35.98	190.61
+ombre	§bR	om-bre	VER			ombrer	0.27	0.27
+ombré	§-bRe	om-bré	VER	m	s	ombrer	0.01	0.34
+ombré	§-bRe	om-bré	ADJ	m	s		0	0.14
+ombrée	§-bRe	om-brée	VER	f	s	ombrer	0	0.27
+ombrée	§-bRe	om-brée	NOM	f	s		0	0.07
+ombrées	§-bRe	om-brées	NOM	f	p	ombrée	0.54	0
+ombrées	§-bRe	om-brées	VER	f	p	ombrer	0	0.47
+ombrelle	§-bREl	om-brel-le	NOM	f	s		0.86	3.72
+ombrelles	§-bREl	om-brel-les	NOM	f	p	ombrelle	0.11	1.08
+ombrer	§-bRe	om-brer	VER				0.13	0.2
+ombres	§bR	om-bres	NOM		p	ombre	9.7	42.84
+ombres	§bR	om-bres	VER			ombrer	0.14	0
+ombrés	§-bRe	om-brés	VER	m	p	ombrer	0	0.47
+ombrés	§-bRe	om-brés	ADJ	m	p	ombré	0	0.2
+ombreuse	§-bR2z	om-breu-se	ADJ	f	s	ombreux	0	0.68
+ombreuses	§-bR2z	om-breu-ses	ADJ	f	p	ombreux	0	0.95
+ombreux	§-bR2	om-breux	ADJ	m			0	0.81
+oméga	o-me-ga	o-mé-ga	NOM	m	s		0.88	0.88
+omelette	o-m°-lEt	o-me-let-te	NOM	f	s		6.42	5.14
+omelettes	o-m°-lEt	o-me-let-tes	NOM	f	p	omelette	0.45	1.28
+omerta	o-mER-ta	o-mer-ta	NOM	f	s		0.14	0.14
+omet	o-mE	o-met	VER			omettre	0.13	0.2
+omets	o-mE	o-mets	VER			omettre	0.04	0.07
+omettaient	o-mE-tE	o-met-taient	VER			omettre	0	0.07
+omettais	o-mE-tE	o-met-tais	VER			omettre	0	0.07
+omettait	o-mE-tE	o-met-tait	VER			omettre	0	0.27
+omettant	o-mE-t@	o-met-tant	VER			omettre	0.1	0.54
+omette	o-mEt	o-met-te	VER			omettre	0	0.07
+omettent	o-mEt	o-met-tent	VER			omettre	0.01	0.2
+omettez	o-mE-te	o-met-tez	VER			omettre	0.24	0
+omettiez	o-mE-tje	o-met-tiez	VER			omettre	0.01	0.07
+omettrai	o-mE-tRE	o-met-trai	VER			omettre	0.03	0.07
+omettre	o-mEtR	o-met-tre	VER				0.35	0.74
+omettrez	o-mE-tRe	o-met-trez	VER			omettre	0.01	0
+omicron	o-mi-kR§	o-mi-cron	NOM	m	s		0.12	0.07
+omis	o-mi	o-mis	VER	m		omettre	1.74	3.58
+omis	o-mi	o-mis	ADJ	m	s		0.02	0.2
+omis	o-mi	o-mis	NOM	m			0	0.07
+omise	o-miz	o-mi-se	VER	f	s	omettre	0.04	0.14
+omises	o-miz	o-mi-ses	VER	f	p	omettre	0.03	0.07
+omission	o-mi-sj§	o-mis-sion	NOM	f	s		0.78	1.76
+omissions	o-mi-sj§	o-mis-sions	NOM	f	p	omission	0.25	0.34
+omit	o-mi	o-mit	VER			omettre	0	0.2
+omît	o-mi	o-mît	VER			omettre	0	0.07
+omni	Om-ni	om-ni	ADV				0.21	0.27
+omnibus	Om-ni-bys	om-ni-bus	NOM	m			0.37	1.28
+omnidirectionnel	Om-ni-di-REk-sjo-nEl	om-ni-di-rec-tion-nel	ADJ	m	s		0.02	0
+omnidirectionnelle	Om-ni-di-REk-sjo-nEl	om-ni-di-rec-tion-nel-le	ADJ	f	s	omnidirectionnel	0.01	0
+omnipotence	Om-ni-po-t@s	om-ni-po-ten-ce	NOM	f	s		0.16	0.74
+omnipotent	Om-ni-po-t@	om-ni-po-tent	ADJ	m	s		0.14	0.54
+omnipotente	Om-ni-po-t@t	om-ni-po-ten-te	ADJ	f	s	omnipotent	0.01	0.74
+omnipotentes	Om-ni-po-t@t	om-ni-po-ten-tes	ADJ	f	p	omnipotent	0.01	0
+omniprésence	Om-ni-pRe-z@s	om-ni-pré-sen-ce	NOM	f	s		0.11	0.34
+omniprésent	Om-ni-pRe-z@	om-ni-pré-sent	ADJ	m	s		0.53	0.81
+omniprésente	Om-ni-pRe-z@t	om-ni-pré-sen-te	ADJ	f	s	omniprésent	0.08	1.08
+omniprésentes	Om-ni-pRe-z@t	om-ni-pré-sen-tes	ADJ	f	p	omniprésent	0.03	0.2
+omniprésents	Om-ni-pRe-z@	om-ni-pré-sents	ADJ	m	p	omniprésent	0.06	0.07
+omnipuissance	Om-ni-p8i-s@s	om-ni-puis-san-ce	NOM	f	s		0	0.07
+omniscience	Om-ni-sj@s	om-ni-scien-ce	NOM	f	s		0.09	0
+omniscient	Om-ni-sj@	om-ni-scient	ADJ	m	s		0.14	0.34
+omnisciente	Om-ni-sj@t	om-ni-scien-te	ADJ	f	s	omniscient	0.05	0.07
+omniscients	Om-ni-sj@	om-ni-scients	ADJ	m	p	omniscient	0.14	0.07
+omnisports	Om-nis-pOR	om-ni-sports	ADJ	m	s		0.01	1.28
+omnium	Om-njOm	om-nium	NOM	m	s		0	0.2
+omnivore	Om-ni-vOR	om-ni-vo-re	ADJ	m	s		0.02	0.07
+omnivore	Om-ni-vOR	om-ni-vo-re	NOM		s		0	0.07
+omnivores	Om-ni-vOR	om-ni-vo-res	ADJ	f	p	omnivore	0.14	0.07
+omnivores	Om-ni-vOR	om-ni-vo-res	NOM		p	omnivore	0.01	0
+omoplate	o-mo-plat	o-mo-pla-te	NOM	f	s		0.48	1.55
+omoplates	o-mo-plat	o-mo-pla-tes	NOM	f	p	omoplate	0.18	4.19
+omphalos	§-fa-lo	om-pha-los	NOM	m			0	0.07
+on	§	on	PRO:per		s		8586.4	4838.38
+on	§	on	NOM	m	s		3.56	0
+on-dit	§-di	on-dit	NOM	m			0.14	0.81
+on-line	On-lajn	on-line	ADV				0.07	0
+onagre	o-nagR	o-na-gre	NOM		s		0	0.14
+onanisme	o-na-nizm	o-na-nis-me	NOM	m	s		0.1	0.41
+onanismes	o-na-nizm	o-na-nis-mes	NOM	m	p	onanisme	0	0.07
+onaniste	o-na-nist	o-na-nis-te	NOM		s		0.02	0.14
+onc	§k	onc	ADV				0.03	0.14
+once	§s	on-ce	NOM	f	s		3.77	1.76
+onces	§s	on-ces	NOM	f	p	once	0.89	0.14
+oncle	§kl	on-cle	NOM	m	s		124.11	121.96
+oncles	§kl	on-cles	NOM	m	p	oncle	2.6	5.74
+oncologie	§-ko-lo-Zi	on-co-lo-gie	NOM	f	s		0.35	0
+oncologique	§-ko-lo-Zik	on-co-lo-gi-que	ADJ	f	s		0.01	0
+oncologue	§-ko-lOg	on-co-lo-gue	NOM		s		0.21	0
+oncologues	§-ko-lOg	on-co-lo-gues	NOM		p	oncologue	0.01	0
+onction	§k-sj§	onc-tion	NOM	f	s		0.28	1.15
+onctions	§k-sj§	onc-tions	NOM	f	p	onction	0	0.14
+onctueuse	§k-t82z	onc-tueu-se	ADJ	f	s	onctueux	0.17	1.96
+onctueusement	§k-t82-z°-m@	onc-tueu-se-ment	ADV				0	0.07
+onctueuses	§k-t82z	onc-tueu-ses	ADJ	f	p	onctueux	0	0.27
+onctueux	§k-t82	onc-tueux	ADJ	m			0.07	2.5
+onctuosité	§k-t8o-zi-te	onc-tuo-si-té	NOM	f	s		0.01	0.61
+ondatra	§-da-tRa	on-da-tra	NOM	m	s		0.02	0
+onde	§d	on-de	NOM	f	s		4.39	6.01
+ondée	§-de	on-dée	NOM	f	s		0	1.82
+ondée	§-de	on-dée	ADJ	f	s		0.01	0
+ondées	§-de	on-dées	NOM	f	p	ondée	0.16	0.47
+ondées	§-de	on-dées	ADJ	f	p	ondée	0	0.07
+onder	§-de		VER				0.01	0
+ondes	§d	on-des	NOM	f	p	onde	7.52	11.69
+ondés	§-de	on-dés	ADJ	m	p	ondé	0	0.14
+ondin	§-d5	on-din	NOM	m	s		0	0.2
+ondine	§-din	on-di-ne	NOM	f	s		0.2	0.34
+ondines	§-din	on-di-nes	NOM	f	p	ondine	0.01	0.07
+ondins	§-d5	on-dins	NOM	m	p	ondin	0	0.2
+ondoie	§-dwa	on-doie	VER			ondoyer	0	0.07
+ondoiement	§-dwa-m@	on-doie-ment	NOM	m	s		0	0.47
+ondoiements	§-dwa-m@	on-doie-ments	NOM	m	p	ondoiement	0	0.07
+ondoient	§-dwa	on-doient	VER			ondoyer	0	0.14
+ondoyaient	§-dwa-jE	on-doyaient	VER			ondoyer	0	0.47
+ondoyait	§-dwa-jE	on-doyait	VER			ondoyer	0	0.54
+ondoyant	§-dwa-j@	on-doyant	VER			ondoyer	0.01	0.95
+ondoyant	§-dwa-j@	on-doyant	ADJ	m	s		0	0.27
+ondoyante	§-dwa-j@t	on-doyan-te	ADJ	f	s	ondoyant	0.1	0.47
+ondoyantes	§-dwa-j@t	on-doyan-tes	ADJ	f	p	ondoyant	0	0.14
+ondoyants	§-dwa-j@	on-doyants	ADJ	m	p	ondoyant	0	0.27
+ondoyé	§-dwa-je	on-doyé	VER	m	s	ondoyer	0	0.14
+ondoyer	§-dwa-je	on-doyer	VER				0	0.47
+ondoyons	§-dwa-j§	on-doyons	VER			ondoyer	0	0.07
+ondula	§-dy-la	on-du-la	VER			onduler	0	0.47
+ondulaient	§-dy-lE	on-du-laient	VER			onduler	0.14	0.81
+ondulait	§-dy-lE	on-du-lait	VER			onduler	0.11	2.64
+ondulant	§-dy-l@	on-du-lant	VER			onduler	0.24	1.96
+ondulant	§-dy-l@	on-du-lant	ADJ	m	s		0.01	0.27
+ondulante	§-dy-l@t	on-du-lan-te	ADJ	f	s	ondulant	0.17	0.95
+ondulantes	§-dy-l@t	on-du-lan-tes	ADJ	f	p	ondulant	0.01	0.2
+ondulants	§-dy-l@	on-du-lants	ADJ	m	p	ondulant	0.01	0.14
+ondulation	§-dy-la-sj§	on-du-la-tion	NOM	f	s		0.05	2.03
+ondulations	§-dy-la-sj§	on-du-la-tions	NOM	f	p	ondulation	0.21	3.99
+ondulatoire	§-dy-la-twaR	on-du-la-toi-re	ADJ		s		0	0.27
+ondulatoires	§-dy-la-twaR	on-du-la-toi-res	ADJ	m	p	ondulatoire	0.01	0.07
+ondule	§-dyl	on-du-le	VER			onduler	0.27	1.55
+ondulé	§-dy-le	on-du-lé	ADJ	m	s		0.04	0.95
+ondulé	§-dy-le	on-du-lé	VER	m	s	onduler	0	0.47
+ondulée	§-dy-le	on-du-lée	ADJ	f	s	ondulé	0.38	2.03
+ondulée	§-dy-le	on-du-lée	VER	f	s	onduler	0	0.34
+ondulées	§-dy-le	on-du-lées	ADJ	f	p	ondulé	0.02	0.41
+ondulées	§-dy-le	on-du-lées	VER	f	p	onduler	0.01	0.2
+ondulent	§-dyl	on-du-lent	VER			onduler	0.23	1.01
+onduler	§-dy-le	on-du-ler	VER				0.23	2.09
+ondulerait	§-dy-l°-RE	on-du-le-rait	VER			onduler	0	0.07
+ondulèrent	§-dy-lER	on-du-lè-rent	VER			onduler	0	0.07
+ondulés	§-dy-le	on-du-lés	ADJ	m	p	ondulé	0.29	1.22
+ondulés	§-dy-le	on-du-lés	VER	m	p	onduler	0.05	0.27
+onduleuse	§-dy-l2z	on-du-leu-se	ADJ	f	s	onduleux	0	0.68
+onduleuses	§-dy-l2z	on-du-leu-ses	ADJ	f	p	onduleux	0	0.34
+onduleux	§-dy-l2	on-du-leux	ADJ	m	s		0	0.61
+ondulons	§-dy-l§	on-du-lons	VER			onduler	0	0.07
+one-step	wan-stEp	one-step	NOM	m	s		0	0.2
+onéreuse	o-ne-R2z	o-né-reu-se	ADJ	f	s	onéreux	0.21	0.14
+onéreuses	o-ne-R2z	o-né-reu-ses	ADJ	f	p	onéreux	0.04	0.27
+onéreux	o-ne-R2	o-né-reux	ADJ	m			0.6	0.68
+ongle	§gl	on-gle	NOM	m	s		2.35	10.14
+onglée	§-gle	on-glée	NOM	f	s		0	0.41
+onglée	§-gle	on-glée	ADJ	f	s		0.01	0
+ongles	§gl	on-gles	NOM	m	p	ongle	18.02	35.34
+onglet	§-glE	on-glet	NOM	m	s		0.52	0.14
+onglets	§-glE	on-glets	NOM	m	p	onglet	0.14	0.2
+onglon	§-gl§	on-glon	NOM	m	s		0	0.07
+onguent	§-g@	on-guent	NOM	m	s		0.79	0.54
+onguents	§-g@	on-guents	NOM	m	p	onguent	0.14	1.28
+ongulé	§-gy-le	on-gu-lé	ADJ	m	s		0.07	0.07
+ongulé	§-gy-le	on-gu-lé	NOM	m	s		0.08	0
+ongulés	§-gy-le	on-gu-lés	ADJ	m	p	ongulé	0	0.07
+ongulés	§-gy-le	on-gu-lés	NOM	m	p	ongulé	0.01	0
+onirique	o-ni-Rik	o-ni-ri-que	ADJ		s		0.04	0.34
+oniriques	o-ni-Rik	o-ni-ri-ques	ADJ		p	onirique	0.13	0.07
+onirisme	O-ni-Rism		NOM	m	s		0.14	0
+onirologie	o-ni-Ro-lo-Zi	o-ni-ro-lo-gie	NOM	f	s		0	0.07
+onomatopée	o-no-ma-to-pe	o-no-ma-to-pée	NOM	f	s		0.03	0.74
+onomatopées	o-no-ma-to-pe	o-no-ma-to-pées	NOM	f	p	onomatopée	0.02	1.28
+onomatopéique	o-no-ma-to-pe-ik		ADJ		s		0.4	0
+onopordons	o-no-pOR-d§	o-no-por-dons	NOM	m	p	onopordon	0	0.07
+ont	§	ont	AUX			avoir	1063.32	553.31
+ont	§	ont	VER			avoir	381.18	240.61
+onto	§-to	on-to	ADV				0.05	0.07
+ontologie	§-to-lo-Zi	on-to-lo-gie	NOM	f	s		0.02	0.14
+ontologique	§-to-lo-Zik	on-to-lo-gi-que	ADJ		s		0.04	0.34
+ontologiquement	§-tO-lO-Zi-k°-m@		ADV				0.02	0
+onusienne	o-ny-zjEn	o-nu-sien-ne	ADJ	f	s	onusien	0.02	0
+onusiennes	o-ny-zjEn	o-nu-sien-nes	ADJ	f	p	onusien	0.01	0
+onusiens	o-ny-zj5	o-nu-siens	ADJ	m	p	onusien	0	0.07
+onyx	o-niks	o-nyx	NOM	m			0.34	0.61
+onze	§z	on-ze	ADJ:num				11.27	38.85
+onze	§z	on-ze	NOM	m			2.43	2.16
+onzième	§-zjEm	on-ziè-me	ADJ				0.34	1.49
+onzième	§-zjEm	on-ziè-me	NOM		s		0.24	0.68
+opacifiait	o-pa-si-fjE	o-pa-ci-fiait	VER			opacifier	0	0.07
+opacifiant	o-pa-si-fj@	o-pa-ci-fiant	VER			opacifier	0	0.07
+opacification	o-pa-si-fi-ka-sj§	o-pa-ci-fi-ca-tion	NOM	f	s		0.01	0
+opacifie	o-pa-si-fi	o-pa-ci-fie	VER			opacifier	0	0.2
+opacifié	o-pa-si-fje	o-pa-ci-fié	VER	m	s	opacifier	0	0.07
+opacifient	o-pa-si-fi	o-pa-ci-fient	VER			opacifier	0.01	0.07
+opacifier	o-pa-si-fje	o-pa-ci-fier	VER				0.01	0.07
+opacité	o-pa-si-te	o-pa-ci-té	NOM	f	s		0.21	1.96
+opacités	o-pa-si-te	o-pa-ci-tés	NOM	f	p	opacité	0.03	0.07
+opale	o-pal	o-pa-le	NOM	f	s		0.16	0.68
+opale	o-pal	o-pa-le	ADJ		s		0.01	0.34
+opales	o-pal	o-pa-les	NOM	f	p	opale	0.08	0.14
+opalescence	o-pa-le-s@s	o-pa-les-cen-ce	NOM	f	s		0	0.07
+opalescent	o-pa-le-s@	o-pa-les-cent	ADJ	m	s		0	0.27
+opalescente	o-pa-le-s@t	o-pa-les-cen-te	ADJ	f	s	opalescent	0	0.27
+opalescentes	o-pa-le-s@t	o-pa-les-cen-tes	ADJ	f	p	opalescent	0	0.14
+opalin	o-pa-l5	o-pa-lin	ADJ	m	s		0	0.41
+opaline	o-pa-lin	o-pa-li-ne	NOM	f	s	opalin	0.02	1.28
+opaline	o-pa-lin	o-pa-li-ne	ADJ	f	s	opalin	0.01	0.14
+opalines	o-pa-lin	o-pa-li-nes	ADJ	f	p	opalin	0	0.07
+opalines	o-pa-lin	o-pa-li-nes	NOM	f	p	opalin	0	0.07
+opalins	o-pa-l5	o-pa-lins	ADJ	m	p	opalin	0.01	0.14
+opaque	o-pak	o-pa-que	ADJ		s		0.31	9.59
+opaques	o-pak	o-pa-ques	ADJ		p	opaque	0.19	3.51
+ope	Op	o-pe	NOM		s		0.08	0
+open	o-p°n	o-pen	ADJ				1.75	0
+open	o-p°n	o-pen	NOM	m	s		0.41	0.68
+opéra	o-pe-Ra	o-pé-ra	NOM	m	s		18.93	18.99
+opéra	o-pe-Ra	o-pé-ra	VER			opérer	0.26	0.41
+opéra-comique	o-pe-Ra-ko-mik	opéra-comique	NOM	m	s		0	0.34
+opérable	o-pe-Rabl	o-pé-ra-ble	ADJ	f	s		0.13	0.07
+opéraient	o-pe-RE	o-pé-raient	VER			opérer	0.03	1.69
+opérais	o-pe-RE	o-pé-rais	VER			opérer	0.05	0.34
+opérait	o-pe-RE	o-pé-rait	VER			opérer	0.56	3.11
+opérant	o-pe-R@	o-pé-rant	VER			opérer	0.26	1.28
+opérant	o-pe-R@	o-pé-rant	ADJ	m	s		0.21	0.27
+opéras	o-pe-Ra	o-pé-ras	NOM	m	p	opéra	0.68	1.08
+opérât	o-pe-Ra	o-pé-rât	VER			opérer	0	0.07
+opérateur	o-pe-Ra-t9R	o-pé-ra-teur	NOM	m	s		5.07	2.03
+opérateurs	o-pe-Ra-t9R	o-pé-ra-teurs	NOM	m	p	opérateur	0.28	0.74
+opération	o-pe-Ra-sj§	o-pé-ra-tion	NOM	f	s		50.01	41.42
+opération-miracle	o-pe-Ra-sj§-mi-Rakl	opération-miracle	NOM	f	s		0	0.07
+opérationnel	o-pe-Ra-sjo-nEl	o-pé-ra-tion-nel	ADJ	m	s		2.21	0.14
+opérationnelle	o-pe-Ra-sjo-nEl	o-pé-ra-tion-nel-le	ADJ	f	s	opérationnel	1.19	0.14
+opérationnelles	o-pe-Ra-sjo-nEl	o-pé-ra-tion-nel-les	ADJ	f	p	opérationnel	0.26	0.07
+opérationnels	o-pe-Ra-sjo-nEl	o-pé-ra-tion-nels	ADJ	m	p	opérationnel	1.42	0
+opérations	o-pe-Ra-sj§	o-pé-ra-tions	NOM	f	p	opération	11.94	28.78
+opératique	O-pe-Ra-tik		ADJ	f	s		0.01	0
+opératoire	o-pe-Ra-twaR	o-pé-ra-toi-re	ADJ		s		1.49	0.68
+opératoires	o-pe-Ra-twaR	o-pé-ra-toi-res	ADJ		p	opératoire	0.05	0
+opératrice	o-pe-Ra-tRis	o-pé-ra-tri-ce	NOM	f	s	opérateur	1.19	0.07
+opératrices	o-pe-Ra-tRis	o-pé-ra-tri-ces	NOM	f	p	opérateur	0.19	0
+opercule	o-pER-kyl	o-per-cu-le	NOM	m	s		0.01	0.07
+opère	o-pER	o-pè-re	VER			opérer	4.75	2.97
+opéré	o-pe-Re	o-pé-ré	VER	m	s	opérer	4.92	2.43
+opéré	o-pe-Re	o-pé-ré	ADJ	m	s		0.28	0.14
+opéré	o-pe-Re	o-pé-ré	NOM	m	s		0.04	0.2
+opérée	o-pe-Re	o-pé-rée	VER	f	s	opérer	1	0.88
+opérée	o-pe-Re	o-pé-rée	ADJ	f	s	opéré	0.19	0.54
+opérées	o-pe-Re	o-pé-rées	VER	f	p	opérer	0.03	0.14
+opérées	o-pe-Re	o-pé-rées	ADJ	f	p	opéré	0	0.14
+opèrent	o-pER	o-pè-rent	VER			opérer	1.06	0.47
+opérer	o-pe-Re	o-pé-rer	VER				14.94	8.58
+opérera	o-pe-R°-Ra	o-pé-re-ra	VER			opérer	0.2	0.27
+opérerai	o-pe-R°-RE	o-pé-re-rai	VER			opérer	0.28	0
+opéreraient	o-pe-R°-RE	o-pé-re-raient	VER			opérer	0	0.27
+opérerait	o-pe-R°-RE	o-pé-re-rait	VER			opérer	0.04	0.41
+opéreras	o-pe-R°-Ra	o-pé-re-ras	VER			opérer	0.02	0
+opérèrent	o-pe-RER	o-pé-rè-rent	VER			opérer	0	0.07
+opérerez	o-pe-R°-Re	o-pé-re-rez	VER			opérer	0.05	0.07
+opérerons	o-pe-R°-R§	o-pé-re-rons	VER			opérer	0.18	0
+opéreront	o-pe-R°-R§	o-pé-re-ront	VER			opérer	0.08	0.07
+opérés	o-pe-Re	o-pé-rés	VER	m	p	opérer	0.06	0.54
+opérés	o-pe-Re	o-pé-rés	ADJ	m	p	opéré	0.02	0.34
+opérés	o-pe-Re	o-pé-rés	NOM	m	p	opéré	0.04	0.07
+opérette	o-pe-REt	o-pé-ret-te	NOM	f	s		0.54	3.11
+opérettes	o-pe-REt	o-pé-ret-tes	NOM	f	p	opérette	0.04	1.08
+opérez	o-pe-Re	o-pé-rez	VER			opérer	0.49	0.14
+opériez	o-pe-Rje	o-pé-riez	VER			opérer	0.13	0
+opérions	o-pe-Rj§	o-pé-rions	VER			opérer	0	0.27
+opérons	o-pe-R§	o-pé-rons	VER			opérer	0.19	0.07
+ophidien	O-fi-dj5		NOM	m	s		0.01	0
+ophidiens	o-fi-dj5	o-phi-diens	NOM	m	p	ophidien	0.01	0.07
+ophite	o-fit	o-phi-te	NOM	m	s		0	0.07
+ophtalmique	Of-tal-mik	o-ph-tal-mi-que	ADJ	f	s		0.01	0
+ophtalmologie	Of-tal-mo-lo-Zi	o-ph-tal-mo-lo-gie	NOM	f	s		0.09	0.07
+ophtalmologique	Of-tal-mo-lo-Zik		ADJ	m	s		0.02	0
+ophtalmologiste	Of-tal-mo-lo-Zist	o-ph-tal-mo-lo-gis-te	NOM		s		0.09	0.54
+ophtalmologistes	Of-tal-mo-lo-Zist	o-ph-tal-mo-lo-gis-tes	NOM		p	ophtalmologiste	0	0.07
+ophtalmologue	Of-tal-mo-lOg	o-ph-tal-mo-lo-gue	NOM		s		0.04	0.07
+ophtalmoscope	Of-tal-mos-kOp	o-ph-tal-mo-sco-pe	NOM	m	s		0.02	0
+opiacé	o-pja-se	o-pia-cé	NOM	m	s		0.06	0
+opiacé	o-pja-se	o-pia-cé	ADJ	m	s		0.02	0
+opiacé	o-pja-se	o-pia-cé	VER	m	s	opiacer	0.01	0
+opiacées	o-pja-se	o-pia-cées	ADJ	f	p	opiacé	0.14	0
+opiacées	o-pja-se	o-pia-cées	VER	f	p	opiacer	0	0.07
+opiacés	o-pja-se	o-pia-cés	NOM	m	p	opiacé	0.52	0
+opiacés	o-pja-se	o-pia-cés	ADJ	m	p	opiacé	0.03	0
+opiat	O-pja		NOM	m	s		0.01	0
+opiats	o-pja	o-piats	NOM	m	p	opiat	0.01	0.2
+opimes	o-pim	o-pi-mes	ADJ	f	p		0.01	0
+opina	o-pi-na	o-pi-na	VER			opiner	0.1	0.95
+opinai	o-pi-nE	o-pi-nai	VER			opiner	0	0.2
+opinaient	o-pi-nE	o-pi-naient	VER			opiner	0	0.07
+opinais	o-pi-nE	o-pi-nais	VER			opiner	0	0.14
+opinait	o-pi-nE	o-pi-nait	VER			opiner	0.1	0.47
+opinant	o-pi-n@	o-pi-nant	VER			opiner	0	0.14
+opine	o-pin	o-pi-ne	VER			opiner	0.02	1.69
+opiné	o-pi-ne	o-pi-né	VER	m	s	opiner	0.01	0.34
+opinel	o-pi-nEl	o-pi-nel	NOM	m	s		0	1.15
+opinels	o-pi-nEl	o-pi-nels	NOM	m	p	opinel	0	0.07
+opiner	o-pi-ne	o-pi-ner	VER				0.02	0.41
+opinèrent	o-pi-nER	o-pi-nè-rent	VER			opiner	0	0.07
+opines	o-pin	o-pi-nes	VER			opiner	0.11	0
+opiniâtra	o-pi-nja-tRa	o-pi-niâ-tra	VER			opiniâtrer	0	0.14
+opiniâtre	o-pi-njatR	o-pi-niâ-tre	ADJ		s		0.06	2.23
+opiniâtre	o-pi-njatR	o-pi-niâ-tre	VER			opiniâtrer	0.02	0.07
+opiniâtrement	o-pi-nja-tR°-m@	o-pi-niâ-tre-ment	ADV				0.02	0.27
+opiniâtres	o-pi-njatR	o-pi-niâ-tres	ADJ		p	opiniâtre	0	0.54
+opiniâtreté	o-pi-nja-tR°-te	o-pi-niâ-tre-té	NOM	f	s		0.01	1.76
+opiniâtrez	o-pi-nja-tRe	o-pi-niâ-trez	VER			opiniâtrer	0	0.07
+opinion	o-pi-nj§	o-pi-nion	NOM	f	s		28.43	33.24
+opinions	o-pi-nj§	o-pi-nions	NOM	f	p	opinion	5.47	11.42
+opinions	o-pi-nj§	o-pi-nions	VER			opiner	0.01	0
+opiomane	o-pjo-man	o-pio-ma-ne	ADJ	f	s		0.03	0.07
+opiomane	o-pjo-man	o-pio-ma-ne	NOM		s		0.01	0.07
+opium	o-pjOm	o-pium	NOM	m	s		3.95	5.61
+opopanax	o-po-pa-naks	o-po-pa-nax	NOM	m			0	0.07
+opoponax	o-po-po-naks	o-po-po-nax	NOM	m			0	0.07
+opossum	o-po-sOm	o-pos-sum	NOM	m	s		0.41	0.27
+opossums	o-po-sOm	o-pos-sum-s	NOM	m	p	opossum	0.12	0
+opothérapiques	o-po-te-Ra-pik	o-po-thé-ra-pi-ques	ADJ	f	p	opothérapique	0	0.07
+oppidum	o-pi-dOm	op-pi-dum	NOM	m	s		0	0.27
+opportun	o-pOR-t1	op-por-tun	ADJ	m	s		1.45	1.89
+opportune	o-pOR-tyn	op-por-tu-ne	ADJ	f	s	opportun	0.08	0.54
+opportunément	o-pOR-ty-ne-m@	op-por-tu-né-ment	ADV				0.07	0.68
+opportunes	o-pOR-tyn	op-por-tu-nes	ADJ	f	p	opportun	0.02	0
+opportunisme	o-pOR-ty-nizm	op-por-tu-nis-me	NOM	m	s		0.11	0.2
+opportuniste	o-pOR-ty-nist	op-por-tu-nis-te	ADJ		s		0.38	0.34
+opportuniste	o-pOR-ty-nist	op-por-tu-nis-te	NOM		s		0.36	0
+opportunistes	o-pOR-ty-nist	op-por-tu-nis-tes	NOM		p	opportuniste	0.26	0.2
+opportunistes	o-pOR-ty-nist	op-por-tu-nis-tes	ADJ	m	p	opportuniste	0.05	0.14
+opportunité	o-pOR-ty-ni-te	op-por-tu-ni-té	NOM	f	s		9.5	2.36
+opportunités	o-pOR-ty-ni-te	op-por-tu-ni-tés	NOM	f	p	opportunité	2.33	0.14
+opportuns	o-pOR-t1	op-por-tuns	ADJ	m	p	opportun	0.14	0.14
+opposa	o-po-za	op-po-sa	VER			opposer	0.12	2.3
+opposable	o-po-zabl		ADJ	m	s		0.05	0
+opposables	o-po-zabl	op-po-sa-bles	ADJ		p	opposable	0.09	0.07
+opposai	o-po-zE	op-po-sai	VER			opposer	0	0.34
+opposaient	o-po-zE	op-po-saient	VER			opposer	0.07	2.23
+opposais	o-po-zE	op-po-sais	VER			opposer	0.18	0.41
+opposait	o-po-zE	op-po-sait	VER			opposer	0.53	7.03
+opposant	o-po-z@	op-po-sant	VER			opposer	0.35	1.69
+opposant	o-po-z@	op-po-sant	NOM	m	s		0.34	0.47
+opposant	o-po-z@	op-po-sant	ADJ	m	s		0.04	0.07
+opposante	o-po-z@t		NOM	f	s	opposant	0.01	0
+opposants	o-po-z@	op-po-sants	NOM	m	p	opposant	1.28	0.95
+opposât	o-po-za	op-po-sât	VER			opposer	0	0.34
+oppose	o-poz	op-po-se	VER			opposer	4.27	5.74
+opposé	o-po-ze	op-po-sé	ADJ	m	s		1.32	6.62
+opposé	o-po-ze	op-po-sé	NOM	m	s		2.13	5.2
+opposé	o-po-ze	op-po-sé	VER	m	s	opposer	1.67	5.34
+opposée	o-po-ze	op-po-sée	VER	f	s	opposer	0.64	3.58
+opposée	o-po-ze	op-po-sée	ADJ	f	s	opposé	0.92	3.18
+opposées	o-po-ze	op-po-sées	ADJ	f	p	opposé	0.69	1.89
+opposées	o-po-ze	op-po-sées	VER	f	p	opposer	0.13	0.95
+opposent	o-poz	op-po-sent	VER			opposer	0.85	1.89
+opposer	o-po-ze	op-po-ser	VER				6.48	9.93
+opposera	o-po-z°-Ra	op-po-se-ra	VER			opposer	0.28	0.54
+opposerai	o-po-z°-RE	op-po-se-rai	VER			opposer	0.55	0
+opposeraient	o-po-z°-RE	op-po-se-raient	VER			opposer	0.01	0.47
+opposerais	o-po-z°-RE	op-po-se-rais	VER			opposer	0.03	0
+opposerait	o-po-z°-RE	op-po-se-rait	VER			opposer	0.15	0.34
+opposèrent	o-po-zER	op-po-sè-rent	VER			opposer	0.03	0.61
+opposerez	o-po-z°-Re	op-po-se-rez	VER			opposer	0.11	0.07
+opposerions	o-po-z°-Rj§	op-po-se-rions	VER			opposer	0	0.07
+opposerons	o-po-z°-R§	op-po-se-rons	VER			opposer	0.14	0.07
+opposeront	o-po-z°-R§	op-po-se-ront	VER			opposer	0.28	0
+opposes	o-poz	op-po-ses	VER			opposer	0.35	0.07
+opposés	o-po-ze	op-po-sés	ADJ	m	p	opposé	0.59	2.77
+opposés	o-po-ze	op-po-sés	VER	m	p	opposer	0.6	1.42
+opposés	o-po-ze	op-po-sés	NOM	m	p	opposé	0.25	0.14
+opposez	o-po-ze	op-po-sez	VER			opposer	0.29	0.2
+opposions	o-po-zj§	op-po-sions	VER			opposer	0.02	0.27
+opposition	o-po-zi-sj§	op-po-si-tion	NOM	f	s		5.26	10.68
+oppositionnel	O-po-zi-sjO-nEl		ADJ	m	s		0.01	0
+oppositionnelle	o-po-zi-sjo-nEl	op-po-si-tion-nel-le	ADJ	f	s	oppositionnel	0	0.07
+oppositions	o-po-zi-sj§	op-po-si-tions	NOM	f	p	opposition	0.02	0.81
+opposons	o-po-z§	op-po-sons	VER			opposer	0.06	0.14
+oppressa	o-pRe-sa	op-pres-sa	VER			oppresser	0	0.07
+oppressaient	o-pRe-sE	op-pres-saient	VER			oppresser	0.1	0.34
+oppressait	o-pRe-sE	op-pres-sait	VER			oppresser	0.17	1.35
+oppressant	o-pRe-s@	op-pres-sant	ADJ	m	s		0.38	1.49
+oppressant	o-pRe-s@	op-pres-sant	VER			oppresser	0	0.41
+oppressante	o-pRe-s@t	op-pres-san-te	ADJ	f	s	oppressant	0.61	1.55
+oppressantes	o-pRe-s@t	op-pres-san-tes	ADJ	f	p	oppressant	0.01	0.2
+oppressants	o-pRe-s@	op-pres-sants	ADJ	m	p	oppressant	0.01	0.14
+oppresse	o-pREs	op-pres-se	VER			oppresser	0.38	1.15
+oppressé	o-pRe-se	op-pres-sé	VER	m	s	oppresser	0.25	0.68
+oppressé	o-pRe-se	op-pres-sé	ADJ	m	s		0.07	0.41
+oppressée	o-pRe-se	op-pres-sée	ADJ	f	s	oppressé	0.2	0.68
+oppressée	o-pRe-se	op-pres-sée	VER	f	s	oppresser	0	0.47
+oppressées	o-pRe-se	op-pres-sées	ADJ	f	p	oppressé	0.02	0
+oppressées	o-pRe-se	op-pres-sées	VER	f	p	oppresser	0.01	0
+oppressent	o-pREs	op-pres-sent	VER			oppresser	0.06	0.27
+oppresser	o-pRe-se	op-pres-ser	VER				0.14	0.07
+oppresseur	o-pRe-s9R	op-pres-seur	NOM	m	s		0.67	0.41
+oppresseur	o-pRe-s9R	op-pres-seur	ADJ	m	s		0.12	0.07
+oppresseurs	o-pRe-s9R	op-pres-seurs	NOM	m	p	oppresseur	0.59	0.34
+oppresseurs	o-pRe-s9R	op-pres-seurs	ADJ	m	p	oppresseur	0.02	0
+oppressif	o-pRe-sif	op-pres-sif	ADJ	m	s		0.04	0.07
+oppression	o-pRe-sj§	op-pres-sion	NOM	f	s		2.17	6.69
+oppressions	o-pRe-sj§	op-pres-sions	NOM	f	p	oppression	0.07	0.14
+oppressive	o-pRe-siv	op-pres-si-ve	ADJ	f	s	oppressif	0.02	0.07
+opprimait	o-pRi-mE	op-pri-mait	VER			opprimer	0.01	0.2
+opprimant	o-pRi-m@	op-pri-mant	VER			opprimer	0.01	0.07
+opprime	o-pRim	op-pri-me	VER			opprimer	0.4	0.14
+opprimé	o-pRi-me	op-pri-mé	NOM	m	s		0.2	0.47
+opprimé	o-pRi-me	op-pri-mé	VER	m	s	opprimer	0.35	0.2
+opprimé	o-pRi-me	op-pri-mé	ADJ	m	s		0.25	0.2
+opprimée	o-pRi-me	op-pri-mée	VER	f	s	opprimer	0.28	0.27
+opprimée	o-pRi-me	op-pri-mée	ADJ	f	s	opprimé	0.06	0.34
+opprimée	o-pRi-me	op-pri-mée	NOM	f	s	opprimé	0.01	0.14
+opprimées	o-pRi-me	op-pri-mées	NOM	f	p	opprimé	0.22	0
+opprimées	o-pRi-me	op-pri-mées	VER	f	p	opprimer	0.04	0.07
+opprimées	o-pRi-me	op-pri-mées	ADJ	f	p	opprimé	0.03	0.07
+oppriment	o-pRim	op-pri-ment	VER			opprimer	0.06	0.2
+opprimer	o-pRi-me	op-pri-mer	VER				0.07	0.68
+opprimés	o-pRi-me	op-pri-més	NOM	m	p	opprimé	1.48	1.28
+opprimés	o-pRi-me	op-pri-més	VER	m	p	opprimer	0.42	0.2
+opprimés	o-pRi-me	op-pri-més	ADJ	m	p	opprimé	0.17	0.34
+opprimez	o-pRi-me	op-pri-mez	VER			opprimer	0.04	0
+opprobre	o-pRObR	op-pro-bre	NOM	m	s		0.33	1.82
+opprobres	o-pRObR	op-pro-bres	NOM	m	p	opprobre	0	0.07
+opta	Op-ta	op-ta	VER			opter	0.01	1.08
+optai	Op-tE	op-tai	VER			opter	0	0.34
+optaient	Op-tE	op-taient	VER			opter	0	0.2
+optais	Op-tE	op-tais	VER			opter	0.03	0.07
+optait	Op-tE	op-tait	VER			opter	0.01	0.07
+optalidon	Op-ta-li-d§		NOM	m	s		0.14	0.07
+optant	Op-t@	op-tant	NOM	m	s		0	0.14
+optât	Op-ta	op-tât	VER			opter	0	0.14
+optatif	Op-ta-tif	op-ta-tif	ADJ	m	s		0	0.14
+optatifs	Op-ta-tif	op-ta-tif-s	ADJ	m	p	optatif	0	0.07
+opte	Opt	op-te	VER			opter	0.31	0.54
+opté	Op-te	op-té	VER	m	s	opter	0.9	1.49
+optent	Opt	op-tent	VER			opter	0.14	0.14
+opter	Op-te	op-ter	VER				0.37	0.88
+opterais	Op-t°-RE	op-te-rais	VER			opter	0.04	0.07
+optèrent	Op-tER	o-ptè-rent	VER			opter	0.01	0.14
+optes	Opt	op-tes	VER			opter	0.02	0
+opticien	Op-ti-sj5	op-ti-cien	NOM	m	s		0.13	0.34
+opticienne	Op-ti-sjEn	op-ti-cien-ne	NOM	f	s	opticien	0.02	0
+opticiens	Op-ti-sj5	op-ti-ciens	NOM	m	p	opticien	0.04	0.14
+optima	Op-ti-ma	op-ti-ma	NOM	m	p	optimum	0	0.07
+optimal	Op-ti-mal	op-ti-mal	ADJ	m	s		0.19	0.2
+optimale	Op-ti-mal	op-ti-ma-le	ADJ	f	s	optimal	0.24	0.14
+optimales	Op-ti-mal	op-ti-ma-les	ADJ	f	p	optimal	0.04	0
+optimaux	Op-ti-mo	op-ti-maux	ADJ	m	p	optimal	0.02	0
+optime	Op-tim	op-ti-me	ADV				0	0.2
+optimisation	Op-ti-mi-za-sj§	op-ti-mi-sa-tion	NOM	f	s		0.14	0
+optimise	Op-ti-miz	op-ti-mi-se	VER			optimiser	0.06	0
+optimisé	Op-ti-mi-ze	op-ti-mi-sé	VER	m	s	optimiser	0.05	0
+optimisées	Op-ti-mi-ze	op-ti-mi-sées	VER	f	p	optimiser	0	0.07
+optimiser	Op-ti-mi-ze	op-ti-mi-ser	VER				0.12	0
+optimisez	Op-ti-mi-ze	op-ti-mi-sez	VER			optimiser	0.01	0
+optimisme	Op-ti-mizm	op-ti-mis-me	NOM	m	s		1.66	6.55
+optimiste	Op-ti-mist	op-ti-mis-te	ADJ		s		3.52	3.11
+optimiste	Op-ti-mist	op-ti-mis-te	NOM		s		0.93	0.47
+optimistes	Op-ti-mist	op-ti-mis-tes	ADJ		p	optimiste	0.7	1.08
+optimistes	Op-ti-mist	op-ti-mis-tes	NOM		p	optimiste	0.11	0.34
+optimum	Op-ti-mOm	op-ti-mum	NOM	m	s		0.15	0.07
+option	Op-sj§	op-tion	NOM	f	s		7.37	1.08
+optionnel	Op-sjo-nEl	op-tion-nel	ADJ	m	s		0.16	0
+optionnelle	Op-sjo-nEl	op-tion-nel-le	ADJ	f	s	optionnel	0.03	0
+options	op-sj§	op-tions	NOM	f	p	option	4.94	1.01
+options	Op-tj§	op-tions	VER			opter	0.09	0
+optique	Op-tik	op-ti-que	NOM	f	s		0.82	3.24
+optique	Op-tik	op-ti-que	ADJ		s		1.36	1.01
+optiques	Op-tik	op-ti-ques	ADJ		p	optique	0.38	0.07
+optiques	Op-tik	op-ti-ques	NOM	f	p	optique	0.04	0
+optométrie	Op-to-me-tRi	op-to-mé-trie	NOM	f	s		0.01	0
+optométriste	Op-to-me-tRist	op-to-mé-tris-te	NOM		s		0.05	0
+optons	Op-t§	op-tons	VER			opter	0.03	0
+opulence	o-py-l@s	o-pu-len-ce	NOM	f	s		0.54	3.24
+opulences	o-py-l@s	o-pu-len-ces	NOM	f	p	opulence	0	0.07
+opulent	o-py-l@	o-pu-lent	ADJ	m	s		0.01	1.08
+opulente	o-py-l@t	o-pu-len-te	ADJ	f	s	opulent	0.32	1.42
+opulentes	o-py-l@t	o-pu-len-tes	ADJ	f	p	opulent	0.02	1.08
+opulents	o-py-l@	o-pu-lents	ADJ	m	p	opulent	0.11	0.81
+opus	o-pys	o-pus	NOM	m			0.35	1.01
+opuscule	o-pys-kyl	o-pus-cu-le	NOM	m	s		0.03	0.61
+opuscules	o-pys-kyl	o-pus-cu-les	NOM	m	p	opuscule	0.01	0.27
+or	OR	or	NOM	m	s		109.96	127.23
+or	OR	or	CON				17.13	65.27
+or	OR	or	ADJ				3.42	7.57
+oracle	o-Rakl	o-ra-cle	NOM	m	s		2.32	2.16
+oracles	o-Rakl	o-ra-cles	NOM	m	p	oracle	0.89	0.61
+orage	o-RaZ	o-ra-ge	NOM	m	s		14.5	30.61
+orages	o-RaZ	o-ra-ges	NOM	m	p	orage	2.64	4.8
+orageuse	o-Ra-Z2z	o-ra-geu-se	ADJ	f	s	orageux	0.11	1.82
+orageuses	o-Ra-Z2z	o-ra-geu-ses	ADJ	f	p	orageux	0.17	0.74
+orageux	o-Ra-Z2	o-ra-geux	ADJ	m			0.33	1.55
+oraison	o-RE-z§	o-rai-son	NOM	f	s		0.2	3.11
+oraisons	o-RE-z§	o-rai-sons	NOM	f	p	oraison	0.43	0.54
+oral	o-Ral	o-ral	NOM	m	s		1.42	2.7
+oral	o-Ral	o-ral	ADJ	m	s		0.68	0.54
+orale	o-Ral	o-ra-le	ADJ	f	s	oral	1.31	0.88
+oralement	o-Ra-l°-m@	o-ra-le-ment	ADV				0.2	0.74
+orales	o-Ral	o-ra-les	ADJ	f	p	oral	0.22	0.27
+oralité	o-Ra-li-te	o-ra-li-té	NOM	f	s		0.01	0.07
+oranais	o-Ra-nE	o-ra-nais	ADJ	m	s		0	0.34
+oranaise	o-Ra-nEz	o-ra-nai-se	ADJ	f	s	oranais	0	0.07
+orang-outan	o-R@-u-t@	orang-outan	NOM	m	s		0.22	0.07
+orang-outang	o-R@-u-t@	orang-outang	NOM	m	s		0.08	0.61
+orange	o-R@Z	o-ran-ge	NOM		s		11.56	12.03
+orange	o-R@Z	o-ran-ge	ADJ				4.62	10.14
+orangé	o-R@-Ze	o-ran-gé	ADJ	m	s		0.17	1.96
+orangé	o-R@-Ze	o-ran-gé	VER	m	s	oranger	0.03	0.74
+orangeade	o-R@-Zad	o-ran-gea-de	NOM	f	s		1.44	1.76
+orangeades	o-R@-Zad	o-ran-gea-des	NOM	f	p	orangeade	0.48	0.27
+orangée	o-R@-Ze	o-ran-gée	ADJ	f	s	orangé	0.14	1.62
+orangée	o-R@-Ze	o-ran-gée	VER	f	s	oranger	0	0.14
+orangées	o-R@-Ze	o-ran-gées	ADJ	f	p	orangé	0.01	0.61
+orangées	o-R@-Ze	o-ran-gées	VER	f	p	oranger	0	0.2
+oranger	o-R@-Ze	o-ran-ger	NOM	m	s		1.03	2.09
+oranger	o-R@-Ze	o-ran-ger	VER				0.01	0.2
+orangeraie	o-R@-Z°-RE	o-ran-ge-raie	NOM	f	s		0.11	0.2
+orangeraies	o-R@-Z°-RE	o-ran-ge-raies	NOM	f	p	orangeraie	0.2	0.14
+orangerie	o-R@-Z°-Ri	o-ran-ge-rie	NOM	f	s		0.03	0.34
+orangeries	o-R@-Z°-Ri	o-ran-ge-ries	NOM	f	p	orangerie	0	0.07
+orangers	o-R@-Ze	o-ran-gers	NOM	m	p	oranger	0.64	3.18
+oranges	o-R@Z	o-ran-ges	NOM		p	orange	4.73	7.57
+orangés	o-R@-Ze	o-ran-gés	ADJ	m	p	orangé	0	0.74
+orangés	o-R@-Ze	o-ran-gés	VER	m	p	oranger	0	0.2
+orangistes	O-R@-Zist	o-ran-gis-tes	NOM		p	orangiste	0.04	0
+orangs-outangs	o-R@-u-t@	orangs-outangs	NOM	m	p	orang-outang	0	0.14
+orangs-outans	o-R@-u-t@	orangs-outans	NOM	m	p	orang-outan	0.06	0.14
+orant	o-R@	o-rant	NOM	m	s		0	0.07
+orante	o-R@t	o-ran-te	NOM	f	s	orant	0	0.34
+orantes	o-R@t	o-ran-tes	ADJ	f	p	orant	0.02	0
+orants	o-R@	o-rants	ADJ	m	p	orant	0	0.07
+orants	o-R@	o-rants	NOM	m	p	orant	0	0.07
+orateur	o-Ra-t9R	o-ra-teur	NOM	m	s		1.42	3.58
+orateurs	o-Ra-t9R	o-ra-teurs	NOM	m	p	orateur	0.23	1.76
+oratoire	o-Ra-twaR	o-ra-toi-re	NOM	m	s		0.42	1.28
+oratoire	o-Ra-twaR	o-ra-toi-re	ADJ		s		0.17	0.95
+oratoires	o-Ra-twaR	o-ra-toi-res	ADJ		p	oratoire	0.06	0.81
+oratoires	o-Ra-twaR	o-ra-toi-res	NOM	m	p	oratoire	0	0.2
+oratorien	o-Ra-to-Rj5	o-ra-to-rien	NOM	m	s		0	0.14
+oratoriens	o-Ra-to-Rj5	o-ra-to-riens	NOM	m	p	oratorien	0	0.2
+oratorio	o-Ra-to-Rjo	o-ra-to-rio	NOM	m	s		0.02	0.54
+oratorios	o-Ra-to-Rjo	o-ra-to-rios	NOM	m	p	oratorio	0	0.07
+oratrice	o-Ra-tRis	o-ra-tri-ce	NOM	f	s	orateur	0.05	0
+oraux	o-Ro	o-raux	ADJ	m	p	oral	0.1	0.27
+orbe	ORb	or-be	NOM	m	s		0.46	1.01
+orbes	ORb	or-bes	NOM	m	p	orbe	0.14	0.2
+orbiculaire	OR-bi-ky-lER	or-bi-cu-lai-re	ADJ	m	s		0	0.14
+orbitaire	OR-bi-tER	or-bi-tai-re	ADJ	f	s		0.02	0.07
+orbitaires	OR-bi-tER	or-bi-tai-res	ADJ	f	p	orbitaire	0.02	0
+orbital	OR-bi-tal	or-bi-tal	ADJ	m	s		0.17	0
+orbitale	OR-bi-tal	or-bi-ta-le	ADJ	f	s	orbital	0.29	0.07
+orbitales	OR-bi-tal	or-bi-ta-les	ADJ	f	p	orbital	0.11	0
+orbitaux	OR-bi-to		ADJ	m	p	orbital	0.04	0
+orbite	OR-bit	or-bi-te	NOM	f	s		8.59	2.64
+orbitèle	OR-bi-tEl		ADJ	m	s		0.03	0
+orbitèles	OR-bi-tEl		ADJ	m	p	orbitèle	0.02	0
+orbiter	OR-bi-te	or-bi-ter	VER				0.01	0
+orbites	OR-bit	or-bi-tes	NOM	f	p	orbite	1.22	5.68
+orbitons	OR-bi-t§	or-bi-tons	VER			orbiter	0.02	0
+orchestra	OR-kEs-tRa	or-ches-tra	VER			orchestrer	2.99	0
+orchestraient	OR-kEs-tRE	or-ches-traient	VER			orchestrer	0	0.07
+orchestrait	OR-kEs-tRE	or-ches-trait	VER			orchestrer	0.03	0.07
+orchestral	OR-kEs-tRal		ADJ	m	s		0.02	0
+orchestrale	OR-kEs-tRal	or-ches-tra-le	ADJ	f	s	orchestral	1.08	0.07
+orchestration	OR-kEs-tRa-sj§	or-ches-tra-tion	NOM	f	s		0.22	0.07
+orchestrations	OR-kEs-tRa-sj§	or-ches-tra-tions	NOM	f	p	orchestration	0.01	0
+orchestraux	OR-kEs-tRo	or-ches-traux	ADJ	m	p	orchestral	0	0.07
+orchestre	OR-kEstR	or-ches-tre	NOM	m	s		13.71	18.04
+orchestre	OR-kEstR	or-ches-tre	VER			orchestrer	0.06	0.2
+orchestré	OR-kEs-tRe	or-ches-tré	VER	m	s	orchestrer	0.85	0.27
+orchestré	OR-kEs-tRe	or-ches-tré	ADJ	m	s		0.01	0.07
+orchestrée	OR-kEs-tRe	or-ches-trée	VER	f	s	orchestrer	0.18	0.07
+orchestrée	OR-kEs-tRe	or-ches-trée	ADJ	f	s	orchestré	0.02	0.07
+orchestrées	OR-kEs-tRe	or-ches-trées	VER	f	p	orchestrer	0.04	0.07
+orchestrées	OR-kEs-tRe	or-ches-trées	ADJ	f	p	orchestré	0	0.07
+orchestrent	OR-kEstR	or-ches-trent	VER			orchestrer	0	0.07
+orchestrer	OR-kEs-tRe	or-ches-trer	VER				0.12	0.2
+orchestres	OR-kEstR	or-ches-tres	NOM	m	p	orchestre	0.98	1.69
+orchestres	OR-kEstR	or-ches-tres	VER			orchestrer	0	0.07
+orchestrés	OR-kEs-tRe	or-ches-trés	VER	m	p	orchestrer	0.03	0
+orchestrés	OR-kEs-tRe	or-ches-trés	ADJ	m	p	orchestré	0.01	0
+orchidée	OR-ki-de	or-chi-dée	NOM	f	s		1.98	1.42
+orchidées	OR-ki-de	or-chi-dées	NOM	f	p	orchidée	1.9	1.15
+orchis	OR-kis	or-chis	NOM	m			0.14	0.27
+ord	OR	ord	ADJ	m	s		0.39	0
+ordalie	OR-da-li	or-da-lie	NOM	f	s		0.04	0.2
+ordinaire	OR-di-nER	or-di-nai-re	ADJ		s		15.54	19.86
+ordinaire	OR-di-nER	or-di-nai-re	NOM	m	s		3.8	26.62
+ordinairement	OR-di-nE-R°-m@	or-di-nai-re-ment	ADV				0.21	2.7
+ordinaires	OR-di-nER	or-di-nai-res	ADJ		p	ordinaire	5.01	8.11
+ordinaires	OR-di-nER	or-di-nai-res	NOM	m	p	ordinaire	0.33	0.14
+ordinal	OR-di-nal	or-di-nal	ADJ	m	s		0	0.07
+ordinant	OR-di-n@	or-di-nant	NOM	m	s		0	0.07
+ordinateur	OR-di-na-t9R	or-di-na-teur	NOM	m	s		30.2	2.3
+ordinateurs	OR-di-na-t9R	or-di-na-teurs	NOM	m	p	ordinateur	6.95	1.96
+ordination	OR-di-na-sj§	or-di-na-tion	NOM	f	s		0.12	0.34
+ordo	OR-do	or-do	NOM	m			0.01	0.07
+ordonna	OR-do-na	or-don-na	VER			ordonner	1.34	9.05
+ordonnai	OR-do-nE	or-don-nai	VER			ordonner	0.1	0.68
+ordonnaient	OR-do-nE	or-don-naient	VER			ordonner	0.02	0.41
+ordonnais	OR-do-nE	or-don-nais	VER			ordonner	0.02	0.27
+ordonnait	OR-do-nE	or-don-nait	VER			ordonner	0.11	3.18
+ordonnance	OR-do-n@s	or-don-nan-ce	NOM		s		7.94	19.66
+ordonnancée	OR-do-n@-se	or-don-nan-cée	VER	f	s	ordonnancer	0	0.07
+ordonnancement	OR-do-n@-s°-m@	or-don-nan-ce-ment	NOM	m	s		0.01	0.27
+ordonnancer	OR-do-n@-se	or-don-nan-cer	VER				0	0.14
+ordonnances	OR-do-n@s	or-don-nan-ces	NOM		p	ordonnance	1.78	3.99
+ordonnant	OR-do-n@	or-don-nant	VER			ordonner	0.11	1.15
+ordonnateur	OR-do-na-t9R	or-don-na-teur	NOM	m	s		0.16	0.47
+ordonnateur	OR-do-na-t9R	or-don-na-teur	ADJ	m	s		0.03	0
+ordonnateurs	OR-do-na-t9R	or-don-na-teurs	NOM	m	p	ordonnateur	0	0.14
+ordonnatrice	OR-do-na-tRis	or-don-na-tri-ce	ADJ	f	s	ordonnateur	0	0.07
+ordonnatrice	OR-do-na-tRis	or-don-na-tri-ce	NOM	f	s	ordonnateur	0	0.07
+ordonne	OR-dOn	or-don-ne	VER			ordonner	16.69	6.76
+ordonné	OR-do-ne	or-don-né	VER	m	s	ordonner	11.52	6.82
+ordonné	OR-do-ne	or-don-né	ADJ	m	s		0.57	1.28
+ordonnée	OR-do-ne	or-don-née	ADJ	f	s	ordonné	0.38	1.76
+ordonnée	OR-do-ne	or-don-née	VER	f	s	ordonner	0.21	0.61
+ordonnées	OR-do-ne	or-don-nées	ADJ	f	p	ordonné	0	0.54
+ordonnées	OR-do-ne	or-don-nées	VER	f	p	ordonner	0.02	0.41
+ordonnent	OR-dOn	or-don-nent	VER			ordonner	0.32	0.88
+ordonner	OR-do-ne	or-don-ner	VER				2.36	3.78
+ordonnera	OR-dO-n°-Ra	or-don-ne-ra	VER			ordonner	0.11	0.2
+ordonnerai	OR-dO-n°-RE	or-don-ne-rai	VER			ordonner	0.55	0.14
+ordonnerais	OR-dO-n°-RE	or-don-ne-rais	VER			ordonner	0.01	0
+ordonnerait	OR-dO-n°-RE	or-don-ne-rait	VER			ordonner	0.05	0.07
+ordonnèrent	OR-dO-nER	or-don-nè-rent	VER			ordonner	0.02	0.27
+ordonneront	OR-dO-n°-R§	or-don-ne-ront	VER			ordonner	0.01	0
+ordonnes	OR-dOn	or-don-nes	VER			ordonner	0.77	0
+ordonnés	OR-do-ne	or-don-nés	ADJ	m	p	ordonné	0.04	0.81
+ordonnés	OR-do-ne	or-don-nés	VER	m	p	ordonner	0.18	0.47
+ordonnez	OR-do-ne	or-don-nez	VER			ordonner	1.23	0.14
+ordonniez	OR-do-nje	or-don-niez	VER			ordonner	0.01	0
+ordonnons	OR-do-n§	or-don-nons	VER			ordonner	0.97	0.41
+ordre	ORdR	or-dre	NOM	m	s		132.5	179.26
+ordres	ORdR	or-dres	NOM	m	p	ordre	84.75	56.08
+ordure	OR-dyR	or-du-re	NOM	f	s		16.97	10.41
+ordureries	OR-dy-R°-Ri	or-du-re-ries	NOM	f	p	ordurerie	0	0.07
+ordures	OR-dyR	or-du-res	NOM	f	p	ordure	14.1	16.15
+ordurier	OR-dy-Rje	or-du-rier	ADJ	m	s		0.16	1.08
+ordurière	OR-dy-RjER	or-du-riè-re	ADJ	f	s	ordurier	0.04	0.54
+ordurières	OR-dy-RjER	or-du-riè-res	ADJ	f	p	ordurier	0.03	0.68
+orduriers	OR-dy-Rje	or-du-riers	ADJ	m	p	ordurier	0.08	0.68
+ore	OR		ADV				0.04	0
+oréade	o-Re-ad	o-réa-de	NOM	f	s		0	0.07
+orée	o-Re	o-rée	NOM	f	s		0.67	4.86
+oreille	o-REj	o-reil-le	NOM	f	s		34.46	103.45
+oreiller	o-Re-je	o-reil-ler	NOM	m	s		7.93	26.35
+oreillers	o-Re-je	o-reil-lers	NOM	m	p	oreiller	1.41	7.36
+oreilles	o-REj	o-reil-les	NOM	f	p	oreille	39.08	90.68
+oreillette	o-RE-jEt	o-reil-let-te	NOM	f	s		0.69	0.14
+oreillettes	o-RE-jEt	o-reil-let-tes	NOM	f	p	oreillette	0.14	0.95
+oreillons	o-RE-j§	o-reil-lons	NOM	m	p	oreillon	1.07	0.54
+orémus	o-Re-mys	o-ré-mus	NOM	m			0	0.14
+orfèvre	OR-fEvR	or-fè-vre	NOM		s		0.49	1.35
+orfévrée	OR-fe-vRe	or-fé-vrée	ADJ	f	s	orfévré	0	0.07
+orfèvrerie	OR-fE-vR°-Ri	or-fè-vre-rie	NOM	f	s		0.02	0.54
+orfèvreries	OR-fE-vR°-Ri	or-fè-vre-ries	NOM	f	p	orfèvrerie	0	0.2
+orfèvres	OR-fEvR	or-fè-vres	NOM		p	orfèvre	0.31	1.89
+orfraie	OR-fRE	or-fraie	NOM	f	s		0.01	0.14
+organdi	OR-g@-di	or-gan-di	NOM	m	s		0.45	1.15
+organdis	OR-g@-di	or-gan-dis	NOM	m	p	organdi	0	0.07
+organe	OR-gan	or-ga-ne	NOM	m	s		3.14	6.55
+organes	OR-gan	or-ga-nes	NOM	m	p	organe	10.55	9.12
+organiciser	OR-ga-ni-si-ze		ADJ	m	s		0.01	0
+organigramme	OR-ga-ni-gRam	or-ga-ni-gram-me	NOM	m	s		0.13	0.07
+organique	OR-ga-nik	or-ga-ni-que	ADJ		s		2.56	2.16
+organiquement	OR-ga-ni-k°-m@	or-ga-ni-que-ment	ADV				0.02	0.74
+organiques	OR-ga-nik	or-ga-ni-ques	ADJ		p	organique	1.11	0.61
+organisa	OR-ga-ni-za	or-ga-ni-sa	VER			organiser	0.38	2.09
+organisai	OR-ga-ni-zE	or-ga-ni-sai	VER			organiser	0.01	0.34
+organisaient	OR-ga-ni-zE	or-ga-ni-saient	VER			organiser	0.05	1.76
+organisais	OR-ga-ni-zE	or-ga-ni-sais	VER			organiser	0.31	0.07
+organisait	OR-ga-ni-zE	or-ga-ni-sait	VER			organiser	1.08	4.46
+organisâmes	OR-ga-ni-zam	or-ga-ni-sâ-mes	VER			organiser	0	0.07
+organisant	OR-ga-ni-z@	or-ga-ni-sant	VER			organiser	0.19	0.81
+organisât	OR-ga-ni-za	or-ga-ni-sât	VER			organiser	0	0.14
+organisateur	OR-ga-ni-za-t9R	or-ga-ni-sa-teur	NOM	m	s		1.31	1.55
+organisateur	OR-ga-ni-za-t9R	or-ga-ni-sa-teur	ADJ	m	s		0.48	0.47
+organisateurs	OR-ga-ni-za-t9R	or-ga-ni-sa-teurs	NOM	m	p	organisateur	0.75	1.69
+organisateurs	OR-ga-ni-za-t9R	or-ga-ni-sa-teurs	ADJ	m	p	organisateur	0.01	0.14
+organisation	OR-ga-ni-za-sj§	or-ga-ni-sa-tion	NOM	f	s		18.96	34.32
+organisationnelle	OR-ga-ni-za-sjO-nEl		ADJ	f	s	organisationnel	0.2	0
+organisations	OR-ga-ni-za-sj§	or-ga-ni-sa-tions	NOM	f	p	organisation	2.02	4.8
+organisatrice	OR-ga-ni-za-tRis	or-ga-ni-sa-tri-ce	NOM	f	s	organisateur	0.3	0
+organisatrice	OR-ga-ni-za-tRis	or-ga-ni-sa-tri-ce	ADJ	f	s	organisateur	0.09	0
+organise	OR-ga-niz	or-ga-ni-se	VER			organiser	10.59	4.19
+organisé	OR-ga-ni-ze	or-ga-ni-sé	VER	m	s	organiser	10.55	7.16
+organisé	OR-ga-ni-ze	or-ga-ni-sé	ADJ	m	s		2.79	3.04
+organisée	OR-ga-ni-ze	or-ga-ni-sée	VER	f	s	organiser	2.13	3.99
+organisée	OR-ga-ni-ze	or-ga-ni-sée	ADJ	f	s	organisé	1.25	2.09
+organisées	OR-ga-ni-ze	or-ga-ni-sées	VER	f	p	organiser	0.16	1.82
+organisées	OR-ga-ni-ze	or-ga-ni-sées	ADJ	f	p	organisé	0.2	0.61
+organisent	OR-ga-niz	or-ga-ni-sent	VER			organiser	1.83	0.88
+organiser	OR-ga-ni-ze	or-ga-ni-ser	VER				13.93	16.01
+organisera	OR-ga-ni-z°-Ra	or-ga-ni-se-ra	VER			organiser	0.38	0.27
+organiserai	OR-ga-ni-z°-RE	or-ga-ni-se-rai	VER			organiser	0.38	0.07
+organiserais	OR-ga-ni-z°-RE	or-ga-ni-se-rais	VER			organiser	0.05	0
+organiserait	OR-ga-ni-z°-RE	or-ga-ni-se-rait	VER			organiser	0.07	0.41
+organisèrent	OR-ga-ni-zER	or-ga-ni-sè-rent	VER			organiser	0.11	0.54
+organiserez	OR-ga-ni-z°-Re	or-ga-ni-se-rez	VER			organiser	0.05	0
+organiseriez	OR-ga-ni-z°-Rje	or-ga-ni-se-riez	VER			organiser	0.02	0
+organiserons	OR-ga-ni-z°-R§	or-ga-ni-se-rons	VER			organiser	0.2	0.07
+organiseront	OR-ga-ni-z°-R§	or-ga-ni-se-ront	VER			organiser	0.16	0
+organises	OR-ga-niz	or-ga-ni-ses	VER			organiser	1.29	0.07
+organisés	OR-ga-ni-ze	or-ga-ni-sés	ADJ	m	p	organisé	1.33	1.76
+organisés	OR-ga-ni-ze	or-ga-ni-sés	VER	m	p	organiser	1.19	1.49
+organiseur	OR-ga-ni-z9R		NOM	m	s		0.01	0
+organisez	OR-ga-ni-ze	or-ga-ni-sez	VER			organiser	1.01	0.07
+organisiez	OR-ga-ni-zje	or-ga-ni-siez	VER			organiser	0.11	0.07
+organisions	OR-ga-ni-zj§	or-ga-ni-sions	VER			organiser	0.13	0.34
+organisme	OR-ga-nizm	or-ga-nis-me	NOM	m	s		4.83	8.45
+organismes	OR-ga-nizm	or-ga-nis-mes	NOM	m	p	organisme	2.02	2.36
+organisons	OR-ga-ni-z§	or-ga-ni-sons	VER			organiser	1.55	0
+organiste	OR-ga-nist	or-ga-nis-te	NOM		s		0.51	1.01
+organistes	OR-ga-nist	or-ga-nis-tes	NOM		p	organiste	0.01	0
+organistique	OR-ga-nis-tik	or-ga-nis-ti-que	ADJ	m	s		0	0.07
+organométallique	OR-ga-no-me-ta-lik		ADJ	m	s		0.01	0
+organon	OR-ga-n§		NOM	m	s		0.01	0
+orgasme	OR-gasm	or-gas-me	NOM	m	s		4.89	3.18
+orgasmes	OR-gasm	or-gas-mes	NOM	m	p	orgasme	1.48	0.2
+orgasmique	OR-gas-mik	or-gas-mi-que	ADJ		s		0.08	0
+orgastique	OR-gas-tik	or-gas-ti-que	ADJ	m	s		0	0.14
+orge	ORZ	or-ge	NOM		s		1.96	3.58
+orgeat	OR-Za	or-geat	NOM	m	s		0.19	0.74
+orgelet	OR-Z°-lE	or-ge-let	NOM	m	s		0.78	0.07
+orgelets	OR-Z°-lE	or-ge-lets	NOM	m	p	orgelet	0.11	0.2
+orges	ORZ	or-ges	NOM		p	orge	0.01	0.14
+orgiaque	OR-Zjak	or-gia-que	ADJ	m	s		0.31	0.07
+orgiastique	OR-Zjas-tik	or-gias-ti-que	ADJ	m	s		0	0.07
+orgiastiques	OR-Zjas-tik	or-gias-ti-ques	ADJ		p	orgiastique	0	0.07
+orgie	OR-Zi	or-gie	NOM	f	s		2.09	2.36
+orgies	OR-Zi	or-gies	NOM	f	p	orgie	1.38	1.35
+orgue	ORg	or-gue	NOM	m	s		3.08	5.41
+orgueil	OR-g9j	or-gueil	NOM	m	s		11.56	33.24
+orgueilleuse	OR-g9-j2z	or-gueil-leu-se	ADJ	f	s	orgueilleux	0.37	4.59
+orgueilleuse	OR-g9-j2z	or-gueil-leu-se	NOM	f	s	orgueilleux	0.16	0.41
+orgueilleusement	OR-g9-j2-z°-m@	or-gueil-leu-se-ment	ADV				0.14	1.35
+orgueilleuses	OR-g9-j2z	or-gueil-leu-ses	ADJ	f	p	orgueilleux	0.23	0.54
+orgueilleuses	OR-g9-j2z	or-gueil-leu-ses	NOM	f	p	orgueilleux	0	0.07
+orgueilleux	OR-g9-j2	or-gueil-leux	ADJ	m			1.2	4.05
+orgueilleux	OR-g9-j2	or-gueil-leux	NOM	m			0.59	1.35
+orgueils	OR-g9j	or-gueils	NOM	m	p	orgueil	0	0.2
+orgues	ORg	or-gues	NOM	f	p	orgue	0.04	2.91
+oribus	o-Ri-bys	o-ri-bus	NOM	m			0	0.07
+orient	o-Rj@	o-rient	NOM	m	s		0.78	3.72
+orienta	o-Rj@-ta	o-rien-ta	VER			orienter	0.1	0.81
+orientable	o-Rj@-tabl	o-rien-ta-ble	ADJ		s		0.14	0.34
+orientai	o-Rj@-tE	o-rien-tai	VER			orienter	0.01	0.07
+orientaient	o-Rj@-tE	o-rien-taient	VER			orienter	0.01	0.41
+orientais	o-Rj@-tE	o-rien-tais	VER			orienter	0.01	0.2
+orientait	o-Rj@-tE	o-rien-tait	VER			orienter	0	0.81
+oriental	o-Rj@-tal	o-rien-tal	ADJ	m	s		0.92	3.51
+oriental	o-Rj@-tal	o-rien-tal	NOM	m	s		0.22	1.28
+orientale	o-Rj@-tal	o-rien-ta-le	ADJ	f	s	oriental	2.52	6.82
+orientale	o-Rj@-tal	o-rien-ta-le	NOM	f	s	oriental	0.18	0.2
+orientales	o-Rj@-tal	o-rien-ta-les	ADJ	f	p	oriental	0.4	2.5
+orientales	o-Rj@-tal	o-rien-ta-les	NOM	f	p	oriental	0.29	0.07
+orientalisme	o-Rj@-ta-lizm	o-rien-ta-lis-me	NOM	m	s		0	0.14
+orientaliste	o-Rj@-ta-list	o-rien-ta-lis-te	ADJ	f	s		0.01	0.07
+orientaliste	o-Rj@-ta-list	o-rien-ta-lis-te	NOM		s		0	0.07
+orientalistes	o-Rj@-ta-list	o-rien-ta-lis-tes	NOM		p	orientaliste	0	0.14
+orientant	o-Rj@-t@	o-rien-tant	VER			orienter	0.01	0.54
+orientateurs	o-Rj@-ta-t9R	o-rien-ta-teurs	NOM	m	p	orientateur	0	0.07
+orientation	o-Rj@-ta-sj§	o-rien-ta-tion	NOM	f	s		3.76	6.62
+orientations	o-Rj@-ta-sj§	o-rien-ta-tions	NOM	f	p	orientation	0.1	0.27
+orientaux	o-Rj@-to	o-rien-taux	ADJ	m	p	oriental	0.32	1.49
+orientaux	o-Rj@-to	o-rien-taux	NOM	m	p	oriental	0.09	0.34
+oriente	o-Rj@t	o-rien-te	VER			orienter	0.96	1.35
+orienté	o-Rj@-te	o-rien-té	VER	m	s	orienter	0.4	1.55
+orienté	o-Rj@-te	o-rien-té	ADJ	m	s		0.06	0.2
+orientée	o-Rj@-te	o-rien-tée	VER	f	s	orienter	0.27	1.08
+orientée	o-Rj@-te	o-rien-tée	ADJ	f	s	orienté	0.04	0.2
+orientées	o-Rj@-te	o-rien-tées	VER	f	p	orienter	0.2	0.47
+orientées	o-Rj@-te	o-rien-tées	ADJ	f	p	orienté	0	0.14
+orientent	o-Rj@t	o-rien-tent	VER			orienter	0.16	0
+orienter	o-Rj@-te	o-rien-ter	VER				1.4	3.65
+orienterai	o-Rj@-t°-RE	o-rien-te-rai	VER			orienter	0.04	0
+orienterait	o-Rj@-t°-RE	o-rien-te-rait	VER			orienter	0.01	0.07
+orientèrent	o-Rj@-tER	o-rien-tè-rent	VER			orienter	0	0.07
+orienterez	o-Rj@-t°-Re	o-rien-te-rez	VER			orienter	0.01	0
+orientés	o-Rj@-te	o-rien-tés	VER	m	p	orienter	0.17	0.74
+orientés	o-Rj@-te	o-rien-tés	ADJ	m	p	orienté	0.14	0.14
+orienteur	o-Rj@-t9R	o-rien-teur	NOM	m	s		0.27	0
+orienteur	o-Rj@-t9R	o-rien-teur	ADJ	m	s		0.14	0.07
+orienteurs	o-Rj@-t9R	o-rien-teurs	NOM	m	p	orienteur	0	0.07
+orienteuse	o-Rj@-t2z	o-rien-teu-se	NOM	f	s	orienteur	0	0.07
+orientez	o-Rj@-te	o-rien-tez	VER			orienter	0.15	0.07
+orients	o-Rj@	o-rients	NOM	m	p	orient	0	0.07
+orifice	o-Ri-fis	o-ri-fi-ce	NOM	m	s		1.23	3.24
+orifices	o-Ri-fis	o-ri-fi-ces	NOM	m	p	orifice	0.61	0.81
+oriflamme	o-Ri-flam	o-ri-flam-me	NOM	f	s		0.01	1.08
+oriflammes	o-Ri-flam	o-ri-flam-mes	NOM	f	p	oriflamme	0.21	1.76
+origami	o-Ri-ga-mi	o-ri-ga-mi	NOM	m	s		0.23	0.07
+origan	o-Ri-g@	o-ri-gan	NOM	m	s		0.32	0.95
+originaire	o-Ri-Zi-nER	o-ri-gi-nai-re	ADJ		s		2.06	4.19
+originairement	o-Ri-Zi-nE-R°-m@	o-ri-gi-nai-re-ment	ADV				0	0.14
+originaires	o-Ri-Zi-nER	o-ri-gi-nai-res	ADJ		p	originaire	0.51	1.22
+original	o-Ri-Zi-nal	o-ri-gi-nal	ADJ	m	s		8.43	4.93
+original	o-Ri-Zi-nal	o-ri-gi-nal	NOM	m	s		8.48	2.84
+originale	o-Ri-Zi-nal	o-ri-gi-na-le	ADJ	f	s	original	4.15	3.24
+originale	o-Ri-Zi-nal	o-ri-gi-na-le	NOM	f	s	original	0.42	0.2
+originalement	o-Ri-Zi-na-l°-m@	o-ri-gi-na-le-ment	ADV				0.01	0
+originales	o-Ri-Zi-nal	o-ri-gi-na-les	ADJ	f	p	original	1.03	1.55
+originales	o-Ri-Zi-nal	o-ri-gi-na-les	NOM	f	p	original	0.1	0.2
+originalité	o-Ri-Zi-na-li-te	o-ri-gi-na-li-té	NOM	f	s		1.34	4.39
+originalités	o-Ri-Zi-na-li-te	o-ri-gi-na-li-tés	NOM	f	p	originalité	0	0.14
+originaux	o-Ri-Zi-no	o-ri-gi-naux	NOM	m	p	original	1.44	1.08
+originaux	o-Ri-Zi-no	o-ri-gi-naux	ADJ	m	p	original	0.84	0.81
+origine	o-Ri-Zin	o-ri-gi-ne	NOM	f	s		22.18	34.19
+originel	o-Ri-Zi-nEl	o-ri-gi-nel	ADJ	m	s		1.03	3.11
+originelle	o-Ri-Zi-nEl	o-ri-gi-nel-le	ADJ	f	s	originel	0.58	2.91
+originellement	o-Ri-Zi-nE-l°-m@	o-ri-gi-nel-le-ment	ADV				0.09	0.34
+originelles	o-Ri-Zi-nEl	o-ri-gi-nel-les	ADJ	f	p	originel	0.12	0.2
+originels	o-Ri-Zi-nEl	o-ri-gi-nels	ADJ	m	p	originel	0.11	0.27
+origines	o-Ri-Zin	o-ri-gi-nes	NOM	f	p	origine	5.88	12.64
+orignal	o-Ri-Nal	o-ri-gnal	NOM	m	s		0.26	0.2
+orignaux	o-Ri-No	o-ri-gnaux	NOM	m	p	orignal	0.16	0.27
+orillon	o-Ri-j§	o-ril-lon	NOM	m	s		0	0.07
+orillons	o-Ri-j§	o-ril-lons	NOM	m	p	orillon	0	0.07
+orin	o-R5	o-rin	NOM	m	s		0.21	0
+oriol	O-RjOl		NOM	m	s		0	0.14
+oripeaux	o-Ri-po	o-ri-peaux	NOM	m	p	oripeau	0.38	1.55
+orléanais	OR-le-a-nE	or-léa-nais	ADJ	m			0	0.07
+orléanaise	OR-le-a-nEz	or-léa-nai-se	ADJ	f	s	orléanais	0	0.14
+orléanaises	OR-le-a-nEz	or-léa-nai-ses	ADJ	f	p	orléanais	0	0.07
+orléanisme	OR-le-a-nizm	or-léa-nis-me	NOM	m	s		0	0.2
+orléaniste	OR-le-a-nist	or-léa-nis-te	ADJ	f	s		0	0.14
+orléanistes	OR-le-a-nist	or-léa-nis-tes	ADJ	f	p	orléaniste	0.14	0.07
+orléanistes	OR-le-a-nist	or-léa-nis-tes	NOM		p	orléaniste	0	0.07
+orlon	OR-l§		NOM	m	s		0.04	0
+orme	ORm	or-me	NOM	m	s		0.33	1.28
+ormeau	OR-mo	or-meau	NOM	m	s		0.01	0.47
+ormeaux	OR-mo	or-meaux	NOM	m	p	ormeau	0.02	0.61
+ormes	ORm	or-mes	NOM	m	p	orme	0.06	2.3
+orna	OR-na	or-na	VER			orner	0	0.2
+ornaient	OR-nE	or-naient	VER			orner	0.1	2.03
+ornait	OR-nE	or-nait	VER			orner	0.02	3.11
+ornant	OR-n@	or-nant	VER			orner	0.23	0.88
+ornât	OR-na	or-nât	VER			orner	0	0.14
+orne	ORn	or-ne	VER			orner	0.44	1.08
+orné	OR-ne	or-né	VER	m	s	orner	0.26	8.38
+orné	OR-ne	or-né	ADJ	m	s		0	0.07
+ornée	OR-ne	or-née	VER	f	s	orner	0.08	6.01
+ornée	OR-ne	or-née	ADJ	f	s	orné	0.01	0.41
+ornées	OR-ne	or-nées	VER	f	p	orner	0.26	2.77
+ornées	OR-ne	or-nées	ADJ	f	p	orné	0.01	0.14
+ornement	OR-n°-m@	or-ne-ment	NOM	m	s		0.33	3.24
+ornemental	OR-n°-m@-tal	or-ne-men-tal	ADJ	m	s		0.13	0.14
+ornementale	OR-n°-m@-tal	or-ne-men-ta-le	ADJ	f	s	ornemental	0.02	0.2
+ornementales	OR-n°-m@-tal	or-ne-men-ta-les	ADJ	f	p	ornemental	0.02	0
+ornementation	OR-n°-m@-ta-sj§	or-ne-men-ta-tion	NOM	f	s		0.14	0.74
+ornementations	OR-n°-m@-ta-sj§	or-ne-men-ta-tions	NOM	f	p	ornementation	0	0.07
+ornementé	OR-n°-m@-te	or-ne-men-té	VER	m	s	ornementer	0	0.27
+ornementée	OR-n°-m@-te	or-ne-men-tée	VER	f	s	ornementer	0.01	0.14
+ornementer	OR-n°-m@-te	or-ne-men-ter	VER				0	0.07
+ornementés	OR-n°-m@-te	or-ne-men-tés	VER	m	p	ornementer	0	0.14
+ornements	OR-n°-m@	or-ne-ments	NOM	m	p	ornement	0.64	3.78
+ornent	ORn	or-nent	VER			orner	0.17	0.81
+orner	OR-ne	or-ner	VER				1.11	1.82
+ornera	OR-n°-Ra	or-ne-ra	VER			orner	0.07	0.07
+ornerait	OR-n°-RE	or-ne-rait	VER			orner	0	0.07
+ornèrent	OR-nER	or-nè-rent	VER			orner	0	0.14
+orneront	OR-n°-R§	or-ne-ront	VER			orner	0.11	0.07
+ornés	OR-ne	or-nés	VER	m	p	orner	0.02	3.58
+ornés	OR-ne	or-nés	ADJ	m	p	orné	0.03	0.27
+ornez	OR-ne	or-nez	VER			orner	0.25	0
+ornière	OR-njER	or-niè-re	NOM	f	s		0.17	1.42
+ornières	OR-njER	or-niè-res	NOM	f	p	ornière	0.31	5
+ornithologie	OR-ni-to-lo-Zi	or-ni-tho-lo-gie	NOM	f	s		0.2	0.07
+ornithologique	OR-ni-to-lo-Zik	or-ni-tho-lo-gi-que	ADJ		s		0.17	0
+ornithologue	OR-ni-to-lOg	or-ni-tho-lo-gue	NOM		s		0.12	0.07
+ornithologues	OR-ni-to-lOg	or-ni-tho-lo-gues	NOM		p	ornithologue	0.01	0.07
+ornithoptère	OR-ni-tOp-tER		NOM	m	s		0.01	0
+ornithorynque	OR-ni-to-R5k	or-ni-tho-ryn-que	NOM	m	s		0.25	0.07
+ornithorynques	OR-ni-to-R5k	or-ni-tho-ryn-ques	NOM	m	p	ornithorynque	0.01	0.14
+orographie	O-RO-gRa-fi		NOM	f	s		0.4	0
+oronge	o-R§Z	o-ron-ge	NOM	f	s		0	0.07
+oronges	o-R§Z	o-ron-ges	NOM	f	p	oronge	0	0.14
+oropharynx	O-Ro-fa-R5ks		NOM	m			0.04	0
+orpailleur	OR-pa-j9R	or-pail-leur	NOM	m	s		0.01	0.07
+orpailleurs	OR-pa-j9R	or-pail-leurs	NOM	m	p	orpailleur	0.01	0
+orphée	OR-fe		NOM	f	s		0	0.07
+orphelin	OR-f°-l5	or-phe-lin	ADJ	m	s		3.92	3.78
+orphelin	OR-f°-l5	or-phe-lin	NOM	m	s		1.55	5
+orphelinat	OR-f°-li-na	or-phe-li-nat	NOM	m	s		5.86	2.91
+orphelinats	OR-f°-li-na	or-phe-li-nats	NOM	m	p	orphelinat	0.28	0.27
+orpheline	OR-f°-lin	or-phe-li-ne	ADJ	f	s	orphelin	2.11	1.35
+orpheline	OR-f°-lin	or-phe-li-ne	NOM	f	s	orphelin	1.3	2.03
+orphelines	OR-f°-lin	or-phe-li-nes	NOM	f	p	orphelin	0.79	0.2
+orphelines	OR-f°-lin	or-phe-li-nes	ADJ	f	p	orphelin	0.28	0.2
+orphelins	OR-f°-l5	or-phe-lins	NOM	m	p	orphelin	3.91	2.3
+orphelins	OR-f°-l5	or-phe-lins	ADJ	m	p	orphelin	1.26	1.15
+orphéon	OR-fe-§	or-phéon	NOM	m	s		0.1	0.74
+orphéoniste	OR-fe-o-nist	or-phéo-nis-te	NOM		s		0	0.07
+orphéonistes	OR-fe-o-nist	or-phéo-nis-tes	NOM		p	orphéoniste	0	0.07
+orphéons	OR-fe-§	or-phéons	NOM	m	p	orphéon	0	0.2
+orphie	OR-fi	or-phie	NOM	f	s		0.02	0
+orphique	OR-fik	or-phi-que	ADJ	m	s		0	0.07
+orphiques	OR-fik	or-phi-ques	ADJ	m	p	orphique	0	0.07
+orphisme	OR-fizm	or-phis-me	NOM	m	s		0	0.07
+orpiment	OR-pi-m@		NOM	m	s		0.1	0
+orpin	OR-p5	or-pin	NOM	m	s		0	0.14
+orque	ORk	or-que	NOM	f	s		0.61	0.07
+orques	ORk	or-ques	NOM	f	p	orque	0.82	0
+ors	OR	ors	NOM	m	p	or	0.32	2.77
+orsec	OR-sEk	or-sec	NOM	m			0	0.07
+ort	OR		ADJ				0.16	0
+ortédrine	OR-te-dRin		NOM	f	s		0	0.07
+orteil	OR-tEj	or-teil	NOM	m	s		4.04	1.96
+orteils	OR-tEj	or-teils	NOM	m	p	orteil	5.67	7.16
+ortho	OR-to	or-tho	ADV				0.56	0.27
+orthodontie	OR-to-d§-si		NOM	f	s		0.04	0
+orthodontique	OR-to-d§-tik		ADJ	m	s		0.01	0
+orthodontiste	OR-to-d§-tist	or-tho-don-tis-te	NOM		s		0.22	0
+orthodontistes	OR-to-d§-tist	or-tho-don-tis-tes	NOM		p	orthodontiste	0.05	0
+orthodoxe	OR-to-dOks	or-tho-doxe	ADJ		s		1.56	3.24
+orthodoxe	OR-to-dOks	or-tho-doxe	NOM		s		0.15	0.34
+orthodoxes	OR-to-dOks	or-tho-doxes	ADJ		p	orthodoxe	0.56	1.49
+orthodoxes	OR-to-dOks	or-tho-doxes	NOM		p	orthodoxe	0.58	0.88
+orthodoxie	OR-to-dOk-si	or-tho-doxie	NOM	f	s		0.15	1.42
+orthogonal	OR-tO-go-nal		ADJ	m	s		0.03	0
+orthogonaux	OR-to-go-no	or-tho-go-naux	ADJ	m	p	orthogonal	0.01	0.07
+orthographe	OR-to-gRaf	or-tho-gra-phe	NOM	f	s		3.34	5.88
+orthographiait	OR-to-gRa-fjE	or-tho-gra-phiait	VER			orthographier	0	0.14
+orthographie	OR-to-gRa-fi	or-tho-gra-phie	VER			orthographier	0.02	0.07
+orthographié	OR-to-gRa-fje	or-tho-gra-phié	VER	m	s	orthographier	0.13	0.14
+orthographiées	OR-to-gRa-fje	or-tho-gra-phiées	VER	f	p	orthographier	0.01	0
+orthographier	OR-to-gRa-fje	or-tho-gra-phier	VER				0.04	0.14
+orthographique	OR-to-gRa-fik	or-tho-gra-phi-que	ADJ		s		0.02	0
+orthographiques	OR-to-gRa-fik	or-tho-gra-phi-ques	ADJ	f	p	orthographique	0	0.07
+orthopédie	OR-to-pe-di	or-tho-pé-die	NOM	f	s		0.51	0.14
+orthopédique	OR-to-pe-dik	or-tho-pé-di-que	ADJ		s		0.18	0.54
+orthopédiques	OR-to-pe-dik	or-tho-pé-di-ques	ADJ		p	orthopédique	0.09	0.27
+orthopédiste	OR-to-pe-dist	or-tho-pé-dis-te	NOM		s		0.1	0
+orthophonie	OR-to-fo-ni	or-tho-pho-nie	NOM	f	s		0.07	0
+orthophoniste	OR-to-fo-nist	or-tho-pho-nis-te	NOM		s		0.3	0.07
+orthophonistes	OR-to-fo-nist	or-tho-pho-nis-tes	NOM		p	orthophoniste	0	0.07
+orthoptère	OR-tOp-tER		NOM	m	s		0.01	0
+orthoptères	OR-top-tER	or-tho-ptè-res	NOM	m	p	orthoptère	0	0.14
+orthostatique	OR-tos-ta-tik		ADJ	f	s		0.01	0
+ortie	OR-ti	or-tie	NOM	f	s		0.41	0.74
+orties	OR-ti	or-ties	NOM	f	p	ortie	1.63	6.08
+ortolan	OR-to-l@	or-to-lan	NOM	m	s		0.11	0.27
+ortolans	OR-to-l@	or-to-lans	NOM	m	p	ortolan	0.3	1.62
+orvet	OR-vE	or-vet	NOM	m	s		0.04	0.14
+oryctérope	o-Rik-te-ROp	o-ryc-té-ro-pe	NOM	m	s		0.03	0
+oryx	o-Riks	o-ryx	NOM	m			0.08	0
+os	Os	os	NOM	m			40.77	49.73
+osa	o-za	o-sa	VER			oser	0.05	11.35
+osai	o-zE	o-sai	VER			oser	0.14	2.36
+osaient	o-zE	o-saient	VER			oser	0.17	3.38
+osais	o-zE	o-sais	VER			oser	2.73	12.77
+osait	o-zE	o-sait	VER			oser	1.91	27.3
+osâmes	o-zam	o-sâ-mes	VER			oser	0	0.2
+osant	o-z@	o-sant	VER			oser	0.05	5.68
+osât	o-za	o-sât	VER			oser	0.1	0.88
+oscar	Os-kaR	os-car	NOM	m	s		0.65	0.14
+oscars	Os-kaR	os-cars	NOM	m	p	oscar	1.07	0.34
+oscilla	o-si-ja	os-cil-la	VER			osciller	0	0.61
+oscillai	o-si-jE	os-cil-lai	VER			osciller	0	0.07
+oscillaient	o-si-jE	os-cil-laient	VER			osciller	0	0.81
+oscillais	o-si-jE	os-cil-lais	VER			osciller	0.01	0.2
+oscillait	o-si-jE	os-cil-lait	VER			osciller	0.01	3.18
+oscillant	o-si-j@	os-cil-lant	VER			osciller	0.01	2.57
+oscillant	o-si-j@	os-cil-lant	ADJ	m	s		0.04	0.47
+oscillante	o-si-j@t	os-cil-lan-te	ADJ	f	s	oscillant	0.01	0.14
+oscillants	o-si-j@	os-cil-lants	ADJ	m	p	oscillant	0	0.2
+oscillateur	o-si-ja-t9R	os-cil-la-teur	NOM	m	s		0.17	0.07
+oscillation	o-si-ja-sj§	os-cil-la-tion	NOM	f	s		0.13	0.88
+oscillations	o-si-ja-sj§	os-cil-la-tions	NOM	f	p	oscillation	0.12	1.08
+oscillatoire	o-si-ja-twaR	os-cil-la-toi-re	ADJ	m	s		0.01	0.07
+oscillatoires	o-si-ja-twaR	os-cil-la-toi-res	ADJ	m	p	oscillatoire	0	0.07
+oscille	o-sij	os-cil-le	VER			osciller	0.46	2.91
+oscillé	o-si-je	os-cil-lé	VER	m	s	osciller	0	0.27
+oscillent	o-sij	os-cil-lent	VER			osciller	0.09	0.61
+osciller	o-si-je	os-cil-ler	VER				0.04	1.76
+oscillèrent	o-si-jER	os-cil-lè-rent	VER			osciller	0	0.14
+oscillez	o-si-je	os-cil-lez	VER			osciller	0.01	0
+oscillographe	o-si-jo-gRaf	os-cil-lo-gra-phe	NOM		s		0.07	0
+oscillomètre	o-si-jo-mEtR	os-cil-lo-mè-tre	NOM	m	s		0.01	0.07
+oscilloscope	o-si-jos-kOp	os-cil-lo-sco-pe	NOM	m	s		0.08	0
+ose	oz	o-se	VER			oser	22.97	28.51
+ose	oz	o-se	NOM	m	s		0.04	0
+osé	o-ze	o-sé	VER	m	s	oser	12.12	26.82
+osé	o-ze	o-sé	ADJ	m	s		0.53	0.2
+osée	o-ze	o-sée	ADJ	f	s	osé	0.2	0.27
+osée	o-ze	o-sée	VER	f	s	oser	0.21	0.07
+osées	o-ze	o-sées	ADJ	f	p	osé	0.39	0.27
+osées	o-ze	o-sées	VER	f	p	oser	0.11	0.07
+oseille	o-zEj	o-seil-le	NOM	f	s		1.78	4.19
+oseilles	o-zEj	o-seil-les	NOM	f	p	oseille	0	0.14
+osent	oz	o-sent	VER			oser	3.23	3.92
+oser	o-ze	o-ser	VER				3.28	11.49
+osera	o-z°-Ra	o-se-ra	VER			oser	1.5	1.89
+oserai	o-z°-RE	o-se-rai	VER			oser	1.6	2.03
+oseraie	o-z°-Re	o-se-raie	NOM	f	s		0	0.07
+oseraient	o-z°-RE	o-se-raient	ADV				0	0.07
+oseraies	o-z°-RE	o-se-raies	NOM	f	p	oseraie	0	0.07
+oserais	o-z°-RE	o-se-rais	VER			oser	3.86	3.99
+oserait	o-z°-RE	o-se-rait	VER			oser	2.71	5.34
+oseras	o-z°-Ra	o-se-ras	VER			oser	1.42	0.14
+osèrent	o-zER	o-sè-rent	VER			oser	0.34	0.54
+oserez	o-z°-Re	o-se-rez	VER			oser	0.33	0.27
+oseriez	o-z°-Rje	o-se-riez	VER			oser	0.91	0.07
+oserions	o-z°-Rj§	o-se-rions	VER			oser	0.04	0.14
+oserons	o-z°-R§	o-se-rons	VER			oser	0.04	0
+oseront	o-z°-R§	o-se-ront	VER			oser	0.76	0.47
+oses	oz	o-ses	VER			oser	18.16	1.89
+oses	oz	o-ses	NOM	m	p	ose	0.13	0
+osés	o-ze	o-sés	ADJ	m	p	osé	0.12	0.14
+osés	o-ze	o-sés	VER	m	p	oser	0.02	0
+osez	o-ze	o-sez	VER			oser	10.71	1.49
+osier	o-zje	o-sier	NOM	m	s		0.35	12.3
+osiers	o-zje	o-siers	NOM	m	p	osier	0	0.34
+osiez	o-zje	o-siez	VER			oser	0.34	0.14
+osions	o-zj§	o-sions	VER			oser	0.16	1.55
+osmium	Os-mjOm	os-mium	NOM	m	s		0.02	0
+osmonde	Os-m§d		NOM	f	s		0.02	0
+osmose	Os-moz	os-mo-se	NOM	f	s		0.5	1.01
+osmoses	Os-moz	os-mo-ses	NOM	f	p	osmose	0	0.07
+osons	o-z§	o-sons	VER			oser	0.23	0.81
+ossature	o-sa-tyR	os-sa-tu-re	NOM	f	s		0.52	1.49
+ossatures	o-sa-tyR	os-sa-tu-res	NOM	f	p	ossature	0	0.14
+osselet	O-s°-lE	os-se-let	NOM	m	s		0	0.14
+osselets	O-s°-lE	os-se-lets	NOM	m	p	osselet	0.39	3.18
+ossement	O-s°-m@	os-se-ment	NOM	m	s		0.02	0.14
+ossements	O-s°-m@	os-se-ments	NOM	m	p	ossement	1.3	3.65
+osseuse	o-s2z	os-seu-se	ADJ	f	s	osseux	1.33	2.64
+osseuses	o-s2z	os-seu-ses	ADJ	f	p	osseux	0.08	1.42
+osseux	o-s2	os-seux	ADJ	m			0.32	5.27
+ossification	o-si-fi-ka-sj§	os-si-fi-ca-tion	NOM	f	s		0	0.14
+ossifié	o-si-fje	os-si-fié	VER	m	s	ossifier	0	0.07
+osso buco	o-so-bu-ko	os-so bu-co	NOM	m	s		0.05	0
+ossuaire	o-s8ER	os-suai-re	NOM	m	s		0.42	0.41
+ossuaires	o-s8ER	os-suai-res	NOM	m	p	ossuaire	0.01	0.14
+ossue	o-sy	os-sue	ADJ	f	s	ossu	0	0.07
+ost	Ost	ost	NOM	m	s		0.18	0
+ostensible	Os-t@-sibl	os-ten-si-ble	ADJ		s		0	0.54
+ostensiblement	Os-t@-si-bl°-m@	os-ten-si-ble-ment	ADV				0.04	4.66
+ostensoir	Os-t@-swaR	os-ten-soir	NOM	m	s		0.14	1.28
+ostensoirs	Os-t@-swaR	os-ten-soirs	NOM	m	p	ostensoir	0.14	0.34
+ostentation	Os-t@-ta-sj§	os-ten-ta-tion	NOM	f	s		0.32	3.38
+ostentatoire	Os-t@-ta-twaR	os-ten-ta-toi-re	ADJ		s		0.08	1.42
+ostentatoirement	Os-t@-ta-twa-R°-m@	os-ten-ta-toi-re-ment	ADV				0	0.14
+ostéoarthrite	Os-te-o-aR-tRit		NOM	f	s		0.01	0
+ostéogenèse	Os-te-o-Z°-nEz	os-téo-ge-nè-se	NOM	f	s		0.02	0
+ostéogéniques	Os-te-o-Ze-nik	os-téo-gé-ni-ques	ADJ	f	p	ostéogénique	0.01	0
+ostéologique	Os-te-O-lO-Zik		ADJ	f	s		0.01	0
+ostéomyélite	Os-te-o-mje-lit		NOM	f	s		0.03	0
+ostéopathe	Os-te-o-pat	os-téo-pa-the	NOM		s		0.33	0
+ostéopathes	Os-te-o-pat	os-téo-pa-thes	NOM		p	ostéopathe	0.03	0
+ostéopathie	Os-te-o-pa-ti	os-téo-pa-thie	NOM	f	s		0.01	0.07
+ostéoporose	Os-te-o-po-Roz	os-téo-po-ro-se	NOM	f	s		0.07	0
+ostéosarcome	Os-te-o-saR-kom		NOM	m	s		0.04	0
+ostéotomie	Os-te-o-tO-mi		NOM	f	s		0.01	0
+ostinato	Os-ti-na-to		ADV				0.02	0
+ostracisme	Os-tRa-sizm	os-tra-cis-me	NOM	m	s		0.47	1.08
+ostréiculteur	Os-tRe-i-kyl-t9R	os-tréi-cul-teur	NOM	m	s		0	0.07
+ostréiculteurs	Os-tRe-i-kyl-t9R	os-tréi-cul-teurs	NOM	m	p	ostréiculteur	0.01	0.07
+ostréiculture	Os-tRe-i-kyl-tyR		NOM	f	s		0.01	0
+ostrogoth	Os-tRo-go	os-tro-go-th	NOM	m	s		0.01	0.14
+ostrogoths	Os-tRo-go	os-tro-go-ths	NOM	m	p	ostrogoth	0.01	0.07
+ostrogoths	Os-tRo-go	os-tro-go-ths	ADJ	m	p	ostrogoth	0.01	0
+ôta	o-ta	ô-ta	VER			ôter	0.46	8.04
+otage	o-taZ	o-ta-ge	NOM	m	s		15.22	2.97
+otages	o-taZ	o-ta-ges	NOM	m	p	otage	11.17	2.77
+ôtai	o-tE	ô-tai	VER			ôter	0	0.68
+ôtaient	o-tE	ô-taient	VER			ôter	0.01	1.08
+ôtais	o-tE	ô-tais	VER			ôter	0.03	0.68
+ôtait	o-tE	ô-tait	VER			ôter	0.16	4.53
+otalgie	O-tal-Zi		NOM	f	s		0.03	0
+ôtant	o-t@	ô-tant	VER			ôter	0.43	2.5
+otarie	o-ta-Ri	o-ta-rie	NOM	f	s		0.13	0.68
+otaries	o-ta-Ri	o-ta-ries	NOM	f	p	otarie	0.92	0.47
+ôtât	o-ta	ô-tât	VER			ôter	0	0.14
+ôte	ot	ô-te	VER			ôter	3.05	5.27
+ôté	o-te	ô-té	VER	m	s	ôter	3.18	5.47
+ôté	o-te	ô-té	ADJ	m	s		0.11	0.2
+ôtée	o-te	ô-tée	VER	f	s	ôter	0.42	0.54
+ôtée	o-te	ô-tée	ADJ	f	s	ôté	0.1	0.27
+ôtées	o-te	ô-tées	VER	f	p	ôter	0.16	0.07
+ôtées	o-te	ô-tées	ADJ	f	p	ôté	0.01	0.07
+ôtent	ot	ô-tent	VER			ôter	0.29	0.41
+ôter	o-te	ô-ter	VER				5.57	10
+ôtera	o-t°-Ra	ô-te-ra	VER			ôter	0.26	0.34
+ôterai	o-t°-RE	ô-te-rai	VER			ôter	0.09	0.07
+ôterais	o-t°-RE	ô-te-rais	VER			ôter	0.14	0
+ôterait	o-t°-RE	ô-te-rait	VER			ôter	0.03	0.54
+ôteras	o-t°-Ra	ô-te-ras	VER			ôter	0.17	0.14
+ôtèrent	o-tER	ô-tè-rent	VER			ôter	0	0.27
+ôterez	o-t°-Re	ô-te-rez	VER			ôter	0.17	0.2
+ôterions	o-t°-Rj§	ô-te-rions	VER			ôter	0	0.07
+ôtes	ot	ô-tes	VER			ôter	0.65	0
+ôtés	o-te	ô-tés	VER	m	p	ôter	0.04	0.14
+ôtés	o-te	ô-tés	ADJ	m	p	ôté	0.01	0.07
+ôtez	o-te	ô-tez	VER			ôter	1.3	0.81
+ôtiez	o-tje	ô-tiez	VER			ôter	0.17	0
+otite	o-tit	o-ti-te	NOM	f	s		0.84	0.47
+otites	o-tit	o-ti-tes	NOM	f	p	otite	0.31	0.34
+oto rhino	o-to-Ri-no	o-to rhi-no	NOM		s	oto-rhino	0	0.07
+oto-rhino	o-to-Ri-no	oto-rhino	NOM		s		0.48	1.08
+oto-rhino-laryngologique	o-to-Ri-no-la-R5-gO-lO-Zik		ADJ	f	s		0	0.07
+oto-rhino-laryngologiste	o-to-Ri-no-la-R5-go-lo-Zist	oto-rhino-laryngologiste	NOM		s		0.02	0
+oto-rhinos	o-to-Ri-no	oto-rhinos	NOM		p	oto-rhino	0.01	0.07
+ôtons	o-t§	ô-tons	VER			ôter	0.02	0.07
+otoscope	O-tOs-kOp		NOM	m	s		0.01	0
+otospongiose	O-tos-p§-Zjoz		NOM		s		0.1	0
+ottoman	o-to-m@	ot-to-man	ADJ	m	s		0.18	0.27
+ottoman	o-to-m@	ot-to-man	NOM	m	s		0.01	0.14
+ottomane	o-to-man	ot-to-ma-ne	ADJ	f	s	ottoman	0	0.88
+ottomane	o-to-man	ot-to-ma-ne	NOM	f	s		0.01	0.27
+ottomanes	o-to-man	ot-to-ma-nes	ADJ	f	p	ottoman	0	0.07
+ottomans	o-to-m@	ot-to-mans	ADJ	m	p	ottoman	0.1	0.14
+ou	u	ou	CON				1583.95	2429.86
+ou	u	ou	PRO:per	m	s		0.14	0
+où	u	où	PRO:rel				1546.44	1767.23
+où	u	où	PRO:int				630.81	300.88
+ouah	wa		ONO				9.3	1.28
+ouaille	waj	ouail-le	NOM	f	s		0.01	0.07
+ouailles	waj	ouail-les	NOM	f	p	ouaille	0.56	1.08
+ouais	wE	ouais	ADV				533.02	39.05
+ouananiche	wa-na-niS		NOM	f	s		0.04	0
+ouananiches	wa-na-niS	oua-na-ni-ches	NOM	f	p	ouananiche	0.02	0.07
+ouaouaron	wa-wa-R§		NOM	m	s		0.01	0
+ouata	wa-ta	oua-ta	VER			ouater	0	0.07
+ouatant	wa-t@	oua-tant	VER			ouater	0	0.07
+ouate	wat	oua-te	NOM	f	s		0.26	3.58
+ouaté	wa-te	oua-té	ADJ	m	s		0.01	0.74
+ouaté	wa-te	oua-té	VER	m	s	ouater	0	0.68
+ouatée	wa-te	oua-tée	ADJ	f	s	ouaté	0	1.01
+ouatée	wa-te	oua-tée	VER	f	s	ouater	0	0.47
+ouatées	wa-te	oua-tées	ADJ	f	p	ouaté	0	0.14
+ouatées	wa-te	oua-tées	VER	f	p	ouater	0	0.07
+ouates	wat	oua-tes	NOM	f	p	ouate	0.01	0.14
+ouatés	wa-te	oua-tés	VER	m	p	ouater	0	0.47
+ouatés	wa-te	oua-tés	ADJ	m	p	ouaté	0	0.34
+ouateuse	wa-t2z	oua-teu-se	ADJ	f	s	ouateux	0	0.07
+ouateux	wa-t2	oua-teux	ADJ	m	s		0	0.07
+ouatiné	wa-ti-ne	oua-ti-né	VER	m	s	ouatiner	0	0.07
+ouatinée	wa-ti-ne	oua-ti-née	VER	f	s	ouatiner	0	0.14
+ouatinées	wa-ti-ne	oua-ti-nées	VER	f	p	ouatiner	0	0.14
+ouatiner	wa-ti-ne	oua-ti-ner	VER				0	0.07
+oubli	u-bli	ou-bli	NOM	m	s		6.92	28.65
+oublia	u-bli-ja	ou-blia	VER			oublier	0.58	6.15
+oubliable	u-bli-jabl	ou-blia-ble	ADJ	f	s		0.03	0.14
+oubliai	u-bli-jE	ou-bliai	VER			oublier	0.42	1.96
+oubliaient	u-bli-jE	ou-bliaient	VER			oublier	0.17	2.16
+oubliais	u-bli-jE	ou-bliais	VER			oublier	9.17	9.12
+oubliait	u-bli-jE	ou-bliait	VER			oublier	1.22	14.32
+oubliâmes	u-bli-jam	ou-bliâ-mes	VER			oublier	0.14	0.07
+oubliant	u-bli-j@	ou-bliant	VER			oublier	1.52	8.11
+oublias	u-bli-ja	ou-blias	VER			oublier	0	0.07
+oubliasse	u-bli-jas	ou-blias-se	VER			oublier	0	0.07
+oubliât	u-bli-ja	ou-bliât	VER			oublier	0	0.41
+oublie	u-bli	ou-blie	VER			oublier	104.78	34.66
+oublie	u-bli	ou-blie	NOM	f	s		22.56	1.28
+oublié	u-bli-je	ou-blié	VER	m	s	oublier	154.09	80.27
+oublié	u-bli-je	ou-blié	ADJ	m	s		4.03	7.43
+oubliée	u-bli-je	ou-bliée	VER	f	s	oublier	8.81	8.92
+oubliée	u-bli-je	ou-bliée	ADJ	f	s	oublié	1.39	4.46
+oubliées	u-bli-je	ou-bliées	VER	f	p	oublier	1.65	2.64
+oubliées	u-bli-je	ou-bliées	ADJ	f	p	oublié	0.27	2.23
+oublient	u-bli	ou-blient	VER			oublier	3.94	3.51
+oublier	u-bli-je	ou-blier	VER				85.96	74.19
+oubliera	u-bli-Ra	ou-blie-ra	VER			oublier	4.03	1.62
+oublierai	u-bli-RE	ou-blie-rai	VER			oublier	15.98	6.55
+oublieraient	u-bli-RE	ou-blie-raient	VER			oublier	0.09	0.2
+oublierais	u-bli-RE	ou-blie-rais	VER			oublier	2.42	0.34
+oublierait	u-bli-RE	ou-blie-rait	VER			oublier	0.89	2.97
+oublieras	u-bli-Ra	ou-blie-ras	VER			oublier	4.74	0.81
+oublièrent	u-bli-jER	ou-bliè-rent	VER			oublier	0.02	1.08
+oublierez	u-bli-Re	ou-blie-rez	VER			oublier	1.89	0.54
+oublierions	u-bli-Rj§	ou-blie-rions	VER			oublier	0	0.07
+oublierons	u-bli-R§	ou-blie-rons	VER			oublier	1.56	0.27
+oublieront	u-bli-R§	ou-blie-ront	VER			oublier	1.1	0.34
+oublies	u-bli	ou-blies	VER			oublier	15.34	4.39
+oublies	u-bli	ou-blies	NOM	f	p	oubli	0.9	0.07
+oubliés	u-bli-je	ou-bliés	VER	m	p	oublier	3.72	5.95
+oubliés	u-bli-je	ou-bliés	ADJ	m	p	oublié	1.11	4.59
+oubliette	u-bli-jEt	ou-bliet-te	NOM	f	s		0.19	0.14
+oubliettes	u-bli-jEt	ou-bliet-tes	NOM	f	p	oubliette	1.01	1.49
+oublieuse	u-bli-j2z	ou-blieu-se	ADJ	f	s	oublieux	0	0.68
+oublieuses	u-bli-j2z	ou-blieu-ses	ADJ	f	p	oublieux	0.2	0.27
+oublieux	u-bli-j2	ou-blieux	ADJ	m			0.45	1.28
+oubliez	u-bli-je	ou-bliez	VER			oublier	49.48	11.15
+oubliiez	u-bli-je	ou-bliiez	VER			oublier	0	0.07
+oubliions	u-bli-j§	ou-bliions	VER			oublier	0	0.27
+oublions	u-bli-j§	ou-blions	VER			oublier	13.28	3.72
+oublis	u-bli	ou-blis	NOM	m	p	oubli	0.2	1.22
+ouche	uS	ou-che	NOM	f	s		0.42	0.07
+oued	wEd	oued	NOM	m	s		0.27	0.47
+oueds	wEd	oued-s	NOM	m	p	oued	0	0.14
+ouest	wEst	ouest	NOM	m			27.79	27.77
+ouest	wEst	ouest	ADJ				8.81	4.73
+ouest-allemand	wEs-ta-l°-m@	ouest-allemand	ADJ	m	s		0.12	0
+ouf	uf	ouf	ONO				4.57	7.03
+ougandais	u-g@-dE	ou-gan-dais	NOM	m			0.06	0.07
+ougandaise	u-g@-dEz		ADJ	f	s	ougandais	0.04	0
+ouh	u		ONO				5.5	1.28
+oui	wi	oui	ADV				3207.35	637.57
+ouï	wi	ouï	VER	m	s	ouïr	0.87	0.68
+oui-da	wi-da	oui-da	ONO				0.27	0.07
+ouï-dire	wi-diR	ouï-dire	NOM	m			0	1.01
+ouiche	wiS	oui-che	ONO				0.02	1.96
+ouïe	wi	ouïe	NOM	f	s		2.21	3.38
+ouïe	wi	ouïe	VER	f	s	ouïr	1	0.41
+ouïes	wi	ouïes	NOM	f	p	ouïe	0.16	1.08
+ouighour	u-i-guR	oui-ghour	NOM	m	s		0	0.61
+ouighours	u-i-guR	oui-ghours	NOM	m	p	ouighour	0	0.41
+ouïgour	u-i-guR	ouï-gour	NOM		s		0	0.07
+ouille	uj	ouil-le	ONO				0.79	1.69
+ouille	uj	ouil-le	VER			ouiller	0.14	0.74
+ouïr	wiR	ouïr	VER				0.77	1.22
+ouïrais	u-i-RE	ouï-rais	VER			ouïr	0	0.07
+ouïs	wi	ouïs	VER	m	p	ouïr	0.02	0.47
+ouistiti	wis-ti-ti	ouis-ti-ti	NOM	m	s		1.46	0.61
+ouistitis	wis-ti-ti	ouis-ti-tis	NOM	m	p	ouistiti	0.05	0.2
+ouït	wi	ouït	VER			ouïr	0	0.41
+oukases	u-kaz	ou-ka-ses	NOM	m	p	oukase	0	0.07
+ouléma	u-le-ma	ou-lé-ma	NOM	m	s		0.01	0.14
+oulémas	u-le-ma	ou-lé-mas	NOM	m	p	ouléma	0	1.55
+ounce	awns		NOM	f	s		0.01	0
+ouragan	u-Ra-g@	ou-ra-gan	NOM	m	s		5.09	3.72
+ouragans	u-Ra-g@	ou-ra-gans	NOM	m	p	ouragan	0.96	0.47
+ouralienne	u-Ra-ljEn	ou-ra-lien-ne	ADJ	f	s	ouralien	0	0.07
+ouraniennes	u-Ra-njEn	ou-ra-nien-nes	ADJ	f	p	ouranien	0	0.07
+ourdi	uR-di	our-di	VER	m	s	ourdir	0.39	0.27
+ourdie	uR-di	our-die	VER	f	s	ourdir	0.1	0.14
+ourdies	uR-di	our-dies	VER	f	p	ourdir	0	0.07
+ourdir	uR-diR	our-dir	VER				0.01	0.14
+ourdira	uR-di-Ra	our-di-ra	VER			ourdir	0	0.07
+ourdis	uR-di	our-dis	VER			ourdir	0.01	0.07
+ourdissage	uR-di-saZ	our-dis-sa-ge	NOM	m	s		0	0.54
+ourdissait	uR-di-sE	our-dis-sait	VER			ourdir	0.1	0.07
+ourdissant	uR-di-s@	our-dis-sant	VER			ourdir	0	0.2
+ourdissent	uR-dis	our-dis-sent	VER			ourdir	0	0.14
+ourdisseur	uR-di-s9R	our-dis-seur	NOM	m	s		0	0.07
+ourdisseurs	uR-di-s9R	our-dis-seurs	NOM	m	p	ourdisseur	0	0.07
+ourdisseuses	uR-di-s2z	our-dis-seu-ses	NOM	f	p	ourdisseur	0	0.27
+ourdissoir	uR-di-swaR	our-dis-soir	NOM	m	s		0	0.27
+ourdit	uR-di	our-dit	VER			ourdir	0.11	0.41
+ourdou	uR-du		NOM	m	s		0.42	0
+ourlaient	uR-lE	our-laient	VER			ourler	0	0.2
+ourlait	uR-lE	our-lait	VER			ourler	0	0.41
+ourlant	uR-l@	our-lant	VER			ourler	0	0.34
+ourle	uRl	our-le	VER			ourler	0	0.34
+ourlé	uR-le	our-lé	VER	m	s	ourler	0	0.74
+ourlée	uR-le	our-lée	VER	f	s	ourler	0	0.81
+ourlées	uR-le	our-lées	VER	f	p	ourler	0.02	1.42
+ourlent	uRl	our-lent	VER			ourler	0	0.2
+ourler	uR-le	our-ler	VER				0	0.34
+ourlés	uR-le	our-lés	VER	m	p	ourler	0	0.34
+ourlet	uR-lE	our-let	NOM	m	s		0.69	2.36
+ourlets	uR-lE	our-lets	NOM	m	p	ourlet	0.24	0.74
+ouroboros	u-Ro-bo-ROs	ou-ro-bo-ros	NOM	m			0.02	0
+ours	uRs	ours	NOM	m	s		23.96	17.36
+ourse	uRs	our-se	NOM	f	s	ours	0.58	0.47
+ourses	uRs	our-ses	NOM	f	p	ours	0.02	0.07
+oursin	uR-s5	our-sin	NOM	m	s		0.04	0.54
+oursins	uR-s5	our-sins	NOM	m	p	oursin	0.34	1.49
+oursins	uR-s5	our-sins	ADJ	m	p	oursin	0	0.14
+ourson	uR-s§	our-son	NOM	m	s		1.52	0.41
+oursonne	uR-sOn	our-son-ne	NOM	f	s	ourson	0.01	0.07
+oursonnes	uR-sOn	our-son-nes	NOM	f	p	ourson	0.01	0
+oursons	uR-s§	our-sons	NOM	m	p	ourson	0.09	0.27
+ousque	usk		ADV				0.01	0.07
+oust	ust	oust	ONO				0.25	0.14
+oustachi	us-ta-Si	ous-ta-chi	NOM	m	s		0.14	0
+oustachis	us-ta-Si	ous-ta-chis	NOM	m	p	oustachi	0.14	0.27
+ouste	ust	ous-te	ONO				5.24	1.82
+out	awt	out	ADJ				8.04	0.68
+out	awt	out	ADV				6.86	0.68
+outarde	u-taRd	ou-tar-de	NOM	f	s		0	0.07
+outardes	u-taRd	ou-tar-des	NOM	f	p	outarde	0	0.07
+outil	u-ti	ou-til	NOM	m	s		3.63	10.14
+outillage	u-ti-jaZ	ou-til-la-ge	NOM	m	s		0.25	2.23
+outillages	u-ti-jaZ	ou-til-la-ges	NOM	m	p	outillage	0.11	0.47
+outillé	u-ti-je	ou-til-lé	ADJ	m	s		0.01	0.2
+outillé	u-ti-je	ou-til-lé	VER	m	s	outiller	0.04	0.07
+outillée	u-ti-je	ou-til-lée	ADJ	f	s	outillé	0	0.07
+outillées	u-ti-je	ou-til-lées	VER	f	p	outiller	0	0.07
+outillées	u-ti-je	ou-til-lées	ADJ	f	p	outillé	0	0.07
+outiller	u-ti-je		VER				0.01	0
+outillés	u-ti-je	ou-til-lés	VER	m	p	outiller	0.01	0.07
+outillés	u-ti-je	ou-til-lés	ADJ	m	p	outillé	0	0.07
+outilleur	u-ti-j9R		NOM	m	s		0.1	0
+outils	u-ti	ou-tils	NOM	m	p	outil	10.56	20.74
+outlaw	aw-tlo	out-law	NOM	m	s		0	0.07
+outlaws	aw-tlo	out-laws	NOM	m	p	outlaw	0	0.07
+outrage	u-tRaZ	ou-tra-ge	NOM	m	s		3.4	2.97
+outrage	u-tRaZ	ou-tra-ge	VER			outrager	1.02	0.2
+outragé	u-tRa-Ze	ou-tra-gé	VER	m	s	outrager	0.26	1.42
+outrageant	u-tRa-Z@	ou-tra-geant	ADJ	m	s		0.15	0.27
+outrageant	u-tRa-Z@	ou-tra-geant	VER			outrager	0.04	0.2
+outrageante	u-tRa-Z@t	ou-tra-gean-te	ADJ	f	s	outrageant	0.2	0.2
+outrageantes	u-tRa-Z@t	ou-tra-gean-tes	ADJ	f	p	outrageant	0	0.07
+outrageants	u-tRa-Z@	ou-tra-geants	ADJ	m	p	outrageant	0.02	0.07
+outragée	u-tRa-Ze	ou-tra-gée	VER	f	s	outrager	0.27	1.55
+outragées	u-tRa-Ze	ou-tra-gées	VER	f	p	outrager	0.01	0.2
+outragent	u-tRaZ	ou-tra-gent	VER			outrager	0.01	0.07
+outrager	u-tRa-Ze	ou-tra-ger	VER				0.26	0.27
+outragerais	u-tRa-Z°-RE	ou-tra-ge-rais	VER			outrager	0	0.07
+outragèrent	u-tRa-ZER	ou-tra-gè-rent	VER			outrager	0	0.07
+outrages	u-tRaZ	ou-tra-ges	NOM	m	p	outrage	0.49	2.16
+outrages	u-tRaZ	ou-tra-ges	VER			outrager	0.03	0.07
+outragés	u-tRa-Ze	ou-tra-gés	VER	m	p	outrager	0.31	0.54
+outrageuse	u-tRa-Z2z		ADJ	f	s	outrageux	0.05	0
+outrageusement	u-tRa-Z2-z°-m@	ou-tra-geu-se-ment	ADV				0.08	1.35
+outrageuses	u-tRa-Z2z	ou-tra-geu-ses	ADJ	f	p	outrageux	0.01	0.07
+outrageux	u-tRa-Z2	ou-tra-geux	ADJ	m	s		0.03	0.2
+outragez	u-tRa-Ze	ou-tra-gez	VER			outrager	0.17	0
+outrait	u-tRE	ou-trait	VER			outrer	0	0.34
+outrance	u-tR@s	ou-tran-ce	NOM	f	s		0.17	2.77
+outrances	u-tR@s	ou-tran-ces	NOM	f	p	outrance	0	0.74
+outrancier	u-tR@-sje	ou-tran-cier	ADJ	m	s		0.14	0.41
+outrancière	u-tR@-sjER	ou-tran-ciè-re	ADJ	f	s	outrancier	0.01	0.14
+outrancières	u-tR@-sjER	ou-tran-ciè-res	ADJ	f	p	outrancier	0.01	0.14
+outrant	u-tR@	ou-trant	VER			outrer	0	0.07
+outre	utR	ou-tre	NOM	f	s		4.42	23.18
+outre	utR	ou-tre	PRE				3.03	15.27
+outre	utR	ou-tre	ADV				1.27	10
+outre	utR	ou-tre	VER			outrer	0.18	1.15
+outré	u-tRe	ou-tré	ADJ	m	s		0.2	1.08
+outré	u-tRe	ou-tré	VER	m	s	outrer	0.27	0.61
+outre-atlantique	u-tRat-l@-tik	outre-atlantique	ADV				0.04	0.68
+outre-manche	u-tR°-m@S	outre-manche	ADV				0	0.2
+outre-mer	u-tR°-mER	ou-tre-mer	ADV				0.89	4.05
+outre-rhin	u-tR°-R5	outre-rhin	ADV				0	0.27
+outre-tombe	u-tR°-t§b	outre-tombe	ADJ		s		0.26	2.16
+outrecuidance	u-tR°-k8i-d@s	ou-tre-cui-dan-ce	NOM	f	s		0.01	0.74
+outrecuidant	u-tR°-k8i-d@	ou-tre-cui-dant	ADJ	m	s		0.11	0.2
+outrecuidante	u-tR°-k8i-d@t	ou-tre-cui-dan-te	ADJ	f	s	outrecuidant	0	0.14
+outrecuidantes	u-tR°-k8i-d@t	ou-tre-cui-dan-tes	ADJ	f	p	outrecuidant	0	0.14
+outrecuidants	u-tR°-k8i-d@	ou-tre-cui-dants	ADJ	m	p	outrecuidant	0	0.07
+outrée	u-tRe	ou-trée	ADJ	f	s	outré	0.26	0.68
+outrée	u-tRe	ou-trée	VER	f	s	outrer	0.1	0.68
+outrées	u-tRe	ou-trées	ADJ	f	p	outré	0	0.14
+outrées	u-tRe	ou-trées	VER	f	p	outrer	0.01	0.07
+outremer	u-tR°-mER	ou-tre-mer	ADJ				0.02	1.01
+outremer	u-tR°-mER	ou-tre-mer	NOM	m	s		0.21	0.47
+outrepassa	u-tR°-pa-sa	ou-tre-pas-sa	VER			outrepasser	0.01	0.07
+outrepassaient	u-tR°-pa-sE	ou-tre-pas-saient	VER			outrepasser	0	0.14
+outrepassait	u-tR°-pa-sE	ou-tre-pas-sait	VER			outrepasser	0.03	0.07
+outrepassant	u-tR2-pa-s@		VER			outrepasser	0.01	0
+outrepasse	u-tR°-pas	ou-tre-pas-se	VER			outrepasser	0.13	0.2
+outrepassé	u-tR°-pa-se	ou-tre-pas-sé	VER	m	s	outrepasser	0.13	0.07
+outrepassent	u-tR°-pas	ou-tre-pas-sent	VER			outrepasser	0.02	0
+outrepasser	u-tR°-pa-se	ou-tre-pas-ser	VER				0.23	0.07
+outrepasserai	u-tR°-pa-s°-RE	ou-tre-pas-se-rai	VER			outrepasser	0	0.07
+outrepasses	u-tR°-pas	ou-tre-pas-ses	VER			outrepasser	0.2	0
+outrepassez	u-tR°-pa-se	ou-tre-pas-sez	VER			outrepasser	0.07	0
+outrer	u-tRe	ou-trer	VER				0	0.07
+outres	utR	ou-tres	NOM	f	p	outre	0.02	1.42
+outres	utR	ou-tres	VER			outrer	0	0.07
+outrés	u-tRe	ou-trés	ADJ	m	p	outré	0.01	0.34
+outrés	u-tRe	ou-trés	VER	m	p	outrer	0.01	0.07
+outrigger	aw-tRi-g9R		NOM	m	s		0.16	0
+outsider	aw-tsaj-d9R	out-si-der	NOM	m	s		0.44	0.54
+outsiders	aw-tsaj-d9R	out-si-ders	NOM	m	p	outsider	0.1	0.2
+ouvert	u-vER	ou-vert	VER	m	s	ouvrir	56.83	56.35
+ouvert	u-vER	ou-vert	ADJ	m	s		13.19	31.08
+ouverte	u-vERt	ou-ver-te	ADJ	f	s	ouvert	16.67	62.84
+ouverte	u-vERt	ou-ver-te	VER	f	s	ouvrir	22.29	27.97
+ouvertement	u-vER-t°-m@	ou-ver-te-ment	ADV				2.5	6.96
+ouvertes	u-vERt	ou-ver-tes	ADJ	f	p	ouvert	2.88	15.14
+ouvertes	u-vERt	ou-ver-tes	VER	f	p	ouvrir	2.88	13.38
+ouverts	u-vER	ou-verts	ADJ	m	p	ouvert	7.22	23.31
+ouverts	u-vER	ou-verts	VER	m	p	ouvrir	4.4	13.38
+ouverture	u-vER-tyR	ou-ver-tu-re	NOM	f	s		16.87	23.04
+ouvertures	u-vER-tyR	ou-ver-tu-res	NOM	f	p	ouverture	1.44	3.65
+ouvrable	u-vRabl	ou-vra-ble	ADJ	m	s		0.03	0.47
+ouvrables	u-vRabl	ou-vra-bles	ADJ		p	ouvrable	0.28	0.88
+ouvrage	u-vRaZ	ou-vra-ge	NOM	m	s		4.72	26.15
+ouvrage	u-vRaZ	ou-vra-ge	VER			ouvrager	0.14	0.27
+ouvragé	u-vRa-Ze	ou-vra-gé	ADJ	m	s		0.02	0.88
+ouvragé	u-vRa-Ze	ou-vra-gé	VER	m	s	ouvrager	0	0.07
+ouvrageant	u-vRa-Z@	ou-vra-geant	VER			ouvrager	0	0.07
+ouvragée	u-vRa-Ze	ou-vra-gée	ADJ	f	s	ouvragé	0.12	0.54
+ouvragée	u-vRa-Ze	ou-vra-gée	VER	f	s	ouvrager	0	0.07
+ouvragées	u-vRa-Ze	ou-vra-gées	ADJ	f	p	ouvragé	0	0.61
+ouvragées	u-vRa-Ze	ou-vra-gées	VER	f	p	ouvrager	0	0.14
+ouvrager	u-vRa-Ze	ou-vra-ger	VER				0	0.07
+ouvrages	u-vRaZ	ou-vra-ges	NOM	m	p	ouvrage	0.78	11.15
+ouvragés	u-vRa-Ze	ou-vra-gés	ADJ	m	p	ouvragé	0.01	0.27
+ouvraient	u-vRE	ou-vraient	VER			ouvrir	0.52	12.5
+ouvrais	u-vRE	ou-vrais	VER			ouvrir	1.39	4.12
+ouvrait	u-vRE	ou-vrait	VER			ouvrir	2.4	46.62
+ouvrant	u-vR@	ou-vrant	VER			ouvrir	1.86	18.65
+ouvrant	u-vR@	ou-vrant	ADJ	m	s		0.32	3.11
+ouvrant	u-vR@	ou-vrant	NOM	m	s		0.04	1.22
+ouvrants	u-vR@	ou-vrants	ADJ	m	p	ouvrant	0	0.07
+ouvre	uvR	ou-vre	VER			ouvrir	141.45	80.07
+ouvré	u-vRe	ou-vré	VER	m	s	ouvrer	0.02	0.07
+ouvré	u-vRe	ou-vré	ADJ	m	s		0.01	0.07
+ouvre-boîte	u-vR°-bwat	ouvre-boîte	NOM	m	s		0.32	0.2
+ouvre-boîtes	u-vR°-bwat	ouvre-boîtes	NOM	m			0.16	0.34
+ouvre-bouteille	u-vR°-bu-tEj	ouvre-bouteille	NOM	m	s		0.08	0
+ouvre-bouteilles	u-vR°-bu-tEj	ouvre-bouteilles	NOM	m	p	ouvre-bouteille	0.04	0.14
+ouvrées	u-vRe	ou-vrées	ADJ	f	p	ouvré	0	0.14
+ouvrent	uvR	ou-vrent	VER			ouvrir	6.24	10.88
+ouvrer	u-vRe	ou-vrer	VER				0	0.07
+ouvres	uvR	ou-vres	VER			ouvrir	10.2	1.62
+ouvrés	u-vRe	ou-vrés	ADJ	m	p	ouvré	0.03	0.07
+ouvreur	u-vR9R	ou-vreur	NOM	m	s		1	0
+ouvreurs	u-vR9R	ou-vreurs	NOM	m	p	ouvreur	0.01	0.14
+ouvreuse	u-vR2z	ou-vreu-se	NOM	f	s	ouvreur	0.2	1.62
+ouvreuses	u-vR2z	ou-vreu-ses	NOM	f	p	ouvreur	0.17	0.61
+ouvrez	u-vRe	ou-vrez	VER			ouvrir	64.17	6.22
+ouvrier	u-vRi-je	ou-vrier	NOM	m	s		7.17	12.64
+ouvrier	u-vRi-je	ou-vrier	ADJ	m	s		1.36	5.61
+ouvrière	u-vRi-jER	ou-vriè-re	ADJ	f	s	ouvrier	2.48	6.69
+ouvrière	u-vRi-jER	ou-vriè-re	NOM	f	s	ouvrier	0.64	1.76
+ouvrières	u-vRi-jER	ou-vriè-res	NOM	f	p	ouvrier	1.56	2.5
+ouvrières	u-vRi-jER	ou-vriè-res	ADJ	f	p	ouvrier	0.43	1.35
+ouvriérisme	u-vRi-je-Rizm	ou-vrié-ris-me	NOM	m	s		0	0.07
+ouvriériste	u-vRi-je-Rist	ou-vrié-ris-te	ADJ	m	s		0	0.2
+ouvriers	u-vRi-je	ou-vriers	NOM	m	p	ouvrier	14.56	34.46
+ouvriers	u-vRi-je	ou-vriers	ADJ	m	p	ouvrier	1.8	2.23
+ouvriez	u-vRi-e	ou-vriez	VER			ouvrir	0.41	0
+ouvrîmes	u-vRim	ou-vrî-mes	VER			ouvrir	0	0.34
+ouvrions	u-vRi-j§	ou-vrions	VER			ouvrir	0.1	0.88
+ouvrir	u-vRiR	ou-vrir	VER				79.61	88.58
+ouvrira	u-vRi-Ra	ou-vri-ra	VER			ouvrir	4.13	1.96
+ouvrirai	u-vRi-RE	ou-vri-rai	VER			ouvrir	2.45	0.95
+ouvriraient	u-vRi-RE	ou-vri-raient	VER			ouvrir	0.09	1.28
+ouvrirais	u-vRi-RE	ou-vri-rais	VER			ouvrir	0.41	0.61
+ouvrirait	u-vRi-RE	ou-vri-rait	VER			ouvrir	0.75	4.26
+ouvriras	u-vRi-Ra	ou-vri-ras	VER			ouvrir	0.85	0.27
+ouvrirent	u-vRiR	ou-vri-rent	VER			ouvrir	0.51	3.78
+ouvrirez	u-vRi-Re	ou-vri-rez	VER			ouvrir	0.6	0.07
+ouvririez	u-vRi-Rje	ou-vri-riez	VER			ouvrir	0.18	0.07
+ouvririons	u-vRi-Rj§	ou-vri-rions	VER			ouvrir	0.15	0
+ouvrirons	u-vRi-R§	ou-vri-rons	VER			ouvrir	0.77	0
+ouvriront	u-vRi-R§	ou-vri-ront	VER			ouvrir	1.35	0.68
+ouvris	u-vRi	ou-vris	VER			ouvrir	0.36	7.97
+ouvrissent	u-vRis	ou-vris-sent	VER			ouvrir	0	0.2
+ouvrit	u-vRi	ou-vrit	VER			ouvrir	2.54	86.62
+ouvrît	u-vRi	ou-vrît	VER			ouvrir	0.01	1.28
+ouvroir	uv-RwaR	ou-vroir	NOM	m	s		0	0.68
+ouvroirs	uv-RwaR	ou-vroirs	NOM	m	p	ouvroir	0	0.2
+ouvrons	u-vR§	ou-vrons	VER			ouvrir	3.39	0.95
+ouzbeks	uz-bEk	ouz-beks	ADJ		p	ouzbek	0	0.07
+ouzo	u-zo	ou-zo	NOM	m	s		0.48	2.3
+ouzos	u-zo	ou-zos	NOM	m	p	ouzo	0.1	0.07
+ovaire	o-vER	o-vai-re	NOM	m	s		0.49	0.14
+ovaires	o-vER	o-vai-res	NOM	m	p	ovaire	0.71	1.22
+ovalaire	o-va-lER	o-va-lai-re	ADJ	f	s		0	0.07
+ovale	o-val	o-va-le	ADJ		s		1.83	8.18
+ovale	o-val	o-va-le	NOM	m	s		0.1	3.24
+ovales	o-val	o-va-les	ADJ		p	ovale	0.06	2.36
+ovales	o-val	o-va-les	NOM	m	p	ovale	0.01	0.14
+ovalisées	o-va-li-ze	o-va-li-sées	VER	f	p	ovaliser	0	0.07
+ovariectomie	O-va-RjEk-tO-mi		NOM	f	s		0.01	0
+ovarien	o-va-Rj5		ADJ	m	s		0.02	0
+ovarienne	o-va-RjEn	o-va-rien-ne	ADJ	f	s	ovarien	0.05	0
+ovariotomie	o-va-Rjo-to-mi	o-va-rio-to-mie	NOM	f	s		0	0.07
+ovation	o-va-sj§	o-va-tion	NOM	f	s		0.91	1.49
+ovationnaient	o-va-sjo-nE	o-va-tion-naient	VER			ovationner	0	0.07
+ovationné	o-va-sjo-ne	o-va-tion-né	VER	m	s	ovationner	0.01	0.07
+ovationner	o-va-sjo-ne	o-va-tion-ner	VER				0.01	0.14
+ovationnés	o-va-sjo-ne	o-va-tion-nés	VER	m	p	ovationner	0.01	0.07
+ovations	o-va-sj§	o-va-tions	NOM	f	p	ovation	0.06	1.01
+ove	Ov	o-ve	NOM	m	s		0.2	0.07
+ovée	O-ve		ADJ	f	s	ové	0.01	0
+overdose	O-v9R-doz	o-ver-do-se	NOM	f	s		4.81	1.28
+overdoses	O-v9R-doz	o-ver-do-ses	NOM	f	p	overdose	0.29	0
+overdrive	O-v9R-dRajv	o-ver-dri-ve	NOM	m	s		0.05	0.07
+ovibos	o-vi-bOs	o-vi-bos	NOM	m			0	0.07
+ovin	o-v5		ADJ	m	s		0.01	0
+ovins	o-v5	o-vins	NOM	m	p	ovin	0.04	0.07
+ovipare	o-vi-paR		ADJ		s		0.01	0
+ovipares	o-vi-paR		ADJ		p	ovipare	0.01	0
+ovni	Ov-ni	ov-ni	NOM	m			1.07	0.14
+ovnis	Ov-ni	ov-nis	NOM	m	p	ovni	1.91	0.14
+ovocyte	o-vo-sit	o-vo-cy-te	NOM	m	s		0	0.14
+ovocytes	o-vo-sit	o-vo-cy-tes	NOM	m	p	ovocyte	0.03	0.27
+ovoïdal	o-vo-i-dal	o-voï-dal	ADJ	m	s		0	0.61
+ovoïdale	O-vO-i-dal		ADJ	f	s	ovoïdal	0.01	0
+ovoïde	o-vo-id	o-voï-de	ADJ		s		0	0.95
+ovoïdes	o-vo-id	o-voï-des	ADJ		p	ovoïde	0	0.14
+ovulaire	o-vy-lER		ADJ	f	s		0.01	0
+ovulation	o-vy-la-sj§	o-vu-la-tion	NOM	f	s		0.53	0.07
+ovule	o-vyl	o-vu-le	NOM	m	s		0.64	0.27
+ovule	o-vyl	o-vu-le	VER			ovuler	0.05	0
+ovuler	o-vy-le	o-vu-ler	VER				0.04	0
+ovules	o-vyl	o-vu-les	NOM	m	p	ovule	0.52	0.2
+ovules	o-vyl	o-vu-les	VER			ovuler	0.02	0
+oxalate	Ok-sa-lat		NOM	m	s		0.01	0
+oxer	Ok-se	oxer	NOM	m	s		0	0.07
+oxfordien	Ok-sfOR-dj5	ox-for-dien	ADJ	m	s		0	0.07
+oxfordiennes	Ok-sfOR-djEn	ox-for-dien-nes	ADJ	f	p	oxfordien	0	0.07
+oxfords	Ok-sfORd	ox-ford-s	NOM	m	p	oxford	0.03	0.14
+oxhydrique	Ok-si-dRik	ox-hy-dri-que	ADJ		s		0	0.07
+oxo	Ok-so	oxo	ADJ				0	0.07
+oxonienne	Ok-so-njEn	oxo-nien-ne	NOM	f	s	oxonien	0	0.07
+oxychlorure	Ok-si-klO-RyR		NOM	m	s		0.01	0
+oxydant	Ok-si-d@		NOM	m	s		0.01	0
+oxydants	Ok-si-d@	oxy-dants	NOM	m	p	oxydant	0.04	0
+oxydation	Ok-si-da-sj§	oxy-da-tion	NOM	f	s		0.16	0.2
+oxyde	Ok-sid	oxy-de	NOM	m	s		0.99	0.34
+oxyde	Ok-sid	oxy-de	VER			oxyder	0.04	0.14
+oxydé	Ok-si-de	oxy-dé	VER	m	s	oxyder	0.07	0.14
+oxydée	Ok-si-de	oxy-dée	VER	f	s	oxyder	0	0.14
+oxydées	Ok-si-de	oxy-dées	VER	f	p	oxyder	0	0.14
+oxyder	Ok-si-de	oxy-der	VER				0	0.07
+oxydes	Ok-sid	oxy-des	NOM	m	p	oxyde	0.04	0.07
+oxygénation	Ok-si-Ze-na-sj§	oxy-gé-na-tion	NOM	f	s		0.15	0.07
+oxygène	Ok-si-ZEn	oxy-gè-ne	NOM	m	s		14.03	4.39
+oxygène	Ok-si-ZEn	oxy-gè-ne	VER			oxygéner	0.19	0
+oxygéné	Ok-si-Ze-ne	oxy-gé-né	ADJ	m	s		0.05	0.07
+oxygéné	Ok-si-Ze-ne	oxy-gé-né	VER	m	s	oxygéner	0.01	0.07
+oxygénée	Ok-si-Ze-ne	oxy-gé-née	ADJ	f	s	oxygéné	0.42	0.54
+oxygénée	Ok-si-Ze-ne	oxy-gé-née	VER	f	s	oxygéner	0.14	0.07
+oxygénées	Ok-si-Ze-ne	oxy-gé-nées	ADJ	f	p	oxygéné	0	0.07
+oxygènent	Ok-si-ZEn	oxy-gè-nent	VER			oxygéner	0.01	0.07
+oxygéner	Ok-si-Ze-ne	oxy-gé-ner	VER				0.19	0
+oxygénés	Ok-si-Ze-ne	oxy-gé-nés	ADJ	m	p	oxygéné	0.02	0.27
+oxymétrie	Ok-si-me-tRi		NOM	f	s		0.03	0
+oxymore	Ok-si-mOR	oxy-mo-re	NOM	m	s		0.03	0
+oxymores	Ok-si-mOR	oxy-mo-res	NOM	m	p	oxymore	0.01	0
+oxymoron	Ok-si-mo-R§	oxy-mo-ron	NOM	m	s		0.05	0
+oyant	wa-j@	oyant	VER			ouïr	0	0.14
+oyant	wa-j@	oyant	ADJ	m	s		0.1	0
+oyat	o-ja	oyat	NOM	m	s		0	0.07
+oyats	o-ja	oyats	NOM	m	p	oyat	0.11	0.07
+oye	wa		NOM	f	s		0.21	0.95
+oyez	wa-je	oyez	VER			ouïr	1.69	0.2
+oyons	wa-j§	oyons	VER			ouïr	0.01	0.07
+ozone	o-zon	o-zo-ne	NOM	m	s		1.35	0.54

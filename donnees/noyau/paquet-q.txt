@@ -1,0 +1,582 @@
+q	ky	q	NOM	m			3.49	0.61
+qu	k	qu	CON				22.07	1.55
+qu	k	qu	PRO:rel				17.87	0.14
+qu	k	qu	PRO:int				5.04	0.07
+qu'en-dira-t-on	k@-di-Ra-t§	qu'en-dira-t-on	NOM	m			0.1	0.41
+quadra	kwa-dRa		NOM		s		0.03	0
+quadragénaire	kwa-dRa-Ze-nER	qua-dra-gé-nai-re	NOM		s		0.19	0.74
+quadragénaire	kwa-dRa-Ze-nER	qua-dra-gé-nai-re	ADJ		s		0.01	0.47
+quadragénaires	kwa-dRa-Ze-nER	qua-dra-gé-nai-res	NOM		p	quadragénaire	0.21	0.27
+quadrangle	kwa-dR@gl		NOM	m	s		0.03	0
+quadrangulaire	kwa-dR@-gy-lER	qua-dran-gu-lai-re	ADJ	f	s		0.02	0.34
+quadrangulaires	kwa-dR@-gy-lER	qua-dran-gu-lai-res	ADJ	m	p	quadrangulaire	0	0.07
+quadrant	kwa-dR@	qua-drant	NOM	m	s		0.64	0
+quadrants	kwa-dR@	qua-drants	NOM	m	p	quadrant	0.09	0
+quadras	ka-dRas	qua-dras	NOM		p	quadra	0.02	0
+quadratique	kwa-dRa-tik		ADJ		s		0.01	0
+quadrature	kwa-dRa-tyR	qua-dra-tu-re	NOM	f	s		0.11	1.15
+quadri	ka-dRi	qua-dri	NOM	f	s		0.02	0.07
+quadriceps	kwa-dRi-sEps	qua-dri-ceps	NOM	m			0.11	0.07
+quadrichromie	kwa-dRi-kRo-mi	qua-dri-ch-ro-mie	NOM	f	s		0	0.34
+quadrichromies	kwa-dRi-kRo-mi	qua-dri-ch-ro-mies	NOM	f	p	quadrichromie	0	0.14
+quadridimensionnel	kwa-dRi-di-m@-sjO-nEl		ADJ	m	s		0.01	0
+quadriennal	kwa-dRi-jE-nal	qua-drien-nal	ADJ	m	s		0.09	0
+quadrige	ka-dRiZ	qua-dri-ge	NOM	m	s		0.01	0.07
+quadrilatère	kwa-dRi-la-tER	qua-dri-la-tè-re	NOM	m	s		0.16	1.62
+quadrilatère	kwa-dRi-la-tER	qua-dri-la-tè-re	ADJ		s		0.03	0.2
+quadrilatères	kwa-dRi-la-tER	qua-dri-la-tè-res	NOM	m	p	quadrilatère	0	0.14
+quadrilatères	kwa-dRi-la-tER	qua-dri-la-tè-res	ADJ	f	p	quadrilatère	0	0.07
+quadrillage	ka-dRi-jaZ	qua-dril-la-ge	NOM	m	s		0.49	0.88
+quadrillages	ka-dRi-jaZ	qua-dril-la-ges	NOM	m	p	quadrillage	0.01	0.14
+quadrillaient	ka-dRi-jE	qua-dril-laient	VER			quadriller	0	0.07
+quadrillais	ka-dRi-jE	qua-dril-lais	VER			quadriller	0.01	0
+quadrillait	ka-dRi-jE	qua-dril-lait	VER			quadriller	0	0.07
+quadrille	ka-dRij	qua-dril-le	NOM		s		0.2	0.88
+quadrille	ka-dRij	qua-dril-le	VER			quadriller	0.05	0.07
+quadrillé	ka-dRi-je	qua-dril-lé	VER	m	s	quadriller	0.19	2.03
+quadrillée	ka-dRi-je	qua-dril-lée	VER	f	s	quadriller	0.28	0.74
+quadrillées	ka-dRi-je	qua-dril-lées	VER	f	p	quadriller	0.01	0.34
+quadrillent	ka-dRij	qua-dril-lent	VER			quadriller	0.19	0
+quadriller	ka-dRi-je	qua-dril-ler	VER				0.38	0.2
+quadrillerez	ka-dRi-j°-Re	qua-dril-le-rez	VER			quadriller	0.01	0
+quadrilles	ka-dRij	qua-dril-les	NOM		p	quadrille	0.03	0
+quadrillés	ka-dRi-je	qua-dril-lés	VER	m	p	quadriller	0	0.34
+quadrillez	ka-dRi-je	qua-dril-lez	VER			quadriller	0.19	0
+quadrillion	ka-dRi-j§		NOM	m	s		0.04	0
+quadrillons	ka-dRi-j§	qua-dril-lons	VER			quadriller	0.02	0
+quadrilobé	kwa-dRi-lo-be	qua-dri-lo-bé	ADJ	m	s		0	0.07
+quadrimestre	kwa-dRi-mEstR		NOM	m	s		0.01	0
+quadrimoteur	kwa-dRi-mo-t9R	qua-dri-mo-teur	NOM	m	s		0	0.14
+quadrimoteur	kwa-dRi-mo-t9R	qua-dri-mo-teur	ADJ	m	s		0.02	0
+quadripartite	kwa-dRi-paR-tit		ADJ		s		0.02	0
+quadripartites	kwa-dRi-paR-tit	qua-dri-par-ti-tes	ADJ		p	quadripartite	0	0.07
+quadriphonie	kwa-dRi-fo-ni	qua-dri-pho-nie	NOM	f	s		0.02	0.14
+quadriphonique	kwa-dRi-fo-nik	qua-dri-pho-ni-que	ADJ		s		0.11	0
+quadriplégique	kwa-dRi-ple-Zik	qua-dri-plé-gi-que	ADJ		s		0.03	0
+quadriréacteur	kwa-dRi-Re-ak-t9R	qua-dri-réac-teur	NOM	m	s		0	0.07
+quadrivium	kwa-dRi-vjOm	qua-dri-vium	NOM	m	s		0	0.07
+quadrumane	kwa-dRu-man	qua-dru-ma-ne	NOM	m	s		0	0.07
+quadrupède	kwa-dRu-pEd	qua-dru-pè-de	NOM	m	s		0.34	0.81
+quadrupède	kwa-dRu-pEd	qua-dru-pè-de	ADJ		s		0.04	0.07
+quadrupèdes	kwa-dRu-pEd	qua-dru-pè-des	NOM	m	p	quadrupède	0.01	0.2
+quadrupèdes	kwa-dRu-pEd	qua-dru-pè-des	ADJ	m	p	quadrupède	0.01	0.07
+quadrupla	kwa-dRu-pla	qua-dru-pla	VER			quadrupler	0	0.07
+quadruplait	kwa-dRu-plE	qua-dru-plait	VER			quadrupler	0	0.14
+quadruple	kwa-dRupl	qua-dru-ple	ADJ				0.42	0.54
+quadruple	kwa-dRupl	qua-dru-ple	NOM	m	s		0.18	0.2
+quadruple	kwa-dRupl	qua-dru-ple	VER			quadrupler	0.07	0.14
+quadruplé	kwa-dRy-ple	qua-dru-plé	VER	m	s	quadrupler	0.06	0.14
+quadruplées	kwa-dRy-ple	qua-dru-plées	NOM	f	p	quadruplée	0	0.07
+quadrupler	kwa-dRy-ple	qua-dru-pler	VER				0.07	0.14
+quadruples	kwa-dRupl	qua-dru-ples	NOM	m	p	quadruple	0.01	0.27
+quadruplés	kwa-dRy-ple	qua-dru-plés	VER	m	p	quadrupler	0	0.07
+quadruplés	kwa-dRy-ple	qua-dru-plés	NOM	m	p	quadruplé	0.06	0
+quai	kE	quai	NOM	m	s		10.37	55.14
+quais	ke	quais	NOM	m	p	quai	3.64	18.85
+quaker	kwE-k9R	qua-ker	NOM	m	s		0.49	0.47
+quakeresse	kwE-k°-REs	qua-ke-res-se	NOM	f	s		0.02	0.14
+quakers	kwE-k9R	qua-kers	NOM	m	p	quaker	0.19	0.27
+qualifia	ka-li-fja	qua-li-fia	VER			qualifier	0.04	0.41
+qualifiable	ka-li-fjabl	qua-li-fia-ble	ADJ	m	s		0	0.07
+qualifiaient	ka-li-fjE	qua-li-fiaient	VER			qualifier	0	0.27
+qualifiais	ka-li-fjE	qua-li-fiais	VER			qualifier	0	0.14
+qualifiait	ka-li-fjE	qua-li-fiait	VER			qualifier	0.06	0.88
+qualifiant	ka-li-fj@	qua-li-fiant	VER			qualifier	0.03	0.34
+qualifiassent	ka-li-fjas	qua-li-fias-sent	VER			qualifier	0	0.07
+qualifiât	ka-li-fja	qua-li-fiât	VER			qualifier	0	0.07
+qualificatif	ka-li-fi-ka-tif	qua-li-fi-ca-tif	NOM	m	s		0.05	0.34
+qualificatifs	ka-li-fi-ka-tif	qua-li-fi-ca-tif-s	NOM	m	p	qualificatif	0.05	0.41
+qualification	ka-li-fi-ka-sj§	qua-li-fi-ca-tion	NOM	f	s		0.68	0.68
+qualifications	ka-li-fi-ka-sj§	qua-li-fi-ca-tions	NOM	f	p	qualification	1.78	0.14
+qualifie	ka-li-fi	qua-li-fie	VER			qualifier	0.63	0.81
+qualifié	ka-li-fje	qua-li-fié	VER	m	s	qualifier	2.1	2.3
+qualifié	ka-li-fje	qua-li-fié	ADJ	m	s		2.25	1.76
+qualifiée	ka-li-fje	qua-li-fiée	VER	f	s	qualifier	0.74	1.08
+qualifiée	ka-li-fje	qua-li-fiée	ADJ	f	s	qualifié	1.13	0.68
+qualifiées	ka-li-fje	qua-li-fiées	VER	f	p	qualifier	0.1	0.27
+qualifiées	ka-li-fje	qua-li-fiées	ADJ	f	p	qualifié	0.07	0.07
+qualifient	ka-li-fi	qua-li-fient	VER			qualifier	0.38	0.14
+qualifier	ka-li-fje	qua-li-fier	VER				0.96	3.04
+qualifiera	ka-li-fi-Ra	qua-li-fie-ra	VER			qualifier	0.01	0.2
+qualifierai	ka-li-fi-RE	qua-li-fie-rai	VER			qualifier	0.16	0.07
+qualifierais	ka-li-fi-RE	qua-li-fie-rais	VER			qualifier	0.26	0.2
+qualifierait	ka-li-fi-RE	qua-li-fie-rait	VER			qualifier	0.03	0
+qualifieriez	ka-li-fi-Rje	qua-li-fie-riez	VER			qualifier	0.07	0
+qualifiés	ka-li-fje	qua-li-fiés	ADJ	m	p	qualifié	1.18	1.28
+qualifiés	ka-li-fje	qua-li-fiés	VER	m	p	qualifier	0.56	1.28
+qualifiez	ka-li-fje	qua-li-fiez	VER			qualifier	0.06	0.07
+qualitatif	ka-li-ta-tif	qua-li-ta-tif	ADJ	m	s		0.01	0
+qualitatifs	ka-li-ta-tif	qua-li-ta-tif-s	ADJ	m	p	qualitatif	0	0.07
+qualitative	ka-li-ta-tiv	qua-li-ta-ti-ve	ADJ	f	s	qualitatif	0.02	0.07
+qualité	ka-li-te	qua-li-té	NOM	f	s		20.84	42.7
+qualités	ka-li-te	qua-li-tés	NOM	f	p	qualité	8.28	16.42
+quand	k@	quand	CON				1827.92	1480.07
+quand	k@	quand	ADV				2.81	0.68
+quant	k@	quant	NOM	f	s		7.94	32.3
+quant-à-moi	k@-ta-mwa	quant-à-moi	NOM	m			0	0.14
+quant-à-soi	k@-ta-swa	quant-à-soi	NOM	m			0	1.22
+quanta	kw@-ta	quan-ta	NOM	m	p	quantum	0.04	0.14
+quantième	k@-tjEm	quan-tiè-me	NOM	m	s		0.02	0
+quantièmes	k@-tjEm	quan-tiè-mes	NOM	m	p	quantième	0	0.07
+quantifiable	k@-ti-fjabl		ADJ		s		0.15	0
+quantifiée	k@-ti-fje		VER	f	s	quantifier	0.03	0
+quantifier	k@-ti-fje	quan-ti-fier	VER				0.2	0.07
+quantique	kw@-tik	quan-ti-que	ADJ		s		1.16	0.07
+quantiques	kw@-tik	quan-ti-ques	ADJ		p	quantique	0.2	0
+quantitatif	k@-ti-ta-tif		ADJ	m	s		0.03	0
+quantitative	k@-ti-ta-tiv	quan-ti-ta-ti-ve	ADJ	f	s	quantitatif	0.01	0.07
+quantitativement	k@-ti-ta-ti-v°-m@		ADV				0.1	0
+quantitatives	k@-ti-ta-tiv	quan-ti-ta-ti-ves	ADJ	f	p	quantitatif	0.01	0.07
+quantité	k@-ti-te	quan-ti-té	NOM	f	s		8.67	15.27
+quantités	k@-ti-te	quan-ti-tés	NOM	f	p	quantité	1.63	3.72
+quanto	k@-to	quan-to	ADV				0.01	0.07
+quantum	kw@-tOm	quan-tum	NOM	m	s		0.45	0.07
+quarantaine	ka-R@-tEn	qua-ran-tai-ne	NOM	f	s		7.56	10.07
+quarantaines	ka-R@-tEn	qua-ran-tai-nes	NOM	f	p	quarantaine	0.01	0.07
+quarante	ka-R@t	qua-ran-te	ADJ:num				8.16	43.78
+quarante	ka-R@t	qua-ran-te	NOM	m			1.49	4.32
+quarante-cinq	ka-R@t-s5k	quarante-cinq	ADJ:num				1.16	8.85
+quarante-cinquième	ka-R@t-s5-kjEm	quarante-cinquième	ADJ				0.1	0.07
+quarante-deux	ka-R@t-d2	quarante-deux	ADJ:num				0.29	2.09
+quarante-deuxième	ka-R@t-d2-zjEm	quarante-deuxième	ADJ				0.03	0.07
+quarante-huit	ka-R@-t8it	quarante-huit	ADJ:num				1.11	6.76
+quarante-huitards	ka-R@-t°-8i-taR	quarante-huitards	NOM	m	p	quarante-huitard	0	0.07
+quarante-huitième	ka-R@-t8i-tjEm	quarante-huitième	ADJ				0.02	0.07
+quarante-neuf	ka-R@t-n9f	quarante-neuf	ADJ:num				0.28	0.47
+quarante-quatre	ka-R@-t°-katR	quarante-quatre	ADJ:num				0.1	0.88
+quarante-sept	ka-R@t-sEt	quarante-sept	ADJ:num				0.4	0.74
+quarante-septième	ka-R@t-sE-tjEm	quarante-septième	ADJ				0.03	0.2
+quarante-six	ka-R@t-sis	quarante-six	ADJ:num				0.23	0.47
+quarante-trois	ka-R@-t°-tRwa	quarante-trois	ADJ:num				0.68	1.28
+quarante-troisième	ka-R@t-tRwa-zjEm	quarante-troisième	ADJ				0	0.07
+quarantenaire	ka-R@-t°-nER	qua-ran-te-nai-re	ADJ	m	s		0.01	0.07
+quarantenaires	ka-R@-t°-nER	qua-ran-te-nai-res	ADJ		p	quarantenaire	0.04	0
+quarantième	ka-R@-tjEm	qua-ran-tiè-me	ADJ				0.03	0.27
+quarantième	ka-R@-tjEm	qua-ran-tiè-me	NOM		s		0.03	0.07
+quarantièmes	ka-R@-tjEm	qua-ran-tiè-mes	NOM		p	quarantième	0.01	0.07
+quark	kwaRk	quark	NOM	m	s		0.13	0.07
+quarks	kwaRk	quarks	NOM	m	p	quark	0.09	0.07
+quarre	kaR	quar-re	NOM	f	s		0.04	0
+quarrez	ka-Re	quar-rez	VER			quarrer	0	0.07
+quart	kaR	quart	NOM	m	s		20.58	57.36
+quart-monde	kaR-m§d		NOM	m	s		0.02	0
+quartaut	kaR-to	quar-taut	NOM	m	s		0	0.2
+quarte	kaRt	quar-te	NOM	f	s		0.04	0.14
+quarte	kaRt	quar-te	ADJ	f	s		0.01	0
+quarté	kaR-te	quar-té	NOM	m	s		0.01	0.07
+quartenier	kaR-t°-nje	quar-te-nier	NOM	m	s		0	0.07
+quarter	kaR-te	quar-ter	VER				0.44	0
+quarteron	kaR-t°-R§	quar-te-ron	NOM	m	s		0.01	0.61
+quarteronnes	kaR-t°-ROn	quar-te-ron-nes	NOM	f	p	quarteron	0	0.07
+quarterons	kaR-t°-R§	quar-te-rons	NOM	m	p	quarteron	0.02	0.14
+quartet	kwaR-tE		NOM	m	s		0.2	0
+quartette	kwaR-tEt	quar-tet-te	NOM	m	s		0	0.07
+quartettes	kwaR-tEt	quar-tet-tes	NOM	m	p	quartette	0	0.07
+quartidi	kwaR-ti-di	quar-ti-di	NOM	m	s		0	0.07
+quartier	kaR-tje	quar-tier	NOM	m	s		55.23	89.86
+quartier-maître	kaR-tje-mEtR	quartier-maître	NOM	m	s		0.83	0.27
+quartiers	kaR-tje	quar-tiers	NOM	m	p	quartier	10.48	22.3
+quartiers-maîtres	kaR-tje-mEtR	quartiers-maîtres	NOM	m	p	quartier-maître	0.01	0
+quarto	kwaR-to	quar-to	ADV				0.02	0.14
+quarts	kaR	quarts	NOM	m	p	quart	2.43	19.93
+quartz	kwaRts	quartz	NOM	m			0.45	1.69
+quasar	ka-zaR	qua-sar	NOM	m	s		0.09	0
+quasi	ka-zi	qua-si	ADV				2.69	17.36
+quasi	ka-zi	qua-si	NOM	m	s		0.02	0.14
+quasi-agonie	ka-zi-a-go-ni	quasi-agonie	NOM	f	s		0	0.07
+quasi-blasphème	ka-zi-blas-fEm	quasi-blasphème	NOM	m	s		0	0.07
+quasi-bonheur	ka-zi-bo-n9R	quasi-bonheur	NOM	m	s		0	0.07
+quasi-certitude	ka-zi-sER-ti-tyd	quasi-certitude	NOM	f	s		0.04	0.41
+quasi-chômage	ka-zi-So-maZ	quasi-chômage	NOM	m	s		0.02	0
+quasi-débutant	ka-zi-de-by-t@	quasi-débutant	ADV				0.01	0
+quasi-décapitation	ka-zi-de-ka-pi-ta-sj§	quasi-décapitation	NOM	f	s		0.01	0
+quasi-désertification	ka-zi-de-zER-ti-fi-ka-sj§	quasi-désertification	NOM	f	s		0	0.07
+quasi-émeute	ka-zi-e-m2t	quasi-émeute	NOM	f	s		0.02	0
+quasi-équitable	ka-zi-e-ki-tabl	quasi-équitable	ADJ	m	s		0.01	0
+quasi-facétieux	ka-zi-fa-se-sj2	quasi-facétieux	ADJ	m			0.01	0
+quasi-fiancée	ka-zi-fj@-se	quasi-fiancée	NOM	f	s	quasi-fiancé	0	0.07
+quasi-futuristes	ka-zi-fy-ty-Rist	quasi-futuristes	ADJ	m	p	quasi-futuriste	0.01	0
+quasi-génocide	ka-zi-Ze-no-sid	quasi-génocide	NOM	m	s		0.01	0
+quasi-hérétique	ka-zi-e-Re-tik	quasi-hérétique	NOM		s		0	0.07
+quasi-ignare	ka-zi-i-NaR	quasi-ignare	NOM		s		0	0.07
+quasi-impossibilité	ka-zi-5-po-si-bi-li-te	quasi-impossibilité	NOM	f	s		0	0.14
+quasi-impunité	ka-zi-5-py-ni-te	quasi-impunité	NOM	f	s		0	0.07
+quasi-inconnu	ka-zi-5-ko-ny	quasi-inconnu	ADV				0.02	0.07
+quasi-indifférence	ka-zi-5-di-fe-R@s	quasi-indifférence	NOM	f	s		0	0.07
+quasi-infirme	ka-zi-5-fiRm	quasi-infirme	NOM		s		0	0.07
+quasi-instantanée	ka-zi-5s-t@-ta-ne	quasi-instantanée	ADV				0.02	0
+quasi-jungienne	ka-zi-ju-GjEn	quasi-jungienne	NOM	f	s		0.01	0
+quasi-mariage	ka-zi-ma-RjaZ	quasi-mariage	NOM	m	s		0	0.07
+quasi-maximum	ka-zi-mak-si-mOm	quasi-maximum	ADV				0.01	0
+quasi-mendiant	ka-zi-m@-dj@	quasi-mendiant	NOM	m	s		0.14	0
+quasi-miracle	ka-zi-mi-Rakl	quasi-miracle	NOM	m	s		0	0.07
+quasi-monopole	ka-zi-mO-nO-pOl		NOM	m	s		0.1	0
+quasi-morceau	ka-zi-mOR-so	quasi-morceau	NOM	m	s		0	0.07
+quasi-noyade	ka-zi-nwa-jad	quasi-noyade	NOM	f	s		0.01	0
+quasi-nudité	ka-zi-ny-di-te	quasi-nudité	NOM	f	s		0	0.14
+quasi-permanence	ka-zi-pER-ma-n@s	quasi-permanence	NOM	f	s		0	0.07
+quasi-protection	ka-zi-pRo-tEk-sj§	quasi-protection	NOM	f	s		0	0.07
+quasi-religieux	ka-zi-R°-li-Zj2	quasi-religieux	ADJ	m	s		0.01	0.07
+quasi-respect	ka-zi-REs-pE	quasi-respect	NOM	m	s		0	0.07
+quasi-totalité	ka-zi-to-ta-li-te	quasi-totalité	NOM	f	s		0.16	0.88
+quasi-unanime	ka-zi-y-na-nim	quasi-unanime	ADJ		s		0	0.14
+quasi-unanimité	ka-zi-y-na-ni-mi-te	quasi-unanimité	NOM	f	s		0	0.07
+quasi-veuvage	ka-zi-v9-vaZ	quasi-veuvage	NOM	m	s		0	0.07
+quasi-ville	ka-zi-vil	quasi-ville	NOM	f	s		0	0.07
+quasi-voisines	ka-zi-vwa-zin	quasi-voisines	ADV				0	0.07
+quasiment	ka-zi-m@	qua-si-ment	ADV				7.66	6.62
+quasimodo	ka-zi-mo-do		NOM	f	s		0.04	0
+quasimodos	ka-zi-mo-do	qua-si-mo-dos	NOM	f	p	quasimodo	0	0.07
+quat'zarts	kat-zaR	quat'-zarts	NOM	m	p		0	0.07
+quater	kwa-tER		ADV				0.01	0
+quaternaire	kwa-tER-nER	qua-ter-nai-re	NOM	m	s		0.27	0.14
+quaternaire	kwa-tER-nER	qua-ter-nai-re	ADJ	f	s		0.14	0.07
+quatorze	ka-tORz	qua-tor-ze	ADJ:num				6.7	22.09
+quatorzième	ka-tOR-zjEm	qua-tor-ziè-me	ADJ				0.04	2.16
+quatorzième	ka-tOR-zjEm	qua-tor-ziè-me	NOM		s		0.07	0.54
+quatrain	ka-tR5	qua-train	NOM	m	s		0.22	0.14
+quatrains	ka-tR5	qua-trains	NOM	m	p	quatrain	0.01	0.54
+quatre	katR	qua-tre	ADJ:num				150.93	282.64
+quatre	katR	qua-tre	NOM	f	p		0.01	0
+quatre-feuilles	kat-Rf9j	quatre-feuilles	NOM	m			0.01	0.07
+quatre-heures	ka-tR9R	quatre-heures	NOM	m			0.04	0.41
+quatre-mâts	kat-Rma	quatre-mâts	NOM	m			0.27	0.14
+quatre-quarts	kat-RkaR	quatre-quarts	NOM	m			0.26	0.14
+quatre-saisons	ka-tR°-sE-z§	quatre-saisons	NOM	f			0.47	1.15
+quatre-vingt	ka-tR°-v5	quatre-vingt	ADJ:num				0.93	1.01
+quatre-vingt	ka-tR°-v5	quatre-vingt	NOM	m			0.17	0.27
+quatre-vingt-cinq	ka-tR°-v5-s5k	quatre-vingt-cinq	ADJ:num				0.07	0.88
+quatre-vingt-deux	ka-tR°-v5-d2	quatre-vingt-deux	ADJ:num				0	0.27
+quatre-vingt-dix	ka-tR°-v5-dis	quatre-vingt-dix	ADJ:num				0.09	3.51
+quatre-vingt-dix	ka-tR°-v5-dis	quatre-vingt-dix	NOM	m			0.33	0.61
+quatre-vingt-dix-huit	ka-tR°-v5-di-z8it	quatre-vingt-dix-huit	ADJ:num				0.02	0.34
+quatre-vingt-dix-neuf	ka-tR°-v5-diz-n9f	quatre-vingt-dix-neuf	ADJ:num				0.21	0.47
+quatre-vingt-dix-sept	ka-tR°-v5-di-sEt	quatre-vingt-dix-sept	ADJ:num				0	0.27
+quatre-vingt-dixième	ka-tR°-v5-di-zjEm	quatre-vingt-dixième	ADJ				0.01	0.14
+quatre-vingt-douze	ka-tR°-v5-duz	quatre-vingt-douze	ADJ:num				0.11	0.54
+quatre-vingt-douzième	ka-tR°-v5-du-zjEm	quatre-vingt-douzième	ADJ				0	0.07
+quatre-vingt-huit	ka-tR°-v5-8it	quatre-vingt-huit	ADJ:num				0.02	0.2
+quatre-vingt-neuf	ka-tR°-v5-n9f	quatre-vingt-neuf	ADJ:num				0.14	0.61
+quatre-vingt-onze	ka-tR°-v5-§z	quatre-vingt-onze	ADJ:num				0.1	0.34
+quatre-vingt-quatorze	ka-tR°-v5-ka-tORz	quatre-vingt-quatorze	ADJ:num				0.1	0.07
+quatre-vingt-quatre	ka-tR°-v5-katR	quatre-vingt-quatre	ADJ:num				0.03	0.74
+quatre-vingt-quinze	ka-tR°-v5-k5z	quatre-vingt-quinze	ADJ:num				0.14	2.16
+quatre-vingt-seize	ka-tR°-v5-sEz	quatre-vingt-seize	ADJ:num				0.1	0.07
+quatre-vingt-sept	ka-tR°-v5-sEt	quatre-vingt-sept	ADJ:num				0.07	0.27
+quatre-vingt-six	ka-tR°-v5-sis	quatre-vingt-six	ADJ:num				0.19	0.34
+quatre-vingt-treize	ka-tR°-v5-tREz	quatre-vingt-treize	ADJ:num				0.11	0.95
+quatre-vingt-treizième	ka-tR°-v5-tRE-zjEm	quatre-vingt-treizième	ADJ				0	0.07
+quatre-vingt-trois	ka-tR°-v5-tRwa	quatre-vingt-trois	ADJ:num				0.06	0.41
+quatre-vingt-un	ka-tR°-v5-1	quatre-vingt-un	ADJ:num				0.02	0.14
+quatre-vingtième	ka-tR°-v5-tjEm	quatre-vingtième	ADJ				0	0.14
+quatre-vingtième	ka-tR°-v5-tjEm	quatre-vingtième	NOM		s		0	0.14
+quatre-vingts	ka-tR°-v5	quatre-vingts	ADJ:num				0.36	9.05
+quatrième	ka-tRi-jEm	qua-triè-me	ADJ				8.65	15.74
+quatrième	ka-tRi-jEm	qua-triè-me	NOM		s		7.09	12.77
+quatrièmement	ka-tRi-jE-m°-m@	qua-triè-me-ment	ADV				0.41	0.14
+quatrièmes	ka-tRi-jEm	qua-triè-mes	NOM		p	quatrième	0.05	0.27
+quatrillion	kwa-tRi-lj§		NOM	m	s		0.01	0
+quattrocento	kwa-tRot-SEn-to	quat-tro-cen-to	NOM	m	s		0.1	0.27
+quatuor	kwa-t8OR	qua-tuor	NOM	m	s		1.04	3.04
+quatuors	kwa-t8OR	qua-tuors	NOM	m	p	quatuor	0.03	0.41
+que	k°	que	PRO:rel				3330.88	2975.34
+que	k°	que	PRO:int				770.02	340.61
+québécois	ke-be-kwa	qué-bé-cois	ADJ	m	s		0.11	0
+québécois	ke-be-kwa	qué-bé-cois	NOM	m			0.05	0
+québécoise	ke-be-kwaz	qué-bé-coi-se	ADJ	f	s	québécois	0.14	0.07
+quechua	ke-Su-a	que-chua	NOM	m	s		0.05	0
+quel	kEl	quel	ADJ:int	m	s		657.71	265.34
+quelconque	kEl-k§k	quel-con-que	ADJ		s		9.79	27.57
+quelconques	kEl-k§k	quel-con-ques	ADJ		p	quelconque	0.29	1.28
+quelle	kEl	quel-le	ADJ:int	f	s		512.55	244.39
+quelles	kEl	quel-les	ADJ:int	f	p		46.92	35.95
+quelqu'un	kEl-k1	quel-qu'un	PRO:ind		s		629	128.92
+quelqu'une	kEl-kyn	quel-qu'u-ne	PRO:ind	f	s		0.08	0.61
+quelque	kElk	quel-que	ADJ:ind		s		884.61	557.77
+quelque	kElk	quel-que	ADV				62.61	111.49
+quelquefois	kEl-k°-fwa	quel-que-fois	ADV				11.87	60.47
+quelques	kElk	quel-ques	ADJ:ind		p		337.35	732.57
+quelques-unes	kEl-k°-zyn	quelques-unes	PRO:ind	f	p		3.5	8.51
+quelques-uns	kEl-k°-z1	quelques-uns	PRO:ind	m	p		8.33	22.09
+quels	kEl	quels	ADJ:int	m	p		56.44	37.23
+quémanda	ke-m@-da	qué-man-da	VER			quémander	0	0.07
+quémandaient	ke-m@-dE	qué-man-daient	VER			quémander	0	0.27
+quémandait	ke-m@-dE	qué-man-dait	VER			quémander	0.01	0.2
+quémandant	ke-m@-d@	qué-man-dant	VER			quémander	0	0.47
+quémande	ke-m@d	qué-man-de	VER			quémander	0.03	0.14
+quémandé	ke-m@-de	qué-man-dé	VER	m	s	quémander	0.02	0.07
+quémandent	ke-m@d	qué-man-dent	VER			quémander	0.12	0.07
+quémander	ke-m@-de	qué-man-der	VER				0.41	1.42
+quémandeur	ke-m@-d9R	qué-man-deur	NOM	m	s		0.02	0.41
+quémandeurs	ke-m@-d9R	qué-man-deurs	NOM	m	p	quémandeur	0.3	0.27
+quémandeuse	ke-m@-d2z	qué-man-deu-se	NOM	f	s	quémandeur	0	0.07
+quémandeuses	ke-m@-d2z	qué-man-deu-ses	NOM	f	p	quémandeur	0	0.14
+quémandons	ke-m@-d§	qué-man-dons	VER			quémander	0.01	0
+quenelle	k°-nEl	que-nel-le	NOM	f	s		0.19	0
+quenelles	k°-nEl	que-nel-les	NOM	f	p	quenelle	0.16	0.74
+quenotte	k°-nOt	que-not-te	NOM	f	s		0	0.2
+quenottes	k°-nOt	que-not-tes	NOM	f	p	quenotte	0.18	0.54
+quenouille	k°-nuj	que-nouil-le	NOM	f	s		0.22	0.47
+quenouilles	k°-nuj	que-nouil-les	NOM	f	p	quenouille	0.01	0.27
+quéquette	ke-kEt	qué-quet-te	NOM	f	s		1.27	2.09
+quéquettes	ke-kEt	qué-quet-tes	NOM	f	p	quéquette	0.03	0.27
+querella	k°-RE-la	que-rel-la	VER			quereller	0	0.07
+querellaient	k°-RE-lE	que-rel-laient	VER			quereller	0.14	0.54
+querellais	k°-RE-lE	que-rel-lais	VER			quereller	0	0.07
+querellait	k°-RE-lE	que-rel-lait	VER			quereller	0.03	0.14
+querellant	k°-RE-l@	que-rel-lant	VER			quereller	0.01	0
+querelle	k°-REl	que-rel-le	NOM	f	s		10.63	6.42
+querelle	k°-REl	que-rel-le	VER			quereller	0.4	0.27
+querellé	k°-Re-le	que-rel-lé	VER	m	s	quereller	0.05	0.07
+querellée	k°-Re-le	que-rel-lée	VER	f	s	quereller	0.02	0.14
+querellées	k°-RE-le	que-rel-lées	VER	f	p	quereller	0.11	0
+querellent	k°-REl	que-rel-lent	VER			quereller	0.14	0.2
+quereller	k°-Re-le	que-rel-ler	VER				0.91	0.27
+querellèrent	k°-RE-lER	que-rel-lè-rent	VER			quereller	0	0.07
+querelles	k°-REl	que-rel-les	NOM	f	p	querelle	2.21	6.35
+querelles	k°-REl	que-rel-les	VER			quereller	0.01	0
+querellés	k°-Re-le	que-rel-lés	VER	m	p	quereller	0.07	0.34
+querelleur	k°-RE-l9R	que-rel-leur	ADJ	m	s		0.14	0.07
+querelleur	k°-RE-l9R	que-rel-leur	NOM	m	s		0	0.07
+querelleurs	k°-RE-l9R	que-rel-leurs	ADJ	m	p	querelleur	0.19	0.07
+querelleurs	k°-RE-l9R	que-rel-leurs	NOM	m	p	querelleur	0	0.07
+querelleuse	k°-RE-l2z	que-rel-leu-se	ADJ	f	s	querelleux	0.02	0
+querellez	k°-RE-le	que-rel-lez	VER			quereller	0.13	0
+querellons	k°-RE-l§	que-rel-lons	VER			quereller	0.14	0
+quérir	ke-RiR	qué-rir	VER				0.65	1.76
+questeur	k8Es-t9R		NOM	m	s		0.1	0
+questeurs	kEs-t9R	ques-teurs	NOM	m	p	questeur	0.03	0.07
+question	kEs-tj§	ques-tion	NOM	f	s		293.63	232.5
+question-clé	kEs-tj§-kle	question-clé	NOM	f	s		0.02	0
+question-réponse	kEs-tj§-Re-p§s	question-réponse	NOM	f	s		0.02	0
+questionna	kEs-tjo-na	ques-tion-na	VER			questionner	0.01	2.84
+questionnai	kEs-tjo-nE	ques-tion-nai	VER			questionner	0.01	0.47
+questionnaient	kEs-tjo-nE	ques-tion-naient	VER			questionner	0.02	0.47
+questionnaire	kEs-tjo-nER	ques-tion-nai-re	NOM	m	s		1.69	1.15
+questionnaires	kEs-tjo-nER	ques-tion-nai-res	NOM	m	p	questionnaire	0.36	0.68
+questionnais	kEs-tjo-nE	ques-tion-nais	VER			questionner	0.04	0.34
+questionnait	kEs-tjo-nE	ques-tion-nait	VER			questionner	0.23	1.35
+questionnant	kEs-tjo-n@	ques-tion-nant	VER			questionner	0.04	0.27
+questionnât	kEs-tjo-na	ques-tion-nât	VER			questionner	0	0.07
+questionne	kEs-tjOn	ques-tion-ne	VER			questionner	1.48	3.11
+questionné	kEs-tjo-ne	ques-tion-né	VER	m	s	questionner	0.98	1.42
+questionnée	kEs-tjo-ne	ques-tion-née	VER	f	s	questionner	0.16	0.41
+questionnement	kEs-tjO-n°-m@	ques-tion-ne-ment	NOM	m	s		0.32	0.07
+questionnements	kEs-tjO-n°-m@	ques-tion-ne-ments	NOM	m	p	questionnement	0.04	0.07
+questionnent	kEs-tjOn	ques-tion-nent	VER			questionner	0.08	0.41
+questionner	kEs-tjo-ne	ques-tion-ner	VER				2.66	3.51
+questionnera	kEs-tjO-n°-Ra	ques-tion-ne-ra	VER			questionner	0.08	0.07
+questionnerai	kEs-tjO-n°-RE	ques-tion-ne-rai	VER			questionner	0.02	0
+questionnerait	kEs-tjO-n°-RE	ques-tion-ne-rait	VER			questionner	0	0.14
+questionnèrent	kEs-tjo-nER	ques-tion-nè-rent	VER			questionner	0	0.14
+questionnerons	kEs-tjO-n°-R§	ques-tion-ne-rons	VER			questionner	0.01	0.07
+questionneront	kEs-tjO-n°-R§	ques-tion-ne-ront	VER			questionner	0.01	0
+questionnés	kEs-tjo-ne	ques-tion-nés	VER	m	p	questionner	0.12	0.47
+questionneur	kEs-tjo-n9R	ques-tion-neur	NOM	m	s		0.03	0.34
+questionneurs	kEs-tjo-n9R	ques-tion-neurs	NOM	m	p	questionneur	0	0.27
+questionneuse	kEs-tjo-n2z	ques-tion-neu-se	NOM	f	s	questionneur	0	0.2
+questionnez	kEs-tjo-ne	ques-tion-nez	VER			questionner	0.34	0.14
+questionnions	kEs-tjo-nj§	ques-tion-nions	VER			questionner	0	0.14
+questionnons	kEs-tjo-n§	ques-tion-nons	VER			questionner	0.01	0.07
+questions	kEs-tj§	ques-tions	NOM	f	p	question	118.19	95.95
+questions-réponses	kEs-tj§-Re-p§s	questions-réponses	NOM	f	p	question-réponse	0.07	0.07
+questure	kEs-tyR		NOM	f	s		0.1	0
+quêta	kE-ta	quê-ta	VER			quêter	0	0.2
+quêtai	kE-tE	quê-tai	VER			quêter	0	0.07
+quêtaient	kE-tE	quê-taient	VER			quêter	0	0.27
+quêtais	kE-tE	quê-tais	VER			quêter	0.01	0.2
+quêtait	kE-tE	quê-tait	VER			quêter	0	0.41
+quêtant	kE-t@	quê-tant	VER			quêter	0.01	0.88
+quête	kEt	quê-te	NOM	f	s		9.97	13.92
+quête	kEt	quê-te	VER			quêter	0.05	0.14
+quêté	ke-te	quê-té	VER	m	s	quêter	0	0.07
+quêtées	ke-te	quê-tées	VER	f	p	quêter	0	0.07
+quêtent	kEt	quê-tent	VER			quêter	0	0.14
+quêter	ke-te	quê-ter	VER				0.13	0.88
+quêtes	kEt	quê-tes	NOM	f	p	quête	0.28	0.61
+quêteur	kE-t9R	quê-teur	NOM	m	s		0.04	0.2
+quêteur	kE-t9R	quê-teur	ADJ	m	s		0	0.2
+quêteurs	kE-t9R	quê-teurs	NOM	m	p	quêteur	0	0.34
+quêteurs	kE-t9R	quê-teurs	ADJ	m	p	quêteur	0	0.14
+quêteuse	kE-t2z	quê-teu-se	NOM	f	s	quêteur	0	0.27
+quêtez	kE-te	quê-tez	VER			quêter	0	0.07
+quetsche	kwEtS	quet-sche	NOM	f	s		0	0.34
+quetsches	kwEtS	quet-sches	NOM	f	p	quetsche	0	0.41
+quette	kEt		NOM	f	s		0.01	0
+quetzal	kEt-zal		NOM	m	s		0.01	0
+queue	k2	queue	NOM	f	s		38.93	51.49
+queue-d'aronde	k2-da-R§d	queue-d'aronde	NOM	f	s		0	0.07
+queue-de-cheval	k2-d°-S°-val	queue-de-cheval	NOM	f	s		0.14	0
+queue-de-pie	k2-d°-pi	queue-de-pie	NOM	f	s		0.05	0.27
+queues	k2	queues	NOM	f	p	queue	2.66	6.35
+queues-d'aronde	k2-da-R§d	queues-d'aronde	NOM	f	p	queue-d'aronde	0	0.07
+queues-de-rat	k2-d°-Ra	queues-de-rat	NOM	f	p	queue-de-rat	0	0.07
+queursoir	k9R-swaR		NOM	m	s		0	0.07
+queutard	k2-taR	queu-tard	NOM	m	s		0.19	0
+queuté	k2-te	queu-té	VER	m	s	queuter	0	0.07
+queutée	k2-te	queu-tée	VER	f	s	queuter	0	0.07
+qui	ki	qui	PRO:rel				5344.98	7897.91
+qui	ki	qui	PRO:int				171.54	25.34
+qui-vive	ki-viv	qui-vive	NOM	m			0.47	1.15
+qui-vive	ki-viv	qui-vive	ONO				0	0.14
+quibus	k8i-bys		NOM	m			0	0.2
+quiche	kiS	qui-che	NOM	f	s		1.1	0.41
+quiches	kiS	qui-ches	NOM	f	p	quiche	0.11	0.27
+quichotte	ki-SOt	qui-chot-te	NOM	m	s		0	0.07
+quick	kik	qui-ck	NOM	m	s		0.27	0.2
+quiconque	ki-k§k	qui-con-que	PRO:rel		s		15.43	6.08
+quiconque	ki-k§k	qui-con-que	PRO:int				3.92	1.49
+quiconque	ki-k§k	qui-con-que	PRO:ind		s		3.46	1.55
+quidam	k8i-dam	qui-dam	NOM	m	s		0.66	1.89
+quidams	k8i-dam	qui-dam-s	NOM	m	p	quidam	0.04	0.34
+quiet	kjE	quiet	ADJ	m	s		0.28	0.07
+quiète	kjEt	quiè-te	ADJ	f	s	quiet	0	0.41
+quiètement	kjE-t°-m@	quiè-te-ment	ADV				0	0.14
+quiètes	kjEt	quiè-tes	ADJ	f	p	quiet	0.1	0.07
+quiétisme	kje-tizm	quié-tis-me	NOM	m	s		0	0.34
+quiétiste	kje-tist	quié-tis-te	NOM		s		0	0.07
+quiets	kjE	quiets	ADJ	m	p	quiet	0	0.2
+quiétude	kje-tyd	quié-tu-de	NOM	f	s		0.64	5.07
+quiétudes	kje-tyd	quié-tu-des	NOM	f	p	quiétude	0	0.07
+quignon	ki-N§	qui-gnon	NOM	m	s		0.11	2.16
+quignons	ki-N§	qui-gnons	NOM	m	p	quignon	0.14	0.27
+quillai	ki-jE	quil-lai	VER			quiller	0	0.2
+quillards	ki-jaR	quil-lard-s	NOM	m	p	quillard	0	0.34
+quille	kij	quil-le	NOM	f	s		1.49	2.57
+quillée	ki-je	quil-lée	VER	f	s	quiller	0	0.07
+quiller	ki-je		VER				0.05	0
+quilles	kij	quil-les	NOM	f	p	quille	1.4	3.24
+quillon	ki-j§	quil-lon	NOM	m	s		0	0.07
+quillons	ki-j§	quil-lons	NOM	m	p	quillon	0	0.14
+quimpe	k5p	quim-pe	VER			quimper	0	0.27
+quimpé	k5-pe	quim-pé	VER	m	s	quimper	0	0.14
+quimpent	k5p	quim-pent	VER			quimper	0	0.07
+quimper	k5-pe	quim-per	VER				0	0.68
+quincaille	k5-kaj	quin-cail-le	NOM	f	s		0	0.34
+quincaillerie	k5-ka-j°-Ri	quin-cail-le-rie	NOM	f	s		1.89	2.7
+quincailleries	k5-ka-j°-Ri	quin-cail-le-ries	NOM	f	p	quincaillerie	0.08	0.2
+quincaillier	k5-ka-je	quin-cail-lier	NOM	m	s		0.21	1.28
+quincaillière	k5-ka-jER	quin-cail-liè-re	NOM	f	s	quincaillier	0	0.14
+quincailliers	k5-ka-je	quin-cail-liers	NOM	m	p	quincaillier	0.09	0.07
+quinconce	k5-k§s	quin-con-ce	NOM	m	s		0	1.22
+quinconces	k5-k§s	quin-con-ces	NOM	m	p	quinconce	0.01	0.2
+quine	kin	qui-ne	NOM	m	s		0.23	0.34
+quinine	ki-nin	qui-ni-ne	NOM	f	s		0.54	0.95
+quinium	ki-njOm		NOM	m	s		0	0.07
+quinoa	ki-nO-a		NOM	m	s		0.01	0
+quinqua	k5-ka	quin-qua	NOM	m	s		0	0.2
+quinquagénaire	k5-ka-Ze-nER	quin-qua-gé-nai-re	NOM		s		0.13	1.08
+quinquagénaire	k5-ka-Ze-nER	quin-qua-gé-nai-re	ADJ		s		0.16	0.54
+quinquagénaires	k5-ka-Ze-nER	quin-qua-gé-nai-res	NOM		p	quinquagénaire	0.02	0.27
+quinquagénaires	k5-ka-Ze-nER	quin-qua-gé-nai-res	ADJ	m	p	quinquagénaire	0	0.14
+quinquagésime	k5-ka-Ze-zim	quin-qua-gé-si-me	NOM	f	s		0	0.07
+quinquennal	k5-ke-nal	quin-quen-nal	ADJ	m	s		0.26	0.34
+quinquennat	k85-ke-na		NOM	m	s		0.1	0
+quinquet	k5-kE	quin-quet	NOM	m	s		0.04	0.34
+quinquets	k5-kE	quin-quets	NOM	m	p	quinquet	0.21	1.96
+quinquina	k5-ki-na	quin-qui-na	NOM	m	s		0	0.54
+quint	k5	quint	ADJ				0.2	0.2
+quintaine	k5-tEn	quin-tai-ne	NOM	f	s		0	0.07
+quintal	k5-tal	quin-tal	NOM	m	s		0.19	0.68
+quintaux	k5-to	quin-taux	NOM	m	p	quintal	0.38	0.34
+quinte	k5t	quin-te	NOM	f	s		1.25	3.85
+quinté	k5-te		NOM	m	s		0.14	0
+quintes	k5t	quin-tes	NOM	f	p	quinte	0.16	1.01
+quintessence	k5-te-s@s	quin-tes-sen-ce	NOM	f	s		0.43	1.22
+quintessencié	k5-te-s@-sje	quin-tes-sen-cié	ADJ	m	s		0	0.27
+quintessencié	k5-te-s@-sje	quin-tes-sen-cié	VER	m	s	quintessencier	0	0.07
+quintessenciée	k5-te-s@-sje	quin-tes-sen-ciée	ADJ	f	s	quintessencié	0	0.07
+quintessenciées	k5-tE-s@-sje	quin-tes-sen-ciées	ADJ	f	p	quintessencié	0	0.07
+quintet	k5-tE	quin-tet	NOM	m	s		0.05	0
+quintette	k5-tEt	quin-tet-te	NOM	m	s		0.09	1.15
+quintettes	k5-tEt	quin-tet-tes	NOM	m	p	quintette	0	0.07
+quinteux	k5-t2	quin-teux	ADJ	m	s		0	0.2
+quintidi	k5-ti-di	quin-ti-di	NOM	m	s		0	0.07
+quinto	k5-to	quin-to	ADV				0.22	0
+quintolet	k85-tO-lE		NOM	m	s		0.02	0
+quinton	k85-t§		NOM	m	s		0.01	0
+quintupla	k5-ty-pla	quin-tu-pla	VER			quintupler	0	0.07
+quintuple	k5-typl	quin-tu-ple	ADJ		s		0.03	0.07
+quintuplé	k85-ty-ple		VER	m	s	quintupler	0.15	0
+quintuplées	k5-ty-ple	quin-tu-plées	NOM	f	p	quintuplée	0.08	0.14
+quintuplées	k5-ty-ple	quin-tu-plées	VER	f	p	quintupler	0.01	0.07
+quintuples	k5-typl	quin-tu-ples	ADJ	f	p	quintuple	0	0.14
+quintuplés	k5-ty-ple	quin-tu-plés	NOM	m	p	quintuplé	0.35	0.07
+quintuplés	k5-ty-ple	quin-tu-plés	VER	m	p	quintupler	0.03	0
+quinzaine	k5-zEn	quin-zai-ne	NOM	f	s		2.01	11.69
+quinzaines	k5-zEn	quin-zai-nes	NOM	f	p	quinzaine	0.01	0.2
+quinze	k5z	quin-ze	ADJ:num				21.92	94.8
+quinzième	k5-zjEm	quin-ziè-me	ADJ				0.09	2.03
+quinzième	k5-zjEm	quin-ziè-me	NOM		s		0.28	0.74
+quipos	ki-po	qui-pos	NOM	m	p	quipo	0	0.07
+quiproquo	ki-pRo-ko	qui-pro-quo	NOM	m	s		0.37	0.61
+quiproquos	ki-pRo-ko	qui-pro-quos	NOM	m	p	quiproquo	0.01	0.27
+quipu	ki-pu	qui-pu	NOM	m	s		0	0.07
+quiquette	ki-kEt		NOM	f	s		0	0.07
+quiqui	ki-ki		NOM	m	s		0	0.41
+quiscale	kis-kal		NOM	m	s		0.11	0
+quite	kwi-t2		NOM	m	s		0.47	0.07
+quitta	ki-ta	quit-ta	VER			quitter	1.82	27.3
+quittai	ki-tE	quit-tai	VER			quitter	0.23	6.62
+quittaient	ki-tE	quit-taient	VER			quitter	0.36	7.36
+quittais	ki-tE	quit-tais	VER			quitter	1.37	3.85
+quittait	ki-tE	quit-tait	VER			quitter	2.88	24.93
+quittâmes	ki-tam	quit-tâ-mes	VER			quitter	0.16	2.16
+quittance	ki-t@s	quit-tan-ce	NOM	f	s		0.4	0.54
+quittances	ki-t@s	quit-tan-ces	NOM	f	p	quittance	0.14	0.61
+quittant	ki-t@	quit-tant	VER			quitter	3.6	18.38
+quittas	ki-ta	quit-tas	VER			quitter	0	0.07
+quittassent	ki-tas	quit-tas-sent	VER			quitter	0	0.07
+quittât	ki-ta	quit-tât	VER			quitter	0.01	1.01
+quitte	kit	quit-te	VER			quitter	49.07	32.03
+quitte	kit	quit-te	ADJ				6.17	3.78
+quitté	ki-te	quit-té	VER	m	s	quitter	62.92	60.14
+quittée	ki-te	quit-tée	VER	f	s	quitter	7.4	8.85
+quittées	ki-te	quit-tées	VER	f	p	quitter	0.36	0.95
+quittent	kit	quit-tent	VER			quitter	4.39	5.47
+quitter	ki-te	quit-ter	VER				88.02	85.95
+quittera	ki-t°-Ra	quit-te-ra	VER			quitter	4.62	2.09
+quitterai	ki-t°-RE	quit-te-rai	VER			quitter	6.18	1.89
+quitteraient	ki-t°-RE	quit-te-raient	VER			quitter	0.02	1.08
+quitterais	ki-t°-RE	quit-te-rais	VER			quitter	1.73	1.01
+quitterait	ki-t°-RE	quit-te-rait	VER			quitter	0.78	2.57
+quitteras	ki-t°-Ra	quit-te-ras	VER			quitter	1.75	0.47
+quittèrent	ki-tER	quit-tè-rent	VER			quitter	0.38	6.69
+quitterez	ki-t°-Re	quit-te-rez	VER			quitter	1.11	0.41
+quitteriez	ki-t°-Rje	quit-te-riez	VER			quitter	0.34	0.07
+quitterions	ki-t°-Rj§	quit-te-rions	VER			quitter	0.02	0.07
+quitterons	ki-t°-R§	quit-te-rons	VER			quitter	0.63	0.47
+quitteront	ki-t°-R§	quit-te-ront	VER			quitter	0.4	0.41
+quittes	kit	quit-tes	VER			quitter	6.03	1.42
+quittes	kit	quit-tes	ADJ		p	quitte	4.87	1.28
+quittés	ki-te	quit-tés	VER	m	p	quitter	4.95	7.97
+quittez	ki-te	quit-tez	VER			quitter	19.72	1.96
+quittiez	ki-tje	quit-tiez	VER			quitter	1.19	0.27
+quittions	ki-tj§	quit-tions	VER			quitter	0.39	2.77
+quittons	ki-t§	quit-tons	VER			quitter	3.44	1.96
+quitus	ki-tys	qui-tus	NOM	m			0.14	0.07
+quiz	kiz	quiz	NOM	m			0.53	0
+quoaillant	kO-a-j@		VER			quoailler	0	0.07
+quoi	kwa	quoi	ADJ	m	s		1558.22	210.88
+quoi	kwa	quoi	PRO:rel				904.12	376.89
+quoi	kwa	quoi	PRO:int				18.91	3.18
+quoi	kwa	quoi	ONO				0.73	1.62
+quoique	kwa-k°	quoi-que	CON				11.68	19.05
+quoique	kwa-k°	quoi-que	ADV				1.17	9.46
+quolibet	ko-li-bE	quo-li-bet	NOM	m	s		0	0.14
+quolibets	ko-li-bE	quo-li-bets	NOM	m	p	quolibet	0.04	2.77
+quorum	ko-ROm	quo-rum	NOM	m	s		0.67	0.2
+quota	ko-ta	quo-ta	NOM	m	s		1.39	0.27
+quotas	ko-ta	quo-tas	NOM	m	p	quota	0.73	0.2
+quote-part	kot-paR	quote-part	NOM	f	s		0.03	0.47
+quotidien	ko-ti-dj5	quo-ti-dien	ADJ	m	s		3.66	10.47
+quotidien	ko-ti-dj5	quo-ti-dien	NOM	m	s		2.95	7.36
+quotidienne	ko-ti-djEn	quo-ti-dien-ne	ADJ	f	s	quotidien	3.91	17.3
+quotidiennement	ko-ti-djE-n°-m@	quo-ti-dien-ne-ment	ADV				0.97	4.8
+quotidiennes	ko-ti-djEn	quo-ti-dien-nes	ADJ	f	p	quotidien	1.29	4.8
+quotidienneté	ko-ti-djE-n°-te	quo-ti-dien-ne-té	NOM	f	s		0	0.14
+quotidiens	ko-ti-dj5	quo-ti-diens	ADJ	m	p	quotidien	1.3	4.86
+quotidiens	ko-ti-dj5	quo-ti-diens	NOM	m	p	quotidien	0.2	1.49
+quotient	ko-sj@	quo-tient	NOM	m	s		0.42	0.47
+quotients	ko-sj@	quo-tients	NOM	m	p	quotient	0	0.14
+quotité	ko-ti-te	quo-ti-té	NOM	f	s		0	0.07

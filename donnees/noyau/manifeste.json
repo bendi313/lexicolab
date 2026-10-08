@@ -1,0 +1,562 @@
+{
+ "source": {
+  "nom": "Lexique 3.83",
+  "adresse": "http://www.lexique.org/databases/Lexique383/Lexique383.zip",
+  "licence": "CC BY-SA 4.0",
+  "telecharge_le": "2026-10-08",
+  "octets": 25850780,
+  "sha256": "637ba37a767a66679c48371d673ece50cbf541b49a4e40e598963d4f3fbce52b",
+  "citation": "New, B., Pallier, C., Brysbaert, M., Ferrand, L. (2004). Lexique 2 : A new French lexical database. Behavior Research Methods, Instruments, & Computers, 36(3), 516-524."
+ },
+ "genere_le": "2026-10-08",
+ "lignes": 142694,
+ "formes": 125653,
+ "lemmes": 46947,
+ "index": {
+  "octets": 2059559,
+  "compresse": 633167
+ },
+ "criteres": {
+  "octets": 1931340,
+  "compresse": 460132
+ },
+ "paquets": {
+  "a": {
+   "lignes": 12193,
+   "octets": 676492,
+   "compresse": 153833
+  },
+  "b": {
+   "lignes": 7133,
+   "octets": 360096,
+   "compresse": 87666
+  },
+  "c": {
+   "lignes": 15693,
+   "octets": 859075,
+   "compresse": 196798
+  },
+  "d": {
+   "lignes": 11935,
+   "octets": 695819,
+   "compresse": 147101
+  },
+  "e": {
+   "lignes": 12701,
+   "octets": 726986,
+   "compresse": 155387
+  },
+  "f": {
+   "lignes": 5890,
+   "octets": 301346,
+   "compresse": 72444
+  },
+  "g": {
+   "lignes": 4593,
+   "octets": 232130,
+   "compresse": 56821
+  },
+  "h": {
+   "lignes": 2634,
+   "octets": 137632,
+   "compresse": 34352
+  },
+  "i": {
+   "lignes": 6144,
+   "octets": 366506,
+   "compresse": 79852
+  },
+  "j": {
+   "lignes": 1172,
+   "octets": 56666,
+   "compresse": 14886
+  },
+  "k": {
+   "lignes": 333,
+   "octets": 14723,
+   "compresse": 4537
+  },
+  "l": {
+   "lignes": 3296,
+   "octets": 160878,
+   "compresse": 41592
+  },
+  "m": {
+   "lignes": 7710,
+   "octets": 408036,
+   "compresse": 99053
+  },
+  "n": {
+   "lignes": 2163,
+   "octets": 110631,
+   "compresse": 27600
+  },
+  "o": {
+   "lignes": 2581,
+   "octets": 135218,
+   "compresse": 33012
+  },
+  "p": {
+   "lignes": 12616,
+   "octets": 684641,
+   "compresse": 161645
+  },
+  "q": {
+   "lignes": 582,
+   "octets": 32144,
+   "compresse": 8279
+  },
+  "r": {
+   "lignes": 12824,
+   "octets": 725441,
+   "compresse": 158570
+  },
+  "s": {
+   "lignes": 9452,
+   "octets": 507824,
+   "compresse": 121758
+  },
+  "t": {
+   "lignes": 6759,
+   "octets": 356740,
+   "compresse": 85382
+  },
+  "u": {
+   "lignes": 489,
+   "octets": 25183,
+   "compresse": 6702
+  },
+  "v": {
+   "lignes": 3326,
+   "octets": 168027,
+   "compresse": 42318
+  },
+  "w": {
+   "lignes": 100,
+   "octets": 4859,
+   "compresse": 1627
+  },
+  "x": {
+   "lignes": 23,
+   "octets": 1112,
+   "compresse": 448
+  },
+  "y": {
+   "lignes": 92,
+   "octets": 3724,
+   "compresse": 1356
+  },
+  "z": {
+   "lignes": 260,
+   "octets": 11767,
+   "compresse": 3353
+  }
+ },
+ "wiktionnaire": {
+  "nom": "Wiktionnaire français (extrait structuré kaikki.org)",
+  "adresse": "https://kaikki.org/dictionary/downloads/fr/fr-extract.jsonl.gz",
+  "licence": "CC BY-SA 4.0",
+  "version_du": "Sat, 03 Oct 2026 08:27:07 GMT",
+  "telecharge_le": "2026-10-08",
+  "octets": 736590407,
+  "sha256": "f3fc5417d1759188ecfd74df90cbf231b28306b150970ea89614cb8cb4668f32",
+  "genere_le": "2026-10-08",
+  "mots": 45412,
+  "sens": 133086,
+  "lemmes_definis": 41107,
+  "lemmes": 46947,
+  "mots_du_jour": 17094,
+  "paquets": {
+   "a": {
+    "mots": 3615,
+    "octets": 916815,
+    "compresse": 272115
+   },
+   "b": {
+    "mots": 2556,
+    "octets": 723855,
+    "compresse": 222695
+   },
+   "c": {
+    "mots": 5319,
+    "octets": 1515722,
+    "compresse": 458745
+   },
+   "d": {
+    "mots": 3071,
+    "octets": 755533,
+    "compresse": 221547
+   },
+   "e": {
+    "mots": 2963,
+    "octets": 720615,
+    "compresse": 210227
+   },
+   "f": {
+    "mots": 1910,
+    "octets": 523390,
+    "compresse": 157809
+   },
+   "g": {
+    "mots": 1668,
+    "octets": 447593,
+    "compresse": 138406
+   },
+   "h": {
+    "mots": 1076,
+    "octets": 276504,
+    "compresse": 84927
+   },
+   "i": {
+    "mots": 2098,
+    "octets": 455980,
+    "compresse": 122407
+   },
+   "j": {
+    "mots": 399,
+    "octets": 110971,
+    "compresse": 35287
+   },
+   "k": {
+    "mots": 201,
+    "octets": 41928,
+    "compresse": 14342
+   },
+   "l": {
+    "mots": 1238,
+    "octets": 347074,
+    "compresse": 107266
+   },
+   "m": {
+    "mots": 2812,
+    "octets": 755220,
+    "compresse": 227634
+   },
+   "n": {
+    "mots": 813,
+    "octets": 207577,
+    "compresse": 62887
+   },
+   "o": {
+    "mots": 872,
+    "octets": 218774,
+    "compresse": 66794
+   },
+   "p": {
+    "mots": 4369,
+    "octets": 1188588,
+    "compresse": 357980
+   },
+   "q": {
+    "mots": 253,
+    "octets": 78766,
+    "compresse": 22409
+   },
+   "r": {
+    "mots": 3004,
+    "octets": 734274,
+    "compresse": 214835
+   },
+   "s": {
+    "mots": 3267,
+    "octets": 841102,
+    "compresse": 253106
+   },
+   "t": {
+    "mots": 2331,
+    "octets": 623354,
+    "compresse": 190545
+   },
+   "u": {
+    "mots": 194,
+    "octets": 43131,
+    "compresse": 13508
+   },
+   "v": {
+    "mots": 1136,
+    "octets": 297396,
+    "compresse": 88990
+   },
+   "w": {
+    "mots": 57,
+    "octets": 10005,
+    "compresse": 3692
+   },
+   "x": {
+    "mots": 16,
+    "octets": 3486,
+    "compresse": 1482
+   },
+   "y": {
+    "mots": 54,
+    "octets": 12078,
+    "compresse": 4407
+   },
+   "z": {
+    "mots": 120,
+    "octets": 26956,
+    "compresse": 9289
+   }
+  }
+ },
+ "origines": {
+  "genere_le": "2026-10-08",
+  "mots": 41259,
+  "lemmes_avec_texte": 37743,
+  "lemmes_avec_origine": 33642,
+  "lemmes": 42498,
+  "par_langue": {
+   "formation française": 17283,
+   "latin": 9867,
+   "(texte sans origine repérée)": 4101,
+   "anglais": 1517,
+   "ancien français": 1017,
+   "grec": 919,
+   "italien": 729,
+   "espagnol": 331,
+   "occitan": 300,
+   "allemand": 281,
+   "arabe": 196,
+   "francique": 188,
+   "onomatopée": 153,
+   "néerlandais": 103,
+   "russe": 81,
+   "japonais": 76,
+   "portugais": 68,
+   "turc": 50,
+   "gaulois": 50,
+   "norrois": 33,
+   "sanskrit": 33,
+   "breton": 23,
+   "hébreu": 23,
+   "persan": 23,
+   "chinois": 18,
+   "germanique": 16,
+   "normand": 16,
+   "picard": 14,
+   "wallon": 14,
+   "hindi": 12,
+   "hongrois": 12,
+   "norvégien": 11,
+   "malais": 11,
+   "francoprovençal": 9,
+   "catalan": 8,
+   "romani": 8,
+   "vénitien": 8,
+   "suédois": 8,
+   "polonais": 8,
+   "tupi": 7,
+   "tamoul": 6,
+   "indo-européen": 5,
+   "basque": 5,
+   "tchèque": 5,
+   "créole": 5,
+   "afrikaans": 5,
+   "roumain": 4,
+   "maori": 4,
+   "danois": 4,
+   "croate": 4,
+   "vietnamien": 4,
+   "indonésien": 3,
+   "corse": 3,
+   "mongol": 3,
+   "wolof": 3,
+   "égyptien": 3,
+   "islandais": 3,
+   "tibétain": 3,
+   "savoyard": 3,
+   "nahuatl": 3,
+   "serbe": 3,
+   "tahitien": 2,
+   "thaï": 2,
+   "inuktitut": 2,
+   "hawaïen": 2,
+   "celtique": 2,
+   "malgache": 2,
+   "algonquin": 2,
+   "lombard": 2,
+   "caraïbe": 1,
+   "swahili": 1,
+   "bourguignon": 1,
+   "gallois": 1,
+   "lyonnais": 1,
+   "piémontais": 1,
+   "irlandais": 1,
+   "coréen": 1,
+   "finnois": 1,
+   "ukrainien": 1,
+   "quechua": 1,
+   "slave": 1,
+   "bulgare": 1,
+   "syriaque": 1,
+   "akkadien": 1,
+   "napolitain": 1,
+   "bengali": 1,
+   "araméen": 1,
+   "taïno": 1,
+   "yiddish": 1,
+   "gaélique": 1
+  },
+  "paquets": {
+   "a": {
+    "mots": 3240,
+    "octets": 524794,
+    "compresse": 128544
+   },
+   "b": {
+    "mots": 2299,
+    "octets": 413677,
+    "compresse": 112802
+   },
+   "c": {
+    "mots": 4846,
+    "octets": 852818,
+    "compresse": 216342
+   },
+   "d": {
+    "mots": 2789,
+    "octets": 429917,
+    "compresse": 92713
+   },
+   "e": {
+    "mots": 2625,
+    "octets": 428880,
+    "compresse": 98806
+   },
+   "f": {
+    "mots": 1736,
+    "octets": 290533,
+    "compresse": 72375
+   },
+   "g": {
+    "mots": 1509,
+    "octets": 271259,
+    "compresse": 73362
+   },
+   "h": {
+    "mots": 986,
+    "octets": 178117,
+    "compresse": 46480
+   },
+   "i": {
+    "mots": 1968,
+    "octets": 298024,
+    "compresse": 58358
+   },
+   "j": {
+    "mots": 364,
+    "octets": 61723,
+    "compresse": 17757
+   },
+   "k": {
+    "mots": 175,
+    "octets": 29580,
+    "compresse": 10357
+   },
+   "l": {
+    "mots": 1144,
+    "octets": 196552,
+    "compresse": 52895
+   },
+   "m": {
+    "mots": 2532,
+    "octets": 446207,
+    "compresse": 115577
+   },
+   "n": {
+    "mots": 743,
+    "octets": 128660,
+    "compresse": 33772
+   },
+   "o": {
+    "mots": 813,
+    "octets": 133662,
+    "compresse": 34557
+   },
+   "p": {
+    "mots": 4001,
+    "octets": 682728,
+    "compresse": 168702
+   },
+   "q": {
+    "mots": 238,
+    "octets": 38734,
+    "compresse": 9600
+   },
+   "r": {
+    "mots": 2697,
+    "octets": 412969,
+    "compresse": 89903
+   },
+   "s": {
+    "mots": 2994,
+    "octets": 499283,
+    "compresse": 123116
+   },
+   "t": {
+    "mots": 2105,
+    "octets": 358772,
+    "compresse": 91013
+   },
+   "u": {
+    "mots": 183,
+    "octets": 29726,
+    "compresse": 7788
+   },
+   "v": {
+    "mots": 1056,
+    "octets": 171772,
+    "compresse": 42225
+   },
+   "w": {
+    "mots": 50,
+    "octets": 7115,
+    "compresse": 2193
+   },
+   "x": {
+    "mots": 12,
+    "octets": 2131,
+    "compresse": 880
+   },
+   "y": {
+    "mots": 49,
+    "octets": 7523,
+    "compresse": 2959
+   },
+   "z": {
+    "mots": 105,
+    "octets": 17634,
+    "compresse": 6315
+   }
+  }
+ },
+ "sens": {
+  "nom": "Vecteurs de mots fastText français (Common Crawl et Wikipédia)",
+  "adresse": "https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz",
+  "licence": "CC BY-SA 3.0",
+  "version_du": "Fri, 18 Jan 2019 15:30:22 GMT",
+  "telecharge_le": "2026-10-08",
+  "octets": 1287757366,
+  "sha256": "ab0dca4ef2a8a38d97ca119b491c701c57e17178cfc2f032f3de973e86fe87aa",
+  "genere_le": "2026-10-08",
+  "mots": 30000,
+  "dimensions": 50,
+  "candidats": 39912,
+  "trouves": 37610,
+  "information_gardee": 0.448,
+  "citation": "E. Grave, P. Bojanowski, P. Gupta, A. Joulin, T. Mikolov (2018). Learning Word Vectors for 157 Languages."
+ },
+ "registres": {
+  "genere_le": "2026-10-08",
+  "mots": 2389,
+  "avec_equivalent": 1086,
+  "par_mention": {
+   "familier": 1345,
+   "argot": 458,
+   "populaire": 301,
+   "littéraire": 134,
+   "vulgaire": 93,
+   "soutenu": 58
+  }
+ }
+}

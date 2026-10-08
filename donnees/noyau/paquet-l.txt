@@ -1,0 +1,3296 @@
+l	l	l	ART:def		s		78.26	3.92
+l	l	l	PRO:per		s		26.37	2.84
+l	l	l	NOM	m	s		4.94	0.14
+l	l	l	ADJ:num		s		2.55	0.68
+l'	l		ART:def	m	s		8129.41	12746.76
+l'	l		PRO:per		s		3260.83	2575.41
+l'	l		LIA				0	412.57
+l'	l		NOM	m		l	0.5	0.41
+l'un	l1	l'un	PRO:ind				127.72	208.92
+l'une	lyn	l'u-ne	PRO:ind	f			36.12	93.58
+l'une	lyn	l'u-ne	ADV				0.01	0.07
+l-dopa	El-do-pa	l-dopa	NOM	f	s		0.05	0
+la	la	la	ART:def	f	s		14946.48	23633.92
+la	la	la	PRO:per	f	s		1077.98	1242.64
+la	la	la	NOM		s		3.62	0.74
+là	la	là	ADV				2096.53	1089.66
+là	la	là	ONO				38.53	4.26
+la plata	la-pla-ta	la pla-ta	NOM		s		0.01	0.14
+la plupart	la-ply-paR	la plu-part	PRO:ind		p		14.72	23.24
+la plupart de	la-ply-paR-d2	la plu-part de	ADJ:ind				3.94	7.3
+la plupart des	la-ply-paR-dE	la plu-part des	ADJ:ind				23.41	29.26
+la plupart du	la-ply-paR-dy	la plu-part du	ADJ:ind				5.07	7.91
+là-bas	la-ba	là-bas	ADV				263.15	117.7
+là-dedans	la-d°-d@	là-dedans	ADV				74	23.58
+là-dehors	la-d2-OR	là-dehors	ADV				1.3	0
+là-derrière	la-dE-RjER	là-derrière	ADV				1.14	0.14
+là-dessous	la-d°-su	là-dessous	ADV				7.12	4.32
+là-dessus	la-d°-sy	là-dessus	ADV				30.89	32.5
+là-devant	la-d°-v@	là-devant	ADV				0	0.14
+là-haut	la-o	là-haut	ADV				67.78	42.7
+la-la-la	la-la-la	la-la-la	ART:def	f	s		0.14	0.07
+labbe	lab	lab-be	NOM	m	s		0	0.07
+labbes	lab	lab-bes	NOM	m	p	labbe	0	0.07
+label	la-bEl	la-bel	NOM	m	s		1.3	0.47
+labelle	la-bEl		NOM	m	s		0.09	0
+labels	la-bEl	la-bels	NOM	m	p	label	0.29	0.07
+labeur	la-b9R	la-beur	NOM	m	s		3.71	8.85
+labeurs	la-b9R	la-beurs	NOM	m	p	labeur	0.03	0.95
+labial	la-bjal	la-bial	ADJ	m	s		0	0.27
+labiale	la-bjal		ADJ	f	s	labial	0.02	0
+labiales	la-bjal	la-bia-les	ADJ	f	p	labial	0	0.07
+labialisant	la-bja-li-z@	la-bia-li-sant	VER			labialiser	0	0.07
+labiaux	la-bjo	la-biaux	ADJ	m	p	labial	0	0.07
+labile	la-bil	la-bi-le	ADJ		s		0.01	0.27
+labo	la-bo	la-bo	NOM	m	s		28.36	1.22
+laborantin	la-bo-R@-t5	la-bo-ran-tin	NOM	m	s		0.09	0.07
+laborantine	la-bo-R@-tin	la-bo-ran-ti-ne	NOM	f	s	laborantin	0.02	0.07
+laborantins	la-bo-R@-t5	la-bo-ran-tins	NOM	m	p	laborantin	0.01	0.14
+laboratoire	la-bo-Ra-twaR	la-bo-ra-toi-re	NOM	m	s		13.24	12.91
+laboratoires	la-bo-Ra-twaR	la-bo-ra-toi-res	NOM	m	p	laboratoire	1.51	1.08
+laborieuse	la-bo-Rj2z	la-bo-rieu-se	ADJ	f	s	laborieux	0.34	1.96
+laborieusement	la-bo-Rj2-z°-m@	la-bo-rieu-se-ment	ADV				0.02	1.62
+laborieuses	la-bo-Rj2z	la-bo-rieu-ses	ADJ	f	p	laborieux	0.28	1.89
+laborieux	la-bo-Rj2	la-bo-rieux	ADJ	m			0.6	3.31
+labos	la-bo	la-bos	NOM	m	p	labo	1.6	0.2
+labour	la-buR	la-bour	NOM	m	s		0.39	2.64
+laboura	la-bu-Ra	la-bou-ra	VER			labourer	0	0.07
+labourable	la-bu-Rabl		ADJ		s		0.01	0
+labourage	la-bu-RaZ	la-bou-ra-ge	NOM	m	s		0.14	0.41
+labouraient	la-bu-RE	la-bou-raient	VER			labourer	0.01	0.41
+labourais	la-bu-RE	la-bou-rais	VER			labourer	0.03	0
+labourait	la-bu-RE	la-bou-rait	VER			labourer	0.14	0.61
+labourant	la-bu-R@	la-bou-rant	VER			labourer	0.03	0.54
+laboure	la-buR	la-bou-re	VER			labourer	0.27	0.68
+labouré	la-bu-Re	la-bou-ré	VER	m	s	labourer	0.47	1.15
+labourée	la-bu-Re	la-bou-rée	VER	f	s	labourer	0.02	1.08
+labourées	la-bu-Re	la-bou-rées	VER	f	p	labourer	0.02	0.47
+labourent	la-buR	la-bou-rent	VER			labourer	0.13	0.2
+labourer	la-bu-Re	la-bou-rer	VER				1.41	1.22
+labourerait	la-bu-R°-RE	la-bou-re-rait	VER			labourer	0.01	0.07
+labourés	la-bu-Re	la-bou-rés	VER	m	p	labourer	0.01	0.54
+laboureur	la-bu-R9R	la-bou-reur	NOM	m	s		0.17	1.42
+laboureurs	la-bu-R9R	la-bou-reurs	NOM	m	p	laboureur	0.02	1.01
+labours	la-buR	la-bours	NOM	m	p	labour	0.28	3.99
+labrador	la-bRa-dOR	la-bra-dor	NOM	m	s		0.3	0.27
+labradors	la-bRa-dOR	la-bra-dors	NOM	m	p	labrador	0.06	0.07
+labre	labR	la-bre	NOM	m	s		0	0.07
+labres	labR	la-bres	NOM	m	p	labre	0	0.14
+labri	la-bRi	la-bri	NOM	m	s		0.01	0
+labris	la-bRi	la-bris	NOM	m	p	labri	0.01	0
+labyrinthe	la-bi-R5t	la-by-rin-the	NOM	m	s		4.9	7.03
+labyrinthes	la-bi-R5t	la-by-rin-thes	NOM	m	p	labyrinthe	0.15	1.28
+labyrinthique	la-bi-R5-tik	la-by-rin-thi-que	ADJ		s		0.02	0.2
+labyrinthiques	la-bi-R5-tik	la-by-rin-thi-ques	ADJ		p	labyrinthique	0.03	0.07
+lac	lak	lac	NOM	m	s		31.16	32.84
+laça	la-sa	la-ça	VER			lacer	0	0.2
+laçage	la-saZ	la-ça-ge	NOM	m	s		0.03	0.41
+laçais	la-sE	la-çais	VER			lacer	0.01	0
+laçait	la-sE	la-çait	VER			lacer	0.01	0.14
+lacandon	la-k@-d§	la-can-don	ADJ		s		0	0.07
+lacanien	la-ka-nj5	la-ca-nien	ADJ	m	s		0.01	0.07
+lacanien	la-ka-nj5	la-ca-nien	NOM	m	s		0	0.07
+lacaniens	la-ka-nj5	la-ca-niens	NOM	m	p	lacanien	0	0.07
+laçant	la-s@	la-çant	VER			lacer	0.01	0.14
+lace	las	la-ce	VER			lacer	0.15	0.14
+lacé	la-se	la-cé	VER	m	s	lacer	0.04	0.07
+lacédémoniens	la-se-de-mo-nj5	la-cé-dé-mo-niens	NOM	m	p	lacédémonien	0	0.07
+lacée	la-se	la-cée	VER	f	s	lacer	0	0.07
+lacées	la-se	la-cées	VER	f	p	lacer	0.02	0.54
+lacent	las	la-cent	VER			lacer	0	0.07
+lacer	la-se	la-cer	VER				0.56	0.68
+lacéra	la-se-Ra	la-cé-ra	VER			lacérer	0	0.2
+lacéraient	la-se-RE	la-cé-raient	VER			lacérer	0	0.14
+lacérait	la-se-RE	la-cé-rait	VER			lacérer	0	0.14
+lacérant	la-se-R@	la-cé-rant	VER			lacérer	0.15	0.41
+lacération	la-se-Ra-sj§	la-cé-ra-tion	NOM	f	s		1	0
+lacérations	la-se-Ra-sj§	la-cé-ra-tions	NOM	f	p	lacération	0.64	0
+lacère	la-sER	la-cè-re	VER			lacérer	0.18	0.54
+lacéré	la-se-Re	la-cé-ré	VER	m	s	lacérer	0.26	0.68
+lacéré	la-se-Re	la-cé-ré	ADJ	m	s		0.04	0.41
+lacérée	la-se-Re	la-cé-rée	VER	f	s	lacérer	0.04	0.34
+lacérée	la-se-Re	la-cé-rée	ADJ	f	s	lacéré	0.01	0.2
+lacérées	la-se-Re	la-cé-rées	ADJ	f	p	lacéré	0.02	0.34
+lacérées	la-se-Re	la-cé-rées	VER	f	p	lacérer	0.01	0.07
+lacèrent	la-sER	la-cè-rent	VER			lacérer	0.14	0.2
+lacérer	la-se-Re	la-cé-rer	VER				0.34	1.01
+lacérés	la-se-Re	la-cé-rés	VER	m	p	lacérer	0.26	0.27
+lacérés	la-se-Re	la-cé-rés	ADJ	m	p	lacéré	0.02	0.27
+lacérions	la-se-Rj§	la-cé-rions	VER			lacérer	0	0.07
+lacés	la-se	la-cés	VER	m	p	lacer	0	0.2
+lacet	la-sE	la-cet	NOM	m	s		0.83	5.27
+lacets	la-sE	la-cets	NOM	m	p	lacet	3.57	8.51
+lâcha	la-Sa	lâ-cha	VER			lâcher	0.03	12.7
+lâchage	la-SaZ	lâ-cha-ge	NOM	m	s		0.02	0.2
+lâchai	la-SE	lâ-chai	VER			lâcher	0.03	0.95
+lâchaient	la-SE	lâ-chaient	VER			lâcher	0.09	1.49
+lâchais	la-SE	lâ-chais	VER			lâcher	0.2	0.81
+lâchait	la-SE	lâ-chait	VER			lâcher	1.08	5.68
+lâchant	la-S@	lâ-chant	VER			lâcher	0.25	4.59
+lâchât	la-Sa	lâ-chât	VER			lâcher	0	0.27
+lâche	laS	lâ-che	VER			lâcher	75.31	14.05
+lâche	laS	lâ-che	ADJ		s		24.65	12.7
+lâche	laS	lâ-che	NOM		s		19.51	3.24
+lâché	la-Se	lâ-ché	VER	m	s	lâcher	11.35	14.8
+lâché	la-Se	lâ-ché	ADJ	m	s		0.39	0.34
+lâchée	la-Se	lâ-chée	VER	f	s	lâcher	1.07	1.69
+lâchée	la-Se	lâ-chée	ADJ	f	s	lâché	0.03	0.41
+lâchées	la-Se	lâ-chées	VER	f	p	lâcher	0.21	0.81
+lâchées	la-Se	lâ-chées	ADJ	f	p	lâché	0.02	0.07
+lâchement	la-S°-m@	lâ-che-ment	ADV				1.07	2.97
+lâchent	laS	lâ-chent	VER			lâcher	2.52	2.5
+lâcher	la-Se	lâ-cher	VER				19.41	20.41
+lâcher	la-Se	lâ-cher	NOM	m	s		0.94	0.81
+lâchera	la-S°-Ra	lâ-che-ra	VER			lâcher	1.24	1.35
+lâcherai	la-S°-RE	lâ-che-rai	VER			lâcher	2.86	0.47
+lâcheraient	la-S°-RE	lâ-che-raient	VER			lâcher	0.05	0.07
+lâcherais	la-S°-RE	lâ-che-rais	VER			lâcher	0.32	0.07
+lâcherait	la-S°-RE	lâ-che-rait	VER			lâcher	0.35	0.81
+lâcheras	la-S°-Ra	lâ-che-ras	VER			lâcher	0.35	0.07
+lâchèrent	la-SER	lâ-chè-rent	VER			lâcher	0.01	0.88
+lâcherez	la-S°-Re	lâ-che-rez	VER			lâcher	0.11	0.14
+lâcheriez	la-S°-Rje	lâ-che-riez	VER			lâcher	0.02	0.07
+lâcherons	la-S°-R§	lâ-che-rons	VER			lâcher	0.08	0.07
+lâcheront	la-S°-R§	lâ-che-ront	VER			lâcher	0.69	0.34
+lâchers	la-Se	lâ-chers	NOM	m	p	lâcher	0.01	0.07
+lâches	laS	lâ-ches	NOM		p	lâche	7.65	2.57
+lâches	laS	lâ-ches	ADJ		p	lâche	2.02	3.38
+lâches	laS	lâ-ches	VER			lâcher	4.05	0.27
+lâchés	la-Se	lâ-chés	VER	m	p	lâcher	1.05	1.42
+lâchés	la-Se	lâ-chés	ADJ	m	p	lâché	0.17	0.41
+lâcheté	la-S°-te	lâ-che-té	NOM	f	s		3.91	9.12
+lâchetés	la-S°-te	lâ-che-tés	NOM	f	p	lâcheté	0.26	0.88
+lâcheur	la-S9R	lâ-cheur	NOM	m	s		0.3	0.47
+lâcheurs	la-S9R	lâ-cheurs	NOM	m	p	lâcheur	0.25	0.14
+lâcheuse	la-S2z	lâ-cheu-se	NOM	f	s	lâcheur	0.13	0.2
+lâchez	la-Se	lâ-chez	VER			lâcher	48.02	2.09
+lâchiez	la-Sje	lâ-chiez	VER			lâcher	0.13	0
+lâchions	la-Sj§	lâ-chions	VER			lâcher	0.03	0.07
+lâchons	la-S§	lâ-chons	VER			lâcher	0.17	0.27
+lacis	la-si	la-cis	NOM	m			0	1.89
+lack	lak		NOM	m	s		0.16	0
+laconique	la-ko-nik	la-co-ni-que	ADJ		s		0.06	1.55
+laconiquement	la-ko-ni-k°-m@	la-co-ni-que-ment	ADV				0.01	0.61
+laconiques	la-ko-nik	la-co-ni-ques	ADJ		p	laconique	0.02	0.88
+laconisme	la-ko-nizm	la-co-nis-me	NOM	m	s		0.01	0.47
+lacrima-christi	la-kRi-ma-kRis-ti	lacrima-christi	NOM	m			0	0.07
+lacryma christi	la-kRi-ma-kRis-ti	la-cry-ma ch-ris-ti	NOM	m	s	lacryma-christi	0	0.14
+lacryma-christi	la-kRi-ma-kRis-ti	lacryma-christi	NOM	m	s		0	0.2
+lacrymal	la-kRi-mal	la-cry-mal	ADJ	m	s		0.03	0.14
+lacrymale	la-kRi-mal	la-cry-ma-le	ADJ	f	s	lacrymal	0	0.07
+lacrymales	la-kRi-mal	la-cry-ma-les	ADJ	f	p	lacrymal	0.25	0.47
+lacrymaux	la-kRi-mo	la-cry-maux	ADJ	m	p	lacrymal	0.14	0
+lacrymogène	la-kRi-mo-ZEn	la-cry-mo-gè-ne	ADJ		s		0.54	0.41
+lacrymogènes	la-kRi-mo-ZEn	la-cry-mo-gè-nes	ADJ		p	lacrymogène	0.69	0.41
+lacs	lak	lacs	NOM	m			3.6	8.58
+lactaires	lak-tER	lac-tai-res	NOM	m	p	lactaire	0	0.2
+lactate	lak-tat	lac-ta-te	NOM	m	s		0.06	0
+lactation	lak-ta-sj§		NOM	f	s		0.05	0
+lacté	lak-te	lac-té	ADJ	m	s		0.1	0.2
+lactée	lak-te	lac-tée	ADJ	f	s	lacté	0.75	1.42
+lactés	lak-te	lac-tés	ADJ	m	p	lacté	0	0.07
+lactescent	lak-tE-s@	lac-tes-cent	ADJ	m	s		0	0.07
+lactescente	lak-tE-s@t	lac-tes-cen-te	ADJ	f	s	lactescent	0	0.07
+lactifère	lak-ti-fER		ADJ	f	s		0.01	0
+lactique	lak-tik	lac-ti-que	ADJ		s		0.12	0
+lactose	lak-toz	lac-to-se	NOM	m	s		0.69	0
+lacunaire	la-ky-nER	la-cu-nai-re	ADJ		s		0.08	0.34
+lacune	la-kyn	la-cu-ne	NOM	f	s		0.09	0.68
+lacunes	la-kyn	la-cu-nes	NOM	f	p	lacune	0.35	1.55
+lacustre	la-kystR	la-cus-tre	ADJ		s		0.02	0.47
+lacustres	la-kystR	la-cus-tres	ADJ	m	p	lacustre	0	0.14
+lad	lad	lad	NOM	m	s		0.17	0.54
+ladies	lEj-diz	la-dies	NOM	f	p		0.91	0.14
+ladino	la-di-no	la-di-no	NOM	m	s		0	0.07
+ladite	la-dit	la-di-te	ADJ	f	s		0.33	1.82
+ladre	ladR	la-dre	NOM		s		0.01	0.2
+ladrerie	la-dR°-Ri	la-dre-rie	NOM	f	s		0	0.14
+ladreries	la-dR°-Ri	la-dre-ries	NOM	f	p	ladrerie	0	0.07
+ladres	ladR	la-dres	ADJ		p	ladre	0	0.07
+ladres	ladR	la-dres	NOM		p	ladre	0	0.07
+lads	lad	lad-s	NOM	m	p	lad	0.03	0.2
+lady	lEj-di	la-dy	NOM	f	s		13.47	3.24
+ladys	lEj-diz	la-dys	NOM	f	p	lady	0.01	0
+lagan	la-g@	la-gan	NOM	m	s		0.05	0
+lagon	la-g§	la-gon	NOM	m	s		0.71	0.74
+lagons	la-g§	la-gons	NOM	m	p	lagon	0.13	0.14
+laguiole	la-gjOl	la-guio-le	NOM	m	s		0	0.07
+lagunaire	la-gy-nER	la-gu-nai-re	ADJ	m	s		0	0.2
+lagune	la-gyn	la-gu-ne	NOM	f	s		2.4	6.69
+lagunes	la-gyn	la-gu-nes	NOM	f	p	lagune	0.44	2.23
+lai	lE	lai	ADJ	m	s		1.04	0.14
+lai	lE	lai	NOM	m	s		0.26	0.14
+laïc	la-ik	laïc	ADJ	m	s		0.33	0.74
+laïc	la-ik	laïc	NOM		s		0.16	0.27
+laîche	lES	laî-che	NOM	f	s		0.06	0
+laîches	lES	laî-ches	NOM	f	p	laîche	0	0.07
+laïciser	la-i-si-ze		VER				0.14	0
+laïcité	la-i-si-te	laï-ci-té	NOM	f	s		0.29	0.47
+laïcs	la-ik	laïcs	NOM		p	laïc	0.16	0.68
+laïcs	la-ik	laïcs	ADJ		p	laïc	0	0.14
+laid	lE	laid	ADJ	m	s		9.52	10.41
+laid	lE	laid	NOM	m	s		0.93	1.49
+laide	lEd	lai-de	ADJ	f	s	laid	6.23	9.73
+laide	lEd	lai-de	NOM	f	s	laid	0.11	0.74
+laidement	lE-d°-m@	lai-de-ment	ADV				0	0.47
+laideron	lE-d°-R§	lai-de-ron	NOM	m	s		0.26	0.2
+laideron	lE-d°-R§	lai-de-ron	ADJ	m	s		0.06	0
+laiderons	lE-d°-R§	lai-de-rons	NOM	m	p	laideron	0.21	0.47
+laiderons	lE-d°-R§	lai-de-rons	ADJ	m	p	laideron	0.01	0
+laides	lEd	lai-des	ADJ	f	p	laid	1.51	3.11
+laides	lEd	lai-des	NOM	f	p	laid	0.26	0.34
+laideur	lE-d9R	lai-deur	NOM	f	s		1.44	8.78
+laideurs	lE-d9R	lai-deurs	NOM	f	p	laideur	0	0.2
+laids	lE	laid-s	ADJ	m	p	laid	1.28	3.58
+laids	lE	laid-s	NOM	m	p	laid	0.11	0.27
+laie	lE	laie	NOM	f	s		0.01	1.62
+laie	lE	laie	ADJ	f	s		0	1.01
+laies	lE	laies	NOM	f	p	laie	0	0.14
+laies	lE	laies	ADJ	f	p	laie	0	0.07
+lainage	lE-naZ	lai-na-ge	NOM	m	s		0.01	2.5
+lainages	lE-naZ	lai-na-ges	NOM	m	p	lainage	0.16	2.09
+laine	lEn	lai-ne	NOM	f	s		6.27	34.86
+laines	lEn	lai-nes	NOM	f	p	laine	0.14	2.16
+laineurs	lE-n9R	lai-neurs	NOM	m	p	laineur	0	0.07
+laineuse	lE-n2z	lai-neu-se	ADJ	f	s	laineux	0	0.47
+laineuses	lE-n2z	lai-neu-ses	ADJ	f	p	laineux	0	0.34
+laineuses	lE-n2z	lai-neu-ses	NOM	f	p	laineur	0	0.07
+laineux	lE-n2	lai-neux	ADJ	m	s		0.06	1.08
+lainier	lE-nje	lai-nier	ADJ	m	s		0	0.14
+lainier	lE-nje	lai-nier	NOM	m	s		0	0.14
+lainière	lE-njER	lai-niè-re	ADJ	f	s	lainier	0	0.07
+lainière	lE-njER	lai-niè-re	NOM	f	s		0	0.07
+laïque	la-ik	laï-que	ADJ		s		0.43	2.43
+laïque	la-ik	laï-que	NOM		s		0	0.74
+laïques	la-ik	laï-ques	ADJ		p	laïque	0.15	1.01
+laïques	la-ik	laï-ques	NOM		p	laïque	0	0.14
+laird	lER	laird	NOM	m	s		0.36	0.07
+lais	lE	lais	NOM	m	p	lai	0	0.14
+lais	lE	lais	ADJ	m	p	lai	0.01	0
+laissa	lE-sa	lais-sa	VER			laisser	2.52	67.97
+laissai	lE-sE	lais-sai	VER			laisser	0.41	8.11
+laissaient	lE-sE	lais-saient	VER			laisser	1.69	23.92
+laissais	lE-sE	lais-sais	VER			laisser	4.54	12.36
+laissait	lE-sE	lais-sait	VER			laisser	7.78	82.77
+laissâmes	lE-sam	lais-sâ-mes	VER			laisser	0	0.54
+laissant	lE-s@	lais-sant	VER			laisser	10.8	58.51
+laissassent	lE-sas	lais-sas-sent	VER			laisser	0	0.07
+laissât	lE-sa	lais-sât	VER			laisser	0.01	2.97
+laisse	lEs	lais-se	VER			laisser	479.63	143.31
+laisse	lEs	lais-se	NOM	f	s		69.88	18.85
+laissé	le-se	lais-sé	VER	m	s	laisser	139.96	117.57
+laissé	le-se	lais-sé	NOM	m	s		0.63	1.62
+laisse-la-moi	lE-sla-mwa	laisse-la-moi	NOM	f	s		0.14	0
+laissé-pour-compte	le-se-puR-k§t	laissé-pour-compte	NOM	m	s		0	0.07
+laissée	le-se	lais-sée	VER	f	s	laisser	20.9	20.47
+laissées	le-se	lais-sées	VER	f	p	laisser	3.47	6.01
+laissées	le-se	lais-sées	NOM	f	p	laissée	0.11	0.47
+laissent	lEs	lais-sent	VER			laisser	15.24	22.3
+laisser	le-se	lais-ser	VER				243.13	192.03
+laisser-aller	le-se-a-le	laisser-aller	NOM	m			0.75	3.38
+laisser-faire	le-se-fER	laisser-faire	NOM	m			0.01	0.07
+laissera	lE-s°-Ra	lais-se-ra	VER			laisser	13.78	6.62
+laisserai	lE-s°-RE	lais-se-rai	VER			laisser	28.33	5.81
+laisseraient	lE-s°-RE	lais-se-raient	VER			laisser	1.23	2.09
+laisserais	lE-s°-RE	lais-se-rais	VER			laisser	7.47	2.64
+laisserait	lE-s°-RE	lais-se-rait	VER			laisser	5.18	8.72
+laisseras	lE-s°-Ra	lais-se-ras	VER			laisser	3.19	0.74
+laissèrent	lE-sER	lais-sè-rent	VER			laisser	0.42	4.73
+laisserez	lE-s°-Re	lais-se-rez	VER			laisser	1.93	1.22
+laisseriez	lE-s2-Rje	lais-se-riez	VER			laisser	0.93	0.54
+laisserions	lE-s2-Rj§	lais-se-rions	VER			laisser	0.1	0.34
+laisserons	lE-s°-R§	lais-se-rons	VER			laisser	2.93	0.81
+laisseront	lE-s°-R§	lais-se-ront	VER			laisser	5.74	2.5
+laisses	lEs	lais-ses	VER			laisser	36.4	5
+laisses	lEs	lais-ses	NOM	f	p	laisse	2.65	0.41
+laissés	le-se	lais-sés	VER	m	p	laisser	7.12	9.26
+laissés	le-se	lais-sés	NOM	m	p	laissé	0.19	0.14
+laissés-pour-compte	le-se-puR-k§t	laissés-pour-compte	NOM	m	p		0.23	0.07
+laissez	lE-se	lais-sez	VER			laisser	265.61	31.42
+laissez-faire	lE-se-fER		NOM	m			0.01	0
+laissez-passer	lE-se-pa-se	laissez-passer	NOM	m			4	1.96
+laissiez	lE-sje	lais-siez	VER			laisser	2.39	0.95
+laissions	lE-sj§	lais-sions	VER			laisser	0.54	2.5
+laissons	lE-s§	lais-sons	VER			laisser	20.73	6.76
+lait	lE	lait	NOM	m	s		59.41	62.23
+laitage	lE-taZ	lai-ta-ge	NOM	m	s		0.22	0.54
+laitages	lE-taZ	lai-ta-ges	NOM	m	p	laitage	0.2	0.34
+laitance	lE-t@s	lai-tan-ce	NOM	f	s		0.27	0.34
+laitances	lE-t@s	lai-tan-ces	NOM	f	p	laitance	0	0.14
+laiterie	lE-t°-Ri	lai-te-rie	NOM	f	s		0.29	0.47
+laiteries	lE-t°-Ri	lai-te-ries	NOM	f	p	laiterie	0.03	0.14
+laites	lEt	lai-tes	NOM	f	p	laite	0	0.07
+laiteuse	lE-t2z	lai-teu-se	ADJ	f	s	laiteux	0.1	4.86
+laiteuses	lE-t2z	lai-teu-ses	ADJ	f	p	laiteux	0	1.42
+laiteux	lE-t2	lai-teux	ADJ	m			0.22	4.12
+laitier	le-tje	lai-tier	NOM	m	s		1.18	1.49
+laitier	le-tje	lai-tier	ADJ	m	s		0.17	0.07
+laitière	lE-tjER	lai-tiè-re	ADJ	f	s	laitier	0.38	0.47
+laitière	lE-tjER	lai-tiè-re	NOM	f	s	laitier	0.07	0.74
+laitières	lE-tjER	lai-tiè-res	ADJ	f	p	laitier	0.05	0.14
+laitières	lE-tjER	lai-tiè-res	NOM	f	p	laitier	0.03	0
+laitiers	le-tje	lai-tiers	ADJ	m	p	laitier	0.66	0.07
+laitiers	le-tje	lai-tiers	NOM	m	p	laitier	0.04	0.2
+laiton	lE-t§	lai-ton	NOM	m	s		0.21	1.55
+laits	lE	laits	NOM	m	p	lait	0.21	0.68
+laitue	le-ty	lai-tue	NOM	f	s		1.97	1.62
+laitues	le-ty	lai-tues	NOM	f	p	laitue	0.56	0.81
+laïus	la-jys	laïus	NOM	m			1.78	1.08
+laïusse	la-jys	laïus-se	VER			laïusser	0	0.07
+laizes	lEz	lai-zes	NOM	f	p	laize	0	0.14
+lala	la-la	la-la	ONO				0.66	0.07
+lama	la-ma	la-ma	NOM	m	s		1.23	0.47
+lamais	la-mE	la-mais	VER			lamer	0	0.07
+lamaïsme	la-ma-izm	la-maïs-me	NOM	m	s		0	0.07
+lamantin	la-m@-t5	la-man-tin	NOM	m	s		0.54	0.14
+lamantins	la-m@-t5	la-man-tins	NOM	m	p	lamantin	0.29	0.07
+lamartiniennes	la-maR-ti-njEn	la-mar-ti-nien-nes	NOM	f	p	lamartinien	0	0.07
+lamas	la-ma	la-mas	NOM	m	p	lama	0.9	0.27
+lamas	la-ma	la-mas	VER			lamer	0.01	0
+lambada	l@-ba-da	lam-ba-da	NOM	f	s		0.13	0
+lambda	l@b-da	lamb-da	NOM	m	s		0.72	0
+lambdas	l@b-da	lamb-das	NOM	m	p	lambda	0.02	0.07
+lambeau	l@-bo	lam-beau	NOM	m	s		0.61	3.51
+lambeaux	l@-bo	lam-beaux	NOM	m	p	lambeau	1.8	10.74
+lambel	l@-bEl	lam-bel	NOM	m	s		0.01	0
+lambi	l@-bi	lam-bi	NOM	m	s		0	0.07
+lambic	l@-bik	lam-bic	NOM	m	s		0	0.07
+lambin	l@-b5	lam-bin	NOM	m	s		0.01	0.2
+lambin	l@-b5	lam-bin	ADJ	m	s		0.02	0.14
+lambinaient	l@-bi-nE	lam-bi-naient	VER			lambiner	0	0.14
+lambinais	l@-bi-nE	lam-bi-nais	VER			lambiner	0	0.07
+lambinait	l@-bi-nE	lam-bi-nait	VER			lambiner	0	0.07
+lambinant	l@-bi-n@	lam-bi-nant	VER			lambiner	0	0.07
+lambine	l@-bin	lam-bi-ne	VER			lambiner	0.26	0.14
+lambine	l@-bin	lam-bi-ne	ADJ	f	s		0.01	0.07
+lambiné	l@-bi-ne	lam-bi-né	VER	m	s	lambiner	0.05	0
+lambiner	l@-bi-ne	lam-bi-ner	VER				0.22	0.54
+lambines	l@-bin	lam-bi-nes	VER			lambiner	0.02	0
+lambinez	l@-bi-ne	lam-bi-nez	VER			lambiner	0.05	0
+lambiniez	l@-bi-nje	lam-bi-niez	VER			lambiner	0.01	0
+lambinions	l@-bi-nj§	lam-bi-nions	VER			lambiner	0	0.07
+lambinons	l@-bi-n§	lam-bi-nons	VER			lambiner	0.01	0.07
+lambins	l@-b5	lam-bins	NOM	m	p	lambin	0.15	0
+lambins	l@-b5	lam-bins	ADJ	m	p	lambin	0.01	0
+lambrequins	l@-bR°-k5	lam-bre-quins	NOM	m	p	lambrequin	0	0.2
+lambris	l@-bRi	lam-bris	NOM	m			0.04	1.55
+lambrissage	l@-bRi-saZ	lam-bris-sa-ge	NOM	m	s		0.01	0.07
+lambrissé	l@-bRi-se	lam-bris-sé	VER	m	s	lambrisser	0.01	0.07
+lambrissée	l@-bRi-se	lam-bris-sée	VER	f	s	lambrisser	0	0.2
+lambrissée	l@-bRi-se	lam-bris-sée	ADJ	f	s	lambrissé	0	0.2
+lambrissées	l@-bRi-se	lam-bris-sées	ADJ	f	p	lambrissé	0	0.2
+lambrissées	l@-bRi-se	lam-bris-sées	VER	f	p	lambrisser	0.01	0
+lambrusques	l@-bRysk	lam-brus-ques	NOM	f	p	lambrusque	0	0.07
+lambswool	l@b-swul	lambs-wool	NOM	m	s		0	0.14
+lame	lam	la-me	NOM	f	s		11.05	25.81
+lamé	la-me	la-mé	ADJ	m	s		0.56	0.81
+lamedé	la-m°-de	la-me-dé	NOM	f	s		0	0.68
+lamedés	la-m°-de	la-me-dés	NOM	f	p	lamedé	0	0.14
+lamedu	la-m°-dy	la-me-du	NOM	m	s		0	0.14
+lamée	la-me	la-mée	ADJ	f	s	lamé	0	0.07
+lamées	la-me	la-mées	VER	f	p	lamer	0	0.07
+lamelle	la-mEl	la-mel-le	NOM	f	s		0.14	0.54
+lamelles	la-mEl	la-mel-les	NOM	f	p	lamelle	0.59	2.09
+lamellibranches	la-me-li-bR@S	la-mel-li-bran-ches	NOM	m	p	lamellibranche	0	0.07
+lamelliforme	la-mE-li-fORm	la-mel-li-for-me	ADJ	m	s		0	0.07
+lamenta	la-m@-ta	la-men-ta	VER			lamenter	0	0.61
+lamentable	la-m@-tabl	la-men-ta-ble	ADJ		s		5.33	7.36
+lamentablement	la-m@-ta-bl°-m@	la-men-ta-ble-ment	ADV				0.44	1.82
+lamentables	la-m@-tabl	la-men-ta-bles	ADJ		p	lamentable	0.37	1.89
+lamentaient	la-m@-tE	la-men-taient	VER			lamenter	0	0.47
+lamentais	la-m@-tE	la-men-tais	VER			lamenter	0.02	0
+lamentait	la-m@-tE	la-men-tait	VER			lamenter	0.2	2.09
+lamentant	la-m@-t@	la-men-tant	VER			lamenter	0.06	0.41
+lamentation	la-m@-ta-sj§	la-men-ta-tion	NOM	f	s		0.47	0.95
+lamentations	la-m@-ta-sj§	la-men-ta-tions	NOM	f	p	lamentation	0.89	3.85
+lamente	la-m@t	la-men-te	VER			lamenter	1.31	1.01
+lamenté	la-m@-te	la-men-té	VER	m	s	lamenter	0.14	0.27
+lamentent	la-m@t	la-men-tent	VER			lamenter	0.15	0.54
+lamenter	la-m@-te	la-men-ter	VER				1.2	1.55
+lamentera	la-m@-t°-Ra	la-men-te-ra	VER			lamenter	0.14	0.07
+lamenterait	la-m@-t°-RE	la-men-te-rait	VER			lamenter	0.01	0.07
+lamentèrent	la-m@-tER	la-men-tè-rent	VER			lamenter	0	0.07
+lamenteront	la-m@-t°-R§	la-men-te-ront	VER			lamenter	0.02	0.07
+lamentés	la-m@-te	la-men-tés	VER	m	p	lamenter	0	0.07
+lamentez	la-m@-te	la-men-tez	VER			lamenter	0.03	0.07
+lamentions	la-m@-tj§	la-men-tions	VER			lamenter	0	0.07
+lamento	la-mEn-to	la-men-to	NOM	m	s		0.01	1.22
+lamentons	la-m@-t§	la-men-tons	VER			lamenter	0.1	0
+lamer	la-me		VER				0.01	0
+lames	lam	la-mes	NOM	f	p	lame	3.17	11.28
+lamés	la-me	la-més	ADJ	m	p	lamé	0	0.34
+lamés	la-me	la-més	VER	m	p	lamer	0	0.07
+lamie	la-mi	la-mie	NOM	f	s		0	0.07
+lamifié	la-mi-fje	la-mi-fié	ADJ	m	s		0	0.07
+lamifiés	la-mi-fje	la-mi-fiés	ADJ	m	p	lamifié	0	0.07
+laminage	la-mi-naZ	la-mi-na-ge	NOM	m	s		0.01	0
+laminages	la-mi-naZ	la-mi-na-ges	NOM	m	p	laminage	0	0.07
+laminaire	la-mi-nER	la-mi-nai-re	ADJ		s		0	0.07
+laminaire	la-mi-nER	la-mi-nai-re	NOM	f	s		0	0.07
+laminaires	la-mi-nER	la-mi-nai-res	NOM	f	p	laminaire	0	0.07
+laminait	la-mi-nE	la-mi-nait	VER			laminer	0	0.14
+laminant	la-mi-n@		VER			laminer	0.01	0
+lamine	la-min	la-mi-ne	VER			laminer	0.05	0.2
+laminé	la-mi-ne	la-mi-né	VER	m	s	laminer	0.11	0.47
+laminectomie	la-mi-nEk-tO-mi		NOM	f	s		0.01	0
+laminée	la-mi-ne	la-mi-née	VER	f	s	laminer	0.02	0.07
+laminées	la-mi-ne	la-mi-nées	VER	f	p	laminer	0.01	0.14
+laminer	la-mi-ne	la-mi-ner	VER				0.44	0.34
+lamineront	la-mi-n°-R§	la-mi-ne-ront	VER			laminer	0.01	0
+lamines	la-min	la-mi-nes	VER			laminer	0	0.07
+laminés	la-mi-ne	la-mi-nés	VER	m	p	laminer	0.05	0.14
+laminoir	la-mi-nwaR	la-mi-noir	NOM	m	s		0	0.34
+laminoirs	la-mi-nwaR	la-mi-noirs	NOM	m	p	laminoir	0.01	0.14
+lampa	l@-pa	lam-pa	VER			lamper	0.14	0.2
+lampadaire	l@-pa-dER	lam-pa-dai-re	NOM	m	s		1.61	2.84
+lampadaires	l@-pa-dER	lam-pa-dai-res	NOM	m	p	lampadaire	0.28	3.92
+lampadophore	l@-pa-do-fOR	lam-pa-do-pho-re	ADJ		s		0	0.14
+lampais	l@-pE	lam-pais	VER			lamper	0	0.07
+lampait	l@-pE	lam-pait	VER			lamper	0	0.41
+lampant	l@-p@	lam-pant	VER			lamper	0	0.2
+lamparos	l@-pa-Ro	lam-pa-ros	NOM	m	p	lamparo	0	0.14
+lampas	l@-pa	lam-pas	NOM	m			0	0.07
+lampe	l@p	lam-pe	NOM	f	s		22.22	70.88
+lampe	l@p	lam-pe	VER			lamper	0.26	0.27
+lampé	l@-pe	lam-pé	VER	m	s	lamper	0	0.2
+lampe-phare	l@p-faR	lampe-phare	NOM	f	s		0	0.07
+lampe-tempête	l@p-t@-pEt	lampe-tempête	NOM	f	s		0	0.68
+lampée	l@-pe	lam-pée	NOM	f	s		0.25	2.5
+lampée	l@-pe	lam-pée	VER	f	s	lamper	0	0.07
+lampées	l@-pe	lam-pées	NOM	f	p	lampée	0.01	0.81
+lampent	l@p	lam-pent	VER			lamper	0.01	0
+lamper	l@-pe	lam-per	VER				0	0.2
+lampes	l@p	lam-pes	NOM	f	p	lampe	3.63	22.23
+lampes-tempête	l@p-t@-pEt	lampes-tempête	NOM	f	p	lampe-tempête	0	0.27
+lampez	l@-pe	lam-pez	VER			lamper	0	0.07
+lampion	l@-pj§	lam-pion	NOM	m	s		0.01	0.81
+lampions	l@-pj§	lam-pions	NOM	m	p	lampion	0.27	3.18
+lampiste	l@-pist		NOM	m	s		0.01	0
+lampisterie	l@-pis-t°-Ri	lam-pis-te-rie	NOM	f	s		0	0.2
+lampisteries	l@-pis-t°-Ri	lam-pis-te-ries	NOM	f	p	lampisterie	0	0.07
+lampistes	l@-pist	lam-pis-tes	NOM	m	p	lampiste	0.02	0.2
+lampons	l@-p§	lam-pons	NOM	m	p	lampon	0	0.07
+lamproie	l@p-Rwa	lam-proie	NOM	f	s		0.03	0.07
+lamproies	l@p-Rwa	lam-proies	NOM	f	p	lamproie	0.01	0.34
+lampyres	l@-piR	lam-py-res	NOM	m	p	lampyre	0.01	0.07
+lança	l@-sa	lan-ça	VER			lancer	0.79	38.72
+lançai	l@-sE	lan-çai	VER			lancer	0.04	1.49
+lançaient	l@-sE	lan-çaient	VER			lancer	0.63	5.81
+lançais	l@-sE	lan-çais	VER			lancer	0.41	1.49
+lançait	l@-sE	lan-çait	VER			lancer	0.89	15.41
+lançâmes	l@-sam	lan-çâ-mes	VER			lancer	0	0.14
+lançant	l@-s@	lan-çant	VER			lancer	0.6	8.11
+lançant	l@-s@	lan-çant	ADJ	m	s		0	0.14
+lanças	l@-sa	lan-ças	VER			lancer	0	0.14
+lançât	l@-sa	lan-çât	VER			lancer	0	0.41
+lance	l@s	lan-ce	VER			lancer	18.3	19.19
+lance	l@s	lan-ce	NOM	f	s		12.2	9.32
+lance	l@s	lan-ce	NOM	f	s	lanc	0	0.14
+lancé	l@-se	lan-cé	VER	m	s	lancer	17.31	24.66
+lance-engins	l@-s@-Z5	lance-engins	NOM	m			0.02	0
+lance-flamme	l@s-flam	lance-flamme	NOM	m	s		0.06	0
+lance-flammes	l@s-flam	lance-flammes	NOM	m			1.06	0.61
+lance-fusée	l@s-fy-ze	lance-fusée	NOM	m	s		0.01	0
+lance-fusées	l@s-fy-ze	lance-fusées	NOM	m			0.12	0.61
+lance-grenade	l@s-gR°-nad	lance-grenade	NOM	m	s		0.02	0
+lance-grenades	l@s-gR°-nad	lance-grenades	NOM	m			0.34	0
+lance-missiles	l@s-mi-sil	lance-missiles	NOM	m			0.26	0.07
+lance-pierre	l@s-pjER	lance-pierre	NOM	m	s		0.25	0.07
+lance-pierres	l@s-pjER	lance-pierres	NOM	m			0.39	1.42
+lance-roquette	l@-sRo-kEt	lance-roquette	NOM	m	s		0.06	0
+lance-roquettes	l@-sRo-kEt	lance-roquettes	NOM	m			0.72	0.14
+lance-torpille	l@s-tOR-pij	lance-torpille	NOM	m	s		0	0.07
+lance-torpilles	l@s-tOR-pij	lance-torpilles	NOM	m			0.03	0.41
+lancée	l@-se	lan-cée	VER	f	s	lancer	3.02	6.76
+lancée	l@-se	lan-cée	NOM	f	s		0.5	3.78
+lancées	l@-se	lan-cées	VER	f	p	lancer	0.68	2.84
+lancées	l@-se	lan-cées	NOM	f	p	lancée	0.02	0.2
+lancelot	l@-s°-lo	lan-ce-lot	NOM	m	s		0	0.14
+lancement	l@-s°-m@	lan-ce-ment	NOM	m	s		8.63	1.96
+lancements	l@-s°-m@	lan-ce-ments	NOM	m	p	lancement	0.25	0.07
+lancent	l@s	lan-cent	VER			lancer	1.31	4.05
+lancéolés	l@-se-o-le	lan-céo-lés	ADJ	m	p	lancéolé	0	0.07
+lancequine	l@s-kin	lan-ce-qui-ne	VER			lancequiner	0	0.27
+lancequiner	l@s-ki-ne	lan-ce-qui-ner	VER				0	0.07
+lancer	l@-se	lan-cer	VER				18.56	26.08
+lancer	l@-se	lan-cer	NOM	m	s		3.36	1.69
+lancera	l@-s°-Ra	lan-ce-ra	VER			lancer	0.9	0.41
+lancerai	l@-s°-RE	lan-ce-rai	VER			lancer	0.65	0.2
+lanceraient	l@-s°-RE	lan-ce-raient	VER			lancer	0.01	0.07
+lancerais	l@-s°-RE	lan-ce-rais	VER			lancer	0.28	0.07
+lancerait	l@-s°-RE	lan-ce-rait	VER			lancer	0.15	0.68
+lanceras	l@-s°-Ra	lan-ce-ras	VER			lancer	0.18	0.07
+lancèrent	l@-sER	lan-cè-rent	VER			lancer	0.21	1.42
+lancerez	l@-s°-Re	lan-ce-rez	VER			lancer	0.26	0
+lancerons	l@-s°-R§	lan-ce-rons	NOM	m	p	lanceron	0.18	0
+lancerons	l@-s°-R§	lan-ce-rons	VER			lancer	0.01	0
+lanceront	l@-s°-R§	lan-ce-ront	VER			lancer	0.16	0.14
+lancers	l@-se	lan-cers	NOM	m	p	lancer	0.68	0.34
+lances	l@s	lan-ces	NOM	f	p	lance	1.07	5
+lances	l@s	lan-ces	VER			lancer	1.91	0.47
+lances	l@s	lan-ces	NOM	f	p	lanc	0	0.07
+lancés	l@-se	lan-cés	VER	m	p	lancer	1.2	5.27
+lancette	l@-sEt	lan-cet-te	NOM	f	s		0.29	0.27
+lanceur	l@-s9R	lan-ceur	NOM	m	s		1.84	0.34
+lanceurs	l@-s9R	lan-ceurs	NOM	m	p	lanceur	0.39	0.2
+lanceuse	l@-s2z	lan-ceu-se	NOM	f	s	lanceur	0.02	0
+lancez	l@-se	lan-cez	VER			lancer	5.83	0.47
+lancier	l@-sje	lan-cier	NOM	m	s		0.23	0.14
+lanciers	l@-sje	lan-ciers	NOM	m	p	lancier	0.31	0.74
+lanciez	l@-sje	lan-ciez	VER			lancer	0.1	0
+lancinait	l@-si-nE	lan-ci-nait	VER			lanciner	0	0.14
+lancinance	l@-si-n@s	lan-ci-nan-ce	NOM	f	s		0	0.07
+lancinant	l@-si-n@	lan-ci-nant	ADJ	m	s		0.19	1.89
+lancinant	l@-si-n@	lan-ci-nant	VER			lanciner	0.1	0.41
+lancinante	l@-si-n@t	lan-ci-nan-te	ADJ	f	s	lancinant	0.29	2.16
+lancinantes	l@-si-n@t	lan-ci-nan-tes	ADJ	f	p	lancinant	0.01	0.95
+lancinants	l@-si-n@	lan-ci-nants	ADJ	m	p	lancinant	0	0.34
+lancine	l@-sin	lan-ci-ne	VER			lanciner	0.04	0.07
+lanciné	l@-si-ne	lan-ci-né	VER	m	s	lanciner	0	0.14
+lancions	l@-sj§	lan-cions	VER			lancer	0.05	0.2
+lançons	l@-s§	lan-çons	VER			lancer	0.81	0.34
+lançons	l@-s§	lan-çons	NOM	m	p	lançon	0.03	0.14
+land	l@d	land	NOM	m	s		2.56	1.96
+landais	l@-dE	lan-dais	ADJ	m			0.01	0.2
+landaise	l@-dEz	lan-dai-se	ADJ	f	s	landais	0	0.41
+landaise	l@-dEz	lan-dai-se	NOM	f	s	landais	0.01	0
+landaises	l@-dEz	lan-dai-ses	ADJ	f	p	landais	0	0.14
+landaises	l@-dEz	lan-dai-ses	NOM	f	p	landais	0	0.07
+landau	l@-do	lan-dau	NOM	m	s		0.98	3.65
+landaulet	l@-do-lE	lan-dau-let	NOM	m	s		0	0.07
+landaus	l@-do	lan-daus	NOM	m	p	landau	0.04	0.95
+lande	l@d	lan-de	NOM	f	s		1.57	8.04
+landerneau	l@-dER-no	lan-der-neau	NOM	m	s		0	0.07
+landes	l@d	lan-des	NOM	f	p	lande	0.12	2.43
+landiers	l@-dje	lan-diers	NOM	m	p	landier	0	0.2
+landing	l@-diG	lan-ding	NOM	m	s		0.1	0
+landlord	l@d-lOR		NOM	m	s		0.01	0
+lands	l@d	land-s	NOM	m	p	land	0.21	0
+landsturm	l@d-stuRm	land-sturm	NOM	m	s		0	0.14
+landwehr	l@d-vER	land-wehr	NOM	f	s		0	0.27
+langage	l@-gaZ	lan-ga-ge	NOM	m	s		16.56	36.01
+langages	l@-gaZ	lan-ga-ges	NOM	m	p	langage	0.11	1.35
+langagiers	l@-ga-Zje	lan-ga-giers	ADJ	m	p	langagier	0	0.2
+lange	l@Z	lan-ge	VER			langer	0.55	0
+lange	l@Z	lan-ge	NOM	m	s		0.1	0.07
+langé	l@-Ze	lan-gé	VER	m	s	langer	0.28	0.2
+langeait	l@-ZE	lan-geait	VER			langer	0	0.14
+langeant	l@-Z@	lan-geant	VER			langer	0	0.07
+langée	l@-Ze	lan-gée	VER	f	s	langer	0	0.07
+langer	l@-Ze	lan-ger	VER				0.23	0.68
+langes	l@Z	lan-ges	NOM	m	p	lange	0.75	1.55
+langoureuse	l@-gu-R2z	lan-gou-reu-se	ADJ	f	s	langoureux	0.09	1.08
+langoureusement	l@-gu-R2-z°-m@	lan-gou-reu-se-ment	ADV				0.02	0.47
+langoureuses	l@-gu-R2z	lan-gou-reu-ses	ADJ	f	p	langoureux	0.01	0.27
+langoureux	l@-gu-R2	lan-gou-reux	ADJ	m			0.67	1.69
+langouste	l@-gust	lan-gous-te	NOM	f	s		1.99	2.09
+langoustes	l@-gust	lan-gous-tes	NOM	f	p	langouste	0.99	2.09
+langoustine	l@-gus-tin		NOM	f	s		0.22	0
+langoustines	l@-gus-tin	lan-gous-ti-nes	NOM	f	p	langoustine	0.26	0.47
+langue	l@g	lan-gue	NOM	f	s		58.95	103.78
+languedociens	l@g-do-sj5	lan-gue-do-ciens	NOM	m	p	languedocien	0	0.07
+langues	l@g	lan-gues	NOM	f	p	langue	10.17	22.5
+languette	l@-gEt	lan-guet-te	NOM	f	s		0.09	0.54
+languettes	l@-gEt	lan-guet-tes	NOM	f	p	languette	0.01	0.27
+langueur	l@-g9R	lan-gueur	NOM	f	s		0.36	3.78
+langueurs	l@-g9R	lan-gueurs	NOM	f	p	langueur	0	0.88
+langui	l@-gi	lan-gui	VER	m	s	languir	0.34	0.2
+languide	l@-gid	lan-gui-de	ADJ		s		0.1	1.28
+languides	l@-gid	lan-gui-des	ADJ	m	p	languide	0.1	0.27
+languir	l@-giR	lan-guir	VER				1.45	1.08
+languirait	l@-gi-RE	lan-gui-rait	VER			languir	0.01	0.07
+languirent	l@-giR	lan-gui-rent	VER			languir	0.01	0.07
+languiront	l@-gi-R§	lan-gui-ront	VER			languir	0	0.07
+languis	l@-gi	lan-guis	VER	m	p	languir	1.8	0.27
+languissaient	l@-gi-sE	lan-guis-saient	VER			languir	0.12	0.14
+languissais	l@-gi-sE	lan-guis-sais	VER			languir	0.46	0.41
+languissait	l@-gi-sE	lan-guis-sait	VER			languir	0.49	0.68
+languissamment	l@-gi-sa-m@	lan-guis-sam-ment	ADV				0.01	0.34
+languissant	l@-gi-s@	lan-guis-sant	ADJ	m	s		0.49	0.81
+languissant	l@-gi-s@	lan-guis-sant	VER			languir	0.01	0.2
+languissante	l@-gi-s@t	lan-guis-san-te	ADJ	f	s	languissant	0.28	0.74
+languissantes	l@-gi-s@t	lan-guis-san-tes	ADJ	f	p	languissant	0.15	0.2
+languissants	l@-gi-s@	lan-guis-sants	ADJ	m	p	languissant	0	0.41
+languisse	l@-gis	lan-guis-se	VER			languir	0.02	0
+languissent	l@-gis	lan-guis-sent	VER			languir	0.03	0.07
+languisses	l@-gis	lan-guis-ses	VER			languir	0.01	0
+languissons	l@-gi-s§	lan-guis-sons	VER			languir	0.14	0
+languit	l@-gi	lan-guit	VER			languir	1.1	0.47
+lanière	la-njER	la-niè-re	NOM	f	s		0.42	2.64
+lanières	la-njER	la-niè-res	NOM	f	p	lanière	0.43	4.05
+lanlaire	l@-lER	lan-lai-re	ADV				0	0.14
+lanoline	la-no-lin	la-no-li-ne	NOM	f	s		0.09	0.14
+lansquenet	l@s-k°-nE	lans-que-net	NOM	m	s		1.36	0.41
+lansquenets	l@s-k°-nE	lans-que-nets	NOM	m	p	lansquenet	0	1.35
+lansquine	l@s-kin		NOM	f	s		0	0.07
+lansquiner	l@s-ki-ne		VER				0	0.07
+lanternant	l@-tER-n@	lan-ter-nant	VER			lanterner	0	0.07
+lanterne	l@-tERn	lan-ter-ne	NOM	f	s		2.35	11.55
+lanterne	l@-tERn	lan-ter-ne	VER			lanterner	0.01	0
+lanterné	l@-tER-ne	lan-ter-né	VER	m	s	lanterner	0.01	0
+lanterne-tempête	l@-tER-nt@-pEt		NOM	f	s		0	0.07
+lanterner	l@-tER-ne	lan-ter-ner	VER				0.06	0.14
+lanternes	l@-tERn	lan-ter-nes	NOM	f	p	lanterne	0.73	5.27
+lanternez	l@-tER-ne	lan-ter-nez	VER			lanterner	0.02	0
+lanternier	l@-tER-nje	lan-ter-nier	NOM	m	s		0	0.14
+lanthane	l@-tan		NOM	m	s		0.01	0
+lao	la-o	lao	NOM	m	s		0.01	0.07
+laos	la-os	laos	NOM	m	p	lao	0.01	0.07
+laotien	la-o-sj5	lao-tien	ADJ	m	s		0.02	0
+laotienne	la-o-sjEn	lao-tien-ne	ADJ	f	s	laotien	0	0.14
+laotiens	la-o-sj5	lao-tiens	ADJ	m	p	laotien	0	0.07
+laotiens	la-o-sj5	lao-tiens	NOM	m	p	laotien	0.05	0
+lap	lap		NOM	m	s		0.08	0.27
+lapais	la-pE	la-pais	VER			laper	0	0.07
+lapait	la-pE	la-pait	VER			laper	0	0.41
+lapalissade	la-pa-li-sad		NOM	f	s		0.01	0
+lapant	la-p@	la-pant	VER			laper	0	0.47
+laparoscopie	la-pa-Ros-ko-pi	la-pa-ro-sco-pie	NOM	f	s		0.09	0
+laparotomie	la-pa-Ro-to-mi	la-pa-ro-to-mie	NOM	f	s		0.22	0.07
+lape	lap	la-pe	VER			laper	1.33	0.41
+lapé	la-pe	la-pé	VER	m	s	laper	0	0.27
+lapées	la-pe	la-pées	VER	f	p	laper	0.01	0
+lapement	la-p°-m@	la-pe-ment	NOM	m	s		0	0.07
+lapements	la-p°-m@	la-pe-ments	NOM	m	p	lapement	0	0.2
+lapent	lap	la-pent	VER			laper	0	0.07
+laper	la-pe	la-per	VER				0.07	0.68
+lapereau	la-p°-Ro		NOM	m	s		0.29	0
+lapereaux	la-p°-Ro	la-pe-reaux	NOM	m	p	lapereau	0.02	0.27
+lapida	la-pi-da	la-pi-da	VER			lapider	0	0.07
+lapidaire	la-pi-dER	la-pi-dai-re	ADJ		s		0.01	0.34
+lapidaire	la-pi-dER	la-pi-dai-re	NOM	m	s		0.01	0.2
+lapidaires	la-pi-dER	la-pi-dai-res	ADJ		p	lapidaire	0.02	0.54
+lapidait	la-pi-dE	la-pi-dait	VER			lapider	0.02	0.14
+lapidant	la-pi-d@	la-pi-dant	VER			lapider	0	0.07
+lapidation	la-pi-da-sj§	la-pi-da-tion	NOM	f	s		0.25	0.07
+lapidations	la-pi-da-sj§	la-pi-da-tions	NOM	f	p	lapidation	0.02	0.07
+lapide	la-pid	la-pi-de	VER			lapider	0.13	0.07
+lapidé	la-pi-de	la-pi-dé	VER	m	s	lapider	0.19	0.41
+lapidée	la-pi-de	la-pi-dée	VER	f	s	lapider	0.07	0.07
+lapident	la-pid	la-pi-dent	VER			lapider	0.01	0
+lapider	la-pi-de	la-pi-der	VER				0.27	0.34
+lapiderait	la-pi-d°-RE	la-pi-de-rait	VER			lapider	0.01	0.07
+lapideras	la-pi-d°-Ra	la-pi-de-ras	VER			lapider	0.01	0
+lapidèrent	la-pi-dER	la-pi-dè-rent	VER			lapider	0.14	0
+lapidés	la-pi-de	la-pi-dés	VER	m	p	lapider	0.01	0.14
+lapidez	la-pi-de	la-pi-dez	VER			lapider	0.07	0
+lapidification	la-pi-di-fi-ka-sj§	la-pi-di-fi-ca-tion	NOM	f	s		0	0.07
+lapidifiés	la-pi-di-fje	la-pi-di-fiés	VER	m	p	lapidifier	0	0.07
+lapin	la-p5	la-pin	NOM	m	s		26.59	16.76
+lapine	la-pin	la-pi-ne	NOM	f	s	lapin	0.25	0.41
+lapiner	la-pi-ne	la-pi-ner	VER				0	0.07
+lapines	la-pin	la-pi-nes	NOM	f	p	lapin	0.13	0.14
+lapinière	la-pi-njER		NOM	f	s		0.01	0
+lapins	la-p5	la-pins	NOM	m	p	lapin	12.32	15.14
+lapis	la-pis	la-pis	NOM	m			0.03	0.14
+lapis-lazuli	la-pi-zla-zy-li	lapis-lazuli	NOM	m			0.01	0.41
+lapon	la-p§	la-pon	NOM	m	s		2.21	0.07
+lapon	la-p§	la-pon	ADJ	m	s		1.33	0
+lapone	la-pOn	la-po-ne	ADJ	f	s	lapon	0.01	0.07
+lapones	la-pOn	la-po-nes	ADJ	f	p	lapon	0	0.07
+laponne	la-pOn	la-pon-ne	ADJ	f	s	lapon	0.1	0
+laponne	la-pOn	la-pon-ne	NOM	f	s	lapon	0	0.07
+lapons	la-p§	la-pons	NOM	m	p	lapon	0.01	0
+lappant	la-p@		VER			lapper	0	0.14
+lappé	la-pe		VER	m	s	lapper	0	0.07
+lapper	la-pe		VER				0	0.27
+laps	laps	laps	NOM	m			0.57	2.23
+lapsus	lap-sys	lap-sus	NOM	m			0.93	1.62
+laquaient	la-kE	la-quaient	VER			laquer	0	0.07
+laquais	la-kE	la-quais	NOM	m			1.15	2.36
+laquait	la-kE	la-quait	VER			laquer	0	0.07
+laque	lak	la-que	NOM	f	s		0.79	2.09
+laque	lak	la-que	VER			laquer	0.02	0.2
+laqué	la-ke	la-qué	ADJ	m	s		0.47	1.49
+laqué	la-ke	la-qué	VER	m	s	laquer	0.07	1.55
+laquée	la-ke	la-quée	ADJ	f	s	laqué	0.14	0.81
+laquée	la-ke	la-quée	VER	f	s	laquer	0	0.61
+laquées	la-ke	la-quées	VER	f	p	laquer	0	0.34
+laquées	la-ke	la-quées	ADJ	f	p	laqué	0.01	0.14
+laquelle	la-kEl	la-quel-le	PRO:rel	f	s		66.95	182.36
+laquelle	la-kEl	la-quel-le	PRO:int				1.99	2.91
+laquer	la-ke	la-quer	VER				0.01	0.07
+laquerai	la-k°-RE	la-que-rai	VER			laquer	0	0.07
+laques	lak	la-ques	NOM	f	p	laque	0	0.61
+laqués	la-ke	la-qués	ADJ	m	p	laqué	0.04	0.95
+laqués	la-ke	la-qués	VER	m	p	laquer	0.01	0.74
+larbin	laR-b5	lar-bin	NOM	m	s		2.24	1.96
+larbineries	laR-bi-n°-Ri	lar-bi-ne-ries	NOM	f	p	larbinerie	0	0.07
+larbins	laR-b5	lar-bins	NOM	m	p	larbin	0.93	1.76
+larcin	laR-s5	lar-cin	NOM	m	s		0.43	1.22
+larcins	laR-s5	lar-cins	NOM	m	p	larcin	0.17	1.08
+lard	laR	lard	NOM	m	s		8.49	11.01
+larda	laR-da	lar-da	VER			larder	0	0.07
+lardage	laR-daZ	lar-da-ge	NOM	m	s		0	0.07
+lardais	laR-dE	lar-dais	VER			larder	0	0.07
+lardait	laR-dE	lar-dait	VER			larder	0	0.14
+lardant	laR-d@	lar-dant	VER			larder	0	0.07
+larde	laRd	lar-de	VER			larder	0.01	0.14
+lardé	laR-de	lar-dé	VER	m	s	larder	0.02	0.27
+lardée	laR-de	lar-dée	VER	f	s	larder	0	0.07
+lardées	laR-de	lar-dées	VER	f	p	larder	0	0.07
+larder	laR-de	lar-der	VER				0.04	0.41
+lardeuss	laR-de-us	lar-deuss	NOM	m			0	0.68
+lardeux	laR-d2	lar-deux	ADJ	m			0	0.07
+lardon	laR-d§	lar-don	NOM	m	s		0.57	0.61
+lardons	laR-d§	lar-dons	NOM	m	p	lardon	0.26	1.15
+lardons	laR-d§	lar-dons	VER			larder	0	0.07
+lards	laR	lard-s	NOM	m	p	lard	0.13	0.27
+lardu	laR-dy	lar-du	NOM	m	s		0.01	1.49
+lardus	laR-dy	lar-dus	NOM	m	p	lardu	0.02	2.36
+lare	laR	la-re	ADJ	m	s		0	0.07
+lares	laR	la-res	ADJ	m	p	lare	0.27	0.07
+lares	laR	la-res	NOM	m	p	lare	0	0.07
+larfeuil	laR-f9j	lar-feuil	NOM	m	s		0.13	0.2
+larfeuille	laR-f9j	lar-feuil-le	NOM	m	s		0.16	0.34
+larfeuilles	laR-f9j	lar-feuil-les	NOM	m	p	larfeuille	0	0.07
+larfeuils	laR-f9j	lar-feuils	NOM	m	p	larfeuil	0	0.07
+largable	laR-gabl		ADJ	f	s		0.02	0
+largage	laR-gaZ	lar-ga-ge	NOM	m	s		1.34	0.07
+largages	laR-gaZ	lar-ga-ges	NOM	m	p	largage	0.02	0
+large	laRZ	lar-ge	ADJ		s		14.25	70.54
+large	laRZ	lar-ge	NOM	m	s		8.38	35.61
+largement	laR-Z°-m@	lar-ge-ment	ADV				5.98	26.76
+larges	laRZ	lar-ges	ADJ		p	large	4.41	36.96
+larges	laRZ	lar-ges	NOM	m	p	large	0.26	1.01
+largesse	laR-ZEs	lar-ges-se	NOM	f	s		0.08	0.88
+largesses	laR-ZEs	lar-ges-ses	NOM	f	p	largesse	0.34	1.35
+largeur	laR-Z9R	lar-geur	NOM	f	s		1.55	11.42
+largeurs	laR-Z9R	lar-geurs	NOM	f	p	largeur	0.02	0.47
+larghetto	laR-gE-to	lar-ghet-to	NOM	m	s		0	0.07
+largo	laR-go	lar-go	ADV				0.94	0
+largo	laR-go	lar-go	NOM	m	s		0.25	0.07
+largua	laR-ga	lar-gua	VER			larguer	0.03	0.2
+larguaient	laR-gE	lar-guaient	VER			larguer	0.01	0.07
+larguais	laR-gE	lar-guais	VER			larguer	0.05	0.14
+larguait	laR-gE	lar-guait	VER			larguer	0.08	0.41
+larguant	laR-g@	lar-guant	VER			larguer	0.08	0.2
+largue	laRg	lar-gue	VER			larguer	2.13	0.68
+largue	laRg	lar-gue	NOM	m	s		0.08	0
+largué	laR-ge	lar-gué	VER	m	s	larguer	4.2	1.28
+largué	laR-ge	lar-gué	ADJ	m	s		0.42	0.41
+larguée	laR-ge	lar-guée	VER	f	s	larguer	1.49	0.61
+larguée	laR-ge	lar-guée	ADJ	f	s	largué	0.21	0.14
+larguées	laR-ge	lar-guées	ADJ	f	p	largué	0.21	0.14
+larguées	laR-ge	lar-guées	VER	f	p	larguer	0.08	0
+larguent	laRg	lar-guent	VER			larguer	0.27	0.2
+larguer	laR-ge	lar-guer	VER				4.16	2.3
+larguera	laR-g°-Ra	lar-gue-ra	VER			larguer	0.16	0
+larguerai	laR-g°-RE	lar-gue-rai	VER			larguer	0.04	0.07
+larguerait	laR-g°-RE	lar-gue-rait	VER			larguer	0.03	0.07
+larguerez	laR-g°-Re	lar-gue-rez	VER			larguer	0.02	0
+largueront	laR-g°-R§	lar-gue-ront	VER			larguer	0.02	0
+largues	laRg	lar-gues	VER			larguer	0.3	0.07
+largues	laRg	lar-gues	NOM	m	p	largue	0.02	0
+largués	laR-ge	lar-gués	VER	m	p	larguer	0.45	0.27
+largués	laR-ge	lar-gués	ADJ	m	p	largué	0.03	0.27
+largueur	laR-g9R		NOM	m	s		0.02	0
+larguez	laR-ge	lar-guez	VER			larguer	1.01	0.2
+larguiez	laR-gje	lar-guiez	VER			larguer	0	0.07
+larguons	laR-g§	lar-guons	VER			larguer	0	0.07
+larigot	la-Ri-go	la-ri-got	NOM	m	s		0	0.41
+larme	laRm	lar-me	NOM	f	s		5.15	10.81
+larmes	laRm	lar-mes	NOM	f	p	larme	40.56	122.7
+larmichette	laR-mi-SEt	lar-mi-chet-te	NOM	f	s		0.01	0.2
+larmichettes	laR-mi-SEt	lar-mi-chet-tes	NOM	f	p	larmichette	0	0.07
+larmiers	laR-mje	lar-miers	NOM	m	p	larmier	0	0.07
+larmoie	laR-mwa	lar-moie	VER			larmoyer	0.1	0.27
+larmoiement	laR-mwa-m@	lar-moie-ment	NOM	m	s		0	0.14
+larmoiements	laR-mwa-m@	lar-moie-ments	NOM	m	p	larmoiement	0	0.07
+larmoient	laR-mwa	lar-moient	VER			larmoyer	0	0.07
+larmoyait	laR-mwa-jE	lar-moyait	VER			larmoyer	0.01	0.2
+larmoyant	laR-mwa-j@	lar-moyant	ADJ	m	s		0.32	0.54
+larmoyant	laR-mwa-j@	lar-moyant	VER			larmoyer	0.02	0.2
+larmoyante	laR-mwa-j@t	lar-moyan-te	ADJ	f	s	larmoyant	0.27	1.35
+larmoyantes	laR-mwa-j@t	lar-moyan-tes	ADJ	f	p	larmoyant	0.09	0.2
+larmoyants	laR-mwa-j@	lar-moyants	ADJ	m	p	larmoyant	0.16	0.81
+larmoyé	laR-mwa-je	lar-moyé	VER	m	s	larmoyer	0	0.07
+larmoyer	laR-mwa-je	lar-moyer	VER				0.15	0.41
+larmoyeur	laR-mwa-j9R		ADJ	m	s		0	0.07
+larmoyons	laR-mwa-j§	lar-moyons	VER			larmoyer	0	0.07
+larron	la-R§	lar-ron	NOM	m	s		0.34	0.95
+larronne	la-ROn	lar-ron-ne	VER			larronner	0	0.07
+larrons	la-R§	lar-rons	NOM	m	p	larron	0.17	0.88
+larsen	laR-sEn	lar-sen	NOM	m	s		0.89	0.34
+larvaire	laR-vER	lar-vai-re	ADJ		s		0.07	0.68
+larvaires	laR-vER	lar-vai-res	ADJ		p	larvaire	0.03	0.41
+larve	laRv	lar-ve	NOM	f	s		1.92	1.69
+larvé	laR-ve	lar-vé	ADJ	m	s		0	0.14
+larvée	laR-ve	lar-vée	ADJ	f	s	larvé	0.03	0.61
+larvées	laR-ve	lar-vées	ADJ	f	p	larvé	0	0.14
+larves	laRv	lar-ves	NOM	f	p	larve	1.61	2.23
+larvicide	laR-vi-sid		NOM	m	s		0.01	0
+laryngé	la-R5-Ze		ADJ	m	s		0.09	0
+laryngée	la-R5-Ze	la-ryn-gée	ADJ	f	s	laryngé	0	0.07
+laryngite	la-R5-Zit	la-ryn-gi-te	NOM	f	s		0.27	0.14
+laryngologique	la-R5-gO-lO-Zik		ADJ	f	s		0	0.07
+laryngologiste	la-R5-go-lo-Zist	la-ryn-go-lo-gis-te	NOM		s		0	0.14
+laryngoscope	la-R5-gOs-kOp		NOM	m	s		0.18	0
+laryngoscopes	la-R5-gos-kOp	la-ryn-go-sco-pes	NOM	m	p	laryngoscope	0.01	0.07
+laryngoscopie	la-R5-gOs-kO-pi		NOM	f	s		0.1	0
+larynx	la-R5ks	la-ryn-x	NOM	m			0.94	1.55
+las	la	las	ADJ	m			8.09	23.65
+las	la	las	ONO				0.12	0.74
+lasagne	la-zaN	la-sa-gne	NOM	f	s		0.15	0
+lasagnes	la-zaN	la-sa-gnes	NOM	f	p	lasagne	1.79	0.41
+lascar	las-kaR	las-car	NOM	m	s		0.79	1.89
+lascars	las-kaR	las-cars	NOM	m	p	lascar	0.55	2.03
+lascif	la-sif	las-cif	ADJ	m	s		0.46	0.74
+lascifs	la-sif	las-cif-s	ADJ	m	p	lascif	0.05	0.27
+lascive	la-siv	las-ci-ve	ADJ	f	s	lascif	0.21	0.54
+lascivement	la-si-v°-m@	las-ci-ve-ment	ADV				0.02	0.27
+lascives	la-siv	las-ci-ves	ADJ	f	p	lascif	0.8	0.95
+lascivité	la-si-vi-te	las-ci-vi-té	NOM	f	s		0.16	0.27
+lascivités	la-si-vi-te	las-ci-vi-tés	NOM	f	p	lascivité	0	0.07
+laser	la-zER	la-ser	NOM	m	s		5.87	0.81
+lasers	la-zER	la-sers	NOM	m	p	laser	2	0.14
+lassa	la-sa	las-sa	VER			lasser	0.05	0.74
+lassai	la-sE	las-sai	VER			lasser	0	0.2
+lassaient	la-sE	las-saient	VER			lasser	0.01	0.95
+lassais	la-sE	las-sais	VER			lasser	0.08	0.68
+lassait	la-sE	las-sait	VER			lasser	0.06	2.91
+lassant	la-s@	las-sant	ADJ	m	s		0.58	0.61
+lassant	la-s@	las-sant	VER			lasser	0.03	0.54
+lassante	la-s@t	las-san-te	ADJ	f	s	lassant	0.05	0.41
+lassantes	la-s@t	las-san-tes	ADJ	f	p	lassant	0.02	0.2
+lassants	la-s@	las-sants	ADJ	m	p	lassant	0.02	0.07
+lasse	las	las-se	ADJ	f	s	las	8.33	10.07
+lasse	las	las-se	VER			lasser	2.05	4.32
+lassé	la-se	las-sé	VER	m	s	lasser	1.78	3.31
+lassée	la-se	las-sée	VER	f	s	lasser	0.42	1.42
+lassées	la-se	las-sées	VER	f	p	lasser	0.02	0.34
+lassent	las	las-sent	VER			lasser	0.5	0.74
+lasser	la-se	las-ser	VER				1.22	5.88
+lassera	la-s°-Ra	las-se-ra	VER			lasser	0.39	0
+lasserai	la-s°-RE	las-se-rai	VER			lasser	0.22	0.47
+lasseraient	la-s°-RE	las-se-raient	VER			lasser	0	0.14
+lasserais	la-s°-RE	las-se-rais	VER			lasser	0.04	0.27
+lasserait	la-s°-RE	las-se-rait	VER			lasser	0.01	0.2
+lassèrent	la-sER	las-sè-rent	VER			lasser	0	0.27
+lasserez	la-s°-Re	las-se-rez	VER			lasser	0.02	0
+lasseront	la-s°-R§	las-se-ront	VER			lasser	0.04	0.07
+lasses	las	las-ses	ADJ	f	p	las	0.03	1.28
+lasses	las	las-ses	VER			lasser	0.18	0
+lassés	la-se	las-sés	VER	m	p	lasser	0.23	0.68
+lassez	la-se	las-sez	VER			lasser	0.1	0.14
+lassitude	la-si-tyd	las-si-tu-de	NOM	f	s		1.57	16.82
+lassitudes	la-si-tyd	las-si-tu-des	NOM	f	p	lassitude	0	0.27
+lasso	la-so	las-so	NOM	m	s		0.94	1.08
+lassons	la-s§	las-sons	VER			lasser	0	0.07
+lassos	la-so	las-sos	NOM	m	p	lasso	0.09	0.2
+lasure	la-syR		NOM	f	s		0.01	0
+latence	la-t@s	la-ten-ce	NOM	f	s		0.08	0.07
+latences	la-t@s	la-ten-ces	NOM	f	p	latence	0	0.07
+latent	la-t@	la-tent	ADJ	m	s		0.21	0.88
+latente	la-t@t	la-ten-te	ADJ	f	s	latent	0.76	1.22
+latentes	la-t@t	la-ten-tes	ADJ	f	p	latent	0.14	0.47
+latents	la-t@	la-tents	ADJ	m	p	latent	0.14	0.27
+latéral	la-te-Ral	la-té-ral	ADJ	m	s		0.77	0.81
+latérale	la-te-Ral	la-té-ra-le	ADJ	f	s	latéral	1	2.77
+latéralement	la-te-Ra-l°-m@	la-té-ra-le-ment	ADV				0.25	1.08
+latérales	la-te-Ral	la-té-ra-les	ADJ	f	p	latéral	0.15	1.35
+latéralisée	la-te-Ra-li-ze		ADJ	f	s	latéralisé	0.02	0
+latéralité	la-te-Ra-li-te	la-té-ra-li-té	NOM	f	s		0	0.07
+latéraux	la-te-Ro	la-té-raux	ADJ	m	p	latéral	0.17	0.74
+latérite	la-te-Rit	la-té-ri-te	NOM	f	s		0	0.61
+latex	la-tEks	la-tex	NOM	m			1.65	0.47
+laticlave	la-ti-klav	la-ti-cla-ve	NOM	m	s		0	0.07
+latifundistes	la-ti-f§-dist	la-ti-fun-dis-tes	NOM		p	latifundiste	0	0.07
+latin	la-t5	la-tin	NOM	m	s		6.53	14.93
+latin	la-t5	la-tin	ADJ	m	s		1.78	4.46
+latine	la-tin	la-ti-ne	ADJ	f	s	latin	2.37	4.05
+latine	la-tin	la-ti-ne	NOM	f	s	latin	0.04	0.07
+latines	la-tin	la-ti-nes	ADJ	f	p	latin	0.27	1.82
+latines	la-tin	la-ti-nes	NOM	f	p	latin	0.02	0
+latinisaient	la-ti-ni-zE	la-ti-ni-saient	VER			latiniser	0	0.07
+latinisé	la-ti-ni-ze	la-ti-ni-sé	VER	m	s	latiniser	0	0.07
+latinisée	la-ti-ni-ze	la-ti-ni-sée	VER	f	s	latiniser	0	0.07
+latinismes	la-ti-nizm	la-ti-nis-mes	NOM	m	p	latinisme	0	0.07
+latiniste	la-ti-nist	la-ti-nis-te	NOM		s		0.02	0.2
+latinistes	la-ti-nist	la-ti-nis-tes	NOM		p	latiniste	0.01	0.07
+latinité	la-ti-ni-te	la-ti-ni-té	NOM	f	s		0	0.14
+latinités	la-ti-ni-te	la-ti-ni-tés	NOM	f	p	latinité	0	0.07
+latino	la-ti-no	la-ti-no	NOM	m	s		1.61	0
+latino-américain	la-ti-no-a-me-Ri-k5	latino-américain	NOM	m	s		0.03	0.07
+latino-américaine	la-ti-no-a-me-Ri-kEn	latino-américaine	NOM	f	s	latino-américain	0.03	0
+latino-américains	la-ti-no-a-me-Ri-k5	latino-américains	NOM	m	p	latino-américain	0.04	0
+latinos	la-ti-no	la-ti-nos	NOM	m	p	latino	1.27	0
+latins	la-t5	la-tins	ADJ	m	p	latin	0.1	2.3
+latins	la-t5	la-tins	NOM	m	p	latin	0.04	0.07
+latitude	la-ti-tyd	la-ti-tu-de	NOM	f	s		1.09	1.76
+latitudes	la-ti-tyd	la-ti-tu-des	NOM	f	p	latitude	0.36	1.15
+latrine	la-tRin	la-tri-ne	NOM	f	s		0.14	0.14
+latrines	la-tRin	la-tri-nes	NOM	f	p	latrine	0.67	2.36
+lats	lats		NOM	m			0.09	0
+latte	lat	lat-te	NOM	f	s		0.76	2.03
+latte	lat	lat-te	VER			latter	0.09	0
+latté	la-te	lat-té	VER	m	s	latter	0.08	0
+latter	la-te	lat-ter	VER				0.11	0.07
+lattes	lat	lat-tes	NOM	f	p	latte	0.39	7.43
+lattes	lat	lat-tes	VER			latter	0.01	0
+lattés	la-te	lat-tés	VER	m	p	latter	0.01	0
+lattis	la-ti		NOM	m			0.15	0
+latviens	lat-vj5	lat-viens	NOM	m	p	latvien	0.01	0
+laubé	lo-be	lau-bé	NOM		s		0	0.07
+laudanum	lo-da-nOm	lau-da-num	NOM	m	s		0.45	0.2
+laudateur	lo-da-t9R	lau-da-teur	ADJ	m	s		0	0.07
+laudative	lo-da-tiv	lau-da-ti-ve	ADJ	f	s	laudatif	0	0.07
+laudes	lod	lau-des	NOM	f	p	laude	0	0.47
+lauréat	lo-Re-a	lau-réat	NOM	m	s		0.41	0.41
+lauréat	lo-Re-a	lau-réat	ADJ	m	s		0.12	0.2
+lauréate	lo-Re-at	lau-réa-te	ADJ	f	s	lauréat	0.06	0
+lauréats	lo-Re-a	lau-réats	NOM	m	p	lauréat	0.05	0.27
+lauréats	lo-Re-a	lau-réats	ADJ	m	p	lauréat	0.01	0
+laurier	lo-Rje	lau-rier	NOM	m	s		0.9	3.58
+laurier-cerise	lo-Rje-s°-Riz	laurier-cerise	NOM	m	s		0	0.07
+laurier-rose	lo-Rje-Roz	laurier-rose	NOM	m	s		0.04	0.2
+lauriers	lo-Rje	lau-riers	NOM	m	p	laurier	1.37	5.74
+lauriers-cerises	lo-Rje-s°-Riz	lauriers-cerises	NOM	m	p	laurier-cerise	0	0.14
+lauriers-roses	lo-Rje-Roz	lauriers-roses	NOM	m	p	laurier-rose	0.1	1.49
+lausannoises	lo-za-nwaz	lau-san-noi-ses	ADJ	f	p	lausannois	0	0.07
+lauzes	loz	lau-zes	NOM	f	p	lauze	0	0.07
+lav	lav	lav	NOM	m			0.01	0.14
+lava	la-va	la-va	VER			laver	0.07	3.38
+lavable	la-vabl	la-va-ble	ADJ		s		0.05	0.27
+lavables	la-vabl	la-va-bles	ADJ	m	p	lavable	0.01	0.2
+lavabo	la-va-bo	la-va-bo	NOM	m	s		2.56	13.85
+lavabos	la-va-bo	la-va-bos	NOM	m	p	lavabo	0.82	3.04
+lavage	la-vaZ	la-va-ge	NOM	m	s		5.01	2.64
+lavages	la-vaZ	la-va-ges	NOM	m	p	lavage	0.09	0.61
+lavai	la-vE	la-vai	VER			laver	0	0.41
+lavaient	la-vE	la-vaient	VER			laver	0.05	1.69
+lavais	la-vE	la-vais	VER			laver	1.36	0.95
+lavait	la-vE	la-vait	VER			laver	1.23	5.88
+lavallière	la-va-ljER	la-val-liè-re	NOM	f	s		0.02	0.88
+lavallières	la-va-ljER	la-val-liè-res	NOM	f	p	lavallière	0.01	0.07
+lavande	la-v@d	la-van-de	NOM	f	s		1.53	6.82
+lavandes	la-v@d	la-van-des	NOM	f	p	lavande	0	0.41
+lavandière	la-v@-djER	la-van-diè-re	NOM	f	s		0.3	0.47
+lavandières	la-v@-djER	la-van-diè-res	NOM	f	p	lavandière	0.01	1.01
+lavandin	la-v@-d5	la-van-din	NOM	m	s		0	0.07
+lavant	la-v@	la-vant	VER			laver	0.56	2.03
+lavasse	la-vas	la-vas-se	NOM	f	s		0.23	0.47
+lavasse	la-vas	la-vas-se	VER			laver	0	0.07
+lave	lav	la-ve	VER			laver	16.98	7.64
+lave	lav	la-ve	NOM	f	s		3.01	3.18
+lavé	la-ve	la-vé	VER	m	s	laver	6.95	8.38
+lavé	la-ve	la-vé	ADJ	m	s		0.39	3.24
+lave-auto	la-vo-to		NOM	m	s		0.06	0
+lave-glace	lav-glas	lave-glace	NOM	m	s		0.03	0.2
+lave-linge	la-vl5Z	lave-linge	NOM	m			0.83	0
+lave-mains	lav-m5	lave-mains	NOM	m			0	0.07
+lave-pont	lav-p§	lave-pont	NOM	m	s		0	0.07
+lave-ponts	lav-p§	lave-ponts	NOM	m	p	lave-pont	0	0.07
+lave-vaisselle	lav-vE-sEl	lave-vaisselle	NOM	m			0.88	0.2
+lavedu	lav-dy	la-ve-du	NOM		s		0	0.07
+lavée	la-ve	la-vée	VER	f	s	laver	1.91	2.64
+lavée	la-ve	la-vée	ADJ	f	s	lavé	0.15	1.35
+lavées	la-ve	la-vées	ADJ	f	p	lavé	0.27	1.15
+lavées	la-ve	la-vées	VER	f	p	laver	0.26	0.61
+lavement	la-v°-m@	la-ve-ment	NOM	m	s		1.21	0.68
+lavements	la-v°-m@	la-ve-ments	NOM	m	p	lavement	0.17	0
+lavent	lav	la-vent	VER			laver	0.94	0.88
+laver	la-ve	la-ver	VER				34.01	30.68
+lavera	la-v°-Ra	la-ve-ra	VER			laver	0.87	0.27
+laverai	la-v°-RE	la-ve-rai	VER			laver	1.25	0.61
+laverais	la-v°-RE	la-ve-rais	VER			laver	0.05	0.14
+laverait	la-v°-RE	la-ve-rait	VER			laver	0.04	0.54
+laveras	la-v°-Ra	la-ve-ras	VER			laver	0.26	0.2
+lavèrent	la-vER	la-vè-rent	VER			laver	0.01	0.34
+laverez	la-v°-Re	la-ve-rez	VER			laver	0.27	0
+laverie	la-v°-Ri	la-ve-rie	NOM	f	s		2.27	0.88
+laveries	la-v°-Ri	la-ve-ries	NOM	f	p	laverie	0.14	0.14
+laverions	la-v°-Rj§	la-ve-rions	VER			laver	0	0.07
+laverons	la-v°-R§	la-ve-rons	VER			laver	0.04	0.07
+laveront	la-v°-R§	la-ve-ront	VER			laver	0.01	0.14
+laves	lav	la-ves	VER			laver	3.24	0.41
+laves	lav	la-ves	NOM	f	p	lave	0.13	0.34
+lavés	la-ve	la-vés	VER	m	p	laver	0.86	1.01
+lavés	la-ve	la-vés	ADJ	m	p	lavé	0.38	1.42
+lavette	la-vEt	la-vet-te	NOM	f	s		1.2	1.22
+lavettes	la-vEt	la-vet-tes	NOM	f	p	lavette	0.38	0.07
+laveur	la-v9R	la-veur	NOM	m	s		1.51	0.88
+laveurs	la-v9R	la-veurs	NOM	m	p	laveur	0.95	0.14
+laveuse	la-v2z	la-veu-se	NOM	f	s	laveur	0.01	0.74
+laveuses	la-v2z	la-veu-ses	NOM	f	p	laveur	0.03	0.14
+lavez	la-ve	la-vez	VER			laver	2.68	0.34
+lavions	la-vj§	la-vions	VER			laver	0.01	0.2
+lavis	la-vi	la-vis	NOM	m			0	0.41
+lavoir	la-vwaR	la-voir	NOM	m	s		0.15	5.14
+lavoirs	la-vwaR	la-voirs	NOM	m	p	lavoir	0	0.2
+lavons	la-v§	la-vons	VER			laver	0.45	0
+lavure	la-vyR	la-vu-re	NOM	f	s		0	0.07
+lavures	la-vyR	la-vu-res	NOM	f	p	lavure	0	0.07
+laxatif	lak-sa-tif	laxa-tif	NOM	m	s		0.73	0.34
+laxatif	lak-sa-tif	laxa-tif	ADJ	m	s		0.03	0
+laxatifs	lak-sa-tif	laxa-tif-s	NOM	m	p	laxatif	0.24	0.07
+laxatifs	lak-sa-tif	laxa-tif-s	ADJ	m	p	laxatif	0.01	0
+laxative	lak-sa-tiv	laxa-ti-ve	ADJ	f	s	laxatif	0.05	0.07
+laxatives	lak-sa-tiv	laxa-ti-ves	ADJ	f	p	laxatif	0	0.07
+laxisme	lak-sizm	laxis-me	NOM	m	s		0.28	0.2
+laxiste	lak-sist	laxis-te	ADJ		s		0.25	0.2
+laxistes	lak-sist	laxis-tes	ADJ		p	laxiste	0.2	0
+laxistes	lak-sist	laxis-tes	NOM		p	laxiste	0.03	0
+laxité	lak-si-te	laxi-té	NOM	f	s		0.02	0
+laya	le-ja	laya	VER			layer	0	0.34
+layer	le-je	layer	VER				0.03	0.14
+layette	lE-jEt	layet-te	NOM	f	s		0.18	1.35
+layettes	lE-jEt	layet-tes	NOM	f	p	layette	0	0.74
+layon	lE-j§	layon	NOM	m	s		0	5.95
+layons	lE-j§	layons	NOM	m	p	layon	0	0.95
+lazaret	la-za-RE	la-za-ret	NOM	m	s		0.06	0.07
+lazarets	la-za-RE	la-za-rets	NOM	m	p	lazaret	0.01	0.14
+lazaro	la-za-Ro	la-za-ro	NOM	m	s		0.27	0.14
+lazingue	la-z5g		NOM	m	s		0	0.27
+lazzi	lad-zi	laz-zi	NOM	m	s		0	0.68
+lazzis	lad-zi	laz-zis	NOM	m	p	lazzi	0	0.68
+le	l°	le	ART:def	m	s		13652.76	18310.95
+le	l°	le	PRO:per	m	s		3300.74	2424.19
+lé	le	lé	NOM	m	s		2.28	1.35
+leader	li-d9R	lea-der	NOM	m	s		10.28	0.95
+leaders	li-d9R	lea-ders	NOM	m	p	leader	2.44	0.74
+leadership	li-d9R-Sip	lea-der-ship	NOM	m	s		0.38	0.14
+leasing	li-ziG	lea-sing	NOM	m	s		0.24	0
+lebel	l°-bEl	le-bel	NOM	m	s		0	0.81
+lebels	l°-bEl	le-bels	NOM	m	p	lebel	0	0.54
+leben	l°-b@	le-ben	NOM	m	s		0.02	0.27
+lécha	le-Sa	lé-cha	VER			lécher	0.01	1.96
+léchage	le-SaZ	lé-cha-ge	NOM	m	s		0.17	0.14
+léchages	le-SaZ	lé-cha-ges	NOM	m	p	léchage	0.01	0.14
+léchaient	le-SE	lé-chaient	VER			lécher	0.08	0.74
+léchais	le-SE	lé-chais	VER			lécher	0.11	0.27
+léchait	le-SE	lé-chait	VER			lécher	0.37	3.45
+léchant	le-S@	lé-chant	VER			lécher	0.57	2.09
+léchassions	le-Sa-sj§	lé-chas-sions	VER			lécher	0	0.07
+lèche	lES	lè-che	VER			lécher	4.03	3.58
+lèche	lES	lè-che	NOM	f	s		1.38	0.68
+léché	le-Se	lé-ché	VER	m	s	lécher	0.93	1.42
+léché	le-Se	lé-ché	ADJ	m	s		0.13	0.81
+lèche-botte	lES-bOt	lèche-botte	NOM	m	s		0.11	0
+lèche-bottes	lES-bOt	lèche-bottes	NOM	m			0.68	0.34
+lèche-cul	lES-ky	lèche-cul	NOM	m	s		1.29	0.61
+lèche-vitrine	lES-vi-tRin	lèche-vitrine	NOM	m	s		0.26	0.07
+lèche-vitrines	lES-vi-tRin	lèche-vitrines	NOM	m			0.07	0.2
+léchée	le-Se	lé-chée	VER	f	s	lécher	0.45	1.01
+léchée	le-Se	lé-chée	ADJ	f	s	léché	0.01	0.2
+léchées	le-Se	lé-chées	VER	f	p	lécher	0.14	0.41
+léchées	le-Se	lé-chées	ADJ	f	p	léché	0	0.2
+lèchefrite	lES-fRit	lè-che-fri-te	NOM	f	s		0	0.07
+lèchent	lES	lè-chent	VER			lécher	0.5	0.34
+lécher	le-Se	lé-cher	VER				5.73	6.89
+léchera	le-S°-Ra	lé-che-ra	VER			lécher	0.05	0.07
+lécherai	le-S°-RE	lé-che-rai	VER			lécher	0.08	0
+lécherais	le-S°-RE	lé-che-rais	VER			lécher	0.05	0
+lécherait	le-S°-RE	lé-che-rait	VER			lécher	0.01	0.14
+lécheras	le-S°-Ra	lé-che-ras	VER			lécher	0.04	0.07
+léchèrent	le-SER	lé-chè-rent	VER			lécher	0	0.14
+lècheries	lE-S°-Ri	lè-che-ries	NOM	f	p	lècherie	0	0.07
+lécheront	le-S°-R§	lé-che-ront	VER			lécher	0.05	0
+lèches	lES	lè-ches	VER			lécher	0.5	0.07
+lèches	lES	lè-ches	NOM	f	p	lèche	0.04	0
+léchés	le-Se	lé-chés	VER	m	p	lécher	0.03	0.2
+léchés	le-Se	lé-chés	ADJ	m	p	léché	0.02	0.14
+lécheur	le-S9R	lé-cheur	NOM	m	s		0.3	0.14
+lécheurs	le-S9R	lé-cheurs	NOM	m	p	lécheur	0.17	0.07
+lécheuse	le-S2z	lé-cheu-se	NOM	f	s	lécheur	0.01	0.07
+lécheuses	le-S2z	lé-cheu-ses	NOM	f	p	lécheur	0	0.07
+léchez	le-Se	lé-chez	VER			lécher	0.35	0.2
+léchouillait	le-Su-jE	lé-chouil-lait	VER			léchouiller	0	0.07
+léchouillent	le-Suj	lé-chouil-lent	VER			léchouiller	0	0.07
+léchouiller	le-Su-je	lé-chouil-ler	VER				0.02	0.07
+léchouilles	le-Suj	lé-chouil-les	VER			léchouiller	0.02	0
+lécithine	le-si-tin		NOM	f	s		0.15	0
+leçon	l°-s§	le-çon	NOM	f	s		29.24	22.64
+leçons	l°-s§	le-çons	NOM	f	p	leçon	12.23	26.08
+lecteur	lEk-t9R	lec-teur	NOM	m	s		2.86	12.03
+lecteurs	lEk-t9R	lec-teurs	NOM	m	p	lecteur	2.92	11.28
+lectorat	lEk-to-Ra	lec-to-rat	NOM	m	s		0.15	0
+lectrice	lEk-tRis	lec-tri-ce	NOM	f	s	lecteur	0.32	1.49
+lectrices	lEk-tRis	lec-tri-ces	NOM	f	p	lecteur	0.22	1.01
+lecture	lEk-tyR	lec-tu-re	NOM	f	s		13.97	42.16
+lectures	lEk-tyR	lec-tu-res	NOM	f	p	lecture	1.83	12.36
+ledit	l°-di	le-dit	ADJ	m	s		0.32	4.46
+légal	le-gal	lé-gal	ADJ	m	s		9.8	2.43
+légale	le-gal	lé-ga-le	ADJ	f	s	légal	4.51	2.03
+légalement	le-ga-l°-m@	lé-ga-le-ment	ADV				5.09	2.03
+légales	le-gal	lé-ga-les	ADJ	f	p	légal	1.48	1.42
+légalisant	le-ga-li-z@	lé-ga-li-sant	VER			légaliser	0.03	0.07
+légalisation	le-ga-li-za-sj§	lé-ga-li-sa-tion	NOM	f	s		0.09	0
+légalise	le-ga-liz	lé-ga-li-se	VER			légaliser	0.04	0
+légalisé	le-ga-li-ze	lé-ga-li-sé	VER	m	s	légaliser	0.12	0
+légalisé	le-ga-li-ze	lé-ga-li-sé	ADJ	m	s		0.04	0
+légalisée	le-ga-li-ze	lé-ga-li-sée	VER	f	s	légaliser	0.14	0
+légalisée	le-ga-li-ze	lé-ga-li-sée	ADJ	f	s	légalisé	0	0.07
+légaliser	le-ga-li-ze	lé-ga-li-ser	VER				0.3	0
+légalisez	le-ga-li-ze	lé-ga-li-sez	VER			légaliser	0.14	0.07
+légaliste	le-ga-list	lé-ga-lis-te	ADJ		s		0	0.07
+légalistes	le-ga-list	lé-ga-lis-tes	ADJ	m	p	légaliste	0	0.07
+légalité	le-ga-li-te	lé-ga-li-té	NOM	f	s		2.39	2.5
+légat	le-ga	lé-gat	NOM	m	s		0	1.96
+légataire	le-ga-tER	lé-ga-tai-re	NOM		s		0.14	0.34
+légataires	le-ga-tER	lé-ga-tai-res	NOM		p	légataire	0.01	0
+légation	le-ga-sj§	lé-ga-tion	NOM	f	s		0.06	1.89
+légations	le-ga-sj§	lé-ga-tions	NOM	f	p	légation	0	1.01
+legato	le-ga-to		ADV				0.01	0
+légats	le-ga	lé-gats	NOM	m	p	légat	0.15	0.27
+légaux	le-go	lé-gaux	ADJ	m	p	légal	1	0.61
+légendaire	le-Z@-dER	lé-gen-dai-re	ADJ		s		3.57	5.74
+légendaires	le-Z@-dER	lé-gen-dai-res	ADJ		p	légendaire	0.53	1.76
+légende	le-Z@d	lé-gen-de	NOM	f	s		16.07	21.49
+légendée	le-Z@-de	lé-gen-dée	VER	f	s	légender	0	0.07
+légendée	le-Z@-de	lé-gen-dée	ADJ	f	s	légendé	0	0.07
+légender	le-Z@-de	lé-gen-der	VER				0	0.07
+légendes	le-Z@d	lé-gen-des	NOM	f	p	légende	4.33	5.95
+léger	le-Ze	lé-ger	ADJ	m	s		17.03	74.93
+légère	le-ZER	lé-gè-re	ADJ	f	s	léger	15.71	47.84
+légèrement	le-ZE-R°-m@	lé-gè-re-ment	ADV				6.35	65.2
+légères	le-ZER	lé-gè-res	ADJ	f	p	léger	2.45	11.08
+légèreté	le-ZE-R°-te	lé-gè-re-té	NOM	f	s		1.35	12.5
+légèretés	le-ZE-R°-te	lé-gè-re-tés	NOM	f	p	légèreté	0	0.2
+légers	le-Ze	lé-gers	ADJ	m	p	léger	2.57	17.16
+leggins	le-gins	leg-gins	NOM	f	p		0	0.61
+leghorns	le-gORn	le-ghorns	NOM	f	p	leghorn	0	0.07
+légiférait	le-Zi-fe-RE	lé-gi-fé-rait	VER			légiférer	0	0.07
+légifère	le-Zi-fER	lé-gi-fè-re	VER			légiférer	0.01	0.07
+légiféré	le-Zi-fe-Re		VER	m	s	légiférer	0.01	0
+légiférer	le-Zi-fe-Re	lé-gi-fé-rer	VER				0.19	0.14
+légion	le-Zj§	lé-gion	NOM	f	s		4.17	13.65
+légionellose	le-ZjO-ne-loz		NOM	f	s		0.03	0
+légionnaire	le-Zjo-nER	lé-gion-nai-re	NOM	m	s		0.71	2.57
+légionnaires	le-Zjo-nER	lé-gion-nai-res	NOM	m	p	légionnaire	0.52	1.69
+légions	le-Zj§	lé-gions	NOM	f	p	légion	2.5	2.7
+législateur	le-Zi-sla-t9R	lé-gis-la-teur	NOM	m	s		0.3	0.68
+législateurs	le-Zi-sla-t9R	lé-gis-la-teurs	NOM	m	p	législateur	0.17	0.41
+législatif	le-Zi-sla-tif	lé-gis-la-tif	ADJ	m	s		0.41	0.74
+législatif	le-Zi-sla-tif	lé-gis-la-tif	NOM	m	s		0.05	0.14
+législatifs	le-Zi-sla-tif	lé-gis-la-tif-s	ADJ	m	p	législatif	0.03	0.14
+législatifs	le-Zi-sla-tif	lé-gis-la-tif-s	NOM	m	p	législatif	0.01	0
+législation	le-Zi-sla-sj§	lé-gis-la-tion	NOM	f	s		1.16	1.42
+législative	le-Zi-sla-tiv	lé-gis-la-ti-ve	ADJ	f	s	législatif	0.11	0.54
+législative	le-Zi-sla-tiv	lé-gis-la-ti-ve	NOM	f	s	législatif	0.01	0
+législatives	le-Zi-sla-tiv	lé-gis-la-ti-ves	ADJ	f	p	législatif	0.18	0.61
+législatives	le-Zi-sla-tiv	lé-gis-la-ti-ves	NOM	f	p	législatif	0.13	0.14
+législature	le-Zi-sla-tyR	lé-gis-la-tu-re	NOM	f	s		0.2	0.14
+légiste	le-Zist	lé-gis-te	NOM		s		7.28	1.35
+légistes	le-Zist	lé-gis-tes	NOM		p	légiste	0.69	0.07
+légitimaient	le-Zi-ti-mE	lé-gi-ti-maient	VER			légitimer	0	0.14
+légitimait	le-Zi-ti-mE	lé-gi-ti-mait	VER			légitimer	0	0.14
+légitimant	le-Zi-ti-m@	lé-gi-ti-mant	VER			légitimer	0.02	0.07
+légitimant	le-Zi-ti-m@	lé-gi-ti-mant	ADJ	m	s		0.02	0
+légitimation	le-Zi-ti-ma-sj§		NOM	f	s		0.03	0
+légitimations	le-Zi-ti-ma-sj§	lé-gi-ti-ma-tions	NOM	f	p	légitimation	0	0.07
+légitime	le-Zi-tim	lé-gi-ti-me	ADJ		s		12.82	13.24
+légitime	le-Zi-tim	lé-gi-ti-me	VER			légitimer	0.03	0.34
+légitimé	le-Zi-ti-me	lé-gi-ti-mé	VER	m	s	légitimer	0.05	0.27
+légitimé	le-Zi-ti-me	lé-gi-ti-mé	ADJ	m	s		0	0.07
+légitimée	le-Zi-ti-me	lé-gi-ti-mée	VER	f	s	légitimer	0	0.07
+légitimée	le-Zi-ti-me	lé-gi-ti-mée	ADJ	f	s	légitimé	0	0.07
+légitimement	le-Zi-ti-m°-m@	lé-gi-ti-me-ment	ADV				0.27	1.22
+légitiment	le-Zi-tim	lé-gi-ti-ment	VER			légitimer	0	0.07
+légitimer	le-Zi-ti-me	lé-gi-ti-mer	VER				0.19	0.47
+légitimera	le-Zi-ti-m°-Ra	lé-gi-ti-me-ra	VER			légitimer	0.01	0.07
+légitimes	le-Zi-tim	lé-gi-ti-mes	ADJ		p	légitime	1.26	2.97
+légitimiste	le-Zi-ti-mist	lé-gi-ti-mis-te	ADJ	m	s		0	0.34
+légitimistes	le-Zi-ti-mist	lé-gi-ti-mis-tes	NOM		p	légitimiste	0	0.07
+légitimité	le-Zi-ti-mi-te	lé-gi-ti-mi-té	NOM	f	s		0.76	1.76
+lego	le-go	le-go	NOM	m	s		0.35	0.07
+legos	lE-go	le-gos	NOM	m	p	lego	0.09	0
+legs	lEg	leg-s	NOM	m			1.34	1.49
+légua	le-ga	lé-gua	VER			léguer	0.02	0.27
+léguaient	le-gE	lé-guaient	VER			léguer	0	0.07
+léguais	le-gE	lé-guais	VER			léguer	0	0.07
+léguait	le-gE	lé-guait	VER			léguer	0.04	0.2
+léguant	le-g@	lé-guant	VER			léguer	0.31	0.27
+lègue	lEg	lè-gue	VER			léguer	1.47	0.54
+légué	le-ge	lé-gué	VER	m	s	léguer	1.99	1.96
+légué	le-ge	lé-gué	ADJ	m	s		0.01	0.07
+léguée	le-ge	lé-guée	VER	f	s	léguer	0.09	0.47
+léguées	le-ge	lé-guées	VER	f	p	léguer	0.02	0.14
+léguer	le-ge	lé-guer	VER				0.67	1.22
+léguera	le-g°-Ra	lé-gue-ra	VER			léguer	0	0.07
+léguerai	le-g°-RE	lé-gue-rai	VER			léguer	0.01	0.2
+léguerais	le-g°-RE	lé-gue-rais	VER			léguer	0.01	0.07
+léguerez	le-g°-Re	lé-gue-rez	VER			léguer	0.01	0
+léguerons	le-g°-R§	lé-gue-rons	VER			léguer	0.01	0
+légueront	le-g°-R§	lé-gue-ront	VER			léguer	0.01	0
+légués	le-ge	lé-gués	VER	m	p	léguer	0.17	0.07
+léguez	le-ge	lé-guez	VER			léguer	0.16	0
+légume	le-gym	lé-gu-me	NOM	m	s		3.2	2.09
+légumes	le-gym	lé-gu-mes	NOM	m	p	légume	11.96	21.35
+légumier	le-gy-mje	lé-gu-mier	NOM	m	s		0	0.07
+légumineuse	le-gy-mi-n2z	lé-gu-mi-neu-se	NOM	f	s	légumineux	0	0.07
+légumineux	le-gy-mi-n2	lé-gu-mi-neux	ADJ	m			0	0.07
+lei	lE	lei	NOM	m	p		0.8	0.34
+leishmaniose	lES-ma-njoz		NOM	f	s		0.06	0
+leitmotiv	lEj-tmo-tiv	leit-mo-tiv	NOM	m	s		0.06	1.22
+leitmotive	laj-tmo-tiv	leit-mo-ti-ve	NOM	m	p		0	0.07
+lek	lEk	lek	NOM	m	s		0.01	0
+lem	lEm		NOM	m	s		0.16	0
+lemmes	lEm	lem-mes	NOM	m	p	lemme	0	0.07
+lemming	lE-miG	lem-ming	NOM	m	s		0.07	0
+lemmings	lE-miG	lem-ming-s	NOM	m	p	lemming	0.09	0.07
+lémur	le-myR		NOM	m	s		0.01	0
+lémure	le-myR	lé-mu-re	NOM	m	s		0	0.14
+lémures	le-myR	lé-mu-res	NOM	m	p	lémure	0	0.14
+lémurien	le-my-Rj5	lé-mu-rien	NOM	m	s		0.3	0
+lémuriens	le-my-Rj5	lé-mu-riens	NOM	m	p	lémurien	0.04	0.41
+lendemain	l@-d°-m5	len-de-main	NOM	m	s		28.58	145.54
+lendemains	l@-d°-m5	len-de-mains	NOM	m	p	lendemain	0.71	3.72
+lénifiait	le-ni-fjE	lé-ni-fiait	VER			lénifier	0	0.07
+lénifiant	le-ni-fj@	lé-ni-fiant	ADJ	m	s		0.01	0.07
+lénifiante	le-ni-fj@t	lé-ni-fian-te	ADJ	f	s	lénifiant	0.01	0.68
+lénifiantes	le-ni-fj@t	lé-ni-fian-tes	ADJ	f	p	lénifiant	0	0.2
+lénifiants	le-ni-fj@	lé-ni-fiants	ADJ	m	p	lénifiant	0.01	0.07
+lénification	le-ni-fi-ka-sj§		NOM	f	s		0	0.07
+léninisme	le-ni-nizm	lé-ni-nis-me	NOM	m	s		0.27	0.2
+léniniste	le-ni-nist	lé-ni-nis-te	ADJ	f	s		0.14	0.2
+léninistes	le-ni-nist	lé-ni-nis-tes	NOM		p	léniniste	0	0.34
+léninistes	le-ni-nist	lé-ni-nis-tes	ADJ	f	p	léniniste	0	0.07
+lénitive	le-ni-tiv	lé-ni-ti-ve	ADJ	f	s	lénitif	0	0.2
+lénitives	le-ni-tiv	lé-ni-ti-ves	ADJ	f	p	lénitif	0	0.07
+lent	l@	lent	ADJ	m	s		9.15	23.31
+lente	l@t	len-te	ADJ	f	s	lent	4.67	21.55
+lente	l@t	len-te	NOM	f	s		0.65	1.15
+lentement	l@-t°-m@	len-te-ment	ADV				26.48	156.55
+lentes	l@t	len-tes	ADJ	f	p	lent	0.94	7.23
+lentes	l@t	len-tes	NOM	f	p	lente	0.17	0.2
+lenteur	l@-t9R	len-teur	NOM	f	s		1.15	21.96
+lenteurs	l@-t9R	len-teurs	NOM	f	p	lenteur	0.01	0.54
+lenticulaires	l@-ti-ky-lER	len-ti-cu-lai-res	ADJ	m	p	lenticulaire	0.01	0
+lenticules	l@-ti-kyl	len-ti-cu-les	NOM	f	p	lenticule	0	0.07
+lentille	l@-tij	len-til-le	NOM	f	s		1.22	0.74
+lentilles	l@-tij	len-til-les	NOM	f	p	lentille	3.44	7.5
+lentisque	l@-tisk	len-tis-que	NOM	m	s		0	0.07
+lentisques	l@-tisk	len-tis-ques	NOM	m	p	lentisque	0	0.81
+lento	lEn-to	len-to	ADV				0.05	0.14
+lents	l@	lents	ADJ	m	p	lent	1.65	12.03
+léonard	le-o-naR	léo-nard	ADJ	m	s		0.05	0.14
+léonin	le-o-n5	léo-nin	ADJ	m	s		0	0.27
+léonine	le-o-nin	léo-ni-ne	ADJ	f	s	léonin	0	0.34
+léonins	le-o-n5	léo-nins	ADJ	m	p	léonin	0	0.07
+léopard	le-o-paR	léo-pard	NOM	m	s		3.18	2.57
+léopardé	le-o-paR-de	léo-par-dé	ADJ	m	s		0	0.07
+léopards	le-o-paR	léo-pard-s	NOM	m	p	léopard	0.46	0.14
+lépidoptère	le-pi-dOp-tER	lé-pi-do-ptè-re	NOM	m	s		0	0.14
+lépidoptères	le-pi-dOp-tER	lé-pi-do-ptè-res	NOM	m	p	lépidoptère	0	0.07
+lépiotes	le-pjOt	lé-pio-tes	NOM	f	p	lépiote	0	0.07
+lépontique	le-p§-tik	lé-pon-ti-que	NOM	m	s		0	0.14
+lèpre	lEpR	lè-pre	NOM	f	s		1.4	3.51
+lèpres	lEpR	lè-pres	NOM	f	p	lèpre	0	0.14
+lépreuse	le-pR2z	lé-preu-se	ADJ	f	s	lépreux	0.15	0.41
+lépreuse	le-pR2z	lé-preu-se	NOM	f	s	lépreux	0.07	0.07
+lépreuses	le-pR2z	lé-preu-ses	ADJ	f	p	lépreux	0.02	0.68
+lépreuses	le-pR2z	lé-preu-ses	NOM	f	p	lépreux	0.04	0
+lépreux	le-pR2	lé-preux	NOM	m			2.54	2.57
+lépreux	le-pR2	lé-preux	ADJ	m			0.24	1.49
+léprologie	le-pRO-lO-Zi		NOM	f	s		0.01	0
+léproserie	le-pRo-z°-Ri	lé-pro-se-rie	NOM	f	s		0.32	0.74
+léproseries	le-pRo-z°-Ri	lé-pro-se-ries	NOM	f	p	léproserie	0	0.07
+lepton	lEp-t§	lep-ton	NOM	m	s		0.06	0
+leptonique	lEp-tO-nik		ADJ	m	s		0.07	0
+leptons	lEp-t§	lep-tons	NOM	m	p	lepton	0.02	0
+lequel	l°-kEl	le-quel	PRO:rel	m	s		59.66	133.99
+lequel	l°-kEl	le-quel	PRO:int				4.65	3.11
+lerch	lERS	ler-ch	ADV				0	0.07
+lerche	lERS	ler-che	ADV				0	4.12
+lérot	le-Ro		NOM	m	s		0.01	0
+lérots	le-Ro	lé-rots	NOM	m	p	lérot	0	0.14
+les	le	les	ART:def		p		8720.38	14662.3
+les	le	les	PRO:per		p		1240.75	1412.23
+lès	lE	lès	PRE				0	0.07
+lés	le	lés	NOM	m	p	lé	0.02	0.68
+lésaient	le-zE	lé-saient	VER			léser	0	0.07
+lésais	le-zE	lé-sais	VER			léser	0	0.07
+lesbianisme	lEs-bja-nizm	les-bia-nis-me	NOM	m	s		0.12	0.07
+lesbien	lEz-bj5	les-bien	ADJ	m	s		0.49	0
+lesbien	lEz-bj5	les-bien	NOM	m	s		0.13	0
+lesbienne	lEs-bjEn	les-bien-ne	ADJ	f	s	lesbien	6.8	0.81
+lesbienne	lEs-bjEn	les-bien-ne	NOM	f	s	lesbien	2.68	0.07
+lesbiennes	lEs-bjEn	les-bien-nes	NOM	f	p	lesbien	2.56	0.34
+lesbiennes	lEs-bjEn	les-bien-nes	ADJ	f	p	lesbien	0.94	0.34
+lesdites	lE-dit	les-di-tes	ADJ	f	p		0	0.2
+lesdits	lE-di	les-dits	ADJ	m	p		0.13	0.54
+lèse	lEz	lè-se	VER			léser	0.06	0.07
+lésé	le-ze	lé-sé	VER	m	s	léser	0.43	0.41
+lèse-majesté	lEz-ma-ZEs-te	lèse-majesté	NOM	f			0.03	0.27
+lésée	le-ze	lé-sée	VER	f	s	léser	0.35	0.14
+lésées	le-ze	lé-sées	VER	f	p	léser	0.02	0
+léser	le-ze	lé-ser	VER				0.33	0.07
+lésés	le-ze	lé-sés	VER	m	p	léser	0.15	0.27
+lésina	le-zi-na	lé-si-na	VER			lésiner	0	0.07
+lésinaient	le-zi-nE	lé-si-naient	VER			lésiner	0	0.14
+lésinait	le-zi-nE	lé-si-nait	VER			lésiner	0	0.2
+lésine	le-zin	lé-si-ne	VER			lésiner	0.47	0.34
+lésine	le-zin	lé-si-ne	NOM	f	s		0	0.14
+lésiné	le-zi-ne	lé-si-né	VER	m	s	lésiner	0.09	0.47
+lésinent	le-zin	lé-si-nent	VER			lésiner	0	0.2
+lésiner	le-zi-ne	lé-si-ner	VER				0.36	0.88
+lésinerie	le-zi-n°-Ri	lé-si-ne-rie	NOM	f	s		0	0.07
+lésines	le-zin	lé-si-nes	NOM	f	p	lésine	0	0.07
+lésinez	le-zi-ne	lé-si-nez	VER			lésiner	0.09	0
+lésion	le-zj§	lé-sion	NOM	f	s		1.84	0.47
+lésionnaire	le-zjO-nER		ADJ		s		0.01	0
+lésions	le-zj§	lé-sions	NOM	f	p	lésion	2.53	0.81
+lésions	le-zj§	lé-sions	VER			léser	0.01	0
+lésons	le-z§	lé-sons	VER			léser	0.01	0
+lesquelles	lE-kEl	les-quel-les	PRO:rel	f	p		11.6	41.55
+lesquelles	lE-kEl	les-quel-les	PRO:int				0.16	1.55
+lesquels	lE-kEl	les-quels	PRO:rel	m	p		10	45.14
+lesquels	lE-kEl	les-quels	PRO:int				0.42	2.77
+lessiva	lE-si-va	les-si-va	VER			lessiver	0	0.07
+lessivage	le-si-vaZ	les-si-va-ge	NOM	m	s		0.02	0.2
+lessivaient	lE-si-vE	les-si-vaient	VER			lessiver	0	0.07
+lessivait	lE-si-vE	les-si-vait	VER			lessiver	0	0.14
+lessivant	lE-si-v@	les-si-vant	VER			lessiver	0	0.14
+lessive	le-siv	les-si-ve	NOM	f	s		8.09	7.7
+lessive	le-siv	les-si-ve	VER			lessiver	0.13	0.07
+lessivé	lE-si-ve	les-si-vé	VER	m	s	lessiver	0.5	1.08
+lessivée	lE-si-ve	les-si-vée	VER	f	s	lessiver	0.06	0.27
+lessiver	le-si-ve	les-si-ver	VER				0.12	0.88
+lessiverait	lE-si-v°-RE	les-si-ve-rait	VER			lessiver	0	0.07
+lessives	le-siv	les-si-ves	NOM	f	p	lessive	0.42	1.08
+lessivés	lE-si-ve	les-si-vés	VER	m	p	lessiver	0.05	0.54
+lessiveuse	le-si-v2z	les-si-veu-se	NOM	f	s	lessiveur	0.04	2.3
+lessiveuses	lE-si-v2z	les-si-veu-ses	NOM	f	p	lessiveur	0.02	0.41
+lessivons	lE-si-v§	les-si-vons	VER			lessiver	0.05	0
+lest	lEst	lest	NOM	m	s		0.97	0.68
+leste	lEst	les-te	ADJ		s		0.5	0.95
+leste	lEst	les-te	VER			lester	0.03	0.14
+lesté	lEs-te	les-té	VER	m	s	lester	0.07	1.08
+lesté	lEs-te	les-té	ADJ	m	s		0.04	0.34
+lestée	lEs-te	les-tée	VER	f	s	lester	0.03	0.41
+lestée	lEs-te	les-tée	ADJ	f	s	lesté	0.01	0.14
+lestées	lEs-te	les-tées	ADJ	f	p	lesté	0	0.14
+lestées	lEs-te	les-tées	VER	f	p	lester	0.01	0.07
+lestement	lEs-t°-m@	les-te-ment	ADV				0.02	0.68
+lester	lEs-te	les-ter	VER				1.97	0.41
+lestera	lEs-t°-Ra	les-te-ra	VER			lester	0.01	0
+lesterait	lEs-t°-RE	les-te-rait	VER			lester	0	0.07
+lestes	lEst	les-tes	ADJ		p	leste	0.11	0.47
+lestes	lEst	les-tes	VER			lester	0.14	0
+lestés	lEs-te	les-tés	VER	m	p	lester	0.01	0.54
+lestez	lEs-te	les-tez	VER			lester	0.01	0
+let	lE	let	ADJ				3.56	0.47
+létal	le-tal	lé-tal	ADJ	m	s		0.03	0
+létale	le-tal	lé-ta-le	ADJ	f	s	létal	0.23	0.07
+létales	le-tal	lé-ta-les	ADJ	f	p	létal	0.03	0
+létalité	le-ta-li-te	lé-ta-li-té	NOM	f	s		0.02	0
+letchis	lEt-Si	let-chis	NOM	m	p	letchi	0	0.07
+léthargie	le-taR-Zi	lé-thar-gie	NOM	f	s		0.75	2.09
+léthargies	le-taR-Zi	lé-thar-gies	NOM	f	p	léthargie	0.01	0.07
+léthargique	le-taR-Zik	lé-thar-gi-que	ADJ		s		0.18	0.54
+léthargiques	le-taR-Zik	lé-thar-gi-ques	ADJ	m	p	léthargique	0.04	0.27
+lette	lEt		NOM		s		0.01	0
+lettes	lEt	let-tes	NOM		p	lette	0.01	0
+letton	lE-t§	let-ton	NOM	m	s		0.1	0.07
+letton	lE-t§	let-ton	ADJ	m	s		0.04	0
+lettone	lE-tOn	let-to-ne	NOM	f	s		0	0.14
+lettone	lE-tOn	let-to-ne	ADJ	f	s	letton	0.03	0.07
+lettonne	lE-tOn	let-ton-ne	ADJ	f	s	letton	0	0.07
+lettonnes	lE-tOn	let-ton-nes	ADJ	f	p	letton	0	0.07
+lettons	lE-t§	let-tons	NOM	m	p	letton	0.04	0.27
+lettons	lE-t§	let-tons	ADJ	m	p	letton	0.02	0.14
+lettrage	lE-tRaZ		NOM	m	s		0.03	0
+lettre	lEtR	let-tre	NOM	f	s		108.79	140.88
+lettré	le-tRe	let-tré	NOM	m	s		0.19	1.35
+lettré	le-tRe	let-tré	ADJ	m	s		0.06	0.47
+lettre-clé	lEt-Rkle	lettre-clé	NOM	f	s		0.14	0
+lettrée	le-tRe	let-trée	ADJ	f	s	lettré	0.01	0.07
+lettres	lEtR	let-tres	NOM	f	p	lettre	47.98	115.14
+lettrés	lE-tRe	let-trés	NOM	m	p	lettré	0.12	0.95
+lettrés	lE-tRe	let-trés	ADJ	m	p	lettré	0.16	0.41
+lettreur	lE-tR9R	let-treur	NOM	m	s		0	0.07
+lettrine	lE-tRin	let-tri-ne	NOM	f	s		0	0.14
+lettrines	lE-tRin	let-tri-nes	NOM	f	p	lettrine	0	0.07
+lettriques	lE-tRik	let-tri-ques	ADJ	m	p	lettrique	0	0.07
+lettristes	lE-tRist	let-tris-tes	ADJ		p	lettriste	0	0.07
+leu	l2	leu	NOM	m	s		0.92	4.73
+leucémie	l2-se-mi	leu-cé-mie	NOM	f	s		1.72	0.54
+leucémies	l2-se-mi	leu-cé-mies	NOM	f	p	leucémie	0.17	0.07
+leucémique	l2-se-mik	leu-cé-mi-que	ADJ		s		0.02	0.07
+leucémique	l2-se-mik	leu-cé-mi-que	NOM		s		0.05	0
+leucocytaire	l2-ko-si-tER		ADJ	f	s		0.01	0
+leucocyte	l2-ko-sit	leu-co-cy-te	NOM	m	s		0.01	0
+leucocytes	l2-ko-sit	leu-co-cy-tes	NOM	m	p	leucocyte	0.09	0.2
+leucocytose	l2-kO-si-toz		NOM	f	s		0.03	0
+leucopénie	l2-ko-pe-ni	leu-co-pé-nie	NOM	f	s		0.01	0.07
+leucoplasie	l2-ko-pla-zi	leu-co-pla-sie	NOM	f	s		0.01	0.07
+leucose	l2-koz	leu-co-se	NOM	f	s		0	0.41
+leucotomie	l2-ko-to-mi	leu-co-to-mie	NOM	f	s		0	0.07
+leur	l9R	leur	PRO:per		p		277.53	415
+leur	l9R	leur	PRO:pos		s		6.28	12.5
+leurrais	l9-RE	leur-rais	VER			leurrer	0.01	0.07
+leurrait	l9-RE	leur-rait	VER			leurrer	0	0.27
+leurre	l9R	leur-re	NOM	m	s		2.12	2.16
+leurre	l9R	leur-re	VER			leurrer	0.36	0.2
+leurré	l9-Re	leur-ré	VER	m	s	leurrer	0.09	0.27
+leurrent	l9R	leur-rent	VER			leurrer	0.01	0.07
+leurrer	l9-Re	leur-rer	VER				0.55	0.68
+leurres	l9R	leur-res	NOM	m	p	leurre	0.55	0.74
+leurres	l9R	leur-res	VER			leurrer	0.08	0
+leurrés	l9-Re	leur-rés	VER	m	p	leurrer	0.03	0.07
+leurrez	l9-Re	leur-rez	VER			leurrer	0.09	0.07
+leurrons	l9-R§	leur-rons	VER			leurrer	0.14	0.27
+leurs	l9R	leurs	ADJ:pos				243.56	886.55
+leurs	l9R	leurs	PRO:pos		p		6.8	9.53
+lev	lEv	lev	NOM	m	s		0.68	0
+leva	l°-va	le-va	VER			lever	1.28	123.58
+leva	l°-va	le-va	NOM	m	p		0.01	0
+levage	l°-vaZ	le-va-ge	NOM	m	s		0.02	0.34
+levai	l°-vE	le-vai	VER			lever	0.07	10.27
+levaient	l°-vE	le-vaient	VER			lever	0.2	5.88
+levain	l°-v5	le-vain	NOM	m	s		0.18	0.88
+levais	l°-vE	le-vais	VER			lever	0.69	4.39
+levait	l°-vE	le-vait	VER			lever	1.17	32.84
+levâmes	l°-vam	le-vâ-mes	VER			lever	0	0.34
+levant	l°-v@	le-vant	VER			lever	1.36	28.78
+levant	l°-v@	le-vant	NOM	m	s		0.03	5.88
+levant	l°-v@	le-vant	ADJ	m	s		0.91	2.3
+levante	l°-v@t	le-van-te	ADJ	f	s	levant	0.02	0.14
+levantin	l°-v@-t5	le-van-tin	NOM	m	s		0.01	0.2
+levantin	l°-v@-t5	le-van-tin	ADJ	m	s		0.02	0.14
+levantines	l°-v@-tin	le-van-ti-nes	NOM	f	p	levantin	0	0.07
+levantins	l°-v@-t5	le-van-tins	NOM	m	p	levantin	0	0.2
+levantins	l°-v@-t5	le-van-tins	ADJ	m	p	levantin	0	0.07
+levât	l°-va	le-vât	VER			lever	0	0.68
+levé	l°-ve	le-vé	VER	m	s	lever	13.4	40.41
+levé	l°-ve	le-vé	ADJ	m	s		1.69	11.62
+levé	l°-ve	le-vé	NOM	m	s		0.44	0.41
+lève	lEv	lè-ve	VER			lever	67.72	77.7
+levée	l°-ve	le-vée	VER	f	s	lever	6.41	13.78
+levée	l°-ve	le-vée	ADJ	f	s	levé	1.47	7.03
+levée	l°-ve	le-vée	NOM	f	s		0.81	3.58
+levées	l°-ve	le-vées	VER	f	p	lever	0.41	1.55
+levées	l°-ve	le-vées	ADJ	f	p	levé	0.18	1.69
+levées	l°-ve	le-vées	NOM	f	p	levée	0.04	1.15
+lèvent	lEv	lè-vent	VER			lever	1.67	8.45
+lever	l°-ve	le-ver	VER				35.9	66.89
+lever	l°-ve	le-ver	NOM	m	s		4.76	8.78
+lèvera	lE-v°-Ra	lè-ve-ra	VER			lever	1.91	1.89
+lèverai	lE-v°-RE	lè-ve-rai	VER			lever	0.7	0.95
+lèveraient	lE-v°-RE	lè-ve-raient	VER			lever	0.05	0.34
+lèverais	lE-v°-RE	lè-ve-rais	VER			lever	0.26	0.41
+lèverait	lE-v°-RE	lè-ve-rait	VER			lever	0.48	1.35
+lèveras	lE-v°-Ra	lè-ve-ras	VER			lever	0.32	0.07
+levèrent	l°-vER	le-vè-rent	VER			lever	0.12	7.5
+lèverez	lE-v°-Re	lè-ve-rez	VER			lever	0.17	0.07
+lèverons	lE-v°-R§	lè-ve-rons	VER			lever	0.31	0.14
+lèveront	lE-v°-R§	lè-ve-ront	VER			lever	0.26	0.2
+levers	l°-ve	le-vers	NOM	m	p	lever	0.16	0.34
+levés	l°-ve	le-vés	VER	m	p	lever	0.58	6.08
+levés	l°-ve	le-vés	ADJ	m	p	levé	0.46	5.68
+levés	l°-ve	le-vés	NOM	m	p	levé	0.02	0.14
+lèves	lEv	lè-ves	VER			lever	5.42	1.35
+leveur	l°-v9R	le-veur	NOM	m	s		0.02	0.07
+leveurs	l°-v9R	le-veurs	NOM	m	p	leveur	0.01	0.07
+leveuse	l°-v2z	le-veu-se	NOM	f	s	leveur	0	0.2
+levez	l°-ve	le-vez	VER			lever	22.23	2.23
+léviathan	le-vja-t@		NOM	m	s		0.27	0.27
+levier	l°-vje	le-vier	NOM	m	s		3.24	3.45
+leviers	l°-vje	le-viers	NOM	m	p	levier	0.23	1.82
+leviez	l°-vje	le-viez	VER			lever	0.35	0.07
+levions	l°-vj§	le-vions	VER			lever	0.03	1.08
+lévitation	le-vi-ta-sj§	lé-vi-ta-tion	NOM	f	s		0.46	0.61
+lévite	le-vit	lé-vi-te	NOM		s		0.09	0.41
+lévitent	le-vit	lé-vi-tent	VER			léviter	0.01	0.07
+léviter	le-vi-te	lé-vi-ter	VER				0.46	0
+lévites	le-vit	lé-vi-tes	NOM		p	lévite	0.01	0.14
+lévitique	le-vi-tik		ADJ		s		0.02	0
+lévitique	le-vi-tik		NOM		s		0.02	0
+levons	l°-v§	le-vons	VER			lever	2.52	1.49
+lèvre	lEvR	lè-vre	NOM	f	s		4	20.74
+levreau	l°-vRo	le-vreau	NOM	m	s		0	0.07
+levreaux	l°-vRo	le-vreaux	NOM	m	p	levreau	0	0.07
+lèvres	lEvR	lè-vres	NOM	f	p	lèvre	33.91	201.28
+levrette	l°-vREt	le-vret-te	NOM	f	s		0.65	0.95
+levrettes	l°-vREt	le-vret-tes	NOM	f	p	levrette	0	0.07
+lévrier	le-vRi-je	lé-vrier	NOM	m	s		0.31	1.55
+lévriers	le-vRi-je	lé-vriers	NOM	m	p	lévrier	0.63	0.74
+levure	l°-vyR	le-vu-re	NOM	f	s		1	0.81
+levures	l°-vyR	le-vu-res	NOM	f	p	levure	0.05	0
+lexical	lEk-si-kal	lexi-cal	ADJ	m	s		0	0.07
+lexicographes	lEk-si-ko-gRaf	lexi-co-gra-phes	NOM		p	lexicographe	0	0.07
+lexie	lEk-si	lexie	NOM	f	s		0.05	0.07
+lexique	lEk-sik	lexi-que	NOM	m	s		0.11	0.68
+lexiques	lEk-sik	lexi-ques	NOM	m	p	lexique	0	0.27
+lez	lE	lez	PRE				0.36	0.14
+lézard	le-zaR	lé-zard	NOM	m	s		4.9	7.5
+lézardaient	le-zaR-dE	lé-zar-daient	VER			lézarder	0	0.2
+lézardait	le-zaR-dE	lé-zar-dait	VER			lézarder	0	0.41
+lézarde	le-zaRd	lé-zar-de	NOM	f	s	lézard	0.03	0.88
+lézarde	le-zaRd	lé-zar-de	VER			lézarder	0.01	0.54
+lézardé	le-zaR-de	lé-zar-dé	VER	m	s	lézarder	0.01	0.07
+lézardé	le-zaR-de	lé-zar-dé	ADJ	m	s		0.01	0.07
+lézardée	le-zaR-de	lé-zar-dée	ADJ	f	s	lézardé	0.01	0.27
+lézardées	le-zaR-de	lé-zar-dées	ADJ	f	p	lézardé	0	0.27
+lézardées	le-zaR-de	lé-zar-dées	VER	f	p	lézarder	0	0.07
+lézardent	le-zaRd	lé-zar-dent	VER			lézarder	0.23	0
+lézarder	le-zaR-de	lé-zar-der	VER				0.01	0.34
+lézardes	le-zaRd	lé-zar-des	NOM	f	p	lézard	0.01	1.22
+lézardés	le-zaR-de	lé-zar-dés	VER	m	p	lézarder	0	0.27
+lézardés	le-zaR-de	lé-zar-dés	ADJ	m	p	lézardé	0	0.27
+lézards	le-zaR	lé-zard-s	NOM	m	p	lézard	1.22	1.82
+li	li	li	NOM	m	s		2.56	1.76
+lia	lja	lia	VER			lier	0.49	0.95
+liage	ljaZ	lia-ge	NOM	m	s		0.01	0
+liai	ljE	liai	VER			lier	0	0.41
+liaient	ljE	liaient	VER			lier	0.14	0.95
+liais	ljE	liais	VER			lier	0.02	0.2
+liaison	ljE-z§	liai-son	NOM	f	s		18.41	26.69
+liaisons	ljE-z§	liai-sons	NOM	f	p	liaison	1.94	5.27
+liait	ljE	liait	VER			lier	0.71	3.72
+liâmes	ljam	liâ-mes	VER			lier	0	0.14
+liane	ljan	lia-ne	NOM	f	s		0.34	1.08
+lianes	ljan	lia-nes	NOM	f	p	liane	0.43	3.51
+liant	lj@	liant	VER			lier	0.12	0.81
+liant	lj@	liant	NOM	m	s		0.01	0.34
+liant	lj@	liant	ADJ	m	s		0.04	0.27
+liante	lj@t	lian-te	ADJ	f	s	liant	0.14	0.14
+liants	lj@	liants	ADJ	m	p	liant	0.02	0.14
+liard	ljaR	liard	NOM	m	s		0.19	0.27
+liardais	ljaR-dE	liar-dais	VER			liarder	0	0.07
+liards	ljaR	liard-s	NOM	m	p	liard	0.03	0.27
+liasse	ljas	lias-se	NOM	f	s		0.64	7.36
+liasse	ljas	lias-se	VER			lier	0.01	0
+liasses	ljas	lias-ses	NOM	f	p	liasse	0.6	4.32
+liât	lja	liât	VER			lier	0	0.34
+libanais	li-ba-nE	li-ba-nais	ADJ	m			0.38	2.5
+libanais	li-ba-nE	li-ba-nais	NOM	m			0.85	1.42
+libanaise	li-ba-nEz	li-ba-nai-se	ADJ	f	s	libanais	0.05	0.88
+libanaise	li-ba-nEz	li-ba-nai-se	NOM	f	s	libanais	0.04	0.07
+libanaises	li-ba-nEz	li-ba-nai-ses	ADJ	f	p	libanais	0.01	0.81
+libanaises	li-ba-nEz	li-ba-nai-ses	NOM	f	p	libanais	0.03	0.2
+libation	li-ba-sj§	li-ba-tion	NOM	f	s		0.05	0.2
+libations	li-ba-sj§	li-ba-tions	NOM	f	p	libation	0.02	1.28
+libeccio	li-bEk-sjo	li-bec-cio	NOM	m	s		0	0.2
+libelle	li-bEl	li-bel-le	NOM	m	s		0.13	0.27
+libellé	li-be-le	li-bel-lé	NOM	m	s		0.01	0.27
+libellé	li-be-le	li-bel-lé	VER	m	s	libeller	0.04	0.07
+libellée	li-bE-le	li-bel-lée	VER	f	s	libeller	0.01	0.2
+libellées	li-bE-le	li-bel-lées	VER	f	p	libeller	0	0.14
+libeller	li-be-le	li-bel-ler	VER				0	0.07
+libelles	li-bEl	li-bel-les	NOM	m	p	libelle	0.01	0.27
+libellule	li-be-lyl	li-bel-lu-le	NOM	f	s		1.07	2.16
+libellules	li-bE-lyl	li-bel-lu-les	NOM	f	p	libellule	0.1	1.22
+liber	li-bER	li-ber	NOM	m	s		0.03	0.14
+libera	li-b°-Ra	li-be-ra	NOM	m			0.16	0.07
+libéra	li-be-Ra	li-bé-ra	VER			libérer	0.14	2.09
+libérable	li-be-Rabl	li-bé-ra-ble	ADJ		s		0.06	0.27
+libérable	li-be-Rabl	li-bé-ra-ble	NOM		s		0.07	0
+libérables	li-be-Rabl	li-bé-ra-bles	ADJ	m	p	libérable	0.01	0
+libérables	li-be-Rabl	li-bé-ra-bles	NOM		p	libérable	0.01	0
+libérai	li-be-RE	li-bé-rai	VER			libérer	0.02	0.07
+libéraient	li-be-RE	li-bé-raient	VER			libérer	0.16	0.81
+libérais	li-be-RE	li-bé-rais	VER			libérer	0.18	0.14
+libérait	li-be-RE	li-bé-rait	VER			libérer	0.23	2.23
+libéral	li-be-Ral	li-bé-ral	ADJ	m	s		1.12	3.04
+libéral	li-be-Ral	li-bé-ral	NOM	m	s		0.45	0.88
+libérale	li-be-Ral	li-bé-ra-le	ADJ	f	s	libéral	1.11	2.03
+libérale	li-be-Ral	li-bé-ra-le	NOM	f	s	libéral	0.04	0.14
+libéralement	li-be-Ra-l°-m@	li-bé-ra-le-ment	ADV				0	0.47
+libérales	li-be-Ral	li-bé-ra-les	ADJ	f	p	libéral	0.14	1.49
+libérales	li-be-Ral	li-bé-ra-les	NOM	f	p	libéral	0.01	0
+libéralisation	li-be-Ra-li-za-sj§	li-bé-ra-li-sa-tion	NOM	f	s		0.04	0.27
+libéralisme	li-be-Ra-lizm	li-bé-ra-lis-me	NOM	m	s		0.22	1.49
+libéralité	li-be-Ra-li-te	li-bé-ra-li-té	NOM	f	s		0.11	0.14
+libéralités	li-be-Ra-li-te	li-bé-ra-li-tés	NOM	f	p	libéralité	0	0.41
+libérant	li-be-R@	li-bé-rant	VER			libérer	0.23	2.16
+libérât	li-be-Ra	li-bé-rât	VER			libérer	0	0.14
+libérateur	li-be-Ra-t9R	li-bé-ra-teur	ADJ	m	s		0.49	1.01
+libérateur	li-be-Ra-t9R	li-bé-ra-teur	NOM	m	s		0.61	0.47
+libérateurs	li-be-Ra-t9R	li-bé-ra-teurs	NOM	m	p	libérateur	1.07	0.47
+libérateurs	li-be-Ra-t9R	li-bé-ra-teurs	ADJ	m	p	libérateur	0.14	0.34
+libération	li-be-Ra-sj§	li-bé-ra-tion	NOM	f	s		8.31	44.86
+libérations	li-be-Ra-sj§	li-bé-ra-tions	NOM	f	p	libération	0.12	0.14
+libératoire	li-be-Ra-twaR	li-bé-ra-toi-re	ADJ	f	s		0.1	0.07
+libératrice	li-be-Ra-tRis	li-bé-ra-tri-ce	ADJ	f	s	libérateur	0.34	0.74
+libératrice	li-be-Ra-tRis	li-bé-ra-tri-ce	NOM	f	s	libérateur	0.01	0
+libératrices	li-be-Ra-tRis	li-bé-ra-tri-ces	ADJ	f	p	libérateur	0.02	0.34
+libératrices	li-be-Ra-tRis	li-bé-ra-tri-ces	NOM	f	p	libérateur	0	0.07
+libéraux	li-be-Ro	li-bé-raux	NOM	m	p	libéral	0.97	0.61
+libéraux	li-be-Ro	li-bé-raux	ADJ	m	p	libéral	0.71	0.68
+libère	li-bER	li-bè-re	VER			libérer	11.66	4.53
+libéré	li-be-Re	li-bé-ré	VER	m	s	libérer	15.75	10.2
+libéré	li-be-Re	li-bé-ré	ADJ	m	s		1.16	4.66
+libérée	li-be-Re	li-bé-rée	VER	f	s	libérer	3.6	4.46
+libérée	li-be-Re	li-bé-rée	ADJ	f	s	libéré	1.3	2.64
+libérées	li-be-Re	li-bé-rées	VER	f	p	libérer	0.41	0.81
+libérées	li-be-Re	li-bé-rées	ADJ	f	p	libéré	0.13	0.61
+libèrent	li-bER	li-bè-rent	VER			libérer	0.91	0.68
+libérer	li-be-Re	li-bé-rer	VER				26.16	14.53
+libérera	li-be-R°-Ra	li-bé-re-ra	VER			libérer	1.48	0.27
+libérerai	li-be-R°-RE	li-bé-re-rai	VER			libérer	0.62	0
+libéreraient	li-be-R°-RE	li-bé-re-raient	VER			libérer	0.01	0.2
+libérerais	li-be-R°-RE	li-bé-re-rais	VER			libérer	0.17	0.14
+libérerait	li-be-R°-RE	li-bé-re-rait	VER			libérer	0.63	0.41
+libéreras	li-be-R°-Ra	li-bé-re-ras	VER			libérer	0.14	0
+libérèrent	li-be-RER	li-bé-rè-rent	VER			libérer	0.04	0.34
+libérerez	li-be-R°-Re	li-bé-re-rez	VER			libérer	0.1	0.07
+libérerons	li-be-R°-R§	li-bé-re-rons	VER			libérer	0.22	0.07
+libéreront	li-be-R°-R§	li-bé-re-ront	VER			libérer	0.41	0.07
+libères	li-bER	li-bè-res	VER			libérer	1.74	0
+libérés	li-be-Re	li-bé-rés	VER	m	p	libérer	3.59	3.65
+libérés	li-be-Re	li-bé-rés	ADJ	m	p	libéré	1.47	2.09
+libérez	li-be-Re	li-bé-rez	VER			libérer	6.65	0.34
+libérien	li-be-Rj5	li-bé-rien	ADJ	m	s		0.01	0
+libériez	li-be-Rje	li-bé-riez	VER			libérer	0.12	0
+libérions	li-be-Rj§	li-bé-rions	VER			libérer	0.04	0
+libero	li-b°-Ro	li-be-ro	NOM	m	s		0	0.07
+libéro	li-be-Ro		NOM	m	s		0.01	0
+libérons	li-be-R§	li-bé-rons	VER			libérer	0.34	0.14
+libertaire	li-bER-tER	li-ber-tai-re	ADJ		s		0.56	0.34
+libertaire	li-bER-tER	li-ber-tai-re	NOM		s		0.01	0.07
+libertaires	li-bER-tER	li-ber-tai-res	ADJ	m	p	libertaire	0	0.14
+libertaires	li-bER-tER	li-ber-tai-res	NOM		p	libertaire	0.01	0.07
+liberté	li-bER-te	li-ber-té	NOM	f	s		76.28	93.31
+libertés	li-bER-te	li-ber-tés	NOM	f	p	liberté	3.26	4.66
+liberticide	li-bER-ti-sid		ADJ		s		0.03	0
+libertin	li-bER-t5	li-ber-tin	NOM	m	s		1.05	1.69
+libertin	li-bER-t5	li-ber-tin	ADJ	m	s		0.41	0.74
+libertinage	li-bER-ti-naZ	li-ber-ti-na-ge	NOM	m	s		0.39	1.35
+libertine	li-bER-tin	li-ber-ti-ne	ADJ	f	s	libertin	0.35	0.47
+libertine	li-bER-tin	li-ber-ti-ne	NOM	f	s	libertin	0.02	0.34
+libertines	li-bER-tin	li-ber-ti-nes	ADJ	f	p	libertin	0.38	0.2
+libertines	li-bER-tin	li-ber-ti-nes	NOM	f	p	libertin	0.03	0.27
+libertins	li-bER-t5	li-ber-tins	NOM	m	p	libertin	0.16	0.95
+libertins	li-bER-t5	li-ber-tins	ADJ	m	p	libertin	0.16	0.34
+libidinal	li-bi-di-nal	li-bi-di-nal	ADJ	m	s		0	0.2
+libidinale	li-bi-di-nal	li-bi-di-na-le	ADJ	f	s	libidinal	0	0.07
+libidinales	li-bi-di-nal	li-bi-di-na-les	ADJ	f	p	libidinal	0	0.07
+libidinaux	li-bi-di-no	li-bi-di-naux	ADJ	m	p	libidinal	0	0.14
+libidineuse	li-bi-di-n2z	li-bi-di-neu-se	ADJ	f	s	libidineux	0.04	0.14
+libidineuses	li-bi-di-n2z	li-bi-di-neu-ses	ADJ	f	p	libidineux	0	0.07
+libidineux	li-bi-di-n2	li-bi-di-neux	ADJ	m			0.32	0.61
+libido	li-bi-do	li-bi-do	NOM	f	s		1.79	1.22
+libraire	li-bRER	li-brai-re	NOM		s		1.67	4.26
+libraires	li-bRER	li-brai-res	NOM		p	libraire	0.43	1.08
+librairie	li-bRe-Ri	li-brai-rie	NOM	f	s		5.02	8.24
+librairie-papeterie	li-bRe-Ri-pa-pe-t°-Ri	librairie-papeterie	NOM	f	s		0	0.2
+librairies	li-bRe-Ri	li-brai-ries	NOM	f	p	librairie	0.95	1.35
+libre	libR	li-bre	ADJ		s		110.36	130.14
+libre-arbitre	li-bRaR-bitR	libre-arbitre	NOM	m	s		0.12	0.14
+libre-échange	li-bRe-S@Z	libre-échange	NOM	m			0.32	0.14
+libre-échangiste	li-bRe-S@-Zist		NOM		s		0.03	0
+libre-penseur	li-bR°-p@-s9R	libre-penseur	NOM	m	s		0.04	0.14
+libre-penseuse	li-bR2-p@-s2z		NOM	f	s	libre-penseur	0.01	0
+libre-service	li-bR°-sER-vis	libre-service	NOM	m	s		0.04	0.34
+librement	li-bR°-m@	li-bre-ment	ADV				6.8	12.84
+libres	libR	li-bres	ADJ		p	libre	24.06	37.77
+librettiste	li-bRe-tist	li-bret-tis-te	NOM		s		0.01	0.07
+librettistes	li-bRe-tist	li-bret-tis-tes	NOM		p	librettiste	0	0.07
+libretto	li-bRE-to	li-bret-to	NOM	m	s		0.04	0
+libyen	li-bj5	li-byen	ADJ	m	s		0.02	0.14
+libyen	li-bj5	li-byen	NOM	m	s		0.01	0.07
+libyenne	li-bjEn	li-byen-ne	ADJ	f	s	libyen	0.14	0.07
+libyens	li-bj5	li-byens	NOM	m	p	libyen	0.1	0
+libyens	li-bj5	li-byens	ADJ	m	p	libyen	0.02	0
+lice	lis	li-ce	NOM	f	s		0.63	1.22
+licéité	li-se-i-te	li-céi-té	NOM	f	s		0	0.07
+licence	li-s@s	li-cen-ce	NOM	f	s		7.37	7.03
+licences	li-s@s	li-cen-ces	NOM	f	p	licence	0.9	0.81
+licencia	li-s@-sja	li-cen-cia	VER			licencier	0.01	0
+licenciables	li-s@-sjabl	li-cen-cia-bles	ADJ		p	licenciable	0	0.07
+licenciai	li-s@-sjE	li-cen-ciai	VER			licencier	0	0.07
+licenciaient	li-s@-sjE	li-cen-ciaient	VER			licencier	0.01	0.07
+licenciait	li-s@-sjE	li-cen-ciait	VER			licencier	0.16	0.07
+licenciant	li-s@-sj@		VER			licencier	0.02	0
+licencie	li-s@-si	li-cen-cie	VER			licencier	0.16	0
+licencié	li-s@-sje	li-cen-cié	VER	m	s	licencier	2.57	0.47
+licencié	li-s@-sje	li-cen-cié	ADJ	m	s		0.5	0.27
+licencié	li-s@-sje	li-cen-cié	NOM	m	s		0.36	0.27
+licenciée	li-s@-sje	li-cen-ciée	VER	f	s	licencier	0.6	0.34
+licenciée	li-s@-sje	li-cen-ciée	NOM	f	s	licencié	0.28	0.07
+licenciée	li-s@-sje	li-cen-ciée	ADJ	f	s	licencié	0	0.07
+licenciées	li-s@-sje	li-cen-ciées	NOM	f	p	licencié	0	0.07
+licenciement	li-s@-si-m@	li-cen-cie-ment	NOM	m	s		2.62	0.2
+licenciements	li-s@-si-m@	li-cen-cie-ments	NOM	m	p	licenciement	1.31	0.2
+licencient	li-s@-si	li-cen-cient	VER			licencier	0.26	0.07
+licencier	li-s@-sje	li-cen-cier	VER				1.61	0.27
+licenciera	li-s@-si-Ra	li-cen-cie-ra	VER			licencier	0.02	0
+licenciés	li-s@-sje	li-cen-ciés	VER	m	p	licencier	0.31	0.07
+licenciés	li-s@-sje	li-cen-ciés	ADJ	m	p	licencié	0.07	0.14
+licenciés	li-s@-sje	li-cen-ciés	NOM	m	p	licencié	0.04	0.14
+licencieuse	li-s@-sj2z	li-cen-cieu-se	ADJ	f	s	licencieux	0.12	0.14
+licencieuses	li-s@-sj2z	li-cen-cieu-ses	ADJ	f	p	licencieux	0.15	0.2
+licencieux	li-s@-sj2	li-cen-cieux	ADJ	m			0.41	0.34
+licenciez	li-s@-sje	li-cen-ciez	VER			licencier	0.2	0.07
+lices	lis	li-ces	NOM	f	p	lice	0	0.2
+lichant	li-S@	li-chant	VER			licher	0	0.2
+lichas	li-Sa	li-chas	VER			licher	0.27	0
+liche	liS	li-che	NOM	m	s		0	0.2
+liché	li-Se	li-ché	VER	m	s	licher	0	0.07
+lichée	li-Se	li-chée	VER	f	s	licher	0	0.14
+lichées	li-Se	li-chées	VER	f	p	licher	0	0.07
+lichen	li-kEn	li-chen	NOM	m	s		0.1	1.28
+lichens	li-kEn	li-chens	NOM	m	p	lichen	0.01	1.42
+licher	li-Se	li-cher	VER				0	0.14
+lichette	li-SEt	li-chet-te	NOM	f	s		0.15	0.61
+lichettes	li-SEt	li-chet-tes	NOM	f	p	lichette	0	0.14
+lichotter	li-SO-te		VER				0	0.07
+liciers	li-sje	li-ciers	NOM	m	p	licier	0	0.07
+licite	li-sit	li-ci-te	ADJ		s		0.29	0.61
+licites	li-sit	li-ci-tes	ADJ	f	p	licite	0.03	0.14
+licol	li-kOl	li-col	NOM	m	s		0	0.47
+licols	li-kOl	li-cols	NOM	m	p	licol	0	0.14
+licorne	li-kORn	li-cor-ne	NOM	f	s		1.41	1.28
+licornes	li-kORn	li-cor-nes	NOM	f	p	licorne	0.57	0.54
+licou	li-ku	li-cou	NOM	m	s		0.03	0.54
+licous	li-ku	li-cous	NOM	m	p	licou	0	0.07
+licteur	lik-t9R	lic-teur	NOM	m	s		0	0.07
+licteurs	lik-t9R	lic-teurs	NOM	m	p	licteur	0	0.27
+lido	li-do		NOM	m	s		0.07	0
+lidocaïne	li-do-ka-in		NOM	f	s		0.36	0
+lie	li	lie	VER			lier	4.02	3.11
+lie	li	lie	NOM	f	s		0.76	2.3
+lié	lje	lié	VER	m	s	lier	12.54	10.68
+lié	lje	lié	ADJ	m	s		0.97	1.49
+lie-de-vin	li-d°-v5	lie-de-vin	ADJ				0	1.08
+lied	lid	lied	NOM	m	s		0.01	0.07
+lieder	li-d9R	lie-der	NOM	m	p	lied	0.04	0.47
+liée	lje	liée	VER	f	s	lier	3.96	7.5
+liée	lje	liée	ADJ	f	s	lié	0.26	0.34
+liées	lje	liées	VER	f	p	lier	2.58	2.84
+liées	lje	liées	ADJ	f	p	lié	1.38	1.42
+liège	ljEZ	liè-ge	NOM	m	s		0.46	3.58
+liégeois	lje-Zwa	lié-geois	ADJ	m			0	0.14
+lièges	ljEZ	liè-ges	NOM	m	p	liège	0	0.2
+lien	lj5	lien	NOM	m	s		23.47	18.18
+liens	lj5	liens	NOM	m	p	lien	12.42	20.2
+lient	li	lient	VER			lier	0.61	0.27
+lier	lje	lier	VER				5.07	6.62
+liera	li-Ra	lie-ra	VER			lier	0.05	0.07
+lierais	li-RE	lie-rais	VER			lier	0.02	0
+lierait	li-RE	lie-rait	VER			lier	0.02	0.27
+lieras	li-Ra	lie-ras	VER			lier	0.14	0.07
+lièrent	ljER	liè-rent	VER			lier	0.03	0.34
+lieront	li-R§	lie-ront	VER			lier	0.03	0.14
+lierre	ljER	lier-re	NOM	m	s		0.42	6.08
+lierres	ljER	lier-res	NOM	m	p	lierre	0.01	0.27
+lies	li	lies	VER			lier	0.29	0
+lies	li	lies	NOM	f	p	lie	0.12	0.07
+liés	lje	liés	VER	m	p	lier	6.12	6.55
+liés	lje	liés	ADJ	m	p	lié	1.92	1.89
+liesse	ljEs	lies-se	NOM	f	s		1.39	2.16
+liesses	ljEs	lies-ses	NOM	f	p	liesse	0	0.07
+lieu	lj2	lieu	NOM	m	s		153.12	213.38
+lieu-dit	lj2-di	lieu-dit	NOM	m	s		0	0.88
+lieudit	lj2-di	lieu-dit	NOM	m	s		0	0.07
+lieudits	lj2-di	lieu-dits	NOM	m	p	lieudit	0	0.07
+lieue	lj2	lieue	NOM	f	s		0.19	1.08
+lieues	lj2	lieues	NOM	f	p	lieue	1.74	9.39
+lieur	lj9R		NOM	m	s		0.01	0
+lieus	lj2	lieus	NOM	m	p	lieu	0.15	0.07
+lieuse	lj2z	lieu-se	NOM	f	s	lieur	0	0.14
+lieutenant	lj2-t°-n@	lieu-te-nant	NOM	m	s		80.05	52.36
+lieutenant-colonel	lj2-t°-n@-ko-lo-nEl	lieutenant-colonel	NOM	m	s		1.73	1.42
+lieutenant-pilote	lj2-t°-n@-pi-lOt	lieutenant-pilote	NOM	m	s		0	0.07
+lieutenants	lj2-t°-n@	lieu-te-nants	NOM	m	p	lieutenant	0.94	2.57
+lieutenants-colonels	lj2-t°-n@-ko-lo-nEl	lieutenants-colonels	NOM	m	p	lieutenant-colonel	0.01	0
+lieux	lj2	lieux	NOM	m	p	lieu	28.73	54.12
+lieux-dits	lj2-di	lieux-dits	NOM	m	p		0	0.41
+lièvre	ljEvR	liè-vre	NOM	m	s		3.36	4.73
+lièvres	ljEvR	liè-vres	NOM	m	p	lièvre	0.94	2.3
+liez	lje	liez	VER			lier	0.15	0.07
+lift	lift	lift	NOM	m	s		0.52	0.07
+lifté	lif-te	lif-té	ADJ	m	s		0	0.07
+liftée	lif-te	lif-tée	ADJ	f	s	lifté	0.04	0.07
+liftée	lif-te	lif-tée	VER	f	s	lifter	0.04	0
+liftées	lif-te	lif-tées	VER	f	p	lifter	0.01	0.07
+liftées	lif-te	lif-tées	ADJ	f	p	lifté	0.01	0
+lifter	lif-te	lif-ter	VER				0.22	0
+liftier	lif-tje	lif-tier	NOM	m	s		0.36	0.41
+liftière	lif-tjER	lif-tiè-re	NOM	f	s	liftier	0.02	0
+liftiers	lif-tje	lif-tiers	NOM	m	p	liftier	0	0.14
+lifting	lif-tiG	lif-ting	NOM	m	s		1.19	0.07
+liftings	lif-tiG	lif-ting-s	NOM	m	p	lifting	0.22	0
+lifts	lif	lifts	NOM	m	p	lift	0.1	0
+ligament	li-ga-m@	li-ga-ment	NOM	m	s		0.29	0
+ligamentaire	li-ga-m@-tER		ADJ	f	s		0.02	0
+ligaments	li-ga-m@	li-ga-ments	NOM	m	p	ligament	0.83	0.47
+ligature	li-ga-tyR	li-ga-tu-re	NOM	f	s		0.3	0.07
+ligaturé	li-ga-ty-Re	li-ga-tu-ré	VER	m	s	ligaturer	0.04	0.14
+ligaturée	li-ga-ty-Re	li-ga-tu-rée	VER	f	s	ligaturer	0.02	0.14
+ligaturer	li-ga-ty-Re	li-ga-tu-rer	VER				0.05	0.14
+ligatures	li-ga-tyR	li-ga-tu-res	NOM	f	p	ligature	0.16	0.14
+ligaturez	li-ga-ty-Re	li-ga-tu-rez	VER			ligaturer	0.01	0.07
+lige	liZ	li-ge	ADJ		s		0.14	0.14
+liges	liZ	li-ges	ADJ	m	p	lige	0	0.07
+light	lajt	light	ADJ				3.76	0.27
+ligna	li-Na	li-gna	VER			ligner	0	0.07
+lignage	li-NaZ	li-gna-ge	NOM	m	s		0.13	0.34
+lignages	li-NaZ	li-gna-ges	NOM	m	p	lignage	0	0.07
+lignards	li-NaR	li-gnard-s	NOM	m	p	lignard	0	0.07
+ligne	liN	li-gne	NOM	f	s		69.42	101.01
+ligné	li-Ne	li-gné	VER	m	s	ligner	0.01	0.07
+lignée	li-Ne	li-gnée	NOM	f	s		4.67	4.8
+lignée	li-Ne	li-gnée	VER	f	s	ligner	0.01	0
+lignées	li-Ne	li-gnées	NOM	f	p	lignée	0.16	0.27
+lignées	li-Ne	li-gnées	VER	f	p	ligner	0.04	0
+ligner	li-Ne	li-gner	VER				0	0.07
+lignes	liN	li-gnes	NOM	f	p	ligne	20.41	61.28
+ligneuses	li-N2z	li-gneu-ses	ADJ	f	p	ligneux	0	0.2
+ligneux	li-N2	li-gneux	ADJ	m	p		0	0.2
+lignite	li-Nit	li-gni-te	NOM	m	s		0	0.54
+lignites	li-Nit	li-gni-tes	NOM	m	p	lignite	0.14	0.07
+ligot	li-go		NOM	m	s		0.01	0
+ligota	li-go-ta	li-go-ta	VER			ligoter	0.1	0.2
+ligotage	li-go-taZ	li-go-ta-ge	NOM	m	s		0.01	0.2
+ligotaient	li-go-tE	li-go-taient	VER			ligoter	0	0.2
+ligotait	li-go-tE	li-go-tait	VER			ligoter	0.01	0.27
+ligotant	li-go-t@	li-go-tant	VER			ligoter	0.01	0.07
+ligote	li-gOt	li-go-te	VER			ligoter	0.91	0.34
+ligoté	li-go-te	li-go-té	VER	m	s	ligoter	0.91	1.69
+ligoté	li-go-te	li-go-té	ADJ	m	s		0.29	0.61
+ligotée	li-go-te	li-go-tée	VER	f	s	ligoter	0.29	0.54
+ligotée	li-go-te	li-go-tée	ADJ	f	s	ligoté	0.17	0.27
+ligotées	li-go-te	li-go-tées	VER	f	p	ligoter	0.01	0.14
+ligotées	li-go-te	li-go-tées	ADJ	f	p	ligoté	0	0.14
+ligotent	li-gOt	li-go-tent	VER			ligoter	0.16	0.61
+ligoter	li-go-te	li-go-ter	VER				0.48	0.61
+ligoterai	li-gO-t°-RE	li-go-te-rai	VER			ligoter	0.14	0
+ligoterait	li-gO-t°-RE	li-go-te-rait	VER			ligoter	0.01	0
+ligotèrent	li-go-tER	li-go-tè-rent	VER			ligoter	0	0.07
+ligoterons	li-gO-t°-R§	li-go-te-rons	VER			ligoter	0.1	0
+ligotés	li-go-te	li-go-tés	VER	m	p	ligoter	0.53	0.34
+ligotés	li-go-te	li-go-tés	ADJ	m	p	ligoté	0.16	0.41
+ligotez	li-go-te	li-go-tez	VER			ligoter	0.8	0
+ligotons	li-go-t§	li-go-tons	VER			ligoter	0.01	0
+ligots	li-go	li-gots	NOM	m	p	ligot	0	0.27
+liguaient	li-gE	li-guaient	VER			liguer	0.01	0.14
+liguait	li-gE	li-guait	VER			liguer	0.01	0.27
+liguant	li-g@	li-guant	VER			liguer	0.01	0.07
+ligue	lig	li-gue	NOM	f	s		2.74	1.42
+ligue	lig	li-gue	VER			liguer	0.16	0.2
+ligué	li-ge	li-gué	VER	m	s	liguer	0.15	0
+liguées	li-ge	li-guées	VER	f	p	liguer	0.03	0.34
+liguées	li-ge	li-guées	ADJ	f	p	ligué	0	0.07
+liguent	lig	li-guent	VER			liguer	0.17	0
+liguer	li-ge	li-guer	VER				0.22	0.27
+liguèrent	li-gER	li-guè-rent	VER			liguer	0	0.07
+ligues	lig	li-gues	NOM	f	p	ligue	0.23	0.68
+ligues	lig	li-gues	VER			liguer	0.01	0
+ligués	li-ge	li-gués	VER	m	p	liguer	0.13	0.41
+ligués	li-ge	li-gués	ADJ	m	p	ligué	0	0.14
+ligueur	li-g9R	li-gueur	NOM	m	s		0	0.14
+ligueurs	li-g9R	li-gueurs	NOM	m	p	ligueur	0	0.14
+liguez	li-ge	li-guez	VER			liguer	0.16	0
+ligure	li-gyR	li-gu-re	ADJ	f	s		0	0.14
+ligures	li-gyR	li-gu-res	ADJ		p	ligure	0	0.07
+lilas	li-la	li-las	NOM	m			2.28	5.47
+lilas	li-la	li-las	ADJ				0.16	1.76
+liliacées	li-lja-se	li-lia-cées	NOM	f	p	liliacé	0	0.14
+liliacées	li-lja-se	li-lia-cées	NOM	f	p	liliacée	0.14	0
+lilial	li-ljal	li-lial	ADJ	m	s		0	0.41
+liliale	li-ljal	li-lia-le	ADJ	f	s	lilial	0	0.27
+lilium	li-ljOm		NOM	m	s		0.01	0.07
+lilliputien	li-li-py-sj5	lil-li-pu-tien	ADJ	m	s		0.12	0.41
+lilliputienne	li-li-py-sjEn	lil-li-pu-tien-ne	ADJ	f	s	lilliputien	0.02	0.2
+lilliputiens	li-li-py-sj5	lil-li-pu-tiens	ADJ	m	p	lilliputien	0.22	0.07
+lillois	li-lwa	lil-lois	NOM	m			0	0.2
+lilloise	li-lwaz	lil-loi-se	NOM	f	s	lillois	0	0.07
+lima	li-ma	li-ma	VER			limer	0	0.07
+limace	li-mas	li-ma-ce	NOM	f	s		2.89	4.05
+limaces	li-mas	li-ma-ces	NOM	f	p	limace	1.12	2.3
+limaçon	li-ma-s§	li-ma-çon	NOM	m	s		0.01	0.27
+limaçons	li-ma-s§	li-ma-çons	NOM	m	p	limaçon	0.01	0.27
+limage	li-maZ	li-ma-ge	NOM	m	s		0.26	0.14
+limaient	li-mE	li-maient	VER			limer	0	0.07
+limaille	li-maj	li-mail-le	NOM	f	s		0.02	1.55
+limait	li-mE	li-mait	VER			limer	0	0.54
+liman	li-m@		NOM	m	s		0.01	0
+limande	li-m@d	li-man-de	NOM	f	s		0.08	0.61
+limandes	li-m@d	li-man-des	NOM	f	p	limande	0.01	0.07
+limant	li-m@	li-mant	VER			limer	0	0.14
+limbe	l5b	lim-be	NOM	m	s		0	0.07
+limbes	l5b	lim-bes	NOM	m	p	limbe	0.81	3.11
+limbique	l5-bik	lim-bi-que	ADJ		s		0.31	0
+limbo	lim-bo		NOM	m	s		0.36	0
+lime	lim	li-me	NOM	f	s		1.48	2.91
+lime	lim	li-me	VER			limer	0.37	0.68
+limé	li-me	li-mé	VER	m	s	limer	0.16	0.54
+limée	li-me	li-mée	VER	f	s	limer	0.01	0.14
+liment	lim	li-ment	VER			limer	0.01	0.07
+limer	li-me	li-mer	VER				0.5	0.74
+limerick	li-m°-Rik		NOM	m	s		0.03	0
+limericks	li-m°-Rik	li-me-ri-cks	NOM	m	p	limerick	0.01	0.07
+limes	lim	li-mes	NOM	f	p	lime	0.08	0.74
+limes	lim	li-mes	VER			limer	0.03	0
+limette	li-mEt		NOM	f	s		0.07	0
+limez	li-me	li-mez	VER			limer	0	0.07
+limier	li-mje	li-mier	NOM	m	s		0.77	0.54
+limiers	li-mje	li-miers	NOM	m	p	limier	0.35	0.34
+liminaire	li-mi-nER	li-mi-nai-re	ADJ		s		0.07	0
+limions	li-mj§	li-mions	VER			limer	0	0.07
+limita	li-mi-ta	li-mi-ta	VER			limiter	0.01	0
+limitai	li-mi-tE	li-mi-tai	VER			limiter	0	0.2
+limitaient	li-mi-tE	li-mi-taient	VER			limiter	0.12	0.41
+limitais	li-mi-tE	li-mi-tais	VER			limiter	0.02	0.07
+limitait	li-mi-tE	li-mi-tait	VER			limiter	0.13	2.36
+limitant	li-mi-t@	li-mi-tant	VER			limiter	0.09	1.28
+limitatif	li-mi-ta-tif	li-mi-ta-tif	ADJ	m	s		0	0.14
+limitation	li-mi-ta-sj§	li-mi-ta-tion	NOM	f	s		0.27	0.61
+limitations	li-mi-ta-sj§	li-mi-ta-tions	NOM	f	p	limitation	0.47	0.34
+limitative	li-mi-ta-tiv	li-mi-ta-ti-ve	ADJ	f	s	limitatif	0	0.14
+limite	li-mit	li-mi-te	NOM	f	s		13.69	21.76
+limite	li-mit	li-mi-te	VER			limiter	2.57	3.58
+limité	li-mi-te	li-mi-té	VER	m	s	limiter	2.1	2.3
+limité	li-mi-te	li-mi-té	ADJ	m	s		1.47	2.5
+limitée	li-mi-te	li-mi-tée	VER	f	s	limiter	1.25	1.89
+limitée	li-mi-te	li-mi-tée	ADJ	f	s	limité	1.3	1.28
+limitées	li-mi-te	li-mi-tées	ADJ	f	p	limité	0.68	1.35
+limitées	li-mi-te	li-mi-tées	VER	f	p	limiter	0.6	0.61
+limitent	li-mit	li-mi-tent	VER			limiter	0.23	0.74
+limiter	li-mi-te	li-mi-ter	VER				2.62	4.46
+limitera	li-mi-t°-Ra	li-mi-te-ra	VER			limiter	0.13	0.14
+limiterai	li-mi-t°-RE	li-mi-te-rai	VER			limiter	0.14	0.07
+limiteraient	li-mi-t°-RE	li-mi-te-raient	VER			limiter	0.01	0.2
+limiterait	li-mi-t°-RE	li-mi-te-rait	VER			limiter	0.05	0.07
+limiteront	li-mi-t°-R§	li-mi-te-ront	VER			limiter	0.05	0
+limites	li-mit	li-mi-tes	NOM	f	p	limite	19.09	25.47
+limites	li-mit	li-mi-tes	VER			limiter	0.19	0.07
+limités	li-mi-te	li-mi-tés	ADJ	m	p	limité	0.21	1.22
+limités	li-mi-te	li-mi-tés	VER	m	p	limiter	0.36	0.68
+limiteur	li-mi-t9R	li-mi-teur	NOM	m	s		0.02	0
+limitez	li-mi-te	li-mi-tez	VER			limiter	0.36	0
+limitions	li-mi-tj§	li-mi-tions	VER			limiter	0.01	0.07
+limitons	li-mi-t§	li-mi-tons	VER			limiter	0.14	0.07
+limitrophe	li-mi-tROf	li-mi-tro-phe	ADJ		s		0	0.07
+limitrophes	li-mi-tROf	li-mi-tro-phes	ADJ		p	limitrophe	0	0.47
+limoge	li-mOZ	li-mo-ge	VER			limoger	0	0.07
+limogé	li-mo-Ze	li-mo-gé	VER	m	s	limoger	0.32	0.07
+limogé	li-mo-Ze	li-mo-gé	ADJ	m	s		0.01	0.07
+limogeage	li-mo-ZaZ	li-mo-gea-ge	NOM	m	s		0.11	0.07
+limoger	li-mo-Ze	li-mo-ger	VER				0.18	0
+limoges	li-mOZ	li-mo-ges	VER			limoger	0.01	0.2
+limon	li-m§	li-mon	NOM	m	s		0.53	2.97
+limonade	li-mo-nad	li-mo-na-de	NOM	f	s		6.06	5.68
+limonades	li-mo-nad	li-mo-na-des	NOM	f	p	limonade	0.11	0.47
+limonadier	li-mo-na-dje	li-mo-na-dier	NOM	m	s		0.03	0.14
+limonadière	li-mo-na-djER	li-mo-na-diè-re	NOM	f	s	limonadier	0	0.14
+limonadiers	li-mo-na-dje	li-mo-na-diers	NOM	m	p	limonadier	0	0.27
+limonaire	li-mo-nER	li-mo-nai-re	NOM	m	s		0	0.54
+limoneuse	li-mo-n2z	li-mo-neu-se	ADJ	f	s	limoneux	0.01	0.27
+limoneuses	li-mo-n2z	li-mo-neu-ses	ADJ	f	p	limoneux	0	0.14
+limoneux	li-mo-n2	li-mo-neux	ADJ	m	s		0	0.2
+limonier	li-mo-nje	li-mo-nier	NOM	m	s		0	0.07
+limonière	li-mo-njER	li-mo-niè-re	NOM	f	s	limonier	0	0.07
+limons	li-m§	li-mons	NOM	m	p	limon	0	0.47
+limoselle	li-mo-zEl		NOM	f	s		0.01	0
+limousin	li-mu-z5	li-mou-sin	ADJ	m	s		0	0.14
+limousin	li-mu-z5	li-mou-sin	NOM	m	s		0	0.14
+limousine	li-mu-zin	li-mou-si-ne	NOM	f	s	limousin	3.34	2.97
+limousine	li-mu-zin	li-mou-si-ne	ADJ	f	s	limousin	1.95	0.95
+limousines	li-mu-zin	li-mou-si-nes	NOM	f	p	limousin	0.58	0.68
+limousines	li-mu-zin	li-mou-si-nes	ADJ	f	p	limousin	0.12	0
+limousins	li-mu-z5	li-mou-sins	ADJ	m	p	limousin	0	0.07
+limpide	l5-pid	lim-pi-de	ADJ		s		2.32	9.86
+limpides	l5-pid	lim-pi-des	ADJ		p	limpide	0.34	2.3
+limpidité	l5-pi-di-te	lim-pi-di-té	NOM	f	s		0.01	1.62
+lin	l5	lin	NOM	m	s		1.76	6.01
+linaire	li-nER	li-nai-re	NOM	f	s		0	0.07
+linceul	l5-s9l	lin-ceul	NOM	m	s		1.94	2.3
+linceuls	l5-s9l	lin-ceuls	NOM	m	p	linceul	0.04	0.41
+lindor	l5-dOR		NOM	m	s		0.27	0
+line	lin	li-ne	NOM	f	s		1.08	0.07
+linéaire	li-ne-ER	li-néai-re	ADJ		s		0.3	0.88
+linéaire	li-ne-ER	li-néai-re	NOM	m	s		0.02	0.14
+linéairement	li-ne-E-R°-m@	li-néai-re-ment	ADV				0.01	0
+linéaires	li-ne-ER	li-néai-res	ADJ		p	linéaire	0.09	0.2
+linéaments	li-ne-a-m@	li-néa-ments	NOM	m	p	linéament	0	0.54
+linga	lin-ga		NOM	m	s		0.01	0
+lingala	lin-ga-la	lin-ga-la	NOM	m	s		0.02	0
+lingam	lin-gam	lin-gam	NOM	m	s		0.54	0.07
+linge	l5Z	lin-ge	NOM	m	s		16.75	44.53
+linger	l5-Ze	lin-ger	ADJ	m	s		0.01	0.14
+lingère	l5-ZER	lin-gè-re	NOM	f	s		0.04	0.47
+lingère	l5-ZER	lin-gè-re	ADJ	f	s	linger	0.01	0.2
+lingères	l5-ZER	lin-gè-res	NOM	f	p	lingère	0	0.2
+lingères	l5-ZER	lin-gè-res	ADJ	f	p	linger	0	0.07
+lingerie	l5-Z°-Ri	lin-ge-rie	NOM	f	s		4.11	4.73
+lingeries	l5-Z°-Ri	lin-ge-ries	NOM	f	p	lingerie	0.02	0.61
+linges	l5Z	lin-ges	NOM	m	p	linge	0.3	2.77
+lingette	l5-ZEt	lin-get-te	NOM	f	s		0.48	0
+lingettes	l5-ZEt	lin-get-tes	NOM	f	p	lingette	0.18	0
+lingot	l5-go	lin-got	NOM	m	s		0.47	1.15
+lingotière	l5-go-tjER	lin-go-tiè-re	NOM	f	s	lingotier	0	0.07
+lingots	l5-go	lin-gots	NOM	m	p	lingot	1.11	1.22
+lingual	l5-gwal		ADJ	m	s		0.01	0
+linguale	l5-gwal		ADJ	f	s	lingual	0.02	0
+linguaux	l5-gwo		ADJ	m	p	lingual	0.01	0
+linguiste	l5-g8ist	lin-guis-te	NOM		s		0.46	0.41
+linguistes	l5-g8ist	lin-guis-tes	NOM		p	linguiste	0.04	0.27
+linguistique	l5-g8is-tik	lin-guis-ti-que	NOM	f	s		0.54	0.61
+linguistique	l5-g8is-tik	lin-guis-ti-que	ADJ		s		0.24	0.81
+linguistiquement	l5-g8is-ti-k°-m@	lin-guis-ti-que-ment	ADV				0.01	0.07
+linguistiques	l5-g8is-tik	lin-guis-ti-ques	ADJ		p	linguistique	0.14	0.74
+liniment	li-ni-m@	li-ni-ment	NOM	m	s		0.03	0.07
+lino	li-no	li-no	NOM	m	s		0.38	1.55
+linoléum	li-no-le-Om	li-no-léum	NOM	m	s		0.18	2.36
+linoléums	li-no-le-Om	li-no-léum-s	NOM	m	p	linoléum	0	0.27
+linon	li-n§	li-non	NOM	m	s		0.05	0.68
+linons	li-n§	li-nons	NOM	m	p	linon	0	0.07
+linos	li-no	li-nos	NOM	m	p	lino	0	0.14
+linotte	li-nOt	li-not-te	NOM	f	s		0.69	0.27
+linottes	li-nOt	li-not-tes	NOM	f	p	linotte	0.12	0.27
+linotype	li-no-tip	li-no-ty-pe	NOM	f	s		0.01	0.14
+linotypes	li-no-tip	li-no-ty-pes	NOM	f	p	linotype	0	0.27
+linotypistes	li-no-ti-pist	li-no-ty-pis-tes	NOM		p	linotypiste	0	0.2
+lins	l5	lins	NOM	m	p	lin	0.59	0.07
+linteau	l5-to	lin-teau	NOM	m	s		0.17	0.95
+linteaux	l5-to	lin-teaux	NOM	m	p	linteau	0.07	0.14
+linter	lin-t9R	lin-ter	NOM	m	s		0.01	0
+lion	lj§	lion	NOM	m	s		14.58	20.14
+lionceau	lj§-so	lion-ceau	NOM	m	s		0.21	0.61
+lionceaux	lj§-so	lion-ceaux	NOM	m	p	lionceau	0	0.41
+lionne	ljOn	lion-ne	NOM	f	s	lion	0.79	2.43
+lionnes	ljOn	lion-nes	NOM	f	p	lion	0.16	2.23
+lions	lj§	lions	NOM	m	p	lion	5.33	8.24
+lions	lj§	lions	VER			lier	0.03	0.07
+lipase	li-paz		NOM	f	s		0.01	0
+lipide	li-pid	li-pi-de	NOM	m	s		0.01	0.07
+lipides	li-pid	li-pi-des	NOM	m	p	lipide	0.04	0.14
+lipiodol	li-pjO-dOl		NOM	m	s		0.01	0
+lipome	li-pom		NOM	m	s		0.03	0
+liposome	li-po-zom		NOM	m	s		0.01	0
+liposuccion	li-po-syk-sj§	li-po-suc-cion	NOM	f	s		0.75	0
+liposuccions	li-po-syk-sj§	li-po-suc-cions	NOM	f	p	liposuccion	0.29	0
+liposucer	li-pO-sy-se	li-po-su-cer	VER				0.2	0
+lipothymie	li-po-ti-mi	li-po-thy-mie	NOM	f	s		0.1	0
+lippe	lip	lip-pe	NOM	f	s		0.14	1.69
+lippées	li-pe	lip-pées	NOM	f	p	lippée	0	0.07
+lippes	lip	lip-pes	NOM	f	p	lippe	0	0.2
+lippu	li-py	lip-pu	ADJ	m	s		0.17	0.41
+lippue	li-py	lip-pue	ADJ	f	s	lippu	0	0.47
+lippues	li-py	lip-pues	ADJ	f	p	lippu	0	0.07
+lippus	li-py	lip-pus	ADJ	m	p	lippu	0	0.07
+liquéfaction	li-ke-fak-sj§	li-qué-fac-tion	NOM	f	s		0.04	0.27
+liquéfiaient	li-ke-fjE	li-qué-fiaient	VER			liquéfier	0	0.27
+liquéfiait	li-ke-fjE	li-qué-fiait	VER			liquéfier	0	0.47
+liquéfiante	li-ke-fj@t	li-qué-fian-te	ADJ	f	s	liquéfiant	0	0.07
+liquéfie	li-ke-fi	li-qué-fie	VER			liquéfier	0.78	0.2
+liquéfié	li-ke-fje	li-qué-fié	VER	m	s	liquéfier	0.04	0.27
+liquéfiée	li-ke-fje	li-qué-fiée	VER	f	s	liquéfier	0.03	0.34
+liquéfiées	li-ke-fje	li-qué-fiées	VER	f	p	liquéfier	0.01	0.14
+liquéfient	li-ke-fi	li-qué-fient	VER			liquéfier	0.04	0.14
+liquéfier	li-ke-fje	li-qué-fier	VER				0.14	0.47
+liquéfièrent	li-ke-fjER	li-qué-fiè-rent	VER			liquéfier	0	0.07
+liquéfiés	li-ke-fje	li-qué-fiés	VER	m	p	liquéfier	0.05	0.07
+liquette	li-kEt	li-quet-te	NOM	f	s		0.19	1.22
+liquettes	li-kEt	li-quet-tes	NOM	f	p	liquette	0	0.27
+liqueur	li-k9R	li-queur	NOM	f	s		3.46	2.36
+liqueurs	li-k9R	li-queurs	NOM	f	p	liqueur	1.55	1.89
+liquida	li-ki-da	li-qui-da	VER			liquider	0.1	0.27
+liquidai	li-ki-dE	li-qui-dai	VER			liquider	0	0.07
+liquidaient	li-ki-dE	li-qui-daient	VER			liquider	0	0.2
+liquidait	li-ki-dE	li-qui-dait	VER			liquider	0.02	0.2
+liquidambars	li-ki-d@-baR	li-qui-dam-bars	NOM	m	p	liquidambar	0	0.07
+liquidant	li-ki-d@	li-qui-dant	VER			liquider	0.02	0.2
+liquidateur	li-ki-da-t9R	li-qui-da-teur	NOM	m	s		0.05	0.14
+liquidateur	li-ki-da-t9R	li-qui-da-teur	ADJ	m	s		0	0.07
+liquidateurs	li-ki-da-t9R	li-qui-da-teurs	NOM	m	p	liquidateur	0.01	0.07
+liquidation	li-ki-da-sj§	li-qui-da-tion	NOM	f	s		0.7	3.04
+liquidations	li-ki-da-sj§	li-qui-da-tions	NOM	f	p	liquidation	0.11	0.07
+liquidative	li-ki-da-tiv	li-qui-da-ti-ve	ADJ	f	s	liquidatif	0.02	0
+liquide	li-kid	li-qui-de	NOM	m	s		17.74	17.91
+liquide	li-kid	li-qui-de	ADJ		s		7.48	12.03
+liquide	li-kid	li-qui-de	VER			liquider	1.27	0.81
+liquidé	li-ki-de	li-qui-dé	VER	m	s	liquider	2.45	1.62
+liquidée	li-ki-de	li-qui-dée	VER	f	s	liquider	0.31	0.95
+liquidées	li-ki-de	li-qui-dées	VER	f	p	liquider	0.02	0.2
+liquident	li-kid	li-qui-dent	VER			liquider	0.04	0.07
+liquider	li-ki-de	li-qui-der	VER				3.78	4.93
+liquidera	li-ki-d°-Ra	li-qui-de-ra	VER			liquider	0.06	0.14
+liquiderai	li-ki-d°-RE	li-qui-de-rai	VER			liquider	0.04	0
+liquiderais	li-ki-d°-RE	li-qui-de-rais	VER			liquider	0.04	0.07
+liquiderait	li-ki-d°-RE	li-qui-de-rait	VER			liquider	0.14	0.07
+liquiderons	li-ki-d°-R§	li-qui-de-rons	VER			liquider	0.04	0
+liquideront	li-ki-d°-R§	li-qui-de-ront	VER			liquider	0	0.14
+liquides	li-kid	li-qui-des	ADJ		p	liquide	0.22	2.84
+liquides	li-kid	li-qui-des	NOM	m	p	liquide	0.68	1.28
+liquides	li-kid	li-qui-des	VER			liquider	0.27	0.07
+liquidés	li-ki-de	li-qui-dés	VER	m	p	liquider	0.54	0.61
+liquidez	li-ki-de	li-qui-dez	VER			liquider	0.37	0
+liquidions	li-ki-dj§	li-qui-dions	VER			liquider	0	0.07
+liquidité	li-ki-di-te	li-qui-di-té	NOM	f	s		0.03	0.07
+liquidités	li-ki-di-te	li-qui-di-tés	NOM	f	p	liquidité	0.67	0.47
+liquidons	li-ki-d§	li-qui-dons	VER			liquider	0.26	0.07
+liquor	li-kwOR		NOM	m	s		0.04	0
+liquoreux	li-ko-R2	li-quo-reux	ADJ	m	s		0	0.27
+liquoriste	li-ko-Rist	li-quo-ris-te	NOM		s		0.01	0.07
+lira	li-Ra	li-ra	VER			lire	1.88	1.82
+lirai	li-RE	li-rai	VER			lire	3.36	1.28
+liraient	li-RE	li-raient	VER			lire	0.03	0.34
+lirais	li-RE	li-rais	VER			lire	0.74	0.81
+lirait	li-RE	li-rait	VER			lire	0.3	3.31
+liras	li-Ra	li-ras	VER			lire	1.97	0.81
+lire	liR	li-re	VER				89.58	103.58
+lire	liR	li-re	NOM	f	s		9.9	8.85
+lires	liR	li-res	NOM	f	p	lire	18.98	1.42
+lirette	li-REt	li-ret-te	NOM	f	s		0.02	0
+lirez	li-Re	li-rez	VER			lire	0.68	0.81
+liriez	li-Rje	li-riez	VER			lire	0.09	0
+liron	li-R§	li-ron	NOM	m	s		0.14	0.54
+lirons	li-R§	li-rons	VER			lire	0.08	0.07
+lirons	li-R§	li-rons	NOM	m	p	liron	0.01	0
+liront	li-R§	li-ront	VER			lire	0.17	0.27
+lis	li	lis	VER			lire	39.81	16.62
+lis	lis	lis	NOM	m			9.11	3.45
+lisaient	li-zE	li-saient	VER			lire	0.22	4.73
+lisais	li-zE	li-sais	VER			lire	5.08	10.54
+lisait	li-zE	li-sait	VER			lire	3.88	39.12
+lisant	li-z@	li-sant	VER			lire	2.95	13.31
+lisant	li-z@	li-sant	ADJ	m	s		0.05	0.61
+lisant	li-z@	li-sant	NOM	m	s		0.01	0.07
+lise	liz	li-se	VER			lire	3.2	2.09
+lise	liz	li-se	NOM	f	s		0.2	0.07
+lisent	liz	li-sent	VER			lire	2.67	3.72
+lisérait	li-ze-RE	li-sé-rait	VER			lisérer	0	0.07
+liseré	li-z°-Re	li-se-ré	NOM	m	s		0.02	0.74
+liseré	li-z°-Re	li-se-ré	VER	m	s	liserer	0	0.07
+liséré	li-ze-Re	li-sé-ré	NOM	m	s		0	2.16
+liséré	li-ze-Re	li-sé-ré	VER	m	s	lisérer	0	0.07
+liserée	li-z°-Re	li-se-rée	VER	f	s	liserer	0	0.07
+liserés	li-z°-Re	li-se-rés	NOM	m	p	liseré	0	0.07
+lisérés	li-ze-Re	li-sé-rés	NOM	m	p	liséré	0	0.34
+lisérés	li-ze-Re	li-sé-rés	VER	m	p	lisérer	0	0.07
+liseron	li-z°-R§	li-se-ron	NOM	m	s		0.01	0.61
+liserons	li-z°-R§	li-se-rons	NOM	m	p	liseron	0.01	0.47
+lises	liz	li-ses	VER			lire	1.12	0.41
+lises	liz	li-ses	NOM	f	p	lise	0	0.07
+liseur	li-z9R	li-seur	NOM	m	s		0	0.68
+liseuse	li-z2z	li-seu-se	NOM	f	s	liseur	0.06	0.68
+liseuse	li-z2z	li-seu-se	ADJ	f	s	liseur	0.02	0
+liseuses	li-z2z	li-seu-ses	NOM	f	p	liseur	0	0.14
+lisez	li-ze	li-sez	VER			lire	16.78	5
+lisibilité	li-zi-bi-li-te		NOM	f	s		0.01	0
+lisible	li-zibl	li-si-ble	ADJ		s		0.4	2.5
+lisiblement	li-zi-bl°-m@	li-si-ble-ment	ADV				0.11	0.2
+lisibles	li-zibl	li-si-bles	ADJ		p	lisible	0.44	1.08
+lisier	li-zje		NOM	m	s		0.01	0
+lisière	li-zjER	li-siè-re	NOM	f	s		0.67	16.49
+lisières	li-zjER	li-siè-res	NOM	f	p	lisière	0	1.76
+lisiez	li-zje	li-siez	VER			lire	0.96	0.95
+lisions	li-zj§	li-sions	VER			lire	0.27	1.55
+lisons	li-z§	li-sons	VER			lire	1.56	0.81
+lissa	li-sa	lis-sa	VER			lisser	0.02	1.15
+lissage	li-saZ	lis-sa-ge	NOM	m	s		0.01	0.14
+lissai	li-sE	lis-sai	VER			lisser	0	0.14
+lissaient	li-sE	lis-saient	VER			lisser	0	0.34
+lissais	li-sE	lis-sais	VER			lisser	0	0.07
+lissait	li-sE	lis-sait	VER			lisser	0	1.42
+lissant	li-s@	lis-sant	VER			lisser	0	1.96
+lisse	lis	lis-se	ADJ		s		2.71	24.26
+lisse	lis	lis-se	VER			lisser	0.36	1.96
+lisse	lis	lis-se	NOM	f	s		0.13	1.69
+lissé	li-se	lis-sé	VER	m	s	lisser	0.22	0.88
+lissé	li-se	lis-sé	NOM	m	s		0.05	0.07
+lissée	li-se	lis-sée	VER	f	s	lisser	0.15	0.34
+lissées	li-se	lis-sées	VER	f	p	lisser	0.1	0.2
+lissent	lis	lis-sent	VER			lisser	0	0.34
+lisser	li-se	lis-ser	VER				0.34	1.49
+lissera	li-s°-Ra	lis-se-ra	VER			lisser	0	0.07
+lisserait	li-s°-RE	lis-se-rait	VER			lisser	0	0.14
+lissèrent	li-sER	lis-sè-rent	VER			lisser	0	0.07
+lisses	lis	lis-ses	ADJ		p	lisse	0.77	9.32
+lisses	lis	lis-ses	NOM	f	p	lisse	0.02	0.34
+lisses	lis	lis-ses	VER			lisser	0.01	0
+lissés	li-se	lis-sés	VER	m	p	lisser	0.01	0.68
+lissés	li-se	lis-sés	NOM	m	p	lissé	0.01	0.14
+lisseur	li-s9R	lis-seur	NOM	m	s		0	0.07
+lisseurs	li-s9R	lis-seurs	NOM	m	p	lisseur	0	0.07
+lissez	li-se	lis-sez	VER			lisser	0.7	0
+lissons	li-s§	lis-sons	VER			lisser	0.14	0.14
+lissotriche	li-sO-tRiS		ADJ		s		0	0.07
+liste	list	lis-te	NOM	f	s		69.07	18.92
+listé	lis-te	lis-té	VER	m	s	lister	0.23	0
+listée	lis-te	lis-tée	VER	f	s	lister	0.1	0
+listées	lis-te	lis-tées	VER	f	p	lister	0.04	0
+listel	lis-tEl	lis-tel	NOM	m	s		0	0.07
+lister	lis-te	lis-ter	VER				1.07	0
+listeria	lis-te-Rja		NOM	f			0.01	0
+listes	list	lis-tes	NOM	f	p	liste	2.49	5.41
+listés	lis-te	lis-tés	VER	m	p	lister	0.09	0
+listez	lis-te	lis-tez	VER			lister	0.07	0
+listing	lis-tiG	lis-ting	NOM	m	s		0.23	0
+listings	lis-tiG	lis-ting-s	NOM	m	p	listing	0.02	0
+liston	lis-t§	lis-ton	NOM	m	s		4.14	0
+lit	li	lit	NOM	m	s		176.1	315.74
+lit	li	lit	VER			lire	14.22	24.86
+lit-bateau	li-ba-to		NOM	m	s		0	0.81
+lit-cage	li-kaZ	lit-cage	NOM	m	s		0.01	1.15
+lit-divan	li-di-v@		NOM	m	s		0	0.2
+lit-divan	li-di-v@		VER			lire	0	0.07
+lita	li-ta	li-ta	VER			liter	0.34	0
+litanie	li-ta-ni	li-ta-nie	NOM	f	s		0.56	4.53
+litanies	li-ta-ni	li-ta-nies	NOM	f	p	litanie	0.03	2.57
+lite	lit	li-te	VER			liter	0.08	0
+lité	li-te		VER	m	s	liter	0.14	0
+liteaux	li-to	li-teaux	NOM	m	p	liteau	0	0.07
+litée	li-te	li-tée	NOM	f	s		0	0.07
+liter	li-te		VER				0.27	0
+literie	li-t°-Ri	li-te-rie	NOM	f	s		0.28	1.96
+literies	li-t°-Ri	li-te-ries	NOM	f	p	literie	0.01	0.07
+lithiase	li-tjaz		NOM	f	s		0.04	0
+lithinés	li-ti-ne	li-thi-nés	ADJ	m	p	lithiné	0	0.27
+lithique	li-tik	li-thi-que	ADJ		s		0.01	0
+lithium	li-tjOm	li-thium	NOM	m	s		0.94	0.14
+litho	li-to	li-tho	NOM	f	s		0.01	0.14
+lithographe	li-to-gRaf	li-tho-gra-phe	NOM		s		0	0.14
+lithographie	li-to-gRa-fi	li-tho-gra-phie	NOM	f	s		0.25	0.41
+lithographié	li-to-gRa-fje	li-tho-gra-phié	VER	m	s	lithographier	0	0.07
+lithographies	li-to-gRa-fi	li-tho-gra-phies	NOM	f	p	lithographie	0.01	0.14
+lithophages	li-to-faZ	li-tho-pha-ges	ADJ	m	p	lithophage	0	0.07
+lithos	li-to	li-thos	NOM	f	p	litho	0.01	0.07
+lithosphère	li-tOs-fER		NOM	f	s		0.03	0
+lithotripsie	li-to-tRip-zi		NOM	f	s		0.03	0
+lithotriteur	li-to-tRi-t9R		NOM	m	s		0.01	0
+lithuanien	li-t8a-nj5	li-thua-nien	ADJ	m	s		0.07	0.2
+lithuanien	li-t8a-nj5	li-thua-nien	NOM	m	s		0.03	0.14
+lithuanienne	li-ty-a-njEn	li-thua-nien-ne	ADJ	f	s	lithuanien	0.01	0
+lithuaniennes	li-t8a-njEn	li-thua-nien-nes	ADJ	f	p	lithuanien	0	0.07
+litière	li-tjER	li-tiè-re	NOM	f	s		0.81	5.68
+litières	li-tjER	li-tiè-res	NOM	f	p	litière	0.01	0.47
+litige	li-tiZ	li-ti-ge	NOM	m	s		0.57	0.74
+litiges	li-tiZ	li-ti-ges	NOM	m	p	litige	0.2	0.68
+litigieuse	li-ti-Zj2z	li-ti-gieu-se	ADJ	f	s	litigieux	0.02	0.2
+litigieux	li-ti-Zj2	li-ti-gieux	ADJ	m	s		0.04	0.14
+litorne	li-tORn	li-tor-ne	NOM	f	s		0	0.07
+litote	li-tOt	li-to-te	NOM	f	s		0.03	0.2
+litotes	li-tOt	li-to-tes	NOM	f	p	litote	0	0.2
+litre	litR	li-tre	NOM		s		2.75	10.2
+litrer	li-tRe		VER				0	0.07
+litres	litR	li-tres	NOM		p	litre	7.44	8.31
+litron	li-tR§	li-tron	NOM	m	s		0.2	1.82
+litronaient	li-tRo-nE	li-tro-naient	VER			litroner	0	0.07
+litroné	li-tRo-ne	li-tro-né	VER	m	s	litroner	0	0.07
+litrons	li-tR§	li-trons	NOM	m	p	litron	0	1.35
+lits	li	lits	NOM	m	p	lit	8.17	22.43
+lits-cages	li-kaZ	lits-cages	NOM	m	p	lit-cage	0	0.47
+littéraire	li-te-RER	lit-té-rai-re	ADJ		s		2.64	11.82
+littéraire	li-te-RER	lit-té-rai-re	NOM		s		0.15	0.41
+littérairement	li-te-RE-R°-m@	lit-té-rai-re-ment	ADV				0.01	0.14
+littéraires	li-te-RER	lit-té-rai-res	ADJ		p	littéraire	0.45	5.34
+littéraires	li-te-RER	lit-té-rai-res	NOM		p	littéraire	0.02	0.54
+littéral	li-te-Ral	lit-té-ral	ADJ	m	s		0.72	0.61
+littérale	li-te-Ral	lit-té-ra-le	ADJ	f	s	littéral	0.34	0.74
+littéralement	li-te-Ra-l°-m@	lit-té-ra-le-ment	ADV				5.27	10.95
+littérales	li-te-Ral	lit-té-ra-les	ADJ	f	p	littéral	0	0.14
+littéralité	li-te-Ra-li-te	lit-té-ra-li-té	NOM	f	s		0	0.07
+littérateur	li-te-Ra-t9R	lit-té-ra-teur	NOM	m	s		0.23	0.47
+littérateurs	li-te-Ra-t9R	lit-té-ra-teurs	NOM	m	p	littérateur	0	0.54
+littérature	li-te-Ra-tyR	lit-té-ra-tu-re	NOM	f	s		8.48	36.82
+littératures	li-te-Ra-tyR	lit-té-ra-tu-res	NOM	f	p	littérature	0	0.07
+littéraux	li-te-Ro		ADJ	m	p	littéral	0.01	0
+littoral	li-to-Ral	lit-to-ral	NOM	m	s		0.2	3.11
+littoral	li-to-Ral	lit-to-ral	ADJ	m	s		0.16	0.2
+littorale	li-to-Ral	lit-to-ra-le	ADJ	f	s	littoral	0.07	0.14
+littoraux	li-to-Ro		NOM	m	p	littoral	0.01	0
+lituanien	li-t8a-nj5	li-tua-nien	ADJ	m	s		0.44	0.07
+lituanien	li-t8a-nj5	li-tua-nien	NOM	m	s		0	0.2
+lituanienne	li-ty-a-njEn	li-tua-nien-ne	ADJ	f	s	lituanien	0.25	0.27
+lituaniennes	li-ty-a-njEn	li-tua-nien-nes	ADJ	f	p	lituanien	0	0.34
+lituaniens	li-t8a-nj5	li-tua-niens	NOM	m	p	lituanien	0.21	0.27
+lituaniens	li-t8a-nj5	li-tua-niens	ADJ	m	p	lituanien	0	0.2
+liturgie	li-tyR-Zi	li-tur-gie	NOM	f	s		0.03	2.09
+liturgies	li-tyR-Zi	li-tur-gies	NOM	f	p	liturgie	0	0.07
+liturgique	li-tyR-Zik	li-tur-gi-que	ADJ		s		0.16	0.54
+liturgiques	li-tyR-Zik	li-tur-gi-ques	ADJ		p	liturgique	0	0.54
+livarot	li-va-Ro	li-va-rot	NOM	m	s		0	0.27
+live	liv	li-ve	ADJ				3.9	0.27
+livèche	li-vES	li-vè-che	NOM	f	s		0.14	0
+livide	li-vid	li-vi-de	ADJ		s		0.62	8.78
+livides	li-vid	li-vi-des	ADJ		p	livide	0.12	1.76
+lividité	li-vi-di-te	li-vi-di-té	NOM	f	s		0.4	0
+living	li-viG	li-ving	NOM	m	s		0.87	2.77
+living-room	li-viG-Rum	living-room	NOM	m	s		0.23	2.23
+livings	li-viG	li-ving-s	NOM	m	p	living	0	0.07
+livoniennes	li-vo-njEn	li-vo-nien-nes	NOM	f	p	livonienne	0	0.07
+livra	li-vRa	li-vra	VER			livrer	0.14	2.5
+livrable	li-vRabl	li-vra-ble	ADJ		s		0	0.07
+livrables	li-vRabl	li-vra-bles	ADJ	f	p	livrable	0.02	0
+livrai	li-vRE	li-vrai	VER			livrer	0.01	0.34
+livraient	li-vRE	li-vraient	VER			livrer	0.44	4.19
+livrais	li-vRE	li-vrais	VER			livrer	0.38	1.22
+livraison	li-vRE-z§	li-vrai-son	NOM	f	s		10.69	5.47
+livraisons	li-vRE-z§	li-vrai-sons	NOM	f	p	livraison	2.98	3.11
+livrait	li-vRE	li-vrait	VER			livrer	0.74	7.91
+livrâmes	li-vRam	li-vrâ-mes	VER			livrer	0.01	0.14
+livrant	li-vR@	li-vrant	VER			livrer	0.98	3.65
+livrât	li-vRa	li-vrât	VER			livrer	0	0.54
+livre	livR	li-vre	NOM				112.43	151.76
+livre	livR	li-vre	VER			livrer	9.38	9.39
+livré	li-vRe	li-vré	VER	m	s	livrer	8.03	11.08
+livre-cassette	li-vR2-ka-sEt		NOM	m	s		0.03	0
+livrée	li-vRe	li-vrée	VER	f	s	livrer	1.91	4.73
+livrée	li-vRe	li-vrée	NOM	f	s		0.38	3.72
+livrées	li-vRe	li-vrées	VER	f	p	livrer	0.57	1.96
+livrées	li-vRe	li-vrées	NOM	f	p	livrée	0.16	0.54
+livrent	livR	li-vrent	VER			livrer	1.44	2.84
+livrer	li-vRe	li-vrer	VER				21.42	25.2
+livrera	li-vR°-Ra	li-vre-ra	VER			livrer	0.97	0.34
+livrerai	li-vR°-RE	li-vre-rai	VER			livrer	0.62	0.41
+livreraient	li-vR°-RE	li-vre-raient	VER			livrer	0.04	0.54
+livrerais	li-vR°-RE	li-vre-rais	VER			livrer	0.17	0.14
+livrerait	li-vR°-RE	li-vre-rait	VER			livrer	0.18	0.95
+livreras	li-vR°-Ra	li-vre-ras	VER			livrer	0.24	0.14
+livrèrent	li-vRER	li-vrè-rent	VER			livrer	0.06	0.61
+livrerez	li-vR°-Re	li-vre-rez	VER			livrer	0.14	0
+livrerons	li-vR°-R§	li-vre-rons	VER			livrer	0.1	0.07
+livreront	li-vR°-R§	li-vre-ront	VER			livrer	0.47	0.2
+livres	livR	li-vres	NOM		p	livre	85.69	134.73
+livres	livR	li-vres	VER			livrer	1.45	0.61
+livrés	li-vRe	li-vrés	VER	m	p	livrer	2.64	4.59
+livres-club	liv-Rkl9b	livres-club	NOM	m	p		0	0.07
+livresque	li-vREsk	li-vres-que	ADJ		s		0.02	0.68
+livresques	li-vREsk	li-vres-ques	ADJ	f	p	livresque	0	0.07
+livret	li-vRE	li-vret	NOM	m	s		3.1	4.73
+livrets	li-vRE	li-vrets	NOM	m	p	livret	0.16	0.68
+livreur	li-vR9R	li-vreur	NOM	m	s		3.81	2.91
+livreurs	li-vR9R	li-vreurs	NOM	m	p	livreur	0.57	1.08
+livreuse	li-vR2z	li-vreu-se	NOM	f	s	livreur	0.08	0
+livrez	li-vRe	li-vrez	VER			livrer	3.28	0.2
+livrions	li-vRi-j§	li-vrions	VER			livrer	0.02	0.2
+livrons	li-vR§	li-vrons	VER			livrer	0.7	0.27
+llanos	la-nos	l-la-nos	NOM	m	p	llano	0	0.07
+lloyd	lOjd		NOM	m	s		0.01	0
+loader	lo-d9R	loa-der	NOM	m	s		0.14	0
+lob	lOb	lob	NOM	m	s		0.04	0.2
+lobaire	lO-bER		ADJ	f	s		0.01	0
+lobbies	lO-bi	lob-bies	NOM	m	p		0.29	0
+lobby	lO-bi	lob-by	NOM	m	s		0.83	0.27
+lobbying	lO-bi-jiG		NOM	m	s		0.07	0
+lobe	lOb	lo-be	NOM	m	s		2.84	1.35
+lobé	lo-be	lo-bé	VER	m	s	lober	0.02	0
+lobectomie	lo-bEk-to-mi	lo-bec-to-mie	NOM	f	s		0.03	0.07
+lobée	lo-be		ADJ	f	s	lobé	0.01	0
+lober	lo-be	lo-ber	VER				0.03	0
+lobes	lOb	lo-bes	NOM	m	p	lobe	0.74	0.74
+lobotomie	lo-bo-to-mi	lo-bo-to-mie	NOM	f	s		0.83	0.14
+lobotomisé	lo-bo-to-mi-ze	lo-bo-to-mi-sé	VER	m	s	lobotomiser	0.25	0.07
+lobotomisée	lO-bO-tO-mi-ze		VER	f	s	lobotomiser	0.03	0
+lobotomiser	lo-bo-to-mi-ze	lo-bo-to-mi-ser	VER				0.04	0
+lobs	lOb	lobs	NOM	m	p	lob	0	0.07
+lobulaire	lo-by-lER	lo-bu-lai-re	ADJ	m	s		0	0.07
+local	lo-kal	lo-cal	ADJ	m	s		6.05	6.76
+local	lo-kal	lo-cal	NOM	m	s		3.55	7.64
+locale	lo-kal	lo-ca-le	ADJ	f	s	local	7.31	6.69
+localement	lo-ka-l°-m@	lo-ca-le-ment	ADV				0.22	0.88
+locales	lo-kal	lo-ca-les	ADJ	f	p	local	2.93	4.8
+localisa	lo-ka-li-za	lo-ca-li-sa	VER			localiser	0	0.34
+localisable	lo-ka-li-zabl	lo-ca-li-sa-ble	ADJ	m	s		0.04	0.07
+localisaient	lo-ka-li-zE	lo-ca-li-saient	VER			localiser	0	0.07
+localisais	lo-ka-li-zE	lo-ca-li-sais	VER			localiser	0.01	0.07
+localisait	lo-ka-li-zE	lo-ca-li-sait	VER			localiser	0.02	0
+localisant	lo-ka-li-z@	lo-ca-li-sant	VER			localiser	0.02	0.07
+localisateur	lo-ka-li-za-t9R	lo-ca-li-sa-teur	ADJ	m	s		0.3	0
+localisation	lo-ka-li-za-sj§	lo-ca-li-sa-tion	NOM	f	s		1.99	0.2
+localisations	lo-ka-li-za-sj§	lo-ca-li-sa-tions	NOM	f	p	localisation	0.08	0
+localise	lo-ka-liz	lo-ca-li-se	VER			localiser	0.76	0.14
+localisé	lo-ka-li-ze	lo-ca-li-sé	VER	m	s	localiser	3.31	0.34
+localisé	lo-ka-li-ze	lo-ca-li-sé	ADJ	m	s		0.25	0.34
+localisée	lo-ka-li-ze	lo-ca-li-sée	ADJ	f	s	localisé	0.07	0.2
+localisée	lo-ka-li-ze	lo-ca-li-sée	VER	f	s	localiser	0.25	0
+localisées	lo-ka-li-ze	lo-ca-li-sées	ADJ	f	p	localisé	0	0.14
+localisées	lo-ka-li-ze	lo-ca-li-sées	VER	f	p	localiser	0.02	0
+localisent	lo-ka-liz	lo-ca-li-sent	VER			localiser	0.08	0.07
+localiser	lo-ka-li-ze	lo-ca-li-ser	VER				7.41	1.76
+localisera	lo-ka-li-z°-Ra	lo-ca-li-se-ra	VER			localiser	0.14	0
+localiseront	lo-ka-li-z°-R§	lo-ca-li-se-ront	VER			localiser	0.02	0
+localisés	lo-ka-li-ze	lo-ca-li-sés	VER	m	p	localiser	0.26	0
+localisés	lo-ka-li-ze	lo-ca-li-sés	ADJ	m	p	localisé	0.06	0.07
+localisez	lo-ka-li-ze	lo-ca-li-sez	VER			localiser	0.48	0
+localisions	lo-ka-li-zj§	lo-ca-li-sions	VER			localiser	0.01	0
+localisons	lo-ka-li-z§	lo-ca-li-sons	VER			localiser	0.06	0
+localité	lo-ka-li-te	lo-ca-li-té	NOM	f	s		0.23	0.81
+localités	lo-ka-li-te	lo-ca-li-tés	NOM	f	p	localité	0.13	0.74
+locataire	lo-ka-tER	lo-ca-tai-re	NOM		s		3.29	6.22
+locataires	lo-ka-tER	lo-ca-tai-res	NOM		p	locataire	3.94	8.24
+locateurs	lo-ka-t9R	lo-ca-teurs	NOM	m	p	locateur	0.01	0
+locatif	lo-ka-tif		ADJ	m	s		0.01	0
+location	lo-ka-sj§	lo-ca-tion	NOM	f	s		5.29	5
+locations	lo-ka-sj§	lo-ca-tions	NOM	f	p	location	0.22	0.34
+locative	lo-ka-tiv		ADJ	f	s	locatif	0.01	0
+locatives	lo-ka-tiv	lo-ca-ti-ves	ADJ	f	p	locatif	0.02	0.07
+locature	lO-ka-tyR		NOM	f	s		0	0.07
+locaux	lo-ko	lo-caux	NOM	m	p	local	2.23	4.26
+locaux	lo-ko	lo-caux	ADJ	m	p	local	1.82	4.59
+locdu	lOk-dy		ADJ	m	s		0	0.27
+loch	lOk	lo-ch	NOM	m	s		0.65	0.41
+loche	lOS	lo-che	NOM	f	s		0.12	1.01
+loches	lOS	lo-ches	NOM	f	p	loche	0.44	0.07
+lock-out	lO-kawt		NOM	m			0.11	0
+lock-outés	lo-kaw-te	lock-outés	VER	m	p	lock-outer	0	0.07
+loco	lo-ko	lo-co	ADV				1.48	1.08
+loco	lo-ko	lo-co	NOM	m	s		0.58	0.88
+locomobile	lo-ko-mo-bil	lo-co-mo-bi-le	NOM	f	s		0	0.07
+locomoteur	lo-ko-mo-t9R		ADJ	m	s		0.01	0
+locomoteurs	lo-ko-mo-t9R	lo-co-mo-teurs	ADJ	m	p	locomoteur	0	0.07
+locomotion	lo-ko-mo-sj§	lo-co-mo-tion	NOM	f	s		0.26	0.88
+locomotive	lo-ko-mo-tiv	lo-co-mo-ti-ve	NOM	f	s		3.69	10.61
+locomotive	lo-ko-mo-tiv	lo-co-mo-ti-ve	ADJ	f	s	locomotif	0.09	2.5
+locomotives	lo-ko-mo-tiv	lo-co-mo-ti-ves	NOM	f	p	locomotive	0.25	2.5
+locomotives	lo-ko-mo-tiv	lo-co-mo-ti-ves	ADJ	f	p	locomotif	0.01	0.2
+locomotrice	lo-ko-mo-tRis	lo-co-mo-tri-ce	NOM	f	s	locomoteur	0	0.07
+locos	lo-ko	lo-cos	NOM	m	p	loco	0.16	0.47
+locus	lo-kys	lo-cus	NOM	m			0.15	0.2
+locuste	lo-kyst	lo-cus-te	NOM	f	s		0.01	0
+locustes	lo-kyst	lo-cus-tes	NOM	f	p	locuste	0.05	0
+locuteur	lo-ky-t9R	lo-cu-teur	NOM	m	s		0.01	0
+locution	lo-ky-sj§	lo-cu-tion	NOM	f	s		0.04	0.41
+locutions	lo-ky-sj§	lo-cu-tions	NOM	f	p	locution	0.01	0.61
+locutrice	lO-ky-tRis		NOM	f	s	locuteur	0.01	0
+loden	lo-dEn	lo-den	NOM	m	s		0.27	0.74
+lodens	lo-dEn	lo-dens	NOM	m	p	loden	0	0.07
+lof	lOf		NOM	m	s		0.02	0
+lofe	lOf	lo-fe	VER			lofer	0.01	0
+lofez	lo-fe	lo-fez	VER			lofer	0.01	0
+loft	lOft	loft	NOM	m	s		1.11	0.47
+lofts	lOf	lofts	NOM	m	p	loft	0.26	0
+logarithme	lo-ga-Ritm	lo-ga-ri-th-me	NOM	m	s		0.05	0
+logarithmes	lo-ga-Ritm	lo-ga-ri-th-mes	NOM	m	p	logarithme	0.04	0.34
+logarithmique	lo-ga-Rit-mik		ADJ		s		0.02	0
+loge	lOZ	lo-ge	NOM	f	s		12.15	18.11
+loge	lOZ	lo-ge	VER			loger	3.63	3.18
+logé	lo-Ze	lo-gé	VER	m	s	loger	1.77	3.45
+logé	lo-Ze	lo-gé	ADJ	m	s		0.5	0.74
+logea	lo-Za	lo-gea	VER			loger	0.03	0.41
+logeable	lo-Zabl	lo-gea-ble	ADJ	m	s		0	0.07
+logeables	lo-Zabl	lo-gea-bles	ADJ	m	p	logeable	0	0.07
+logeai	lo-ZE	lo-geai	VER			loger	0	0.14
+logeaient	lo-ZE	lo-geaient	VER			loger	0.06	1.69
+logeais	lo-ZE	lo-geais	VER			loger	0.16	0.47
+logeait	lo-ZE	lo-geait	VER			loger	0.55	3.72
+logeant	lo-Z@	lo-geant	VER			loger	0.01	0.47
+logeassent	lo-Zas	lo-geas-sent	VER			loger	0	0.07
+logée	lo-Ze	lo-gée	VER	f	s	loger	1.23	1.08
+logée	lo-Ze	lo-gée	ADJ	f	s	logé	0.03	0.2
+logées	lo-Ze	lo-gées	VER	f	p	loger	0.16	0.2
+logement	lO-Z°-m@	lo-ge-ment	NOM	m	s		8.37	11.08
+logements	lO-Z°-m@	lo-ge-ments	NOM	m	p	logement	2.76	2.57
+logent	lOZ	lo-gent	VER			loger	0.38	1.08
+loger	lo-Ze	lo-ger	VER				5.84	7.23
+logera	lO-Z°-Ra	lo-ge-ra	VER			loger	0.39	0
+logerai	lO-Z°-RE	lo-ge-rai	VER			loger	0.3	0.2
+logeraient	lO-Z°-RE	lo-ge-raient	VER			loger	0	0.14
+logerait	lO-Z°-RE	lo-ge-rait	VER			loger	0.17	0.27
+logeras	lO-Z°-Ra	lo-ge-ras	VER			loger	0.24	0.07
+logèrent	lo-ZER	lo-gè-rent	VER			loger	0	0.14
+logerez	lO-Z°-Re	lo-ge-rez	VER			loger	0.38	0.07
+logerions	lO-Z°-Rj§	lo-ge-rions	VER			loger	0	0.07
+logerons	lO-Z°-R§	lo-ge-rons	VER			loger	0.03	0
+logeront	lO-Z°-R§	lo-ge-ront	VER			loger	0.29	0.14
+loges	lOZ	lo-ges	NOM	f	p	loge	1.54	4.26
+loges	lOZ	lo-ges	VER			loger	0.65	0.27
+logés	lo-Ze	lo-gés	VER	m	p	loger	0.26	1.22
+logés	lo-Ze	lo-gés	ADJ	m	p	logé	0.36	0.81
+logettes	lo-ZEt	lo-get-tes	NOM	f	p	logette	0	0.14
+logeur	lo-Z9R	lo-geur	NOM	m	s		0.25	0.07
+logeurs	lo-Z9R	lo-geurs	NOM	m	p	logeur	0	0.27
+logeuse	lo-Z2z	lo-geu-se	NOM	f	s	logeur	1.26	3.31
+logeuses	lo-Z2z	lo-geu-ses	NOM	f	p	logeur	0.01	0.07
+logez	lo-Ze	lo-gez	VER			loger	1.29	0.41
+loggia	lOd-Zja	log-gia	NOM	f	s		0.1	3.11
+loggias	lOd-Zja	log-gias	NOM	f	p	loggia	0	0.74
+logiciel	lo-Zi-sjEl	lo-gi-ciel	NOM	m	s		2.31	0.14
+logiciel	lo-Zi-sjEl	lo-gi-ciel	ADJ	m	s		0.2	0
+logiciels	lo-Zi-sjEl	lo-gi-ciels	NOM	m	p	logiciel	1.3	0
+logiciels	lo-Zi-sjEl	lo-gi-ciels	ADJ	m	p	logiciel	0.15	0
+logicien	lo-Zi-sj5	lo-gi-cien	NOM	m	s		0.03	0.2
+logicienne	lo-Zi-sjEn	lo-gi-cien-ne	NOM	f	s	logicien	0	0.07
+logiciens	lo-Zi-sj5	lo-gi-ciens	NOM	m	p	logicien	0	0.14
+logiez	lo-Zje	lo-giez	VER			loger	0.45	0.07
+login	lO-gin	lo-gin	ADJ	m	s		0.04	0
+logions	lo-Zj§	lo-gions	VER			loger	0.11	0.2
+logique	lo-Zik	lo-gi-que	ADJ		s		13.79	11.22
+logique	lo-Zik	lo-gi-que	NOM	f	s		6.6	12.77
+logiquement	lo-Zi-k°-m@	lo-gi-que-ment	ADV				1.33	3.24
+logiques	lo-Zik	lo-gi-ques	ADJ		p	logique	0.61	0.81
+logiques	lo-Zik	lo-gi-ques	NOM	f	p	logique	0.34	0.2
+logis	lo-Zi	lo-gis	NOM	m			2.7	12.84
+logisticien	lO-Zis-ti-sj5		NOM	m	s		0.01	0
+logistique	lo-Zis-tik	lo-gis-ti-que	NOM	f	s		0.8	0.27
+logistique	lo-Zis-tik	lo-gis-ti-que	ADJ		s		0.21	0.14
+logistiques	lo-Zis-tik	lo-gis-ti-ques	ADJ		p	logistique	0.2	0.07
+logo	lo-go	lo-go	NOM	m	s		1.65	0
+logogriphe	lo-go-gRif	lo-go-gri-phe	NOM	m	s		0.01	0.07
+logogriphes	lo-go-gRif	lo-go-gri-phes	NOM	m	p	logogriphe	0	0.07
+logomachie	lo-go-ma-Si	lo-go-ma-chie	NOM	f	s		0	0.14
+logorrhée	lo-go-Re	lo-gor-rhée	NOM	f	s		0.06	0.27
+logos	lo-gOs	lo-gos	NOM	m			0.16	0.81
+logosphère	lo-gos-fER	lo-go-sphè-re	NOM	f	s		0	0.14
+logothètes	lo-go-tEt	lo-go-thè-tes	NOM	m	p	logothète	0	0.07
+logue	lOg	lo-gue	VER			loguer	0.02	0
+loi	lwa	loi	NOM	f	s		87.37	44.46
+loin	lw5	loin	ADV				248.34	452.36
+lointain	lw5-t5	loin-tain	ADJ	m	s		5.05	33.18
+lointain	lw5-t5	loin-tain	NOM	m	s		0.81	9.73
+lointaine	lw5-tEn	loin-tai-ne	ADJ	f	s	lointain	2.89	32.5
+lointainement	lw5-tE-n°-m@	loin-tai-ne-ment	ADV				0	0.47
+lointaines	lw5-tEn	loin-tai-nes	ADJ	f	p	lointain	1.15	12.64
+lointains	lw5-t5	loin-tains	ADJ	m	p	lointain	1.02	13.65
+lointains	lw5-t5	loin-tains	NOM	m	p	lointain	0.32	3.72
+loir	lwaR	loir	NOM	m	s		0.51	0.74
+loirs	lwaR	loirs	NOM	m	p	loir	0.18	0.88
+lois	lwa	lois	NOM	f	p	loi	22.75	27.84
+loisible	lwa-zibl	loi-si-ble	ADJ		s		0	0.74
+loisir	lwa-ziR	loi-sir	NOM	m	s		2.41	13.24
+loisirs	lwa-ziR	loi-sirs	NOM	m	p	loisir	2.68	7.57
+lokoum	lo-kum	lo-koum	NOM	m	s		0	0.14
+lolita	lo-li-ta	lo-li-ta	NOM	f	s		0.04	0
+lolitas	lo-li-ta	lo-li-tas	NOM	f	p	lolita	0.06	0.07
+lolo	lo-lo	lo-lo	NOM	m	s		0.7	0.34
+lolos	lo-lo	lo-los	NOM	m	p	lolo	1.12	0.07
+lombaire	l§-bER	lom-bai-re	ADJ		s		1.06	0.2
+lombaires	l§-bER	lom-bai-res	ADJ	f	p	lombaire	0.3	0.14
+lombalgie	l§-bal-Zi		NOM	f	s		0.01	0
+lombard	l§-baR	lom-bard	ADJ	m	s		0	0.2
+lombarde	l§-baRd	lom-bar-de	ADJ	f	s	lombard	0.14	0.14
+lombarde	l§-baRd	lom-bar-de	NOM	f	s	lombard	0	0.2
+lombardes	l§-baRd	lom-bar-des	ADJ	f	p	lombard	0	0.14
+lombardo	l§-baR-do	lom-bar-do	NOM	m			0.01	0
+lombards	l§-baR	lom-bard-s	ADJ	m	p	lombard	0	0.27
+lombes	l§b	lom-bes	NOM	f	p		0	0.41
+lombostats	l§-bos-ta	lom-bo-stats	NOM	m	p	lombostat	0	0.07
+lombric	l§-bRik	lom-bric	NOM	m	s		0.08	0.41
+lombrics	l§-bRik	lom-brics	NOM	m	p	lombric	0.2	0.34
+lompe	l§p		NOM	m	s		0.01	0
+londonien	l§-do-nj5	lon-do-nien	ADJ	m	s		0.44	0.47
+londonienne	l§-do-njEn	lon-do-nien-ne	ADJ	f	s	londonien	0.34	0.2
+londoniennes	l§-do-njEn	lon-do-nien-nes	ADJ	f	p	londonien	0.04	0.07
+londoniens	l§-do-nj5	lon-do-niens	ADJ	m	p	londonien	0.41	0.2
+londrès	l§-dREs	lon-drès	NOM	m			0	0.07
+long	l§	long	ADJ	m	s		79.18	153.51
+long	l§	long	NOM	m	s		21.48	170.07
+long	l§	long	ADV				0.4	0.74
+long-courrier	l§-ku-Rje	long-courrier	NOM	m	s		0.25	0.47
+long-courriers	l§-ku-Rje	long-courriers	NOM	m	p	long-courrier	0.01	0.14
+long-métrage	l§-me-tRaZ	long-métrage	NOM	m	s		0.06	0
+longane	l§-gan	lon-ga-ne	NOM	m	s		0.14	0
+longanimité	l§-ga-ni-mi-te	lon-ga-ni-mi-té	NOM	f	s		0	0.14
+longe	l§Z	lon-ge	VER			longer	0.55	5.95
+longe	l§Z	lon-ge	NOM	f	s		0.08	1.28
+longé	l§-Ze	lon-gé	VER	m	s	longer	0.38	1.76
+longea	l§-Za	lon-gea	VER			longer	0.01	3.65
+longeai	l§-ZE	lon-geai	VER			longer	0	0.27
+longeaient	l§-ZE	lon-geaient	VER			longer	0	1.82
+longeais	l§-ZE	lon-geais	VER			longer	0.12	0.81
+longeait	l§-ZE	lon-geait	VER			longer	0.03	6.76
+longeâmes	l§-Zam	lon-geâ-mes	VER			longer	0	0.41
+longeant	l§-Z@	lon-geant	VER			longer	0.4	5.68
+longée	l§-Ze	lon-gée	VER	f	s	longer	0.01	0.14
+longent	l§Z	lon-gent	VER			longer	0.14	0.74
+longeons	l§-Z§	lon-geons	VER			longer	0.02	0.81
+longer	l§-Ze	lon-ger	VER				0.61	2.57
+longera	l§-Z°-Ra	lon-ge-ra	VER			longer	0.16	0
+longeraient	l§-Z°-RE	lon-ge-raient	VER			longer	0	0.07
+longerait	l§-Z°-RE	lon-ge-rait	VER			longer	0	0.14
+longèrent	l§-ZER	lon-gè-rent	VER			longer	0	1.55
+longerions	l§-Z°-Rj§	lon-ge-rions	VER			longer	0	0.07
+longeron	l§-Z°-R§	lon-ge-ron	NOM	m	s		0	0.07
+longerons	l§-Z°-R§	lon-ge-rons	NOM	m	p	longeron	0	0.14
+longerons	l§-Z°-R§	lon-ge-rons	VER			longer	0.01	0
+longeront	l§-Z°-R§	lon-ge-ront	VER			longer	0.01	0.2
+longes	l§Z	lon-ges	NOM	f	p	longe	0.03	0.07
+longes	l§Z	lon-ges	VER			longer	0.01	0
+longés	l§-Ze	lon-gés	VER	m	p	longer	0	0.07
+longévité	l§-Ze-vi-te	lon-gé-vi-té	NOM	f	s		0.71	0.88
+longez	l§-Ze	lon-gez	VER			longer	0.43	0.14
+longicornes	l§-Zi-kORn	lon-gi-cor-nes	NOM	m	p	longicorne	0	0.07
+longiez	l§-Zje	lon-giez	VER			longer	0.01	0
+longiforme	l§-Zi-fORm		ADJ		s		0	0.07
+longiligne	l§-Zi-liN	lon-gi-li-gne	ADJ	m	s		0	0.81
+longilignes	l§-Zi-liN	lon-gi-li-gnes	ADJ	m	p	longiligne	0.02	0.07
+longions	l§-Zj§	lon-gions	VER			longer	0.1	0.74
+longitude	l§-Zi-tyd	lon-gi-tu-de	NOM	f	s		0.46	0.41
+longitudinal	l§-Zi-ty-di-nal	lon-gi-tu-di-nal	ADJ	m	s		0.03	0
+longitudinale	l§-Zi-ty-di-nal	lon-gi-tu-di-na-le	ADJ	f	s	longitudinal	0.01	0.07
+longitudinalement	l§-Zi-ty-di-na-l°-m@	lon-gi-tu-di-na-le-ment	ADV				0	0.07
+longitudinales	l§-Zi-ty-di-nal	lon-gi-tu-di-na-les	ADJ	f	p	longitudinal	0.15	0.41
+longitudinaux	l§-Zi-ty-di-no	lon-gi-tu-di-naux	ADJ	m	p	longitudinal	0	0.07
+longrines	l§-gRin	lon-gri-nes	NOM	f	p	longrine	0	0.07
+longs	l§	long-s	ADJ	m	p	long	17.65	65.47
+longs	l§	long-s	NOM	m	p	long	0.32	1.28
+longtemps	l§-t@	long-temps	ADV				290.36	335.54
+longue	l§g	lon-gue	ADJ	f	s	long	54.12	138.31
+longue	l§g	lon-gue	NOM	f	s		4.29	13.99
+longue-vue	l§g-vy	longue-vue	NOM	f	s		0.29	2.5
+longuement	l§-g°-m@	lon-gue-ment	ADV				3.71	58.45
+longues	l§g	lon-gues	ADJ	f	p	long	13.07	87.57
+longues	l§g	lon-gues	NOM	f	p	longue	0.34	1.96
+longues-vues	l§g-vy	longues-vues	NOM	f	p	longue-vue	0.01	0.14
+longuet	l§-gE	lon-guet	ADJ	m	s		0.01	0.2
+longuet	l§-gE	lon-guet	NOM	m	s		0.01	0
+longuette	l§-gEt	lon-guet-te	ADJ	f	s	longuet	0.01	0.14
+longuettes	l§-gEt	lon-guet-tes	ADJ	f	p	longuet	0	0.07
+longueur	l§-g9R	lon-gueur	NOM	f	s		8.36	26.82
+longueurs	l§-g9R	lon-gueurs	NOM	f	p	longueur	1.06	1.62
+look	luk	look	NOM	m	s		10.47	1.82
+looks	luks	looks	NOM	m	p	look	0.46	0.14
+looping	lu-piG	loo-ping	NOM	m	s		0.27	0.54
+loopings	lu-piG	loo-ping-s	NOM	m	p	looping	0.06	0.14
+looser	lu-z9R	loo-ser	NOM	m	s		0.82	0
+loosers	lu-z9R	loo-sers	NOM	m	p	looser	0.27	0
+lopaille	lO-paj		NOM	f	s		0	0.07
+lope	lOp	lo-pe	NOM	f	s		0.53	1.08
+lopes	lOp	lo-pes	NOM	f	p	lope	0.48	0.61
+lopette	lo-pEt	lo-pet-te	NOM	f	s		1.11	0.41
+lopettes	lo-pEt	lo-pet-tes	NOM	f	p	lopette	0.15	0.07
+lopin	lo-p5	lo-pin	NOM	m	s		0.52	0.34
+lopins	lo-p5	lo-pins	NOM	m	p	lopin	0.1	0.07
+loquace	lo-kas	lo-qua-ce	ADJ		s		0.58	2.03
+loquaces	lo-kas	lo-qua-ces	ADJ	f	p	loquace	0.03	0.41
+loquacité	lo-ka-si-te	lo-qua-ci-té	NOM	f	s		0.01	0
+loquait	lo-kE	lo-quait	VER			loquer	0	0.07
+loque	lOk	lo-que	NOM	f	s		1.72	3.24
+loqué	lO-ke		VER	m	s	loquer	0.41	0
+loquedu	lO-k°-dy	lo-que-du	NOM		s		0.01	1.08
+loquedus	lO-k°-dy	lo-que-dus	NOM		p	loquedu	0.06	1.42
+loquer	lo-ke	lo-quer	VER				0	0.14
+loques	lOk	lo-ques	NOM	f	p	loque	0.48	6.42
+loqués	lo-ke	lo-qués	VER	m	p	loquer	0	0.07
+loquet	lo-kE	lo-quet	NOM	m	s		0.6	4.05
+loqueteau	lO-k°-to	lo-que-teau	NOM	m	s		0	0.07
+loqueteuse	lO-k°-t2z	lo-que-teu-se	ADJ	f	s	loqueteux	0	0.07
+loqueteuses	lO-k°-t2z	lo-que-teu-ses	ADJ	f	p	loqueteux	0	0.07
+loqueteux	lO-k°-t2	lo-que-teux	ADJ	m			0.06	1.76
+loquets	lo-kE	lo-quets	NOM	m	p	loquet	0	0.34
+loquette	lo-kEt	lo-quet-te	VER			loqueter	0	0.07
+loran	lo-R@	lo-ran	NOM	m	s		0.14	0
+lord	lORd	lord	NOM	m	s		1.26	6.69
+lord-maire	lOR-dmER	lord-maire	NOM	m	s		0.02	0.07
+lordose	lOR-doz	lor-do-se	NOM	f	s		0	0.07
+lords	lORdz	lord-s	NOM	m	p	lord	0.15	0.88
+lorette	lO-REt		NOM	f	s		0.01	0
+lorettes	lo-REt	lo-ret-tes	NOM	f	p	lorette	0	0.07
+lorgna	lOR-Na	lor-gna	VER			lorgner	0	0.88
+lorgnaient	lOR-NE	lor-gnaient	VER			lorgner	0.02	0.54
+lorgnais	lOR-NE	lor-gnais	VER			lorgner	0.04	0.2
+lorgnait	lOR-NE	lor-gnait	VER			lorgner	0.13	1.69
+lorgnant	lOR-N@	lor-gnant	VER			lorgner	0.01	1.15
+lorgne	lORN	lor-gne	VER			lorgner	0.53	0.47
+lorgné	lOR-Ne	lor-gné	VER	m	s	lorgner	0	0.47
+lorgnées	lOR-Ne	lor-gnées	VER	f	p	lorgner	0	0.07
+lorgnent	lORN	lor-gnent	VER			lorgner	0.07	0.47
+lorgner	lOR-Ne	lor-gner	VER				0.14	0.88
+lorgnerai	lOR-N°-RE	lor-gne-rai	VER			lorgner	0	0.07
+lorgnèrent	lOR-NER	lor-gnè-rent	VER			lorgner	0	0.07
+lorgnerez	lOR-N°-Re	lor-gne-rez	VER			lorgner	0	0.07
+lorgnés	lOR-Ne	lor-gnés	VER	m	p	lorgner	0	0.07
+lorgnette	lOR-NEt	lor-gnet-te	NOM	f	s		0.13	1.08
+lorgnettes	lOR-NEt	lor-gnet-tes	NOM	f	p	lorgnette	0	1.01
+lorgnez	lOR-Ne	lor-gnez	VER			lorgner	0.13	0
+lorgnon	lOR-N§	lor-gnon	NOM	m	s		0.02	2.84
+lorgnons	lOR-N§	lor-gnons	NOM	m	p	lorgnon	0	2.57
+lori	lO-Ri		NOM	m	s		0.01	0
+loriot	lo-Rjo	lo-riot	NOM	m	s		0.02	2.16
+loriots	lo-Rjo	lo-riots	NOM	m	p	loriot	0.03	0.2
+loris	lO-Ris		NOM	m			0.04	0
+lorrain	lo-R5	lor-rain	ADJ	m	s		0	0.47
+lorrain	lo-R5	lor-rain	NOM	m	s		0	0.2
+lorraine	lo-REn	lor-rai-ne	ADJ	f	s	lorrain	0.06	0.74
+lorraine	lo-REn	lor-rai-ne	NOM	f	s	lorrain	0	0.07
+lorraines	lo-REn	lor-rai-nes	ADJ	f	p	lorrain	0	0.2
+lorrains	lo-R5	lor-rains	NOM	m	p	lorrain	0	0.54
+lorrains	lo-R5	lor-rains	ADJ	m	p	lorrain	0	0.07
+lors	lOR	lors	ADV				35.79	70.27
+lorsqu	lORsk	lors-qu	CON				0.04	0
+lorsque	lOR-sk°	lors-que	CON				49.36	207.09
+lorsque	lOR-sk°	lors-que	ADV				0	0.07
+los	lo		NOM	m			5.08	2.77
+losange	lo-z@Z	lo-san-ge	NOM	m	s		0.08	1.49
+losangé	lo-z@-Ze	lo-san-gé	ADJ	m	s		0	0.07
+losangée	lo-z@-Ze	lo-san-gée	ADJ	f	s	losangé	0	0.07
+losanges	lo-z@Z	lo-san-ges	NOM	m	p	losange	0.03	2.43
+losangés	lo-z@-Ze	lo-san-gés	ADJ	m	p	losangé	0	0.2
+loser	lo-ze	lo-ser	NOM	m	s		3.27	0.07
+losers	lo-zER	lo-sers	NOM	m	p	loser	1.51	0
+lot	lo	lot	NOM	m	s		11.87	15.68
+loterie	lO-t°-Ri	lo-te-rie	NOM	f	s		7.16	4.32
+loteries	lO-t°-Ri	lo-te-ries	NOM	f	p	loterie	0.09	0.54
+loti	lo-ti	lo-ti	ADJ	m	s		0.09	0.34
+loti	lo-ti	lo-ti	VER	m	s	lotir	0.01	0
+lotie	lo-ti	lo-tie	ADJ	f	s	loti	0.12	0.34
+lotie	lo-ti	lo-tie	VER	f	s	lotir	0.23	0.14
+lotier	lo-tje	lo-tier	NOM	m	s		0	0.07
+loties	lo-ti	lo-ties	ADJ	f	p	loti	0	0.07
+lotion	lo-sj§	lo-tion	NOM	f	s		1.53	0.54
+lotionnés	lo-sjo-ne	lo-tion-nés	VER	m	p	lotionner	0	0.07
+lotions	lo-sj§	lo-tions	NOM	f	p	lotion	0.15	0.2
+lotir	lo-tiR	lo-tir	VER				0.01	0.34
+lotis	lo-ti	lo-tis	ADJ	m	p	loti	0.47	0.47
+lotis	lo-ti	lo-tis	VER	m	p	lotir	0	0.07
+lotissement	lo-ti-s°-m@	lo-tis-se-ment	NOM	m	s		0.59	0.47
+lotissements	lo-ti-s°-m@	lo-tis-se-ments	NOM	m	p	lotissement	0.19	0.54
+loto	lo-to	lo-to	NOM	m	s		6.75	1.15
+lotos	lo-to	lo-tos	NOM	m	p	loto	0	0.2
+lots	lo	lots	NOM	m	p	lot	1.42	1.49
+lotta	lO-ta		NOM	f	s		0.16	0.41
+lotte	lOt	lot-te	NOM	f	s		0.18	0.07
+lottes	lOt	lot-tes	NOM	f	p	lotte	0	0.07
+lotus	lo-tys	lo-tus	NOM	m			0.58	1.08
+loua	lwa	loua	VER			louer	0.17	1.08
+louable	lwabl	loua-ble	ADJ		s		1.04	1.42
+louablement	lwa-bl2-m@		ADV				0.14	0
+louables	lwabl	loua-bles	ADJ		p	louable	0.33	0.47
+louage	lwaZ	loua-ge	NOM	m	s		0.07	0.88
+louai	lwE	louai	VER			louer	0	0.41
+louaient	lwE	louaient	VER			louer	0.33	1.15
+louais	lwE	louais	VER			louer	0.42	0.34
+louait	lwE	louait	VER			louer	1.46	3.24
+louâmes	lwam	louâ-mes	VER			louer	0	0.07
+louange	lw@Z	louan-ge	NOM	f	s		0.97	1.82
+louange	lw@Z	louan-ge	VER			louanger	0	0.07
+louangé	lw@-Ze	louan-gé	VER	m	s	louanger	0	0.07
+louangea	lw@-Za	louan-gea	VER			louanger	0	0.14
+louangeaient	lw@-ZE	louan-geaient	VER			louanger	0	0.07
+louangeant	lw@-Z@	louan-geant	VER			louanger	0	0.07
+louangée	lw@-Ze	louan-gée	VER	f	s	louanger	0	0.07
+louanger	lw@-Ze	louan-ger	VER				0.12	0.2
+louanges	lw@Z	louan-ges	NOM	f	p	louange	2.09	4.53
+louangés	lw@-Ze	louan-gés	VER	m	p	louanger	0.01	0.07
+louangeur	lw@-Z9R	louan-geur	ADJ	m	s		0	0.14
+louangeur	lw@-Z9R	louan-geur	NOM	m	s		0	0.07
+louangeuses	lw@-Z2z	louan-geu-ses	ADJ	f	p	louangeur	0	0.07
+louant	lw@	louant	VER			louer	0.23	0.54
+loubard	lu-baR	lou-bard	NOM	m	s		1.04	1.01
+loubarde	lu-baRd	lou-bar-de	NOM	f	s	loubard	0	0.34
+loubards	lu-baR	lou-bard-s	NOM	m	p	loubard	0.69	1.69
+loucha	lu-Sa	lou-cha	VER			loucher	0	0.27
+louchai	lu-SE	lou-chai	VER			loucher	0	0.07
+louchaient	lu-SE	lou-chaient	VER			loucher	0	0.41
+louchais	lu-SE	lou-chais	VER			loucher	0.01	0.2
+louchait	lu-SE	lou-chait	VER			loucher	0.2	1.08
+louchant	lu-S@	lou-chant	VER			loucher	0.04	1.42
+louchât	lu-Sa	lou-chât	VER			loucher	0	0.07
+louche	luS	lou-che	ADJ		s		5.71	5.88
+louche	luS	lou-che	NOM	f	s		1.55	3.38
+louche	luS	lou-che	VER			loucher	1.52	1.22
+louché	lu-Se	lou-ché	VER	m	s	loucher	0.01	0.41
+louchebem	lu-kE-bEm	lou-che-bem	NOM	m	s		0	0.27
+louchébème	lu-Se-bEm	lou-ché-bè-me	NOM	m	s		0	0.07
+louchée	lu-Se	lou-chée	VER	f	s	loucher	0.01	0.14
+louchement	lu-S°-m@	lou-che-ment	NOM	m	s		0	0.07
+louchent	luS	lou-chent	VER			loucher	0.15	0.14
+loucher	lu-Se	lou-cher	VER				0.4	0.61
+louches	luS	lou-ches	ADJ		p	louche	1.92	3.18
+louches	luS	lou-ches	NOM	f	p	louche	0.31	0.74
+louches	luS	lou-ches	VER			loucher	0.09	0.14
+louchet	lu-SE	lou-chet	NOM	m	s		0	0.07
+loucheur	lu-S9R	lou-cheur	NOM	m	s		0.05	0.14
+loucheuse	lu-S2z	lou-cheu-se	NOM	f	s	loucheur	0	0.14
+louchez	lu-Se	lou-chez	VER			loucher	0.09	0.07
+louchon	lu-S§	lou-chon	NOM	m	s		0	0.07
+louchons	lu-S§	lou-chons	VER			loucher	0.01	0.14
+louchons	lu-S§	lou-chons	NOM	m	p	louchon	0	0.07
+loue	lu	loue	VER			louer	6.01	1.69
+loué	lwe	loué	VER	m	s	louer	16.22	7.91
+loué	lwe	loué	ADJ	m	s		0.36	0.14
+louée	lwe	louée	VER	f	s	louer	1.64	2.09
+louée	lwe	louée	ADJ	f	s	loué	0.82	1.22
+louée	lwe	louée	NOM	f	s		0.04	0.2
+louées	lwe	louées	VER	f	p	louer	0.03	0.54
+louées	lwe	louées	ADJ	f	p	loué	0.12	0.14
+louées	lwe	louées	NOM	f	p	louée	0.01	0
+louent	lu	louent	VER			louer	0.76	0.41
+louer	lwe	louer	VER				15.03	7.57
+louera	lu-Ra	loue-ra	VER			louer	0.33	0.14
+louerai	lu-RE	loue-rai	VER			louer	0.29	0.14
+loueraient	lu-RE	loue-raient	VER			louer	0.01	0.07
+louerais	lu-RE	loue-rais	VER			louer	0.31	0.14
+louerait	lu-RE	loue-rait	VER			louer	0.05	0.41
+loueras	lu-Ra	loue-ras	VER			louer	0.18	0
+louèrent	lwER	louè-rent	VER			louer	0.02	0.47
+loueriez	lu-Rje	loue-riez	VER			louer	0.01	0.07
+louerons	lu-R§	loue-rons	VER			louer	0.17	0.07
+loues	lu	loues	VER			louer	0.58	0.07
+loués	lwe	loués	VER	m	p	louer	0.37	0.34
+loués	lwe	loués	ADJ	m	p	loué	0.37	0.34
+loueur	lw9R	loueur	NOM	m	s		0.41	1.49
+loueurs	lw9R	loueurs	NOM	m	p	loueur	0.23	0.07
+loueuse	lw2z	loueu-se	NOM	f	s	loueur	0.01	0.07
+louez	lu-e	louez	VER			louer	1.96	0.2
+louf	luf	louf	ADJ	m	s		0.47	1.55
+loufer	lu-fe	lou-fer	VER				0	0.07
+loufes	luf	lou-fes	VER			loufer	0	0.14
+loufiat	lu-fja	lou-fiat	NOM	m	s		0.14	5.27
+loufiats	lu-fja	lou-fiats	NOM	m	p	loufiat	0.05	1.49
+loufoque	lu-fOk	lou-fo-que	ADJ		s		0.68	0.34
+loufoquerie	lu-fO-k°-Ri	lou-fo-que-rie	NOM	f	s		0.04	0.2
+loufoqueries	lu-fO-k°-Ri	lou-fo-que-ries	NOM	f	p	loufoquerie	0	0.07
+loufoques	lu-fOk	lou-fo-ques	ADJ	f	p	loufoque	0.19	0.07
+louftingue	luf-t5g	louf-tin-gue	ADJ		s		0	0.07
+louions	lu-j§	louions	VER			louer	0.12	0.07
+louis	lwi	louis	NOM	m	s		5.01	5.07
+louis	lwi	louis	ADV				0.01	0
+louis-philippard	lwi-fi-li-paRd	louis-philippard	ADJ	m	s		0	0.07
+louis-philipparde	lwi-fi-li-paRd	louis-philipparde	ADJ	f	s	louis-philippard	0	0.14
+louis-philippards	lwi-fi-li-paR	louis-philippards	ADJ	m	p	louis-philippard	0	0.14
+louise-bonne	lwiz-bOn	louise-bonne	NOM	f	s		0	0.07
+louisianais	lu-i-zi-ja-nE	loui-sia-nais	NOM	m			0	0.07
+louisianais	lu-i-zi-ja-nE	loui-sia-nais	ADJ	m	s		0.02	0
+loukoum	lu-kum	lou-koum	NOM	m	s		0.02	0.95
+loukoums	lu-kum	lou-koum-s	NOM	m	p	loukoum	0.05	1.62
+loulou	lu-lu	lou-lou	NOM	m	s		1.45	18.72
+loulous	lu-lu	lou-lous	NOM	m	p	loulou	0.03	0.61
+louloute	lu-lut	lou-lou-te	NOM	f	s		0.35	0.07
+louloutes	lu-lut	lou-lou-tes	NOM	f	p	louloute	0.1	0.14
+louloutte	lu-lut	lou-lout-te	NOM	f	s		0	0.07
+louons	lw§	louons	VER			louer	1.35	0.27
+loup	lu	loup	NOM	m	s		20.97	22.3
+loup-cervier	lu-sER-vje	loup-cervier	NOM	m	s		0	0.07
+loup-garou	lu-ga-Ru	loup-garou	NOM	m	s		3.35	0.88
+loupa	lu-pa	lou-pa	VER			louper	0.03	0.14
+loupai	lu-pE	lou-pai	VER			louper	0	0.07
+loupaient	lu-pE	lou-paient	VER			louper	0	0.07
+loupais	lu-pE	lou-pais	VER			louper	0	0.07
+loupait	lu-pE	lou-pait	VER			louper	0.02	0.27
+loupe	lup	lou-pe	NOM	f	s		1.66	4.86
+loupe	lup	lou-pe	VER			louper	0.73	1.89
+loupé	lu-pe	lou-pé	VER	m	s	louper	5.37	2.64
+loupé	lu-pe	lou-pé	NOM	m	s		0.72	0.47
+loupée	lu-pe	lou-pée	VER	f	s	louper	0.4	0.2
+loupées	lu-pe	lou-pées	VER	f	p	louper	0.04	0.14
+loupent	lup	lou-pent	VER			louper	0.06	0.07
+louper	lu-pe	lou-per	VER				3.81	3.04
+loupera	lu-p°-Ra	lou-pe-ra	VER			louper	0.26	0.2
+louperai	lu-p°-RE	lou-pe-rai	VER			louper	0.15	0.07
+louperais	lu-p°-RE	lou-pe-rais	VER			louper	0.06	0
+louperait	lu-p°-RE	lou-pe-rait	VER			louper	0	0.07
+louperas	lu-p°-Ra	lou-pe-ras	VER			louper	0.02	0
+louperez	lu-p°-Re	lou-pe-rez	VER			louper	0.03	0
+loupes	lup	lou-pes	VER			louper	0.69	0.14
+loupes	lup	lou-pes	NOM	f	p	loupe	0.04	0.61
+loupés	lu-pe	lou-pés	VER	m	p	louper	0.18	0.27
+loupés	lu-pe	lou-pés	NOM	m	p	loupé	0	0.2
+loupez	lu-pe	lou-pez	VER			louper	0.17	0.07
+loupiat	lu-pja		NOM	m	s		0	0.14
+loupiez	lu-pje	lou-piez	VER			louper	0.04	0.07
+loupiot	lu-pjo	lou-piot	NOM	m	s		0.12	0.2
+loupiote	lu-pjOt	lou-pio-te	NOM	f	s		0.02	0.68
+loupiotes	lu-pjOt	lou-pio-tes	NOM	f	p	loupiote	0.03	0.34
+loupiots	lu-pjo	lou-piots	NOM	m	p	loupiot	0.01	0.2
+loupiotte	lu-pjOt	lou-piot-te	NOM	f	s		0	0.07
+loupiottes	lu-pjOt	lou-piot-tes	NOM	f	p	loupiotte	0	0.07
+loups	lu	loups	NOM	m	p	loup	8.41	18.24
+loups-cerviers	lu-sER-vje	loups-cerviers	NOM	m	p	loup-cervier	0	0.07
+loups-garous	lu-ga-Ru	loups-garous	NOM	m	p	loup-garou	0.63	0.34
+lourant	lu-R@	lou-rant	VER			lourer	0	0.07
+lourd	luR	lourd	ADJ	m	s		10.15	42.5
+lourd	luR	lourd	ADV				16.09	21.35
+lourd	luR	lourd	NOM	m	s		0.76	2.16
+lourdait	luR-dE	lour-dait	VER			lourder	0	0.07
+lourdant	luR-d@	lour-dant	VER			lourder	0	0.07
+lourdaud	luR-do	lour-daud	NOM	m	s		0.48	0.74
+lourdaud	luR-do	lour-daud	ADJ	m	s		0.23	0.2
+lourdaude	luR-dod	lour-dau-de	ADJ	f	s	lourdaud	0	0.14
+lourdaudes	luR-dod	lour-dau-des	ADJ	f	p	lourdaud	0	0.07
+lourdauds	luR-do	lour-daud-s	ADJ	m	p	lourdaud	0.12	0.27
+lourdauds	luR-do	lour-daud-s	NOM	m	p	lourdaud	0.16	0.2
+lourde	luRd	lour-de	ADJ	f	s	lourd	8.46	56.62
+lourde	luRd	lour-de	NOM	f	s	lourd	0.33	7.97
+lourdé	luR-de	lour-dé	VER	m	s	lourder	0.1	0.34
+lourdée	luR-de	lour-dée	VER	f	s	lourder	0.05	0.27
+lourdées	luR-de	lour-dées	VER	f	p	lourder	0	0.14
+lourdement	luR-d°-m@	lour-de-ment	ADV				1.87	14.66
+lourder	luR-de	lour-der	VER				0.22	0.61
+lourderie	luR-d°-Ri	lour-de-rie	NOM	f	s		0	0.07
+lourdes	luRd	lour-des	ADJ	f	p	lourd	4.26	23.18
+lourdes	luRd	lour-des	NOM	f	p	lourd	0.04	1.82
+lourdés	luR-de	lour-dés	VER	m	p	lourder	0.01	0.2
+lourdeur	luR-d9R	lour-deur	NOM	f	s		0.19	4.86
+lourdeurs	luR-d9R	lour-deurs	NOM	f	p	lourdeur	0.01	0.61
+lourdingue	luR-d5g	lour-din-gue	ADJ	f	s		0.07	0.34
+lourdingues	luR-d5g	lour-din-gues	ADJ	m	p	lourdingue	0.07	0.54
+lourds	luR	lourd-s	ADJ	m	p	lourd	6.58	23.58
+lourds	luR	lourd-s	NOM	m	p	lourd	0.12	0.68
+loustic	lus-tik	lous-tic	NOM	m	s		0.06	0.95
+loustics	lus-tik	lous-tics	NOM	m	p	loustic	0.02	0.54
+loute	lut		NOM	f	s		0.07	0.14
+loutre	lutR	lou-tre	NOM	f	s		1.3	1.35
+loutres	lutR	lou-tres	NOM	f	p	loutre	1.22	0.27
+louve	luv	lou-ve	NOM	f	s	loup	1.02	3.51
+louves	luv	lou-ves	NOM	f	p	loup	0.02	0.34
+louvet	lu-vE	lou-vet	ADJ	m	s		0.01	2.91
+louveteau	lu-v°-to	lou-ve-teau	NOM	m	s		0.13	0.54
+louveteaux	lu-v°-to	lou-ve-teaux	NOM	m	p	louveteau	0.11	1.82
+louvetiers	lu-v°-tje	lou-ve-tiers	NOM	m	p	louvetier	0	0.07
+louvoie	lu-vwa	lou-voie	VER			louvoyer	0.07	0.81
+louvoiements	lu-vwa-m@	lou-voie-ments	NOM	m	p	louvoiement	0	0.14
+louvoient	lu-vwa	lou-voient	VER			louvoyer	0.01	0.07
+louvoyaient	lu-vwa-jE	lou-voyaient	VER			louvoyer	0	0.07
+louvoyait	lu-vwa-jE	lou-voyait	VER			louvoyer	0.01	0.2
+louvoyant	lu-vwa-j@	lou-voyant	VER			louvoyer	0	0.61
+louvoyant	lu-vwa-j@	lou-voyant	ADJ	m	s		0	0.14
+louvoyants	lu-vwa-j@	lou-voyants	ADJ	m	p	louvoyant	0	0.07
+louvoyât	lu-vwa-ja	lou-voyât	VER			louvoyer	0	0.07
+louvoyé	lu-vwa-je	lou-voyé	VER	m	s	louvoyer	0.04	0.2
+louvoyer	lu-vwa-je	lou-voyer	VER				0.18	0.88
+louvoyons	lu-vwa-j§	lou-voyons	VER			louvoyer	0	0.07
+lova	lo-va	lo-va	VER			lover	0	0.2
+lovaient	lo-vE	lo-vaient	VER			lover	0	0.07
+lovais	lo-vE	lo-vais	VER			lover	0.01	0
+lovait	lo-vE	lo-vait	VER			lover	0	0.34
+lovant	lo-v@	lo-vant	VER			lover	0	0.14
+love	lOv	lo-ve	VER			lover	8.64	2.5
+lové	lo-ve	lo-vé	VER	m	s	lover	0.04	1.15
+lovée	lo-ve	lo-vée	VER	f	s	lover	0.02	0.95
+lovées	lo-ve	lo-vées	VER	f	p	lover	0	0.14
+lovent	lOv	lo-vent	VER			lover	0	0.07
+lover	lo-ve	lo-ver	VER				0.14	1.01
+lovés	lo-ve	lo-vés	VER	m	p	lover	0	0.47
+loyal	lwa-jal	loyal	ADJ	m	s		5.87	3.72
+loyale	lwa-jal	loya-le	ADJ	f	s	loyal	2.13	1.82
+loyalement	lwa-ja-l°-m@	loya-le-ment	ADV				0.81	1.42
+loyales	lwa-jal	loya-les	ADJ	f	p	loyal	0.19	0
+loyalisme	lwa-ja-lizm	loya-lis-me	NOM	m	s		0.08	1.15
+loyaliste	lwa-ja-list	loya-lis-te	NOM		s		0.01	0.07
+loyaliste	lwa-ja-list	loya-lis-te	ADJ	f	s		0.03	0
+loyalistes	lwa-ja-list	loya-lis-tes	ADJ		p	loyaliste	0.04	0.07
+loyalistes	lwa-ja-list	loya-lis-tes	NOM		p	loyaliste	0.06	0
+loyauté	lwa-jo-te	loyau-té	NOM	f	s		9.36	2.97
+loyautés	lwa-jo-te	loyau-tés	NOM	f	p	loyauté	0.02	0.14
+loyaux	lwa-jo	loyaux	ADJ	m	p	loyal	2.76	1.82
+loyer	lwa-je	loyer	NOM	m	s		16.2	5.07
+loyers	lwa-je	loyers	NOM	m	p	loyer	0.98	1.42
+lsd	E-lEs-de	lsd	NOM	m			0.08	0
+lu	ly	lu	VER	m	s	lire	82.12	57.97
+lu	ly	lu	ADJ	m	s		0.98	1.55
+lubie	ly-bi	lu-bie	NOM	f	s		1.37	1.35
+lubies	ly-bi	lu-bies	NOM	f	p	lubie	1.04	1.42
+lubricité	ly-bRi-si-te	lu-bri-ci-té	NOM	f	s		0.57	0.74
+lubrifiant	ly-bRi-fj@	lu-bri-fiant	NOM	m	s		0.58	0.54
+lubrifiant	ly-bRi-fj@	lu-bri-fiant	ADJ	m	s		0.1	0
+lubrifiant	ly-bRi-fj@	lu-bri-fiant	VER			lubrifier	0.02	0.07
+lubrifiante	ly-bRi-fj@t	lu-bri-fian-te	ADJ	f	s	lubrifiant	0	0.07
+lubrifiants	ly-bRi-fj@	lu-bri-fiants	NOM	m	p	lubrifiant	0.05	0.14
+lubrification	ly-bRi-fi-ka-sj§	lu-bri-fi-ca-tion	NOM	f	s		0.14	0
+lubrifie	ly-bRi-fi	lu-bri-fie	VER			lubrifier	0.19	0
+lubrifié	ly-bRi-fje	lu-bri-fié	ADJ	m	s		0.11	0.07
+lubrifié	ly-bRi-fje	lu-bri-fié	VER	m	s	lubrifier	0.01	0.14
+lubrifiée	ly-bRi-fje	lu-bri-fiée	VER	f	s	lubrifier	0.03	0
+lubrifiée	ly-bRi-fje	lu-bri-fiée	ADJ	f	s	lubrifié	0.02	0
+lubrifiées	ly-bRi-fje	lu-bri-fiées	ADJ	f	p	lubrifié	0.02	0.14
+lubrifiées	ly-bRi-fje	lu-bri-fiées	VER	f	p	lubrifier	0.02	0
+lubrifient	ly-bRi-fi	lu-bri-fient	VER			lubrifier	0.01	0
+lubrifier	ly-bRi-fje	lu-bri-fier	VER				0.24	0.2
+lubrifiés	ly-bRi-fje	lu-bri-fiés	ADJ	m	p	lubrifié	0.01	0
+lubrique	ly-bRik	lu-bri-que	ADJ		s		1.04	2.03
+lubriques	ly-bRik	lu-bri-ques	ADJ		p	lubrique	0.56	1.28
+lucarne	ly-kaRn	lu-car-ne	NOM	f	s		0.78	8.24
+lucarnes	ly-kaRn	lu-car-nes	NOM	f	p	lucarne	0.17	1.76
+luce	lys		NOM	f	s	luc	0	0.07
+luce	lys		NOM	f	s		0.01	0
+lucet	ly-sE		NOM	m	s		0	0.07
+lucide	ly-sid	lu-ci-de	ADJ		s		2.76	10.54
+lucidement	ly-si-d°-m@	lu-ci-de-ment	ADV				0.02	0.68
+lucides	ly-sid	lu-ci-des	ADJ	m	p	lucide	0.44	1.89
+lucidité	ly-si-di-te	lu-ci-di-té	NOM	f	s		1.92	10.74
+lucidités	ly-si-di-te	lu-ci-di-tés	NOM	f	p	lucidité	0	0.2
+luciférien	ly-si-fe-Rj5	lu-ci-fé-rien	ADJ	m	s		0	0.2
+luciférienne	ly-si-fe-RjEn	lu-ci-fé-rien-ne	ADJ	f	s	luciférien	0.01	0.07
+lucifériens	ly-si-fe-Rj5	lu-ci-fé-riens	ADJ	m	p	luciférien	0	0.07
+lucilie	ly-si-li		NOM	f	s		0.02	0
+luciole	ly-sjOl	lu-cio-le	NOM	f	s		1.01	0.54
+lucioles	ly-sjOl	lu-cio-les	NOM	f	p	luciole	0.48	1.76
+lucite	ly-sit		NOM	f	s		0.01	0
+lucratif	ly-kRa-tif	lu-cra-tif	ADJ	m	s		0.88	0.27
+lucratifs	ly-kRa-tif	lu-cra-tif-s	ADJ	m	p	lucratif	0.02	0.14
+lucrative	ly-kRa-tiv	lu-cra-ti-ve	ADJ	f	s	lucratif	0.57	0.41
+lucratives	ly-kRa-tiv	lu-cra-ti-ves	ADJ	f	p	lucratif	0.08	0.14
+lucre	lykR	lu-cre	NOM	m	s		0.14	0.54
+luddite	ly-dit		NOM	m	s		0.01	0
+ludion	ly-dj§	lu-dion	NOM	m	s		0	0.54
+ludions	ly-dj§	lu-dions	NOM	m	p	ludion	0	0.07
+ludique	ly-dik	lu-di-que	ADJ		s		0.41	0.54
+ludiques	ly-dik	lu-di-ques	ADJ		p	ludique	0.01	0.07
+lue	ly	lue	VER	f	s	lire	2.82	3.18
+lue	ly	lue	ADJ	f	s	lu	0.04	0.47
+lues	ly	lues	VER	f	p	lire	1.12	1.69
+lues	ly	lues	ADJ	f	p	lu	0.03	0.54
+luette	l8Et	luet-te	NOM	f	s		0.03	1.22
+luettes	l8Et	luet-tes	NOM	f	p	luette	0	0.07
+lueur	l89R	lueur	NOM	f	s		5.37	49.12
+lueurs	l89R	lueurs	NOM	f	p	lueur	1.28	15.07
+luffa	l9-fa	luf-fa	NOM	m	s		0.04	0
+luge	lyZ	lu-ge	NOM	f	s		1.19	1.42
+luger	ly-Ze	lu-ger	NOM	m	s		0.36	0.47
+lugers	ly-Ze	lu-gers	NOM	m	p	luger	0.01	0
+luges	lyZ	lu-ges	NOM	f	p	luge	0.03	0.14
+lugubre	ly-gybR	lu-gu-bre	ADJ		s		3	7.97
+lugubrement	ly-gy-bR°-m@	lu-gu-bre-ment	ADV				0	0.81
+lugubres	ly-gybR	lu-gu-bres	ADJ		p	lugubre	0.25	2.43
+lui	l8i	lui	PRO:per		s		2308.74	4225.14
+lui	l8i	lui	VER	m	s	luire	5.41	10.54
+lui-même	l8i-mEm	lui-même	PRO:per	m	s		46.58	202.3
+luira	l8i-Ra	lui-ra	VER			luire	0.03	0
+luiraient	l8i-RE	lui-raient	VER			luire	0	0.07
+luirait	l8i-RE	lui-rait	VER			luire	0	0.07
+luire	l8iR	lui-re	VER				0.95	4.19
+luirent	l8iR	lui-rent	VER			luire	0	0.07
+luis	l8i	luis	VER			luire	6.61	1.49
+luisaient	l8i-zE	lui-saient	VER			luire	0.03	5
+luisait	l8i-zE	lui-sait	VER			luire	0.31	5.95
+luisance	l8i-z@s	lui-san-ce	NOM	f	s		0	0.88
+luisances	l8i-z@s	lui-san-ces	NOM	f	p	luisance	0	0.2
+luisant	l8i-z@	lui-sant	ADJ	m	s		0.52	8.45
+luisant	l8i-z@	lui-sant	VER			luire	0.16	4.12
+luisant	l8i-z@	lui-sant	NOM	m	s		0.02	2.3
+luisante	l8i-z@t	lui-san-te	ADJ	f	s	luisant	0.09	7.43
+luisantes	l8i-z@t	lui-san-tes	ADJ	f	p	luisant	0.03	5.95
+luisants	l8i-z@	lui-sants	ADJ	m	p	luisant	0.17	6.69
+luisants	l8i-z@	lui-sants	NOM	m	p	luisant	0.01	0.34
+luise	l8iz	lui-se	VER			luire	0	0.14
+luisent	l8iz	lui-sent	VER			luire	0.06	2.5
+luit	l8i	luit	VER			luire	2.02	3.31
+lulu	ly-ly	lu-lu	NOM	m	s		0.03	0.61
+lulus	ly-ly	lu-lus	NOM	m	p	lulu	0	0.14
+lumbago	l§-ba-go	lum-ba-go	NOM	m	s		0.14	0.47
+lumbagos	l§-ba-go	lum-ba-gos	NOM	m	p	lumbago	0.01	0.2
+lumen	ly-mEn	lu-men	NOM	m	s		0.05	0.34
+lûmes	lym	lû-mes	VER			lire	0.01	0.2
+lumière	ly-mjER	lu-miè-re	NOM	f	s		116.02	238.65
+lumières	ly-mjER	lu-miè-res	NOM	f	p	lumière	18.81	35.61
+lumignon	ly-mi-N§	lu-mi-gnon	NOM	m	s		0	1.42
+lumignons	ly-mi-N§	lu-mi-gnons	NOM	m	p	lumignon	0	0.68
+luminaire	ly-mi-nER	lu-mi-nai-re	NOM	m	s		0	0.27
+luminaires	ly-mi-nER	lu-mi-nai-res	NOM	m	p	luminaire	0.05	0.41
+luminescence	ly-mi-nE-s@s	lu-mi-nes-cen-ce	NOM	f	s		0.05	0.14
+luminescent	ly-mi-nE-s@	lu-mi-nes-cent	ADJ	m	s		0	0.34
+luminescente	ly-mi-nE-s@t	lu-mi-nes-cen-te	ADJ	f	s	luminescent	0.01	0.14
+luminescentes	ly-mi-nE-s@t	lu-mi-nes-cen-tes	ADJ	f	p	luminescent	0.03	0.34
+luminescents	ly-mi-nE-s@	lu-mi-nes-cents	ADJ	m	p	luminescent	0	0.14
+lumineuse	ly-mi-n2z	lu-mi-neu-se	ADJ	f	s	lumineux	2.21	11.42
+lumineusement	ly-mi-n2-z°-m@	lu-mi-neu-se-ment	ADV				0.1	0.27
+lumineuses	ly-mi-n2z	lu-mi-neu-ses	ADJ	f	p	lumineux	0.35	4.8
+lumineux	ly-mi-n2	lu-mi-neux	ADJ	m			4.79	23.24
+luminosité	ly-mi-no-zi-te	lu-mi-no-si-té	NOM	f	s		0.66	1.82
+luminosités	ly-mi-no-zi-te	lu-mi-no-si-tés	NOM	f	p	luminosité	0	0.2
+lump	l1p	lump	NOM	m	s		0.14	0.07
+lunaire	ly-nER	lu-nai-re	ADJ		s		3.58	3.78
+lunaire	ly-nER	lu-nai-re	NOM	f	s		0.01	0.07
+lunaires	ly-nER	lu-nai-res	ADJ		p	lunaire	0.24	0.88
+lunaison	ly-nE-z§	lu-nai-son	NOM	f	s		0.01	0.07
+lunaisons	ly-nE-z§	lu-nai-sons	NOM	f	p	lunaison	0	0.07
+lunatique	ly-na-tik	lu-na-ti-que	ADJ		s		1.58	0.88
+lunatiques	ly-na-tik	lu-na-ti-ques	ADJ	m	p	lunatique	0.21	0.27
+lunch	l9ntS	lun-ch	NOM	m	s		0.54	1.22
+luncher	l1-Se		VER				0.14	0
+lunches	l9ntS	lun-ches	NOM	m	p	lunche	0	0.14
+lundi	l1-di	lun-di	NOM	m	s		36.01	23.51
+lundis	l1-di	lun-dis	NOM	m	p	lundi	0.93	0.95
+lune	lyn	lu-ne	NOM	f	s		58.29	63.24
+luné	ly-ne	lu-né	ADJ	m	s		0.66	0.47
+lunée	ly-ne	lu-née	ADJ	f	s	luné	0.18	0.07
+lunes	lyn	lu-nes	NOM	f	p	lune	2.74	3.45
+lunés	ly-ne	lu-nés	ADJ	m	p	luné	0	0.14
+lunetier	ly-n°-tje	lu-ne-tier	NOM	m	s		0	0.07
+lunette	ly-nEt	lu-net-te	NOM	f	s		1.71	7.43
+lunetté	ly-nE-te	lu-net-té	ADJ	m	s		0	0.2
+lunetteries	ly-nE-t°-Ri	lu-net-te-ries	NOM	f	p	lunetterie	0	0.07
+lunettes	ly-nEt	lu-net-tes	NOM	f	p	lunette	31.61	67.84
+lunetteux	ly-nE-t2	lu-net-teux	ADJ	m	s		0	0.2
+lunule	ly-nyl	lu-nu-le	NOM	f	s		0	0.34
+lunules	ly-nyl	lu-nu-les	NOM	f	p	lunule	0	0.68
+lupanar	ly-pa-naR	lu-pa-nar	NOM	m	s		0.07	0.74
+lupanars	ly-pa-naR	lu-pa-nars	NOM	m	p	lupanar	0.14	0.2
+lupin	ly-p5	lu-pin	NOM	m	s		0.15	0.2
+lupins	ly-p5	lu-pins	NOM	m	p	lupin	0.1	0.27
+lupus	ly-pys	lu-pus	NOM	m			1.28	0.27
+lur	luR		NOM	m	s		0	0.07
+lurent	lyR	lu-rent	VER			lire	0.01	0.54
+lurex	ly-REks	lu-rex	NOM	m			0.2	0.14
+luron	ly-R§	lu-ron	NOM	m	s		0.27	0.61
+luronne	ly-ROn		NOM	f	s	luron	0.29	0
+luronnes	ly-ROn	lu-ron-nes	NOM	f	p	luron	0	0.14
+lurons	ly-R§	lu-rons	NOM	m	p	luron	0.13	0.14
+lus	ly	lus	VER	m	p	lire	3.06	7.97
+lus	ly	lus	ADJ	m	p	lu	0.16	0.54
+lusitanienne	ly-zi-ta-njEn	lu-si-ta-nien-ne	ADJ	f	s	lusitanien	0	0.07
+lustra	lys-tRa	lus-tra	VER			lustrer	0	0.07
+lustrage	lys-tRaZ		NOM	m	s		0.05	0
+lustraient	lys-tRE	lus-traient	VER			lustrer	0	0.07
+lustrait	lys-tRE	lus-trait	VER			lustrer	0	0.2
+lustral	lys-tRal	lus-tral	ADJ	m	s		0	0.74
+lustrale	lys-tRal	lus-tra-le	ADJ	f	s	lustral	0	0.41
+lustrales	lys-tRal	lus-tra-les	ADJ	f	p	lustral	0	0.2
+lustrant	lys-tR@	lus-trant	VER			lustrer	0.01	0.07
+lustre	lystR	lus-tre	NOM	m	s		0.93	7.3
+lustre	lystR	lus-tre	VER			lustrer	0.17	0.14
+lustré	lys-tRe	lus-tré	ADJ	m	s		0.01	0.81
+lustré	lys-tRe	lus-tré	VER	m	s	lustrer	0.04	0.41
+lustrée	lys-tRe	lus-trée	ADJ	f	s	lustré	0.04	0.68
+lustrée	lys-tRe	lus-trée	VER	f	s	lustrer	0.06	0.41
+lustrées	lys-tRe	lus-trées	VER	f	p	lustrer	0	0.34
+lustrées	lys-tRe	lus-trées	ADJ	f	p	lustré	0.02	0.27
+lustrer	lys-tRe	lus-trer	VER				0.51	0.68
+lustres	lystR	lus-tres	NOM	m	p	lustre	2.99	7.84
+lustres	lystR	lus-tres	VER			lustrer	0.01	0
+lustrés	lys-tRe	lus-trés	ADJ	m	p	lustré	0.02	0.47
+lustrés	lys-tRe	lus-trés	VER	m	p	lustrer	0	0.07
+lustreur	lys-tR9R	lus-treur	NOM	m	s		0.01	0
+lustreuse	lys-tR2z	lus-treu-se	NOM	f	s	lustreur	0	0.07
+lustrine	lys-tRin	lus-tri-ne	NOM	f	s		0	0.74
+lustucru	lys-ty-kRy		NOM	m	s		0.01	0.07
+lut	ly	lut	VER			lire	0.36	15.88
+lut	ly	lut	NOM	m	s		0.14	1.89
+lût	ly	lût	VER			lire	0	0.47
+luté	ly-te	lu-té	VER	m	s	luter	0	0.14
+lutécien	ly-te-sj5	lu-té-cien	ADJ	m	s		0	0.07
+luth	lyt	lu-th	NOM	m	s		0.17	1.28
+luthéranisme	ly-te-Ra-nizm	lu-thé-ra-nis-me	NOM	m	s		0.01	0.14
+luthérianisme	ly-te-Rja-nizm	lu-thé-ria-nis-me	NOM	m	s		0	0.07
+lutherie	ly-tRi	lu-the-rie	NOM	f	s		0	0.07
+luthérien	ly-te-Rj5	lu-thé-rien	ADJ	m	s		0.1	0.47
+luthérien	ly-te-Rj5	lu-thé-rien	NOM	m	s		0.03	0.2
+luthérienne	ly-te-RjEn	lu-thé-rien-ne	ADJ	f	s	luthérien	0.2	0.27
+luthérienne	ly-te-RjEn	lu-thé-rien-ne	NOM	f	s	luthérien	0.05	0
+luthériennes	ly-te-RjEn	lu-thé-rien-nes	ADJ	f	p	luthérien	0.01	0.07
+luthériens	ly-te-Rj5	lu-thé-riens	NOM	m	p	luthérien	0.04	0.2
+luthériens	ly-te-Rj5	lu-thé-riens	ADJ	m	p	luthérien	0.06	0
+luthier	ly-tje	lu-thier	NOM	m	s		0.11	0.2
+luths	lyt	lu-ths	NOM	m	p	luth	0	0.34
+lutin	ly-t5	lu-tin	NOM	m	s		1.45	0.61
+lutin	ly-t5	lu-tin	ADJ	m	s		0.31	0.2
+lutinaient	ly-ti-nE	lu-ti-naient	VER			lutiner	0	0.07
+lutinait	ly-ti-nE	lu-ti-nait	VER			lutiner	0.01	0.2
+lutinant	ly-ti-n@	lu-ti-nant	VER			lutiner	0	0.07
+lutine	ly-tin	lu-ti-ne	ADJ	f	s	lutin	0.01	0.07
+lutine	ly-tin	lu-ti-ne	VER			lutiner	0	0.07
+lutiné	ly-ti-ne	lu-ti-né	VER	m	s	lutiner	0.02	0.14
+lutinée	ly-ti-ne	lu-ti-née	VER	f	s	lutiner	0	0.07
+lutinent	ly-tin	lu-ti-nent	VER			lutiner	0	0.14
+lutiner	ly-ti-ne	lu-ti-ner	VER				0.21	0.27
+lutinerais	ly-ti-n°-RE	lu-ti-ne-rais	VER			lutiner	0.01	0.07
+lutinèrent	ly-ti-nER	lu-ti-nè-rent	VER			lutiner	0	0.07
+lutins	ly-t5	lu-tins	NOM	m	p	lutin	0.69	0.41
+lutins	ly-t5	lu-tins	ADJ	m	p	lutin	0.32	0.34
+lutrin	ly-tR5	lu-trin	NOM	m	s		0	1.15
+lutrins	ly-tR5	lu-trins	NOM	m	p	lutrin	0	0.2
+lutta	ly-ta	lut-ta	VER			lutter	0.05	1.42
+luttai	ly-tE	lut-tai	VER			lutter	0.14	0.27
+luttaient	ly-tE	lut-taient	VER			lutter	0.32	2.03
+luttais	ly-tE	lut-tais	VER			lutter	0.29	0.88
+luttait	ly-tE	lut-tait	VER			lutter	0.76	5.54
+luttant	ly-t@	lut-tant	VER			lutter	1.56	5.2
+luttât	ly-ta	lut-tât	VER			lutter	0	0.14
+lutte	lyt	lut-te	NOM	f	s		22	37.36
+lutte	lyt	lut-te	VER			lutter	3.95	4.73
+lutté	ly-te	lut-té	VER	m	s	lutter	3.27	4.26
+luttent	lyt	lut-tent	VER			lutter	1.56	1.76
+lutter	ly-te	lut-ter	VER				10.24	20.81
+luttera	ly-t°-Ra	lut-te-ra	VER			lutter	0.06	0
+lutterai	ly-t°-RE	lut-te-rai	VER			lutter	0.11	0.2
+lutterais	ly-t°-RE	lut-te-rais	VER			lutter	0.04	0.07
+lutterait	ly-t°-RE	lut-te-rait	VER			lutter	0.13	0.2
+luttèrent	ly-tER	lut-tè-rent	VER			lutter	0.14	0.41
+lutterions	ly-t°-Rj§	lut-te-rions	VER			lutter	0	0.07
+lutterons	ly-t°-R§	lut-te-rons	VER			lutter	0.19	0
+lutteront	ly-t°-R§	lut-te-ront	VER			lutter	0.1	0
+luttes	lyt	lut-tes	NOM	f	p	lutte	1.19	4.46
+luttes	lyt	lut-tes	VER			lutter	0.7	0
+lutteur	ly-t9R	lut-teur	NOM	m	s		0.88	1.62
+lutteurs	ly-t9R	lut-teurs	NOM	m	p	lutteur	0.24	1.08
+lutteuse	ly-t2z	lut-teu-se	NOM	f	s	lutteur	0.14	0.27
+lutteuses	ly-t2z	lut-teu-ses	NOM	f	p	lutteur	0.01	0.81
+luttez	ly-te	lut-tez	VER			lutter	0.92	0.14
+luttiez	ly-tje	lut-tiez	VER			lutter	0.07	0
+luttions	ly-tj§	lut-tions	VER			lutter	0.02	0.27
+luttons	ly-t§	lut-tons	VER			lutter	0.8	0.41
+lutz	lyts		NOM	m			4.52	0.14
+lux	lyks	lux	NOM	m			0.34	0.34
+luxa	lyk-sa	luxa	VER			luxer	0.01	0
+luxation	lyk-sa-sj§	luxa-tion	NOM	f	s		0.37	0.07
+luxations	lyk-sa-sj§	luxa-tions	NOM	f	p	luxation	0.01	0.07
+luxe	lyks	luxe	NOM	m	s		15.42	38.65
+luxe	lyks	luxe	VER			luxer	0.1	0.27
+luxé	lyk-se	luxé	VER	m	s	luxer	0.03	0.07
+luxembourgeois	lyk-s@-buR-Zwa	luxem-bour-geois	ADJ	m			0	0.47
+luxembourgeois	lyk-s@-buR-Zwa	luxem-bour-geois	NOM	m			0	0.2
+luxembourgeoise	lyk-s@-buR-Zwaz	luxem-bour-geoi-se	ADJ	f	s	luxembourgeois	0	0.27
+luxer	lyk-se		VER				0.01	0
+luxes	lyks	luxes	NOM	m	p	luxe	0.2	0.2
+luxueuse	lyk-s82z	luxueu-se	ADJ	f	s	luxueux	0.5	1.82
+luxueusement	lyk-s82-z°-m@	luxueu-se-ment	ADV				0.39	0.81
+luxueuses	lyk-s82z	luxueu-ses	ADJ	f	p	luxueux	0.12	0.95
+luxueux	lyk-s82	luxueux	ADJ	m			1.98	4.66
+luxure	lyk-syR	luxu-re	NOM	f	s		2.92	2.3
+luxuriance	lyk-sy-Rj@s	luxu-rian-ce	NOM	f	s		0.1	0.47
+luxuriant	lyk-sy-Rj@	luxu-riant	ADJ	m	s		0.18	0.34
+luxuriante	lyk-sy-Rj@t	luxu-rian-te	ADJ	f	s	luxuriant	0.17	0.81
+luxuriantes	lyk-sy-Rj@t	luxu-rian-tes	ADJ	f	p	luxuriant	0.04	0.14
+luxuriants	lyk-sy-Rj@	luxu-riants	ADJ	m	p	luxuriant	0.02	0.34
+luxurieuse	lyk-sy-Rj2z	luxu-rieu-se	ADJ	f	s	luxurieux	0.01	0.2
+luxurieux	lyk-sy-Rj2	luxu-rieux	ADJ	m			0.02	0.34
+luzerne	ly-zERn	lu-zer-ne	NOM	f	s		0.44	2.84
+luzernes	ly-zERn	lu-zer-nes	NOM	f	p	luzerne	0	0.2
+luzernières	ly-zER-njER	lu-zer-niè-res	NOM	f	p	luzernière	0	0.07
+lycanthrope	li-k@-tROp	ly-can-th-ro-pe	NOM	m	s		0.09	0
+lycanthropes	li-k@-tROp	ly-can-th-ro-pes	NOM	m	p	lycanthrope	0.01	0
+lycanthropie	li-k@-tRo-pi	ly-can-th-ro-pie	NOM	f	s		0.18	0
+lycaons	li-ka-§	ly-caons	NOM	m	p	lycaon	0	0.07
+lycée	li-se	ly-cée	NOM	m	s		41.96	36.42
+lycéen	li-se-5	ly-céen	NOM	m	s		0.64	1.42
+lycéenne	li-se-En	ly-céen-ne	NOM	f	s	lycéen	0.68	5.95
+lycéennes	li-se-En	ly-céen-nes	NOM	f	p	lycéen	0.41	1.55
+lycéens	li-se-5	ly-céens	NOM	m	p	lycéen	1.81	1.69
+lycées	li-se	ly-cées	NOM	m	p	lycée	0.59	2.36
+lychee	lit-Si	ly-chee	NOM	m	s		0.14	0
+lychees	lit-Si	ly-chees	NOM	m	p	lychee	0.01	0.14
+lychnis	lik-nis	ly-ch-nis	NOM	m			0	0.07
+lycien	li-sj5	ly-cien	NOM	m	s		0	0.07
+lyciennes	li-sjEn	ly-cien-nes	NOM	f	p	lycien	0	0.14
+lycoperdon	li-ko-pER-d§	ly-co-per-don	NOM	m	s		0	0.07
+lycoperdons	li-ko-pER-d§	ly-co-per-dons	NOM	m	p	lycoperdon	0	0.07
+lycra	li-kRa	ly-cra	NOM	m	s		0.28	0.14
+lymphangite	l5-f@-Zit	lym-phan-gi-te	NOM	f	s		0	0.07
+lymphatique	l5-fa-tik	lym-pha-ti-que	ADJ		s		0.44	0.27
+lymphatique	l5-fa-tik	lym-pha-ti-que	NOM	m	s		0	0.07
+lymphatiques	l5-fa-tik	lym-pha-ti-ques	ADJ		p	lymphatique	0.24	0.2
+lymphatisme	l5-fa-tizm	lym-pha-tis-me	NOM	m	s		0	0.07
+lymphe	l5f	lym-phe	NOM	f	s		0.2	0.41
+lymphes	l5f	lym-phes	NOM	f	p	lymphe	0	0.07
+lymphocytaire	l5-fo-si-tER	lym-pho-cy-tai-re	ADJ		s		0.02	0.07
+lymphocytaires	l5-fo-si-tER	lym-pho-cy-tai-res	ADJ		p	lymphocytaire	0	0.07
+lymphocyte	l5-fo-sit	lym-pho-cy-te	NOM	m	s		0.03	0
+lymphocytes	l5-fo-sit	lym-pho-cy-tes	NOM	m	p	lymphocyte	0.14	0.2
+lymphocytose	l5-fO-si-toz		NOM	f	s		0.01	0
+lymphoïde	l5-fO-id		ADJ		s		0.01	0
+lymphome	l5-fom	lym-pho-me	NOM	m	s		0.29	0.07
+lymphomes	l5-fom	lym-pho-mes	NOM	m	p	lymphome	0.01	0
+lymphopénie	l5-fo-pe-ni	lym-pho-pé-nie	NOM	f	s		0	0.07
+lymphosarcome	l5-fo-saR-kom		NOM	m	s		0.01	0
+lynch	l5S	lyn-ch	NOM	m	s		0.29	0.27
+lynchage	l5-SaZ	lyn-cha-ge	NOM	m	s		0.81	0.68
+lynchages	l5-SaZ	lyn-cha-ges	NOM	m	p	lynchage	0.18	0.14
+lynchait	l5-SE	lyn-chait	VER			lyncher	0.01	0.07
+lynché	l5-Se	lyn-ché	VER	m	s	lyncher	0.33	0.14
+lynchée	l5-Se	lyn-chée	VER	f	s	lyncher	0.01	0.07
+lynchent	l5S	lyn-chent	VER			lyncher	0.01	0
+lyncher	l5-Se	lyn-cher	VER				0.58	0.47
+lynchés	l5-Se	lyn-chés	VER	m	p	lyncher	0.05	0.07
+lyncheurs	l5-S9R	lyn-cheurs	NOM	m	p	lyncheur	0.06	0
+lynchez	l5-Se	lyn-chez	VER			lyncher	0.02	0
+lynchiez	l5-Sje	lyn-chiez	VER			lyncher	0.01	0
+lynchons	l5-S§	lyn-chons	VER			lyncher	0.02	0
+lynx	l5ks	lyn-x	NOM	m			1.73	1.22
+lyonnais	ljo-nE	lyon-nais	ADJ	m			0.27	0.81
+lyonnais	ljo-nE	lyon-nais	NOM	m			0	0.14
+lyonnaise	ljo-nEz	lyon-nai-se	ADJ	f	s	lyonnais	0.01	0.2
+lyophilisant	ljo-fi-li-z@	lyo-phi-li-sant	VER			lyophiliser	0.01	0
+lyophilisé	ljO-fi-li-ze		ADJ	m	s		0.06	0
+lyophilisé	ljO-fi-li-ze		VER	m	s	lyophiliser	0.01	0
+lyophilisée	ljo-fi-li-ze	lyo-phi-li-sée	ADJ	f	s	lyophilisé	0.04	0
+lyophiliser	ljo-fi-li-ze	lyo-phi-li-ser	VER				0.05	0
+lyophilisés	ljo-fi-li-ze	lyo-phi-li-sés	ADJ	m	p	lyophilisé	0.04	0.07
+lyre	liR	ly-re	NOM	f	s		0.55	1.15
+lyres	liR	ly-res	NOM	f	p	lyre	0.16	0.27
+lyrique	li-Rik	ly-ri-que	ADJ		s		0.92	4.26
+lyriques	li-Rik	ly-ri-ques	ADJ		p	lyrique	0.03	0.95
+lyriser	li-Ri-ze		VER				0	0.07
+lyrisme	li-Rizm	ly-ris-me	NOM	m	s		0.26	3.11
+lys	lis	lys	NOM	m			2.41	3.38
+lyse	liz		NOM	f	s		0.04	0
+lysergique	li-zER-Zik	ly-ser-gi-que	ADJ	m	s		0.07	0.14
+lysimaque	li-zi-mak		NOM	f	s		0.01	0
+lysine	li-zin	ly-si-ne	NOM	f	s		0.04	0.07
+lysosomes	li-zo-zom	ly-so-so-mes	NOM	m	p	lysosome	0.14	0
